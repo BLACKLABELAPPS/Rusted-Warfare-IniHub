@@ -1,0 +1,49 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "rw-cloud-personal",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-07-27",
+  "observability": {
+    "enabled": false
+  },
+  "vars": {
+    "RW_FREE_MODE": "true",
+    "RW_MAX_STORAGE_BYTES": "8589934592",
+    "RW_MAX_FILE_BYTES": "536870912",
+    "RW_LOCK_LEASE_SECONDS": "45",
+    "RW_SESSION_DAYS": "30",
+    "RW_SCHEMA_VERSION": "3"
+  },
+  "r2_buckets": [
+    {
+      "binding": "RW_BUCKET",
+      "bucket_name": "rw-cloud-personal-files"
+    }
+  ],
+  "durable_objects": {
+    "bindings": [
+      {
+        "name": "RW_ACCOUNT",
+        "class_name": "AccountCoordinator"
+      },
+      {
+        "name": "RW_PROJECTS",
+        "class_name": "ProjectCoordinator"
+      }
+    ]
+  },
+  "migrations": [
+    {
+      "tag": "v1",
+      "new_sqlite_classes": [
+        "AccountCoordinator",
+        "ProjectCoordinator"
+      ]
+    }
+  ],
+  "secrets": {
+    "required": [
+      "RW_BOOTSTRAP_SECRET"
+    ]
+  }
+}
