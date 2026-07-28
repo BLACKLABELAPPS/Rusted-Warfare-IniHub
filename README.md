@@ -1,5 +1,3 @@
-Here is a professional, high-converting, and feature-rich README.md written in English for your repository. It includes all your technical specifications and a comprehensive list of Rusted Warfare modding and mapping file types.
-------------------------------
 ## 🌌 IniHub Repository for Rusted Warfare Modding & Mapping
 IniHub is a high-performance, secure, and self-hosted backend infrastructure tailored specifically for Rusted Warfare (RW) developers, modders, and mappers. Built on top of Cloudflare Workers, R2 Storage, and Durable Objects, IniHub acts as a private or collaborative cloud storage hub. It allows you to seamlessly upload, store, organize, and sync every type of asset used in Rusted Warfare development.
 Developed as a personal and collaborative backend for RW Studio, IniHub guarantees absolute data ownership. You deploy it within your own Cloudflare account. RW Studio never receives your credentials, API keys, or master secrets.
