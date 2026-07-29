@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T17:03:21.741391Z",
+  "updatedAt": "2026-07-29T17:04:30.651873Z",
   "items": [
     {
       "id": "largebuilding-hkunzj7t85",
@@ -15,15 +15,15 @@
       "reportCount": 0,
       "votes": 0,
       "createdAt": "2026-07-29T17:03:21.739245Z",
-      "updatedAt": "2026-07-29T17:03:21.739245Z",
-      "verified": false,
+      "updatedAt": "2026-07-29T17:04:30.651844Z",
+      "verified": true,
       "experimental": true,
       "fileExtension": "template",
       "sourceUrl": "https://github.com/BLACKLABELAPPS/Rusted-Warfare-IniHub/",
       "detailUrl": "https://raw.githubusercontent.com/BLACKLABELAPPS/Rusted-Warfare-IniHub/main/items/largebuilding-hkunzj7t85/item.json",
       "detailPath": "items/largebuilding-hkunzj7t85/item.json",
       "searchText": "core class price maxhp armour mass explodetypeondeath numbitsondeath maxtransportingunits transportunitsrequiretag footprint constructionfootprint radius isbio isbuilding isunselectable isunselectableastarget stayneutral resourcerate reclaimprice resourcemaxconcurrentreclaimingthis whileneutraltransportanyteam whileneutralconverttotransportedteam converttoneutralifnottransporting hiddenaction_spawn_civilian ai_isdisabled autotriggeronevent spawnunits buildspeed ai notpassivelytargetedbyotherunits graphics image_shadow shadowoffsetx shadowoffsety showhealthbar attack canattack movement movementtype movespeed maxturnspeed attachment_1 x y canbeattackedanddamaged deattachifwantingtomove isvisible addtransportedunits idledir rotatewithparent lockrotation keepalivewhenparentdies alwaysallowedtoattackparentsmaintarget setdrawlayerontop attachment_2 attachment_3 attachment_4 attachment_5 attachment_6 attachment_7 attachment_8 attachment_soldier9 resetrotationwhennotattacking height attachment_soldier10 attachment_soldier11 attachment_soldier12",
-      "status": "pending"
+      "status": "published"
     }
   ],
   "reports": [],
