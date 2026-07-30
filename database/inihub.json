@@ -1,7 +1,239 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T01:21:14.827319Z",
-  "items": [],
+  "updatedAt": "2026-07-30T11:27:55.381183Z",
+  "items": [
+    {
+      "id": "bundled-tank_starter",
+      "title": "Community tank starter",
+      "description": "Starter unit with body, turret, projectile and movement sections.",
+      "author": "RWstudio community",
+      "section": "unit",
+      "code": "[core]\nname: customTank\ndisplayDescription: -Test 1\\n-Test 2\nisBio: false\nisBuilding: false\nhideScorchMark: false\nfogOfWarSightRange: 10\nmass: 50000\nprice: 500\ntechLevel: 1\nradius: 10\ndisplayRadius: 10\nmaxHp: 100\narmour: 5\nbuildSpeed: 10s\nselfRegenRate: 0\nexperimental: false\nnumBitsOnDeath: 10\ntransportUnitsKeepWaypoints: true\n\n[graphics]\ntotal_frames: 1\nanimation_moving_start: 0\nanimation_moving_end: 0\nanimation_moving_speed: 0\nimage: tank_body.png\nimage_wreak: tank_wreak.png\nimage_turret: tank_turret.png\nimageScale: 1\nteamColorsOnTurret: true\nimage_shadow: AUTO\nshadowOffsetX: 3\nshadowOffsetY: 3\nmovementEffectRate: 8\ndustEffect: true\nicon_zoomed_out: tank_icon.png\n\n[attack]\ncanAttack: true\ncanAttackFlyingUnits: false\ncanAttackLandUnits: true\ncanAttackUnderwaterUnits: false\nmaxAttackRange: 300\nturretMultiTargeting: true\n\n[turret_cannon]\nimage: tank_turret.png\nx: 0\ny: 0\nprojectile: 1\nattachedTo: base\nshoot_sound: tank_firing\nshoot_sound_vol: 1\nshoot_light: #FFFFFF\nslave: true\ndelay: 1s\nrecoilOffset: -1\nrecoilOutTime: 1\nrecoilReturnTime: 1\ncanShoot: true\ncanAttackLandUnits: true\ncanAttackFlyingUnits: false\ncanAttackUnderwaterUnits: false\n\n[turret_base]\nimage: tank_turret.png\nx: 0\ny: 0\ncanShoot: false\nshouldResetTurret: true\nturnSpeedAcceleration: 0.2\nturnSpeed: 0.5\ncanAttackLandUnits: true\ncanAttackFlyingUnits: false\ncanAttackUnderwaterUnits: false\nidleDir: 0\nidleDirReversing: 0\n\n[projectile_1]\nimage: tank_projectile.png\nlife: 350\ndirectDamage: 100\nareaDamage: 20\nareaRadius: 10\nspeed: 10\ntrailEffect: false\nlightColor: #FFFFFF\nlightSize: 0.5\ndrawSize: 1\nlightCastOnGround: true\nareaRadiusFromEdge: true\ndeflectionPower: 1\n\n[movement]\nmovementType: LAND\nmoveSpeed: 0.8\nmoveAccelerationSpeed: 0.08\nmoveDecelerationSpeed: 0.12\nreverseSpeedPercentage: 0.65\nturnAcceleration: 0.2\nmaxTurnSpeed: 1.5\n",
+      "tags": [
+        "units"
+      ],
+      "assets": [],
+      "assetCount": 0,
+      "reportCount": 0,
+      "votes": 0,
+      "verified": true,
+      "experimental": false,
+      "fileExtension": "ini",
+      "status": "bundled"
+    },
+    {
+      "id": "bundled-community_hidden_keys",
+      "title": "Community-reported hidden keys",
+      "description": "Undocumented or version-dependent keys reported by modders.",
+      "author": "RWstudio community",
+      "section": "code",
+      "code": "# Community-reported; verify each key in the target game version.\n\n[effect_example]\nanimateFrameStartRandomAdd: 2\ndelayedStartTimerRandom: 30\n\n[action_example]\nbuildSpeed_ignoreFactorySpeedModifiers: 1\nextraLagHidingInUI: 1\n\n[movement]\nignoreMoveOrders: 1\n\n[graphics]\nimage_back_always_use_full_image: 1\nturretImageScale: 0.8\n\n[attack]\nsetMainTurretAs: 6\n\n[projectile_example]\nshadowFrame: 10\nturnSpeedWhenNear: 360\n\n[core]\ntransportUnitsKeepWaypoints: true\n\n[ai]\nuseAsAttacker: 1\n",
+      "tags": [
+        "experimental"
+      ],
+      "assets": [],
+      "assetCount": 0,
+      "reportCount": 0,
+      "votes": 0,
+      "verified": false,
+      "experimental": true,
+      "fileExtension": "ini",
+      "status": "bundled"
+    },
+    {
+      "id": "bundled-range_message",
+      "title": "Send a message to units in range",
+      "description": "Uses takeResources iteration and thisActionTarget to message nearby units.",
+      "author": "RWstudio community",
+      "section": "action",
+      "code": "takeResources_includeUnitsWithinRange: 300\ntakeResources_includeUnitsWithinRange_team: enemy\ntakeResources_maxUnits: 9999\ntakeResources_triggerActionForEach: realJammer\n\n[action_realJammer]\nsendMessageTo: unitref thisActionTarget\n",
+      "tags": [
+        "actions"
+      ],
+      "assets": [],
+      "assetCount": 0,
+      "reportCount": 0,
+      "votes": 0,
+      "verified": true,
+      "experimental": false,
+      "fileExtension": "ini",
+      "status": "bundled"
+    },
+    {
+      "id": "bundled-income_multiplier_detector",
+      "title": "Income multiplier detector",
+      "description": "Community mechanism that estimates the current credits multiplier.",
+      "author": "RWstudio community",
+      "section": "logic",
+      "code": "[core]\nname: NotEk_multiplier_calc\nmaxHp: 0\nprice: 0\nmass: 0\nradius: 0\nisUnselectable: 1\ncanNotBeDirectlyAttacked: 1\ncanNotBeDamaged: 1\nshowOnMinimap: 0\nshowOnMinimapToEnemies: 0\nshowInEditor: 0\nhideScorchMark: 1\nexplodeOnDeath: 0\ndisableDeathOnZeroHp: 1\ndisableAllUnitCollisions: 1\nonNewMapSpawn: mapCenter_asNeutral\ngeneration_resources: credits=1,setFlag=24\ngeneration_active: if self.hasFlag(id=23)and not self.hasFlag(id=24)\ntags: NotEk_multiplier_calc\ndefineUnitMemory: float firstCreditsCheck, float creditDelta\n\n[hiddenAction_calc1]\nautoTriggerOnEvent: created\nsetUnitMemory: firstCreditsCheck=self.resource.credits\naddResources: setFlag=23\n\n[hiddenAction_calc2]\nautoTrigger: if self.hasFlag(id=24)and not self.hasFlag(id=25)\nsetUnitMemory: creditDelta=self.resource.credits-memory.firstCreditsCheck\naddResources: setFlag=25\n\n# Example use:\n# [hiddenAction_addIncome]\n# autoTrigger: <condition>\n# buildSpeed: 0s\n# addResourcesWithLogic: credits=max(globalSearchForFirstUnit(withTag=\"NotEk_multiplier_calc\",relation=\"any\").readUnitMemory(name=\"creditDelta\",type=\"float\"),1)\n",
+      "tags": [
+        "logic",
+        "experimental"
+      ],
+      "assets": [],
+      "assetCount": 0,
+      "reportCount": 0,
+      "votes": 0,
+      "verified": false,
+      "experimental": true,
+      "fileExtension": "ini",
+      "status": "bundled"
+    },
+    {
+      "id": "bundled-editor_detection",
+      "title": "Detect the map editor",
+      "description": "LogicBoolean expressions for detecting the editorOrBuilder marker.",
+      "author": "RWstudio community",
+      "section": "logic",
+      "code": "# Choose one expression and remove the leading #.\n# True when running inside the map editor:\n# isVisible: if substring(str(createMarker(x=-1000,y=-1000).nearestUnit),0,15) == \"editorOrBuilder\"\n\n# True when NOT running inside the map editor:\n# isVisible: if substring(str(createMarker(x=-1000,y=-1000).nearestUnit),0,15) != \"editorOrBuilder\"\n",
+      "tags": [
+        "logic",
+        "experimental"
+      ],
+      "assets": [],
+      "assetCount": 0,
+      "reportCount": 0,
+      "votes": 0,
+      "verified": false,
+      "experimental": true,
+      "fileExtension": "ini",
+      "status": "bundled"
+    },
+    {
+      "id": "bundled-flying_shadow",
+      "title": "Realistic flying-unit shadow",
+      "description": "Height-dependent decal placement for an aircraft body shadow.",
+      "author": "RWstudio community",
+      "section": "effect",
+      "code": "[decal_bodyShadow]\norder: 9\nlayer: shadow\nalpha: 0.5\nimage: SHADOW:body.png\nbasePosition: self\nxOffsetAbsolute: 2*(self.height/5)\nyOffsetAbsolute: 5*(self.height/2.5)\n",
+      "tags": [
+        "visual-effects"
+      ],
+      "assets": [],
+      "assetCount": 0,
+      "reportCount": 0,
+      "votes": 0,
+      "verified": true,
+      "experimental": false,
+      "fileExtension": "ini",
+      "status": "bundled"
+    },
+    {
+      "id": "bundled-dynamic_class_tags",
+      "title": "Autonomous dynamic unit-class tags",
+      "description": "Adds AirUnit, LandUnit or UnderwaterUnit tags from unit height.",
+      "author": "RWstudio community",
+      "section": "logic",
+      "code": "# Community example; reported as not tested in-game.\n[hiddenAction_Settings]\n@global airBL: AirBlacklisted, etc\n@global landBL: LandBlacklisted, etc\n@global underwaterBL: UnderwaterBlacklisted, etc\n\n[hiddenAction_setTags_Air]\nautoTrigger:\"\"\"\nif self.height >= 10\nand not self.tags(includes='AirUnit')\n\"\"\"\ntemporarilyAddTags: AirUnit\ntemporarilyRemoveTags: LandUnit, UnderwaterUnit\n\n[hiddenAction_setTags_Air_Blacklisted]\nautoTrigger: if self.tags(includes='${airBL}')\ntemporarilyRemoveTags: AirUnit\n\n[hiddenAction_setTags_Land]\nautoTrigger:\"\"\"\nif self.height >= 0\nand self.height <= 10\nand not self.tags(includes='LandUnit')\n\"\"\"\ntemporarilyAddTags: LandUnit\ntemporarilyRemoveTags: AirUnit, UnderwaterUnit\n\n[hiddenAction_setTags_Land_Blacklisted]\nautoTrigger: if self.tags(includes='${landBL}')\ntemporarilyRemoveTags: LandUnit\n\n[hiddenAction_setTags_Underwater]\nautoTrigger:\"\"\"\nif self.height <= 0\nand not self.tags(includes='UnderwaterUnit')\n\"\"\"\ntemporarilyAddTags: UnderwaterUnit\ntemporarilyRemoveTags: LandUnit, AirUnit\n\n[hiddenAction_setTags_Underwater_Blacklisted]\nautoTrigger: if self.tags(includes='${underwaterBL}')\ntemporarilyRemoveTags: UnderwaterUnit\n",
+      "tags": [
+        "logic",
+        "experimental"
+      ],
+      "assets": [],
+      "assetCount": 0,
+      "reportCount": 0,
+      "votes": 0,
+      "verified": false,
+      "experimental": true,
+      "fileExtension": "ini",
+      "status": "bundled"
+    },
+    {
+      "id": "bundled-action_icon_layers",
+      "title": "Layered action icons",
+      "description": "Example of iconImage, iconExtraImage, iconExtraColor and unitShownInUI.",
+      "author": "RWstudio community",
+      "section": "ui",
+      "code": "[action_iconExample]\ntext: Layered icon\niconImage: icon_base.png\niconExtraImage: icon_overlay_white.png\niconExtraColor: #FF4040\nunitShownInUI: unitref self\nunitShownInUIWithHPBar: false\nunitShownInUIWithProgressBar: false\n\n# iconExtraImage should be pure white when tinting with iconExtraColor.\n",
+      "tags": [
+        "ui"
+      ],
+      "assets": [],
+      "assetCount": 0,
+      "reportCount": 0,
+      "votes": 0,
+      "verified": true,
+      "experimental": false,
+      "fileExtension": "ini",
+      "status": "bundled"
+    },
+    {
+      "id": "bundled-scrolling_image_decal",
+      "title": "Scrolling image decal",
+      "description": "Scrolls a visible window through a vertically stacked source image.",
+      "author": "RWstudio community",
+      "section": "effect",
+      "code": "[decal_credits]\nlayer: beforeUI\n@define image_height: 560\n@define scroll_speed: 30\n@define visible_height: 50\nframe_width: 352\nimageStack: ROOT:UI\\credits.png*${image_height}\nframe_height: 1\nyOffsetAbsolute: 0-((self.timeAlive*${scroll_speed}) % ${image_height})\nxOffsetAbsolute: 500\nstack_indexStart: min(${image_height},max(0,((self.timeAlive*${scroll_speed}) % ${image_height})-${visible_height}))\nstack_indexCount: min(${visible_height},((self.timeAlive*${scroll_speed}) % ${image_height}))\nstack_drawInReverseOrder: false\nalwaysStartDirAtZero: true\nstack_hOffset: -1\nstack_frameOffset: 1\n",
+      "tags": [
+        "visual-effects"
+      ],
+      "assets": [],
+      "assetCount": 0,
+      "reportCount": 0,
+      "votes": 0,
+      "verified": true,
+      "experimental": false,
+      "fileExtension": "ini",
+      "status": "bundled"
+    },
+    {
+      "id": "bundled-plane_trails",
+      "title": "Plane flame and smoke trails",
+      "description": "Four effects for paired flame and smoke trails.",
+      "author": "RWstudio community",
+      "section": "effect",
+      "code": "[effect_EFtrail]\npriority: low\nimage: deco8.png\nlife: 10\nfadeOut: true\nattachedToUnit: false\nshadow: false\nfadeInTime: 0.5\nscaleFrom: 0.9\nscaleTo: 0.6\nalpha: 0.70\ndrawUnderUnits: true\nliveAfterAttachedDies: true\nyOffsetRelative: -32\nxOffsetRelative: -10\n\n[effect_EFtrail2]\npriority: low\nimage: deco8.png\nlife: 10\nfadeOut: true\nattachedToUnit: false\nshadow: false\nfadeInTime: 0.5\nscaleFrom: 0.9\nscaleTo: 0.6\nalpha: 0.70\ndrawUnderUnits: true\nliveAfterAttachedDies: true\nyOffsetRelative: -32\nxOffsetRelative: 10\n\n[effect_Etrail]\npriority: low\nimage: deco9.png\nlife: 60\nfadeOut: true\nattachedToUnit: false\nshadow: false\nfadeInTime: 1.6\nscaleFrom: 1.6\nscaleTo: 0.7\nalpha: 0.35\ndrawUnderUnits: true\nliveAfterAttachedDies: true\nyOffsetRelative: -28\nxOffsetRelative: -10\n\n[effect_Etrail2]\npriority: low\nimage: deco9.png\nlife: 60\nfadeOut: true\nattachedToUnit: false\nshadow: false\nfadeInTime: 1.6\nscaleFrom: 1.6\nscaleTo: 0.7\nalpha: 0.35\ndrawUnderUnits: true\nliveAfterAttachedDies: true\nyOffsetRelative: -28\nxOffsetRelative: 10\n",
+      "tags": [
+        "visual-effects"
+      ],
+      "assets": [],
+      "assetCount": 0,
+      "reportCount": 0,
+      "votes": 0,
+      "verified": true,
+      "experimental": false,
+      "fileExtension": "ini",
+      "status": "bundled"
+    },
+    {
+      "id": "bundled-turret_popoff",
+      "title": "Turret pop-off on death",
+      "description": "Spawns a physical turret wreck effect when the unit dies.",
+      "author": "RWstudio community",
+      "section": "effect",
+      "code": "[core]\neffectOnDeath: CUSTOM:turretFly\n\n[effect_turretFly]\nlife: 10000\nimage: 2 turret wreak.png\nphysics: true\nhOffsetRandom: 1.8\nhSpeedRandom: 3\ndirOffsetRandom: 5\ndirSpeedRandom: 10\nshadow: true\nimageShadow: SHADOW:2 turret wreak.png\n",
+      "tags": [
+        "visual-effects"
+      ],
+      "assets": [],
+      "assetCount": 0,
+      "reportCount": 0,
+      "votes": 0,
+      "verified": true,
+      "experimental": false,
+      "fileExtension": "ini",
+      "status": "bundled"
+    },
+    {
+      "id": "bundled-track_marks",
+      "title": "Tank track marks",
+      "description": "Paired movement effects for left and right tracks.",
+      "author": "RWstudio community",
+      "section": "effect",
+      "code": "[graphics]\nmovementEffect: CUSTOM:trackMark, CUSTOM:trackMark2\nmovementEffectReverse: CUSTOM:trackMark, CUSTOM:trackMark2\n\n[effect_trackMark]\nlife: 225\nimage: track_mark.png\nfadeOut: true\ndrawUnderUnits: true\nattachedToUnit: false\nxOffsetRelative: 5\nyOffsetRelative: 0\n\n[effect_trackMark2]\nlife: 225\nimage: track_mark.png\nfadeOut: true\ndrawUnderUnits: true\nattachedToUnit: false\nxOffsetRelative: -5\nyOffsetRelative: 0\n",
+      "tags": [
+        "visual-effects"
+      ],
+      "assets": [],
+      "assetCount": 0,
+      "reportCount": 0,
+      "votes": 0,
+      "verified": true,
+      "experimental": false,
+      "fileExtension": "ini",
+      "status": "bundled"
+    }
+  ],
   "reports": [],
   "voters": {}
 }
