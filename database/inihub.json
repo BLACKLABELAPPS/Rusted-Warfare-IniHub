@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T01:18:22.402792Z",
+  "updatedAt": "2026-07-30T01:18:57.697671Z",
   "items": [
     {
       "id": "largebuilding-hkunzj7t85",
@@ -36,15 +36,15 @@
       "reportCount": 0,
       "votes": 0,
       "createdAt": "2026-07-30T01:18:22.402557Z",
-      "updatedAt": "2026-07-30T01:18:22.402557Z",
-      "verified": false,
+      "updatedAt": "2026-07-30T01:18:57.697659Z",
+      "verified": true,
       "experimental": false,
       "fileExtension": "ini",
       "sourceUrl": "https://github.com/BLACKLABELAPPS/Rusted-Warfare-IniHub/",
       "detailUrl": "https://raw.githubusercontent.com/BLACKLABELAPPS/Rusted-Warfare-IniHub/main/items/police-car-2-hkv1mozuan/item.json",
       "detailPath": "items/police-car-2-hkv1mozuan/item.json",
       "searchText": "image",
-      "status": "pending"
+      "status": "published"
     }
   ],
   "reports": [],
