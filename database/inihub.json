@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T01:20:06.316614Z",
+  "updatedAt": "2026-07-30T01:21:04.100197Z",
   "items": [
     {
       "id": "largebuilding-hkunzj7t85",
@@ -13,9 +13,9 @@
       ],
       "assetCount": 0,
       "reportCount": 0,
-      "votes": 0,
+      "votes": 1,
       "createdAt": "2026-07-29T17:03:21.739245Z",
-      "updatedAt": "2026-07-29T17:05:12.988985Z",
+      "updatedAt": "2026-07-30T01:21:04.100182Z",
       "verified": true,
       "experimental": true,
       "fileExtension": "template",
@@ -27,5 +27,9 @@
     }
   ],
   "reports": [],
-  "voters": {}
+  "voters": {
+    "largebuilding-hkunzj7t85": {
+      "rwstudio-hkv1mlavvb": 1
+    }
+  }
 }
