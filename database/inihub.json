@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T17:05:12.989238Z",
+  "updatedAt": "2026-07-30T01:18:22.402792Z",
   "items": [
     {
       "id": "largebuilding-hkunzj7t85",
@@ -24,6 +24,27 @@
       "detailPath": "items/largebuilding-hkunzj7t85/item.json",
       "searchText": "core class price maxhp armour mass explodetypeondeath numbitsondeath maxtransportingunits transportunitsrequiretag footprint constructionfootprint radius isbio isbuilding isunselectable isunselectableastarget stayneutral resourcerate reclaimprice resourcemaxconcurrentreclaimingthis whileneutraltransportanyteam whileneutralconverttotransportedteam converttoneutralifnottransporting hiddenaction_spawn_civilian ai_isdisabled autotriggeronevent spawnunits buildspeed ai notpassivelytargetedbyotherunits graphics image_shadow shadowoffsetx shadowoffsety showhealthbar attack canattack movement movementtype movespeed maxturnspeed attachment_1 x y canbeattackedanddamaged deattachifwantingtomove isvisible addtransportedunits idledir rotatewithparent lockrotation keepalivewhenparentdies alwaysallowedtoattackparentsmaintarget setdrawlayerontop attachment_2 attachment_3 attachment_4 attachment_5 attachment_6 attachment_7 attachment_8 attachment_soldier9 resetrotationwhennotattacking height attachment_soldier10 attachment_soldier11 attachment_soldier12",
       "status": "published"
+    },
+    {
+      "id": "police-car-2-hkv1mozuan",
+      "title": "Police Car 2",
+      "description": "",
+      "author": "reik",
+      "section": "graphics",
+      "tags": [],
+      "assetCount": 1,
+      "reportCount": 0,
+      "votes": 0,
+      "createdAt": "2026-07-30T01:18:22.402557Z",
+      "updatedAt": "2026-07-30T01:18:22.402557Z",
+      "verified": false,
+      "experimental": false,
+      "fileExtension": "ini",
+      "sourceUrl": "https://github.com/BLACKLABELAPPS/Rusted-Warfare-IniHub/",
+      "detailUrl": "https://raw.githubusercontent.com/BLACKLABELAPPS/Rusted-Warfare-IniHub/main/items/police-car-2-hkv1mozuan/item.json",
+      "detailPath": "items/police-car-2-hkv1mozuan/item.json",
+      "searchText": "image",
+      "status": "pending"
     }
   ],
   "reports": [],
