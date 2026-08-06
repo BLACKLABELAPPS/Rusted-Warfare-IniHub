@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-06T10:48:40.714209Z",
+  "updatedAt": "2026-08-06T13:40:07.566727Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -31,7 +31,31 @@
   },
   "posts": [],
   "favorites": {},
-  "tournaments": [],
+  "tournaments": [
+    {
+      "id": "rw-hl3bx21ltw-6xdkk",
+      "name": "test1 tournament",
+      "description": "test",
+      "owner_username": "ReikRtS",
+      "owner_username_lower": "reikrts",
+      "created_by": "ReikRtS",
+      "mode": "single",
+      "status": "open",
+      "max_participants": 8,
+      "start_datetime": "2026-08-06T13:40:00.000Z",
+      "start_at": "2026-08-06T13:40:00.000Z",
+      "participants": [
+        {
+          "username": "ReikRtS",
+          "username_lower": "reikrts",
+          "avatar_code": "B369-T46-W16-R18-L2-N18-U0-X34-F13-C0",
+          "joined_at": "2026-08-06T13:40:07.335734Z"
+        }
+      ],
+      "created_at": "2026-08-06T13:40:07.335620Z",
+      "updated_at": "2026-08-06T13:40:07.335620Z"
+    }
+  ],
   "tournamentProfiles": {
     "reikrts": {
       "username": "ReikRtS",
