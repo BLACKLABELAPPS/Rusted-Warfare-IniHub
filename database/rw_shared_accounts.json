@@ -1,9 +1,35 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-06T03:30:00Z",
-  "accounts": {},
+  "updatedAt": "2026-08-06T10:46:16.045744Z",
+  "accounts": {
+    "reikrts": {
+      "username": "ReikRtS",
+      "usernameLower": "reikrts",
+      "passwordSalt": "xdVOpdTCrXeQC9pyQcmWGrGu9DqGjcmF",
+      "passwordHash": "4acc1f80936e5ecc6c46749243880a603b24764e3a70a5cdf7d1a80b45c7ad25",
+      "avatarCode": "B369-T46-W16-R18-L2-N18-U0-X34-F13-C0",
+      "collectionId": "",
+      "collectionTitle": "ReikRtS",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-06T10:46:16.045701Z",
+      "updatedAt": "2026-08-06T10:46:16.045714Z"
+    }
+  },
   "posts": [],
   "favorites": {},
   "tournaments": [],
-  "tournamentProfiles": {}
+  "tournamentProfiles": {
+    "reikrts": {
+      "username": "ReikRtS",
+      "avatar_code": "B369-T46-W16-R18-L2-N18-U0-X34-F13-C0",
+      "joined_at": "2026-08-06T10:46:16.045701Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    }
+  }
 }
