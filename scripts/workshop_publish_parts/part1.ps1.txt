@@ -1,0 +1,220 @@
+param(
+  [Parameter(Mandatory = $true)]
+  [string]$ContentUrl,
+
+  [Parameter(Mandatory = $true)]
+  [string]$Title,
+
+  [Parameter(Mandatory = $false)]
+  [string]$Description = "",
+
+  [Parameter(Mandatory = $false)]
+  [string]$ChangeNote = "",
+
+  [Parameter(Mandatory = $false)]
+  [string]$PreviewImageUrl = "",
+
+  [Parameter(Mandatory = $false)]
+  [string]$Category = "maps",
+
+  [Parameter(Mandatory = $false)]
+  [string]$WorkshopTag = "Maps",
+
+  [Parameter(Mandatory = $false)]
+  [string]$ModTag = "maps",
+
+  [Parameter(Mandatory = $false)]
+  [string]$PlatformTargets = "windows",
+
+  [Parameter(Mandatory = $false)]
+  [string]$AppId = "647960",
+
+  [Parameter(Mandatory = $false)]
+  [string]$PublishedFileId = "",
+
+  [Parameter(Mandatory = $false)]
+  [ValidateSet("0", "1", "2", "3")]
+  [string]$Visibility = "0",
+
+  [Parameter(Mandatory = $false)]
+  [string]$MinVersion = "1.15",
+
+  [Parameter(Mandatory = $false)]
+  [string]$SteamUsername = "",
+
+  [Parameter(Mandatory = $false)]
+  [string]$SteamPassword = "",
+
+  [Parameter(Mandatory = $false)]
+  [string]$SteamGuardCode = "",
+
+  [Parameter(Mandatory = $false)]
+  [string]$SteamConfigVdfBase64 = "",
+
+  [Parameter(Mandatory = $false)]
+  [string]$SteamLocalConfigVdfBase64 = "",
+
+  [Parameter(Mandatory = $false)]
+  [string]$SteamUserDataId = "",
+
+  [Parameter(Mandatory = $false)]
+  [string]$SteamSsfnFileName = "",
+
+  [Parameter(Mandatory = $false)]
+  [string]$SteamSsfnFileContentsBase64 = "",
+
+  [Parameter(Mandatory = $false)]
+  [string]$StorageConfigsJson = "",
+
+  [Parameter(Mandatory = $false)]
+  [string]$WorkflowRepoConfigsJson = "",
+
+  [Parameter(Mandatory = $false)]
+  [string]$OutputDir = "publish_output"
+)
+
+$ErrorActionPreference = "Stop"
+
+function Write-Step([string]$Message) {
+  Write-Host "[workshop-publish] $Message"
+}
+
+function Set-GitHubOutput {
+  param(
+    [Parameter(Mandatory = $true)][string]$Name,
+    [Parameter(Mandatory = $true)][string]$Value
+  )
+
+  if (-not $env:GITHUB_OUTPUT) {
+    return
+  }
+  Add-Content -Path $env:GITHUB_OUTPUT -Value "$Name=$Value"
+}
+
+function Resolve-InputOrEnv {
+  param(
+    [string]$Value,
+    [string]$EnvName
+  )
+  if (-not [string]::IsNullOrWhiteSpace($Value)) {
+    return $Value
+  }
+  return [string](Get-Item -Path "Env:$EnvName" -ErrorAction SilentlyContinue).Value
+}
+
+function Normalize-SingleLine {
+  param(
+    [string]$Value,
+    [int]$Max = 120
+  )
+  $text = [string]$Value
+  $text = $text -replace "[`r`n`t]+", " "
+  $text = $text -replace "\s+", " "
+  $text = $text.Trim()
+  if ($text.Length -gt $Max) {
+    $text = $text.Substring(0, $Max).Trim()
+  }
+  return $text
+}
+
+function Normalize-MultiLine {
+  param(
+    [string]$Value,
+    [int]$Max = 6000
+  )
+  $text = [string]$Value
+  for ($i = 0; $i -lt 6; $i += 1) {
+    $previous = $text
+    $text = $text -replace "\\\\r\\\\n", "`n"
+    $text = $text -replace "\\\\n", "`n"
+    $text = $text -replace "\\\\r", "`n"
+    $text = $text -replace "\\r\\n", "`n"
+    $text = $text -replace "\\n", "`n"
+    $text = $text -replace "\\r", "`n"
+    $slashWithLf = "\" + "`n"
+    $slashWithCr = "\" + "`r"
+    $text = $text.Replace($slashWithLf, "`n").Replace($slashWithCr, "`n")
+    if ($text -ceq $previous) {
+      break
+    }
+  }
+  $text = $text -replace "`r`n", "`n"
+  $text = $text -replace "`r", "`n"
+  $text = $text -replace "\u0000", ""
+  $text = $text.Trim()
+  if ($text.Length -gt $Max) {
+    $text = $text.Substring(0, $Max).Trim()
+  }
+  return $text
+}
+
+function Resolve-CanonicalWorkshopTag {
+  param(
+    [string]$CategoryValue,
+    [string]$WorkshopTagValue
+  )
+
+  $category = ([string]$CategoryValue).Trim().ToLowerInvariant()
+  $rawTag = Normalize-SingleLine -Value $WorkshopTagValue -Max 80
+  $rawTagLower = $rawTag.ToLowerInvariant()
+
+  if ($category -eq "units") {
+    return "units"
+  }
+  if (
+    $category -eq "total_conversion" -or
+    $category -eq "total conversion" -or
+    $category -eq "totalconvertion" -or
+    $category -eq "total convertion" -or
+    $category -eq "tc"
+  ) {
+    return "total conversion"
+  }
+  if ($category -eq "maps" -or $category -eq "map") {
+    return "maps"
+  }
+
+  if ($rawTagLower.Contains("unit") -or $rawTagLower.Contains("addon")) {
+    return "units"
+  }
+  if ($rawTagLower.Contains("total")) {
+    return "total conversion"
+  }
+  if ($rawTagLower.Contains("map")) {
+    return "maps"
+  }
+
+  if (-not [string]::IsNullOrWhiteSpace($rawTag)) {
+    return $rawTag
+  }
+  return "maps"
+}
+
+function Build-WorkshopVdfTags {
+  param(
+    [string]$CategoryValue,
+    [string]$WorkshopTagValue,
+    [string]$ModTagValue
+  )
+
+  $selected = Resolve-CanonicalWorkshopTag `
+    -CategoryValue $CategoryValue `
+    -WorkshopTagValue $WorkshopTagValue
+
+  $tags = New-Object System.Collections.Generic.List[string]
+  $seenTags = New-Object 'System.Collections.Generic.HashSet[string]' ([System.StringComparer]::OrdinalIgnoreCase)
+
+  # Product rule: use only the category selected in Upload UI.
+  if ($seenTags.Add($selected)) {
+    $tags.Add($selected) | Out-Null
+  }
+
+  $rawExtras = [string]$ModTagValue
+  $splitExtras = $rawExtras -split "[,;`r`n]+"
+  foreach ($entry in $splitExtras) {
+    $candidate = Normalize-SingleLine -Value $entry -Max 60
+    if ([string]::IsNullOrWhiteSpace($candidate)) { continue }
+    $normalizedCandidate = Resolve-CanonicalWorkshopTag `
+      -CategoryValue $candidate `
+      -WorkshopTagValue $candidate
+    if ([string]::IsNullOrWhiteSpace($normalizedCandidate)) { continue }
