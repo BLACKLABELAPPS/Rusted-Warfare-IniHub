@@ -1,0 +1,220 @@
+      throw "STEAM_USERDATA_ID is required when using STEAM_LOCALCONFIG_VDF."
+    }
+    if ($safeUserDataId -notmatch "^\d+$") {
+      throw "Invalid STEAM_USERDATA_ID. Expected numeric SteamID3 folder."
+    }
+    $localConfigDir = Join-Path (Join-Path (Join-Path $SteamRoot "userdata") $safeUserDataId) "config"
+    if (-not (Test-Path -LiteralPath $localConfigDir)) {
+      New-Item -ItemType Directory -Path $localConfigDir -Force | Out-Null
+    }
+    $localConfigBytes = [Convert]::FromBase64String($LocalConfigBase64)
+    [IO.File]::WriteAllBytes((Join-Path $localConfigDir "localconfig.vdf"), $localConfigBytes)
+    $restoredAny = $true
+    Write-Step "Restored userdata/$safeUserDataId/config/localconfig.vdf session file."
+  }
+
+  if (-not $restoredAny) {
+    throw "No session file provided. Set STEAM_CONFIG_VDF or STEAM_LOCALCONFIG_VDF."
+  }
+
+  $safeSsfnName = [IO.Path]::GetFileName([string]$SsfnName)
+  $safeSsfnBase64 = [string]$SsfnBase64
+  if ([string]::IsNullOrWhiteSpace($safeSsfnName) -or [string]::IsNullOrWhiteSpace($safeSsfnBase64)) {
+    Write-Step "SSFN file not provided. Continuing with session file(s) only."
+    return
+  }
+  if (-not $safeSsfnName.ToLowerInvariant().StartsWith("ssfn")) {
+    throw "Invalid STEAM_SSFN_FILE_NAME value"
+  }
+
+  $ssfnBytes = [Convert]::FromBase64String($safeSsfnBase64)
+  [IO.File]::WriteAllBytes((Join-Path $SteamRoot $safeSsfnName), $ssfnBytes)
+}
+
+$SteamUsername = Resolve-InputOrEnv -Value $SteamUsername -EnvName "STEAM_USERNAME"
+$SteamPassword = Resolve-InputOrEnv -Value $SteamPassword -EnvName "STEAM_PASSWORD"
+$SteamGuardCode = Resolve-InputOrEnv -Value $SteamGuardCode -EnvName "STEAM_GUARD_CODE"
+$SteamConfigVdfBase64 = Resolve-InputOrEnv -Value $SteamConfigVdfBase64 -EnvName "STEAM_CONFIG_VDF"
+$SteamLocalConfigVdfBase64 = Resolve-InputOrEnv -Value $SteamLocalConfigVdfBase64 -EnvName "STEAM_LOCALCONFIG_VDF"
+$SteamUserDataId = Resolve-InputOrEnv -Value $SteamUserDataId -EnvName "STEAM_USERDATA_ID"
+$SteamSsfnFileName = Resolve-InputOrEnv -Value $SteamSsfnFileName -EnvName "STEAM_SSFN_FILE_NAME"
+$SteamSsfnFileContentsBase64 = Resolve-InputOrEnv -Value $SteamSsfnFileContentsBase64 -EnvName "STEAM_SSFN_FILE_CONTENTS"
+$StorageConfigsJson = Resolve-InputOrEnv -Value $StorageConfigsJson -EnvName "STORAGE_CONFIGS_JSON"
+$WorkflowRepoConfigsJson = Resolve-InputOrEnv -Value $WorkflowRepoConfigsJson -EnvName "WORKFLOW_REPO_CONFIGS_JSON"
+
+if ([string]::IsNullOrWhiteSpace($SteamUsername)) {
+  throw "Missing STEAM_USERNAME"
+}
+if (
+  [string]::IsNullOrWhiteSpace($SteamConfigVdfBase64) -and
+  [string]::IsNullOrWhiteSpace($SteamLocalConfigVdfBase64) -and
+  [string]::IsNullOrWhiteSpace($SteamPassword)
+) {
+  throw "Missing auth material. Provide STEAM_CONFIG_VDF or STEAM_LOCALCONFIG_VDF or STEAM_PASSWORD."
+}
+
+$safeTitle = Normalize-SingleLine -Value $Title -Max 120
+if ([string]::IsNullOrWhiteSpace($safeTitle)) {
+  throw "Title is required"
+}
+
+$safeDescription = Normalize-MultiLine -Value $Description -Max 6000
+if ([string]::IsNullOrWhiteSpace($safeDescription)) {
+  $safeDescription = "Auto-generated Workshop upload."
+}
+
+$safeChangeNote = Normalize-MultiLine -Value $ChangeNote -Max 1200
+if ([string]::IsNullOrWhiteSpace($safeChangeNote)) {
+  $safeChangeNote = "Automated update"
+}
+
+$repoRoot = (Get-Location).Path
+$outputRoot = Join-Path $repoRoot $OutputDir
+$tmpRoot = Join-Path $outputRoot "_tmp"
+$contentRoot = Join-Path $outputRoot "content"
+$previewRoot = Join-Path $outputRoot "preview"
+$buildRoot = Join-Path $outputRoot "build"
+
+New-Item -ItemType Directory -Path $outputRoot -Force | Out-Null
+New-Item -ItemType Directory -Path $tmpRoot -Force | Out-Null
+New-Item -ItemType Directory -Path $contentRoot -Force | Out-Null
+New-Item -ItemType Directory -Path $previewRoot -Force | Out-Null
+New-Item -ItemType Directory -Path $buildRoot -Force | Out-Null
+
+$sourceExt = Get-UrlExtension -Url $ContentUrl
+if ([string]::IsNullOrWhiteSpace($sourceExt)) {
+  $sourceExt = ".bin"
+}
+$downloadPath = Join-Path $tmpRoot ("content_source" + $sourceExt)
+
+Write-Step "Downloading source content..."
+Download-FileWithRetry `
+  -Url $ContentUrl `
+  -OutFile $downloadPath `
+  -StorageConfigsJson $StorageConfigsJson `
+  -WorkflowRepoConfigsJson $WorkflowRepoConfigsJson
+
+$isArchive = $false
+if ($sourceExt -eq ".zip" -or $sourceExt -eq ".rwmod") {
+  $isArchive = $true
+}
+
+if ($isArchive) {
+  Write-Step "Extracting archive source ($sourceExt)..."
+  Expand-ArchiveSafe -ArchivePath $downloadPath -Destination $contentRoot
+} else {
+  Write-Step "Using single-file source..."
+  $targetName = "content_file$sourceExt"
+  if ($sourceExt -eq ".tmx") { $targetName = "map.tmx" }
+  if ($sourceExt -eq ".rwmod") { $targetName = "mod.rwmod" }
+  Copy-Item -LiteralPath $downloadPath -Destination (Join-Path $contentRoot $targetName) -Force
+}
+
+$effectiveContentRoot = Resolve-EffectiveContentRoot -BasePath $contentRoot
+Write-Step "Content root prepared at: $effectiveContentRoot"
+
+if (-not [string]::IsNullOrWhiteSpace($PreviewImageUrl)) {
+  $previewExt = Get-UrlExtension -Url $PreviewImageUrl
+  if ([string]::IsNullOrWhiteSpace($previewExt)) { $previewExt = ".png" }
+  $downloadPreview = Join-Path $tmpRoot ("preview" + $previewExt)
+  Write-Step "Downloading preview image..."
+  Download-FileWithRetry `
+    -Url $PreviewImageUrl `
+    -OutFile $downloadPreview `
+    -StorageConfigsJson $StorageConfigsJson `
+    -WorkflowRepoConfigsJson $WorkflowRepoConfigsJson
+  $previewSource = $downloadPreview
+} else {
+  $previewSource = Select-PreviewCandidate -ContentRoot $effectiveContentRoot
+}
+
+if ([string]::IsNullOrWhiteSpace($previewSource) -or -not (Test-Path -LiteralPath $previewSource)) {
+  $fallbackA = Join-Path $repoRoot "steamworshopdownlaoder\icon\bg_SWD_1.jpg"
+  $fallbackB = Join-Path $repoRoot "icon.png"
+  if (Test-Path -LiteralPath $fallbackA) {
+    $previewSource = $fallbackA
+  } elseif (Test-Path -LiteralPath $fallbackB) {
+    $previewSource = $fallbackB
+  } else {
+    Write-Step "No preview image was provided; generating a neutral preview."
+    Add-Type -AssemblyName System.Drawing
+    $generatedPreview = Join-Path $previewRoot "generated-preview.png"
+    $bitmap = [System.Drawing.Bitmap]::new(512, 512)
+    $graphics = [System.Drawing.Graphics]::FromImage($bitmap)
+    try {
+      $graphics.Clear([System.Drawing.Color]::FromArgb(24, 28, 34))
+      $font = [System.Drawing.Font]::new("Arial", 26, [System.Drawing.FontStyle]::Bold)
+      $brush = [System.Drawing.SolidBrush]::new([System.Drawing.Color]::White)
+      $format = [System.Drawing.StringFormat]::new()
+      $format.Alignment = [System.Drawing.StringAlignment]::Center
+      $format.LineAlignment = [System.Drawing.StringAlignment]::Center
+      $rect = [System.Drawing.RectangleF]::new(32, 32, 448, 448)
+      $graphics.DrawString($safeTitle, $font, $brush, $rect, $format)
+      $bitmap.Save($generatedPreview, [System.Drawing.Imaging.ImageFormat]::Png)
+      $brush.Dispose()
+      $font.Dispose()
+      $format.Dispose()
+    } finally {
+      $graphics.Dispose()
+      $bitmap.Dispose()
+    }
+    $previewSource = $generatedPreview
+  }
+}
+
+$normalizedPreviewPath = Join-Path $previewRoot "preview.png"
+Normalize-PreviewImage -InputPath $previewSource -OutputPath $normalizedPreviewPath
+
+$modInfoPath = Join-Path $effectiveContentRoot "mod-info.txt"
+Build-ModInfo `
+  -Path $modInfoPath `
+  -TitleValue $safeTitle `
+  -DescriptionValue $safeDescription `
+  -TagValue (Normalize-SingleLine -Value $ModTag -Max 60) `
+  -MinVersionValue (Normalize-SingleLine -Value $MinVersion -Max 24)
+
+Write-Step "mod-info.txt updated."
+
+$safeAppId = Normalize-SingleLine -Value $AppId -Max 16
+if ($safeAppId -notmatch "^\d+$") {
+  $safeAppId = "647960"
+}
+
+$safePublishedId = Normalize-SingleLine -Value $PublishedFileId -Max 32
+if ($safePublishedId -and $safePublishedId -notmatch "^\d+$") {
+  $safePublishedId = ""
+}
+if ([string]::IsNullOrWhiteSpace($safePublishedId)) {
+  $safePublishedId = "0"
+}
+
+$requestedVisibility = Normalize-SingleLine -Value $Visibility -Max 3
+$safeVisibility = "0"
+if (
+  -not [string]::IsNullOrWhiteSpace($requestedVisibility) -and
+  $requestedVisibility -ne "0"
+) {
+  Write-Step "Ignoring non-public visibility request '$requestedVisibility'. Upload visibility is forced to public (0)."
+}
+
+$safeWorkshopTag = Normalize-SingleLine -Value $WorkshopTag -Max 64
+$safeModTag = Normalize-SingleLine -Value $ModTag -Max 120
+$resolvedVdfTags = Build-WorkshopVdfTags `
+  -CategoryValue $Category `
+  -WorkshopTagValue $safeWorkshopTag `
+  -ModTagValue $safeModTag
+Write-Step "Using workshop category tag: $($resolvedVdfTags.Tags -join ', ')"
+$workshopTagsCsv = (
+  $resolvedVdfTags.Tags |
+  ForEach-Object { [string]$_ } |
+  Where-Object { -not [string]::IsNullOrWhiteSpace($_) } |
+  ForEach-Object { $_.Trim() }
+) -join ","
+if ([string]::IsNullOrWhiteSpace($workshopTagsCsv)) {
+  $workshopTagsCsv = Resolve-CanonicalWorkshopTag -CategoryValue $Category -WorkshopTagValue $safeWorkshopTag
+}
+Write-Step "Workshop tags payload: $workshopTagsCsv"
+
+$vdfPath = Join-Path $buildRoot "workshop_item.vdf"
+$vdfLines = @(
+  '"workshopitem"',
