@@ -1,0 +1,220 @@
+    if (-not $seenTags.Add($normalizedCandidate)) { continue }
+    $tags.Add($normalizedCandidate) | Out-Null
+  }
+
+  return [pscustomobject]@{
+    Tags = @($tags)
+    KvTags = @($tags)
+  }
+}
+
+function Get-UrlExtension {
+  param([string]$Url)
+  try {
+    $uri = [Uri]$Url
+    $path = [string]$uri.AbsolutePath
+    $ext = [IO.Path]::GetExtension($path)
+    if ([string]::IsNullOrWhiteSpace($ext)) {
+      return ""
+    }
+    return $ext.ToLowerInvariant()
+  } catch {
+    return ""
+  }
+}
+
+function Get-GitHubReleaseDownloadParts {
+  param([string]$Url)
+
+  try {
+    $uri = [Uri]$Url
+    $urlHost = [string]$uri.Host
+    if ([string]::IsNullOrWhiteSpace($urlHost)) {
+      return $null
+    }
+    $urlHost = $urlHost.ToLowerInvariant()
+    if ($urlHost -ne "github.com" -and $urlHost -ne "www.github.com") {
+      return $null
+    }
+
+    $rawPath = [string]$uri.AbsolutePath
+    if ([string]::IsNullOrWhiteSpace($rawPath)) {
+      return $null
+    }
+    # Decode the whole path first so encoded "/" (%2F) is handled correctly.
+    $decodedPath = [Uri]::UnescapeDataString($rawPath)
+    $segments = @(
+      ($decodedPath.Trim("/") -split "/") |
+        Where-Object { -not [string]::IsNullOrWhiteSpace([string]$_) }
+    )
+    if ($segments.Count -lt 6) {
+      return $null
+    }
+    if ($segments[2].ToLowerInvariant() -ne "releases" -or $segments[3].ToLowerInvariant() -ne "download") {
+      return $null
+    }
+
+    $owner = [string]$segments[0]
+    $repo = [string]$segments[1]
+    $tag = [Uri]::UnescapeDataString([string]$segments[4])
+    $assetName = [Uri]::UnescapeDataString(($segments[5..($segments.Count - 1)] -join "/"))
+    if (
+      [string]::IsNullOrWhiteSpace($owner) -or
+      [string]::IsNullOrWhiteSpace($repo) -or
+      [string]::IsNullOrWhiteSpace($tag) -or
+      [string]::IsNullOrWhiteSpace($assetName)
+    ) {
+      return $null
+    }
+
+    return [pscustomobject]@{
+      Owner     = $owner
+      Repo      = $repo
+      Tag       = $tag
+      AssetName = $assetName
+    }
+  } catch {
+    return $null
+  }
+}
+
+function Get-RepoTokenFromConfigs {
+  param(
+    [string]$ConfigsJson,
+    [string]$Owner,
+    [string]$Repo
+  )
+
+  $raw = [string]$ConfigsJson
+  if ([string]::IsNullOrWhiteSpace($raw)) {
+    return ""
+  }
+
+  try {
+    $parsed = $raw | ConvertFrom-Json
+  } catch {
+    return ""
+  }
+
+  # Some callers may provide a JSON string that contains JSON again.
+  if ($parsed -is [string]) {
+    try {
+      $parsed = ([string]$parsed) | ConvertFrom-Json
+    } catch {
+      return ""
+    }
+  }
+
+  $items = @()
+  if ($parsed -is [System.Array]) {
+    $items = @($parsed)
+  } elseif ($null -ne $parsed) {
+    $items = @($parsed)
+  }
+
+  $targetOwner = [string]$Owner
+  $targetRepo = [string]$Repo
+  $ownerMatchedToken = ""
+  foreach ($item in $items) {
+    if ($null -eq $item) { continue }
+    $ownerValue = [string]$item.owner
+    $repoValue = [string]$item.repo
+    if ([string]::IsNullOrWhiteSpace($repoValue)) {
+      $repoValue = [string]$item.repository
+    }
+    if ([string]::IsNullOrWhiteSpace($repoValue)) {
+      $repoValue = [string]$item.repo_name
+    }
+    $tokenValue = [string]$item.token
+    if ([string]::IsNullOrWhiteSpace($tokenValue)) {
+      $tokenValue = [string]$item.pat
+    }
+    if ([string]::IsNullOrWhiteSpace($tokenValue)) {
+      $tokenValue = [string]$item.githubToken
+    }
+    if ([string]::IsNullOrWhiteSpace($tokenValue)) {
+      continue
+    }
+
+    # Handle values where repo may be "owner/repo" (even if owner field exists).
+    if (-not [string]::IsNullOrWhiteSpace($repoValue) -and $repoValue.Contains("/")) {
+      $parts = $repoValue.Split("/")
+      if ($parts.Length -ge 2) {
+        if ([string]::IsNullOrWhiteSpace($ownerValue)) {
+          $ownerValue = [string]$parts[0]
+        }
+        $repoValue = [string]$parts[1]
+      }
+    }
+
+    if ([string]::IsNullOrWhiteSpace($ownerValue) -or [string]::IsNullOrWhiteSpace($repoValue)) {
+      continue
+    }
+    if ($ownerValue.ToLowerInvariant() -ne $targetOwner.ToLowerInvariant()) {
+      continue
+    }
+
+    # Keep an owner-only fallback token in case repo naming changed
+    # between upload and publish repos.
+    if ([string]::IsNullOrWhiteSpace($ownerMatchedToken)) {
+      $ownerMatchedToken = $tokenValue
+    }
+
+    if ($repoValue.ToLowerInvariant() -ne $targetRepo.ToLowerInvariant()) {
+      continue
+    }
+    return $tokenValue
+  }
+
+  if (-not [string]::IsNullOrWhiteSpace($ownerMatchedToken)) {
+    return $ownerMatchedToken
+  }
+
+  return ""
+}
+
+function Resolve-GitHubRepoToken {
+  param(
+    [string]$Owner,
+    [string]$Repo,
+    [string]$StorageConfigsJson = "",
+    [string]$WorkflowRepoConfigsJson = ""
+  )
+
+  $token = Get-RepoTokenFromConfigs `
+    -ConfigsJson $StorageConfigsJson `
+    -Owner $Owner `
+    -Repo $Repo
+  if (-not [string]::IsNullOrWhiteSpace($token)) {
+    return $token
+  }
+
+  $token = Get-RepoTokenFromConfigs `
+    -ConfigsJson $WorkflowRepoConfigsJson `
+    -Owner $Owner `
+    -Repo $Repo
+  if (-not [string]::IsNullOrWhiteSpace($token)) {
+    return $token
+  }
+
+  return ""
+}
+
+function Try-DownloadGitHubReleaseAssetByApi {
+  param(
+    [Parameter(Mandatory = $true)][string]$Url,
+    [Parameter(Mandatory = $true)][string]$OutFile,
+    [string]$StorageConfigsJson = "",
+    [string]$WorkflowRepoConfigsJson = ""
+  )
+
+  $parts = Get-GitHubReleaseDownloadParts -Url $Url
+  if ($null -eq $parts) {
+    Write-Step "GitHub API fallback skipped: URL is not a GitHub release download URL. url=$Url"
+    return $false
+  }
+
+  $token = Resolve-GitHubRepoToken `
+    -Owner ([string]$parts.Owner) `
+    -Repo ([string]$parts.Repo) `
+    -StorageConfigsJson $StorageConfigsJson `
