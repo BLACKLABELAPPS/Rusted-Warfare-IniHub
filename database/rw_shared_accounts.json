@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T03:31:52.564614Z",
+  "updatedAt": "2026-08-07T03:32:00.788912Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -128,16 +128,19 @@
         "visibility": "0",
         "min_version": "1.15"
       },
-      "message": "Waiting for GitHub Actions in IniHub.",
+      "message": "Publishing is running autonomously in GitHub Actions.",
       "failure_summary": "",
       "steamcmd_log": "",
       "published_file_id": "",
       "transport": "github-actions-inihub",
       "created_at": "2026-08-07T03:31:52.367249Z",
-      "updated_at": "2026-08-07T03:31:52.367249Z",
+      "updated_at": "2026-08-07T03:32:00.788864Z",
       "claimed_at": "",
       "lease_until": "",
-      "executor_id": ""
+      "executor_id": "",
+      "workflow": "workshop-publish.yml",
+      "workflow_run_id": 31144631947,
+      "workflow_run_url": "https://github.com/BLACKLABELAPPS/Rusted-Warfare-IniHub/actions/runs/31144631947"
     }
   ],
   "settings": {}
