@@ -1,0 +1,151 @@
+name: IniHub Workshop Publish
+run-name: Publish ${{ inputs.title != '' && inputs.title || 'workshop item' }} [job:${{ inputs.job_id }}]
+
+on:
+  workflow_dispatch:
+    inputs:
+      job_id:
+        description: IniHub publish job ID
+        required: true
+        type: string
+      request_id:
+        description: Client request identifier
+        required: true
+        type: string
+      requester:
+        description: IniHub account that requested the publish
+        required: true
+        type: string
+      app_id:
+        description: Steam App ID
+        required: false
+        default: "647960"
+        type: string
+      category:
+        description: Workshop category
+        required: true
+        default: "maps"
+        type: choice
+        options:
+          - maps
+          - units
+          - total_conversion
+      workshop_tag:
+        description: Steam Workshop tag label
+        required: true
+        default: "Maps"
+        type: string
+      mod_tag:
+        description: mod-info tags value
+        required: true
+        default: "maps"
+        type: string
+      platform_targets:
+        description: Target platforms
+        required: false
+        default: "windows,android,ios"
+        type: string
+      detected_tags:
+        description: Automatically detected tags
+        required: false
+        default: ""
+        type: string
+      title:
+        description: Item title
+        required: true
+        type: string
+      description:
+        description: Item description
+        required: false
+        default: ""
+        type: string
+      changenote:
+        description: Workshop changenote
+        required: false
+        default: ""
+        type: string
+      content_url:
+        description: IniHub direct URL to content
+        required: true
+        type: string
+      preview_image_url:
+        description: Optional IniHub preview image URL
+        required: false
+        default: ""
+        type: string
+      published_file_id:
+        description: Existing Workshop item ID for updates
+        required: false
+        default: ""
+        type: string
+      visibility:
+        description: Kept for API compatibility; publishing is forced public
+        required: false
+        default: "0"
+        type: string
+      min_version:
+        description: Rusted Warfare minimum version
+        required: false
+        default: "1.15"
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: inihub-workshop-publish-${{ inputs.job_id }}
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: windows-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout IniHub
+        uses: actions/checkout@v4
+
+      - name: Publish with cached Steam session
+        id: publish
+        shell: pwsh
+        env:
+          RW_JOB_ID: ${{ inputs.job_id }}
+          RW_REQUEST_ID: ${{ inputs.request_id }}
+          RW_REQUESTER: ${{ inputs.requester }}
+          RW_APP_ID: ${{ inputs.app_id }}
+          RW_CATEGORY: ${{ inputs.category }}
+          RW_WORKSHOP_TAG: ${{ inputs.workshop_tag }}
+          RW_MOD_TAG: ${{ inputs.mod_tag }}
+          RW_PLATFORM_TARGETS: ${{ inputs.platform_targets }}
+          RW_DETECTED_TAGS: ${{ inputs.detected_tags }}
+          RW_TITLE: ${{ inputs.title }}
+          RW_DESCRIPTION: ${{ inputs.description }}
+          RW_CHANGENOTE: ${{ inputs.changenote }}
+          RW_CONTENT_URL: ${{ inputs.content_url }}
+          RW_PREVIEW_IMAGE_URL: ${{ inputs.preview_image_url }}
+          RW_PUBLISHED_FILE_ID: ${{ inputs.published_file_id }}
+          RW_MIN_VERSION: ${{ inputs.min_version }}
+          STEAM_ACCOUNT_POOL_JSON: ${{ secrets.STEAM_ACCOUNT_POOL_JSON }}
+          STEAM_USERNAME: ${{ secrets.STEAM_USERNAME }}
+          STEAM_PASSWORD: ${{ secrets.STEAM_PASSWORD }}
+          STEAM_GUARD_CODE: ${{ secrets.STEAM_GUARD_CODE }}
+          STEAM_CONFIG_VDF: ${{ secrets.STEAM_CONFIG_VDF }}
+          STEAM_LOCALCONFIG_VDF: ${{ secrets.STEAM_LOCALCONFIG_VDF }}
+          STEAM_USERDATA_ID: ${{ secrets.STEAM_USERDATA_ID }}
+          STEAM_SSFN_FILE_NAME: ${{ secrets.STEAM_SSFN_FILE_NAME }}
+          STEAM_SSFN_FILE_CONTENTS: ${{ secrets.STEAM_SSFN_FILE_CONTENTS }}
+          STORAGE_CONFIGS_JSON: ${{ secrets.STORAGE_CONFIGS_JSON }}
+          WORKFLOW_REPO_CONFIGS_JSON: ${{ secrets.WORKFLOW_REPO_CONFIGS_JSON }}
+          INIHUB_STATUS_TOKEN: ${{ github.token }}
+        run: ./scripts/inihub_workshop_publish.ps1
+
+      - name: Summary
+        if: always()
+        shell: pwsh
+        run: |
+          "## IniHub Workshop Publish" >> $env:GITHUB_STEP_SUMMARY
+          "" >> $env:GITHUB_STEP_SUMMARY
+          "- Job: ${{ inputs.job_id }}" >> $env:GITHUB_STEP_SUMMARY
+          "- Requester: ${{ inputs.requester }}" >> $env:GITHUB_STEP_SUMMARY
+          "- Category: ${{ inputs.category }}" >> $env:GITHUB_STEP_SUMMARY
+          "- Platforms: ${{ inputs.platform_targets }}" >> $env:GITHUB_STEP_SUMMARY
+          "- Published file ID: ${{ steps.publish.outputs.published_file_id }}" >> $env:GITHUB_STEP_SUMMARY
