@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-06T13:44:59.705940Z",
+  "updatedAt": "2026-08-07T03:31:52.564614Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -103,5 +103,42 @@
       "participations_single": 0,
       "participations_team": 0
     }
-  }
+  },
+  "teams": [],
+  "publishJobs": [
+    {
+      "id": 1786073512367260,
+      "status": "queued",
+      "conclusion": "",
+      "requester": "ReikRtS",
+      "requester_lower": "reikrts",
+      "inputs": {
+        "app_id": "647960",
+        "category": "units",
+        "workshop_tag": "Units",
+        "mod_tag": "Units",
+        "platform_targets": "android,ios,windows",
+        "detected_tags": "Units",
+        "title": "Cannon Mech",
+        "description": "By (ReikRtS)\nRW_TAGS: Units\n-Have a destructive canyon for ground Units.\\n-It has 1 anti-aircraft missile launcher and two defensive turrets.\\\\nDisclaimer: This workshop item was uploaded by the user, and the app is not responsible for any damage or misuse caused by the user.",
+        "changenote": "",
+        "content_url": "https://github.com/BLACKLABELAPPS/Rusted-Warfare-IniHub/releases/download/inihub-workshop-staging/1786073510371-reikrts-e9db0fc9-upload_content.zip",
+        "preview_image_url": "https://raw.githubusercontent.com/BLACKLABELAPPS/Rusted-Warfare-IniHub/main/runtime/workshop_uploads/1786073511221-reikrts/thumbnail.png?v=1786073512130",
+        "published_file_id": "",
+        "visibility": "0",
+        "min_version": "1.15"
+      },
+      "message": "Waiting for GitHub Actions in IniHub.",
+      "failure_summary": "",
+      "steamcmd_log": "",
+      "published_file_id": "",
+      "transport": "github-actions-inihub",
+      "created_at": "2026-08-07T03:31:52.367249Z",
+      "updated_at": "2026-08-07T03:31:52.367249Z",
+      "claimed_at": "",
+      "lease_until": "",
+      "executor_id": ""
+    }
+  ],
+  "settings": {}
 }
