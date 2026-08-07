@@ -44,13 +44,6 @@ jobs:
         with:
           path: inihub
 
-      - name: Checkout publisher source
-        uses: actions/checkout@v4
-        with:
-          repository: BLACKLABELAPPS/rustedwarfareworkshop
-          ref: main
-          path: publisher
-
       - name: Select cached Steam account
         shell: pwsh
         env:
@@ -124,8 +117,11 @@ jobs:
           STORAGE_CONFIGS_JSON: ${{ secrets.STORAGE_CONFIGS_JSON }}
           WORKFLOW_REPO_CONFIGS_JSON: ${{ secrets.WORKFLOW_REPO_CONFIGS_JSON }}
         run: |
-          $script = Join-Path $env:GITHUB_WORKSPACE 'publisher/steamworshopdownlaoder/scripts/workshop_publish.ps1'
-          if (-not (Test-Path -LiteralPath $script)) { throw "Publisher script not found: $script" }
+          $partsRoot = Join-Path $env:GITHUB_WORKSPACE 'inihub/scripts/workshop_publish_parts'
+          $parts = @(Get-ChildItem -LiteralPath $partsRoot -Filter 'part*.ps1.txt' -File | Sort-Object Name)
+          if ($parts.Count -ne 5) { throw "IniHub publisher parts are incomplete: $($parts.Count)/5" }
+          $script = Join-Path $env:RUNNER_TEMP 'workshop_publish.ps1'
+          Get-Content -LiteralPath $parts.FullName | Set-Content -LiteralPath $script -Encoding utf8
           & $script `
             -ContentUrl $env:RW_CONTENT_URL `
             -Title $env:RW_TITLE `
