@@ -1,0 +1,191 @@
+  "{",
+  "  ""appid"" ""$(Escape-VdfValue $safeAppId)""",
+  "  ""publishedfileid"" ""$(Escape-VdfValue $safePublishedId)""",
+  "  ""contentfolder"" ""$(Escape-VdfValue $effectiveContentRoot)""",
+  "  ""previewfile"" ""$(Escape-VdfValue $normalizedPreviewPath)""",
+  "  ""visibility"" ""$(Escape-VdfValue $safeVisibility)""",
+  "  ""title"" ""$(Escape-VdfValue $safeTitle)""",
+  "  ""description"" ""$(Escape-VdfValue $safeDescription)""",
+  "  ""changenote"" ""$(Escape-VdfValue $safeChangeNote)"""
+)
+$vdfLines += "  ""tags"""
+$vdfLines += "  {"
+$tagIndex = 0
+foreach ($tag in $resolvedVdfTags.Tags) {
+  $normalizedTag = Normalize-SingleLine -Value ([string]$tag) -Max 64
+  if ([string]::IsNullOrWhiteSpace($normalizedTag)) { continue }
+  $vdfLines += "    ""$tagIndex"" ""$(Escape-VdfValue $normalizedTag)"""
+  $tagIndex += 1
+}
+$vdfLines += "  }"
+$vdfLines += "  ""kvtags"""
+$vdfLines += "  {"
+$kvIndex = 0
+foreach ($entry in $resolvedVdfTags.KvTags) {
+  $value = Normalize-SingleLine -Value ([string]$entry) -Max 120
+  if ([string]::IsNullOrWhiteSpace($value)) { continue }
+  $vdfLines += "    ""$kvIndex"" ""$(Escape-VdfValue $value)"""
+  $kvIndex += 1
+}
+$vdfLines += "  }"
+$vdfLines += "}"
+[IO.File]::WriteAllLines($vdfPath, $vdfLines, [System.Text.UTF8Encoding]::new($false))
+
+Write-Step "Workshop VDF created."
+
+$toolDir = Join-Path $repoRoot "_tools"
+$steamDir = Join-Path $toolDir "steamcmd"
+$zipPath = Join-Path $toolDir "steamcmd.zip"
+$steamCmdExe = Join-Path $steamDir "steamcmd.exe"
+
+New-Item -ItemType Directory -Path $toolDir -Force | Out-Null
+
+if (-not (Test-Path -LiteralPath $steamCmdExe)) {
+  Write-Step "Downloading SteamCMD..."
+  Invoke-WebRequest -Uri "https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip" -OutFile $zipPath
+  if (Test-Path -LiteralPath $steamDir) {
+    Remove-Item -LiteralPath $steamDir -Recurse -Force
+  }
+  New-Item -ItemType Directory -Path $steamDir -Force | Out-Null
+  Expand-Archive -LiteralPath $zipPath -DestinationPath $steamDir -Force
+} else {
+  Write-Step "Using cached SteamCMD."
+}
+
+if (-not (Test-Path -LiteralPath $steamCmdExe)) {
+  throw "steamcmd.exe not found after extraction."
+}
+
+Write-Step "Restoring Steam auth session..."
+if (
+  [string]::IsNullOrWhiteSpace($SteamConfigVdfBase64) -and
+  [string]::IsNullOrWhiteSpace($SteamLocalConfigVdfBase64)
+) {
+  Write-Step "Session files not provided. Using username/password login only."
+} else {
+  Restore-SteamSession `
+    -SteamRoot $steamDir `
+    -ConfigBase64 $SteamConfigVdfBase64 `
+    -LocalConfigBase64 $SteamLocalConfigVdfBase64 `
+    -UserDataId $SteamUserDataId `
+    -SsfnName $SteamSsfnFileName `
+    -SsfnBase64 $SteamSsfnFileContentsBase64
+}
+
+Write-Step "Uploading to Steam Workshop..."
+$arguments = @("+@ShutdownOnFailedCommand", "1")
+if (-not [string]::IsNullOrWhiteSpace($SteamPassword)) {
+  $arguments += @("+@NoPromptForPassword", "1")
+  if (-not [string]::IsNullOrWhiteSpace($SteamGuardCode)) {
+    Write-Step "Using STEAM_GUARD_CODE for SteamCMD login."
+    $arguments += @("+login", $SteamUsername, $SteamPassword, $SteamGuardCode)
+  } else {
+    $arguments += @("+login", $SteamUsername, $SteamPassword)
+  }
+} else {
+  $arguments += @("+@NoPromptForPassword", "1")
+  $arguments += @("+login", $SteamUsername)
+}
+$arguments += @("+workshop_build_item", $vdfPath, "+quit")
+
+$steamStdoutLogPath = Join-Path $buildRoot "steamcmd.stdout.log"
+$steamStderrLogPath = Join-Path $buildRoot "steamcmd.stderr.log"
+
+if (Test-Path -LiteralPath $steamStdoutLogPath) {
+  Remove-Item -LiteralPath $steamStdoutLogPath -Force -ErrorAction SilentlyContinue
+}
+if (Test-Path -LiteralPath $steamStderrLogPath) {
+  Remove-Item -LiteralPath $steamStderrLogPath -Force -ErrorAction SilentlyContinue
+}
+
+function Emit-SteamCmdLogFile {
+  param(
+    [Parameter(Mandatory = $true)][string]$Path,
+    [Parameter(Mandatory = $true)][string]$Label
+  )
+
+  if (-not (Test-Path -LiteralPath $Path)) {
+    Write-Step "STEAMCMD_LOG_BEGIN $Label"
+    Write-Step "(missing log file: $Path)"
+    Write-Step "STEAMCMD_LOG_END $Label"
+    return
+  }
+
+  $raw = ""
+  try {
+    $raw = Get-Content -LiteralPath $Path -Raw -Encoding UTF8 -ErrorAction Stop
+  } catch {
+    try {
+      $raw = Get-Content -LiteralPath $Path -Raw -ErrorAction Stop
+    } catch {
+      $raw = ""
+    }
+  }
+
+  if ([string]::IsNullOrWhiteSpace($raw)) {
+    Write-Step "STEAMCMD_LOG_BEGIN $Label"
+    Write-Step "(empty)"
+    Write-Step "STEAMCMD_LOG_END $Label"
+    return
+  }
+
+  $normalized = [string]$raw
+  $normalized = $normalized -replace "`r`n", "`n"
+  $normalized = $normalized -replace "`r", "`n"
+  if ($normalized.Length -gt 400000) {
+    $normalized = $normalized.Substring($normalized.Length - 400000)
+    Write-Step "STEAMCMD_LOG_BEGIN $Label (truncated last 400000 chars)"
+  } else {
+    Write-Step "STEAMCMD_LOG_BEGIN $Label"
+  }
+  Write-Host $normalized
+  Write-Step "STEAMCMD_LOG_END $Label"
+}
+
+$process = Start-Process `
+  -FilePath $steamCmdExe `
+  -ArgumentList $arguments `
+  -WorkingDirectory $steamDir `
+  -NoNewWindow `
+  -RedirectStandardOutput $steamStdoutLogPath `
+  -RedirectStandardError $steamStderrLogPath `
+  -Wait `
+  -PassThru
+
+Emit-SteamCmdLogFile -Path $steamStdoutLogPath -Label "stdout"
+Emit-SteamCmdLogFile -Path $steamStderrLogPath -Label "stderr"
+
+if ($process.ExitCode -ne 0) {
+  throw "SteamCMD publish failed with exit code $($process.ExitCode)."
+}
+
+$updatedVdf = Get-Content -LiteralPath $vdfPath -Raw
+$publishedMatch = [regex]::Match($updatedVdf, '"publishedfileid"\s*"(\d+)"')
+$resultPublishedId = if ($publishedMatch.Success) { $publishedMatch.Groups[1].Value } else { "" }
+
+if (
+  [string]::IsNullOrWhiteSpace($resultPublishedId) -and
+  $safePublishedId -match "^\d+$" -and
+  $safePublishedId -ne "0"
+) {
+  # For update flows, keep the requested ID if SteamCMD did not rewrite the VDF.
+  $resultPublishedId = $safePublishedId
+}
+
+if ([string]::IsNullOrWhiteSpace($resultPublishedId)) {
+  Write-Step "Warning: publishedfileid not detected in VDF after upload."
+} else {
+  # Machine-readable marker consumed by worker log parsers.
+  Write-Step "PUBLISHED_FILE_ID_RESOLVED=$resultPublishedId"
+}
+
+Write-Step "Publish finished."
+
+Set-GitHubOutput -Name "app_id" -Value $safeAppId
+Set-GitHubOutput -Name "category" -Value $Category
+Set-GitHubOutput -Name "workshop_tag" -Value $WorkshopTag
+Set-GitHubOutput -Name "platform_targets" -Value $PlatformTargets
+Set-GitHubOutput -Name "published_file_id" -Value $resultPublishedId
+Set-GitHubOutput -Name "content_root" -Value $effectiveContentRoot
+Set-GitHubOutput -Name "preview_path" -Value $normalizedPreviewPath
+Set-GitHubOutput -Name "vdf_path" -Value $vdfPath
