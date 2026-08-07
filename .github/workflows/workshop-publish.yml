@@ -4,90 +4,28 @@ run-name: Publish ${{ inputs.title != '' && inputs.title || 'workshop item' }} [
 on:
   workflow_dispatch:
     inputs:
-      job_id:
-        description: IniHub publish job ID
-        required: true
-        type: string
-      request_id:
-        description: Client request identifier
-        required: true
-        type: string
-      requester:
-        description: IniHub account that requested the publish
-        required: true
-        type: string
-      app_id:
-        description: Steam App ID
-        required: false
-        default: "647960"
-        type: string
+      job_id: {description: IniHub publish job ID, required: true, type: string}
+      request_id: {description: Client request identifier, required: true, type: string}
+      requester: {description: IniHub account, required: true, type: string}
+      app_id: {description: Steam App ID, required: false, default: "647960", type: string}
       category:
         description: Workshop category
         required: true
-        default: "maps"
+        default: maps
         type: choice
-        options:
-          - maps
-          - units
-          - total_conversion
-      workshop_tag:
-        description: Steam Workshop tag label
-        required: true
-        default: "Maps"
-        type: string
-      mod_tag:
-        description: mod-info tags value
-        required: true
-        default: "maps"
-        type: string
-      platform_targets:
-        description: Target platforms
-        required: false
-        default: "windows,android,ios"
-        type: string
-      detected_tags:
-        description: Automatically detected tags
-        required: false
-        default: ""
-        type: string
-      title:
-        description: Item title
-        required: true
-        type: string
-      description:
-        description: Item description
-        required: false
-        default: ""
-        type: string
-      changenote:
-        description: Workshop changenote
-        required: false
-        default: ""
-        type: string
-      content_url:
-        description: IniHub direct URL to content
-        required: true
-        type: string
-      preview_image_url:
-        description: Optional IniHub preview image URL
-        required: false
-        default: ""
-        type: string
-      published_file_id:
-        description: Existing Workshop item ID for updates
-        required: false
-        default: ""
-        type: string
-      visibility:
-        description: Kept for API compatibility; publishing is forced public
-        required: false
-        default: "0"
-        type: string
-      min_version:
-        description: Rusted Warfare minimum version
-        required: false
-        default: "1.15"
-        type: string
+        options: [maps, units, total_conversion]
+      workshop_tag: {description: Workshop tag, required: true, default: Maps, type: string}
+      mod_tag: {description: mod-info tags, required: true, default: maps, type: string}
+      platform_targets: {description: Target platforms, required: false, default: "windows,android,ios", type: string}
+      detected_tags: {description: Detected tags, required: false, default: "", type: string}
+      title: {description: Item title, required: true, type: string}
+      description: {description: Item description, required: false, default: "", type: string}
+      changenote: {description: Workshop changenote, required: false, default: "", type: string}
+      content_url: {description: IniHub direct content URL, required: true, type: string}
+      preview_image_url: {description: Optional preview URL, required: false, default: "", type: string}
+      published_file_id: {description: Existing item ID, required: false, default: "", type: string}
+      visibility: {description: Compatibility only; always public, required: false, default: "0", type: string}
+      min_version: {description: Rusted Warfare minimum version, required: false, default: "1.15", type: string}
 
 permissions:
   contents: write
@@ -103,49 +41,146 @@ jobs:
     steps:
       - name: Checkout IniHub
         uses: actions/checkout@v4
+        with:
+          path: inihub
 
-      - name: Publish with cached Steam session
+      - name: Checkout publisher source
+        uses: actions/checkout@v4
+        with:
+          repository: BLACKLABELAPPS/rustedwarfareworkshop
+          ref: main
+          path: publisher
+
+      - name: Select cached Steam account
+        shell: pwsh
+        env:
+          STEAM_ACCOUNT_POOL_JSON: ${{ secrets.STEAM_ACCOUNT_POOL_JSON }}
+          FALLBACK_STEAM_USERNAME: ${{ secrets.STEAM_USERNAME }}
+          FALLBACK_STEAM_PASSWORD: ${{ secrets.STEAM_PASSWORD }}
+          FALLBACK_STEAM_GUARD_CODE: ${{ secrets.STEAM_GUARD_CODE }}
+          FALLBACK_STEAM_CONFIG_VDF: ${{ secrets.STEAM_CONFIG_VDF }}
+          FALLBACK_STEAM_LOCALCONFIG_VDF: ${{ secrets.STEAM_LOCALCONFIG_VDF }}
+          FALLBACK_STEAM_USERDATA_ID: ${{ secrets.STEAM_USERDATA_ID }}
+          FALLBACK_STEAM_SSFN_FILE_NAME: ${{ secrets.STEAM_SSFN_FILE_NAME }}
+          FALLBACK_STEAM_SSFN_FILE_CONTENTS: ${{ secrets.STEAM_SSFN_FILE_CONTENTS }}
+        run: |
+          function Set-Env([string]$Name, [string]$Value) {
+            if ([string]::IsNullOrWhiteSpace($Value)) { return }
+            Write-Output "::$('add-mask')::$Value"
+            $delimiter = "RW_$([Guid]::NewGuid().ToString('N'))"
+            Add-Content $env:GITHUB_ENV "$Name<<$delimiter"
+            Add-Content $env:GITHUB_ENV $Value
+            Add-Content $env:GITHUB_ENV $delimiter
+          }
+          $raw = [string]$env:STEAM_ACCOUNT_POOL_JSON
+          if ([string]::IsNullOrWhiteSpace($raw)) {
+            foreach ($name in @('STEAM_USERNAME','STEAM_PASSWORD','STEAM_GUARD_CODE','STEAM_CONFIG_VDF','STEAM_LOCALCONFIG_VDF','STEAM_USERDATA_ID','STEAM_SSFN_FILE_NAME','STEAM_SSFN_FILE_CONTENTS')) {
+              Set-Env $name ([string](Get-Item "Env:FALLBACK_$name" -ErrorAction SilentlyContinue).Value)
+            }
+            exit 0
+          }
+          $parsed = $raw | ConvertFrom-Json
+          if ($parsed -is [string]) { $parsed = ([string]$parsed) | ConvertFrom-Json }
+          $accounts = if ($parsed -is [array]) { @($parsed) } elseif ($parsed.accounts) { @($parsed.accounts) } else { @($parsed) }
+          if ($accounts.Count -eq 0) { throw 'STEAM_ACCOUNT_POOL_JSON contains no accounts.' }
+          $index = [Math]::Abs([long]'${{ inputs.job_id }}') % $accounts.Count
+          $account = $accounts[$index]
+          $aliases = @{
+            STEAM_USERNAME=@('STEAM_USERNAME','steam_username','username');
+            STEAM_PASSWORD=@('STEAM_PASSWORD','steam_password','password');
+            STEAM_GUARD_CODE=@('STEAM_GUARD_CODE','steam_guard_code','guard_code');
+            STEAM_CONFIG_VDF=@('STEAM_CONFIG_VDF','steam_config_vdf','config_vdf','config_vdf_base64');
+            STEAM_LOCALCONFIG_VDF=@('STEAM_LOCALCONFIG_VDF','steam_localconfig_vdf','localconfig_vdf','localconfig_vdf_base64');
+            STEAM_USERDATA_ID=@('STEAM_USERDATA_ID','steam_userdata_id','userdata_id');
+            STEAM_SSFN_FILE_NAME=@('STEAM_SSFN_FILE_NAME','steam_ssfn_file_name','ssfn_file_name');
+            STEAM_SSFN_FILE_CONTENTS=@('STEAM_SSFN_FILE_CONTENTS','steam_ssfn_file_contents','ssfn_file_contents','ssfn_file_contents_base64')
+          }
+          foreach ($target in $aliases.Keys) {
+            foreach ($name in $aliases[$target]) {
+              $prop = $account.PSObject.Properties[$name]
+              if ($null -ne $prop -and -not [string]::IsNullOrWhiteSpace([string]$prop.Value)) {
+                Set-Env $target ([string]$prop.Value)
+                break
+              }
+            }
+          }
+
+      - name: Publish through SteamCMD
         id: publish
         shell: pwsh
         env:
-          RW_JOB_ID: ${{ inputs.job_id }}
-          RW_REQUEST_ID: ${{ inputs.request_id }}
-          RW_REQUESTER: ${{ inputs.requester }}
-          RW_APP_ID: ${{ inputs.app_id }}
+          RW_CONTENT_URL: ${{ inputs.content_url }}
+          RW_TITLE: ${{ inputs.title }}
+          RW_DESCRIPTION: ${{ inputs.description }}
+          RW_CHANGENOTE: ${{ inputs.changenote }}
+          RW_PREVIEW_IMAGE_URL: ${{ inputs.preview_image_url }}
           RW_CATEGORY: ${{ inputs.category }}
           RW_WORKSHOP_TAG: ${{ inputs.workshop_tag }}
           RW_MOD_TAG: ${{ inputs.mod_tag }}
           RW_PLATFORM_TARGETS: ${{ inputs.platform_targets }}
-          RW_DETECTED_TAGS: ${{ inputs.detected_tags }}
-          RW_TITLE: ${{ inputs.title }}
-          RW_DESCRIPTION: ${{ inputs.description }}
-          RW_CHANGENOTE: ${{ inputs.changenote }}
-          RW_CONTENT_URL: ${{ inputs.content_url }}
-          RW_PREVIEW_IMAGE_URL: ${{ inputs.preview_image_url }}
+          RW_APP_ID: ${{ inputs.app_id }}
           RW_PUBLISHED_FILE_ID: ${{ inputs.published_file_id }}
           RW_MIN_VERSION: ${{ inputs.min_version }}
-          STEAM_ACCOUNT_POOL_JSON: ${{ secrets.STEAM_ACCOUNT_POOL_JSON }}
-          STEAM_USERNAME: ${{ secrets.STEAM_USERNAME }}
-          STEAM_PASSWORD: ${{ secrets.STEAM_PASSWORD }}
-          STEAM_GUARD_CODE: ${{ secrets.STEAM_GUARD_CODE }}
-          STEAM_CONFIG_VDF: ${{ secrets.STEAM_CONFIG_VDF }}
-          STEAM_LOCALCONFIG_VDF: ${{ secrets.STEAM_LOCALCONFIG_VDF }}
-          STEAM_USERDATA_ID: ${{ secrets.STEAM_USERDATA_ID }}
-          STEAM_SSFN_FILE_NAME: ${{ secrets.STEAM_SSFN_FILE_NAME }}
-          STEAM_SSFN_FILE_CONTENTS: ${{ secrets.STEAM_SSFN_FILE_CONTENTS }}
           STORAGE_CONFIGS_JSON: ${{ secrets.STORAGE_CONFIGS_JSON }}
           WORKFLOW_REPO_CONFIGS_JSON: ${{ secrets.WORKFLOW_REPO_CONFIGS_JSON }}
-          INIHUB_STATUS_TOKEN: ${{ github.token }}
-        run: ./scripts/inihub_workshop_publish.ps1
+        run: |
+          $script = Join-Path $env:GITHUB_WORKSPACE 'publisher/steamworshopdownlaoder/scripts/workshop_publish.ps1'
+          if (-not (Test-Path -LiteralPath $script)) { throw "Publisher script not found: $script" }
+          & $script `
+            -ContentUrl $env:RW_CONTENT_URL `
+            -Title $env:RW_TITLE `
+            -Description $env:RW_DESCRIPTION `
+            -ChangeNote $env:RW_CHANGENOTE `
+            -PreviewImageUrl $env:RW_PREVIEW_IMAGE_URL `
+            -Category $env:RW_CATEGORY `
+            -WorkshopTag $env:RW_WORKSHOP_TAG `
+            -ModTag $env:RW_MOD_TAG `
+            -PlatformTargets $env:RW_PLATFORM_TARGETS `
+            -AppId $env:RW_APP_ID `
+            -PublishedFileId $env:RW_PUBLISHED_FILE_ID `
+            -Visibility '0' `
+            -MinVersion $env:RW_MIN_VERSION `
+            -OutputDir (Join-Path $env:RUNNER_TEMP 'inihub-publish') 2>&1 | Tee-Object -FilePath (Join-Path $env:RUNNER_TEMP 'publish.log')
 
-      - name: Summary
+      - name: Persist result in IniHub
         if: always()
         shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PUBLISH_OUTCOME: ${{ steps.publish.outcome }}
+          PUBLISHED_FILE_ID: ${{ steps.publish.outputs.published_file_id }}
+          RW_JOB_ID: ${{ inputs.job_id }}
+          RW_REQUEST_ID: ${{ inputs.request_id }}
+          RW_REQUESTER: ${{ inputs.requester }}
         run: |
+          $jobId = $env:RW_JOB_ID
+          $logPath = Join-Path $env:RUNNER_TEMP 'publish.log'
+          $log = if (Test-Path $logPath) { Get-Content $logPath -Raw } else { '' }
+          if ($log.Length -gt 30000) { $log = $log.Substring($log.Length - 30000) }
+          $ok = $env:PUBLISH_OUTCOME -eq 'success'
+          $status = [ordered]@{
+            id=[long]$jobId; request_id=$env:RW_REQUEST_ID; requester=$env:RW_REQUESTER;
+            requester_lower=$env:RW_REQUESTER.ToLowerInvariant(); status='completed';
+            conclusion=$(if ($ok) {'success'} else {'failure'});
+            message=$(if ($ok) {'Upload completed in GitHub Actions.'} else {'Upload failed in GitHub Actions.'});
+            transport='github-actions-inihub'; workflow='workshop-publish.yml';
+            workflow_run_id=[long]'${{ github.run_id }}';
+            workflow_run_url='${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}';
+            published_file_id=[string]$env:PUBLISHED_FILE_ID; steamcmd_log=$log;
+            failure_summary=$(if ($ok) {''} else {($log -split "`n" | Select-Object -Last 20) -join "`n"});
+            completed_at=[DateTime]::UtcNow.ToString('o'); updated_at=[DateTime]::UtcNow.ToString('o')
+          }
+          $json = $status | ConvertTo-Json -Depth 12
+          $path = "runtime/workshop_jobs/$jobId/status.json"
+          $encoded = ($path.Split('/') | ForEach-Object {[Uri]::EscapeDataString($_)}) -join '/'
+          $uri = "https://api.github.com/repos/${{ github.repository }}/contents/$encoded"
+          $headers = @{Authorization="Bearer $env:GH_TOKEN"; Accept='application/vnd.github+json'; 'X-GitHub-Api-Version'='2022-11-28'; 'User-Agent'='IniHub-Publisher'}
+          $sha = ''
+          try { $sha = [string](Invoke-RestMethod "$uri?ref=${{ github.ref_name }}" -Headers $headers).sha } catch {}
+          $body = @{message="Workshop publish status: $jobId"; content=[Convert]::ToBase64String([Text.Encoding]::UTF8.GetBytes($json)); branch='${{ github.ref_name }}'}
+          if ($sha) { $body.sha = $sha }
+          Invoke-RestMethod $uri -Method Put -Headers $headers -ContentType 'application/json' -Body ($body | ConvertTo-Json -Depth 6) | Out-Null
           "## IniHub Workshop Publish" >> $env:GITHUB_STEP_SUMMARY
-          "" >> $env:GITHUB_STEP_SUMMARY
-          "- Job: ${{ inputs.job_id }}" >> $env:GITHUB_STEP_SUMMARY
-          "- Requester: ${{ inputs.requester }}" >> $env:GITHUB_STEP_SUMMARY
-          "- Category: ${{ inputs.category }}" >> $env:GITHUB_STEP_SUMMARY
-          "- Platforms: ${{ inputs.platform_targets }}" >> $env:GITHUB_STEP_SUMMARY
-          "- Published file ID: ${{ steps.publish.outputs.published_file_id }}" >> $env:GITHUB_STEP_SUMMARY
+          "- Job: $jobId" >> $env:GITHUB_STEP_SUMMARY
+          "- Result: $($status.conclusion)" >> $env:GITHUB_STEP_SUMMARY
+          "- Published file ID: $($status.published_file_id)" >> $env:GITHUB_STEP_SUMMARY
