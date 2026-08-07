@@ -22,15 +22,16 @@
     "request_id": "job-1786073512367260",
     "requester": "ReikRtS"
   },
-  "message": "Waiting for GitHub Actions in IniHub.",
+  "message": "GitHub Actions accepted the IniHub publish job.",
   "created_at": "2026-08-07T03:31:53.363959Z",
   "workflow": "workshop-publish.yml",
-  "workflow_run_id": 0,
-  "workflow_run_url": "",
+  "workflow_run_id": 31144631947,
+  "workflow_run_url": "https://github.com/BLACKLABELAPPS/Rusted-Warfare-IniHub/actions/runs/31144631947",
   "published_file_id": "",
   "failure_summary": "",
   "steamcmd_log": "",
   "id": 1786073512367260,
   "transport": "github-actions-inihub",
-  "updated_at": "2026-08-07T03:31:53.570780Z"
+  "updated_at": "2026-08-07T03:31:59.545926Z",
+  "dispatch_requested_at": "2026-08-07T03:31:53.363959Z"
 }
