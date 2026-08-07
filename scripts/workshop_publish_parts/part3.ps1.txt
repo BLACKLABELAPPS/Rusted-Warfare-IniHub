@@ -1,0 +1,220 @@
+    -WorkflowRepoConfigsJson $WorkflowRepoConfigsJson
+  if ([string]::IsNullOrWhiteSpace($token)) {
+    Write-Step "GitHub API fallback skipped: no token found for $($parts.Owner)/$($parts.Repo)."
+    return $false
+  }
+
+  $apiHeaders = @{
+    Authorization          = "Bearer $token"
+    Accept                 = "application/vnd.github+json"
+    "X-GitHub-Api-Version" = "2022-11-28"
+    "User-Agent"           = "rw-workshop-publish"
+  }
+
+  try {
+    Write-Step "GitHub API fallback: resolving release '$($parts.Tag)' on $($parts.Owner)/$($parts.Repo)."
+    $tagEncoded = [Uri]::EscapeDataString([string]$parts.Tag)
+    $releaseUrl = "https://api.github.com/repos/$($parts.Owner)/$($parts.Repo)/releases/tags/$tagEncoded"
+    $release = Invoke-RestMethod -Uri $releaseUrl -Headers $apiHeaders -Method GET -TimeoutSec 70
+    $assets = @($release.assets)
+    $asset = $assets | Where-Object { [string]$_.name -ieq [string]$parts.AssetName } | Select-Object -First 1
+    if ($null -eq $asset) {
+      Write-Step "GitHub API fallback: asset '$([string]$parts.AssetName)' not found in release '$([string]$parts.Tag)'."
+      return $false
+    }
+
+    $assetDownloadHeaders = @{
+      Authorization          = "Bearer $token"
+      Accept                 = "application/octet-stream"
+      "X-GitHub-Api-Version" = "2022-11-28"
+      "User-Agent"           = "rw-workshop-publish"
+    }
+    $assetUrl = "https://api.github.com/repos/$($parts.Owner)/$($parts.Repo)/releases/assets/$($asset.id)"
+    Invoke-WebRequest `
+      -Uri $assetUrl `
+      -Headers $assetDownloadHeaders `
+      -OutFile $OutFile `
+      -MaximumRedirection 8 `
+      -TimeoutSec 90
+
+    Write-Step "GitHub API fallback: asset download completed."
+    return (Test-Path -LiteralPath $OutFile)
+  } catch {
+    Write-Step "GitHub API fallback failed: $($_.Exception.Message)"
+    return $false
+  }
+}
+
+function Download-FileWithRetry {
+  param(
+    [Parameter(Mandatory = $true)][string]$Url,
+    [Parameter(Mandatory = $true)][string]$OutFile,
+    [Parameter(Mandatory = $false)][string]$StorageConfigsJson = "",
+    [Parameter(Mandatory = $false)][string]$WorkflowRepoConfigsJson = ""
+  )
+
+  $maxAttempts = 4
+  for ($attempt = 1; $attempt -le $maxAttempts; $attempt++) {
+    Write-Step "Download attempt $attempt/$maxAttempts for $Url"
+    try {
+      Invoke-WebRequest -Uri $Url -OutFile $OutFile -MaximumRedirection 8 -TimeoutSec 70
+      if (Test-Path -LiteralPath $OutFile) {
+        Write-Step "Download succeeded via direct URL."
+        return
+      }
+    } catch {
+      $downloadedViaApi = Try-DownloadGitHubReleaseAssetByApi `
+        -Url $Url `
+        -OutFile $OutFile `
+        -StorageConfigsJson $StorageConfigsJson `
+        -WorkflowRepoConfigsJson $WorkflowRepoConfigsJson
+      if ($downloadedViaApi) {
+        Write-Step "Downloaded private GitHub release asset via API fallback."
+        return
+      }
+      if ($attempt -eq $maxAttempts) {
+        throw "Failed to download file from $Url. $($_.Exception.Message)"
+      }
+      Start-Sleep -Seconds (2 * $attempt)
+    }
+  }
+}
+
+function Expand-ArchiveSafe {
+  param(
+    [Parameter(Mandatory = $true)][string]$ArchivePath,
+    [Parameter(Mandatory = $true)][string]$Destination
+  )
+  $ext = [IO.Path]::GetExtension($ArchivePath).ToLowerInvariant()
+  if ($ext -eq ".rwmod") {
+    $tmpZip = [IO.Path]::ChangeExtension($ArchivePath, ".zip")
+    Copy-Item -LiteralPath $ArchivePath -Destination $tmpZip -Force
+    Expand-Archive -LiteralPath $tmpZip -DestinationPath $Destination -Force
+    Remove-Item -LiteralPath $tmpZip -Force -ErrorAction SilentlyContinue
+    return
+  }
+  Expand-Archive -LiteralPath $ArchivePath -DestinationPath $Destination -Force
+}
+
+function Resolve-EffectiveContentRoot {
+  param([string]$BasePath)
+  $dirs = @(Get-ChildItem -LiteralPath $BasePath -Directory -Force -ErrorAction SilentlyContinue)
+  $files = @(Get-ChildItem -LiteralPath $BasePath -File -Force -ErrorAction SilentlyContinue)
+  if ($files.Count -eq 0 -and $dirs.Count -eq 1) {
+    return $dirs[0].FullName
+  }
+  return $BasePath
+}
+
+function Select-PreviewCandidate {
+  param([string]$ContentRoot)
+
+  $preferredNames = @("preview", "thumbnail", "thumb", "icon", "cover")
+  $images = @(
+    Get-ChildItem -LiteralPath $ContentRoot -Recurse -File -Force -ErrorAction SilentlyContinue |
+      Where-Object { $_.Extension -match '^\.(png|jpg|jpeg|webp)$' }
+  )
+  if ($images.Count -eq 0) {
+    return ""
+  }
+
+  foreach ($name in $preferredNames) {
+    $match = $images | Where-Object { $_.BaseName.ToLowerInvariant().Contains($name) } | Select-Object -First 1
+    if ($match) {
+      return $match.FullName
+    }
+  }
+
+  return ($images | Select-Object -First 1).FullName
+}
+
+function Normalize-PreviewImage {
+  param(
+    [Parameter(Mandatory = $true)][string]$InputPath,
+    [Parameter(Mandatory = $true)][string]$OutputPath
+  )
+
+  try {
+    Add-Type -AssemblyName System.Drawing
+    $source = [System.Drawing.Image]::FromFile($InputPath)
+    try {
+      $size = 512
+      $bitmap = New-Object System.Drawing.Bitmap($size, $size)
+      $graphics = [System.Drawing.Graphics]::FromImage($bitmap)
+      try {
+        $graphics.Clear([System.Drawing.Color]::FromArgb(20, 20, 20))
+        $graphics.InterpolationMode = [System.Drawing.Drawing2D.InterpolationMode]::HighQualityBicubic
+        $graphics.SmoothingMode = [System.Drawing.Drawing2D.SmoothingMode]::HighQuality
+        $graphics.PixelOffsetMode = [System.Drawing.Drawing2D.PixelOffsetMode]::HighQuality
+
+        $ratio = [Math]::Min($size / $source.Width, $size / $source.Height)
+        $w = [int][Math]::Max(1, [Math]::Round($source.Width * $ratio))
+        $h = [int][Math]::Max(1, [Math]::Round($source.Height * $ratio))
+        $x = [int][Math]::Floor(($size - $w) / 2)
+        $y = [int][Math]::Floor(($size - $h) / 2)
+        $graphics.DrawImage($source, $x, $y, $w, $h)
+
+        $bitmap.Save($OutputPath, [System.Drawing.Imaging.ImageFormat]::Png)
+      } finally {
+        $graphics.Dispose()
+        $bitmap.Dispose()
+      }
+    } finally {
+      $source.Dispose()
+    }
+  } catch {
+    Copy-Item -LiteralPath $InputPath -Destination $OutputPath -Force
+  }
+}
+
+function Build-ModInfo {
+  param(
+    [Parameter(Mandatory = $true)][string]$Path,
+    [Parameter(Mandatory = $true)][string]$TitleValue,
+    [Parameter(Mandatory = $true)][string]$DescriptionValue,
+    [Parameter(Mandatory = $true)][string]$TagValue,
+    [Parameter(Mandatory = $true)][string]$MinVersionValue
+  )
+
+  $modInfo = @(
+    "[mod]",
+    "title: $TitleValue",
+    "minVersion: $MinVersionValue",
+    "description: $DescriptionValue",
+    "tags: $TagValue"
+  ) -join "`n"
+
+  [IO.File]::WriteAllText($Path, $modInfo, [System.Text.UTF8Encoding]::new($false))
+}
+
+function Escape-VdfValue {
+  param([string]$Value)
+  return ([string]$Value).Replace('\', '\\').Replace('"', '\"')
+}
+
+function Restore-SteamSession {
+  param(
+    [Parameter(Mandatory = $true)][string]$SteamRoot,
+    [Parameter(Mandatory = $false)][string]$ConfigBase64 = "",
+    [Parameter(Mandatory = $false)][string]$LocalConfigBase64 = "",
+    [Parameter(Mandatory = $false)][string]$UserDataId = "",
+    [Parameter(Mandatory = $false)][string]$SsfnName = "",
+    [Parameter(Mandatory = $false)][string]$SsfnBase64 = ""
+  )
+
+  $restoredAny = $false
+
+  if (-not [string]::IsNullOrWhiteSpace($ConfigBase64)) {
+    $configDir = Join-Path $SteamRoot "config"
+    if (-not (Test-Path -LiteralPath $configDir)) {
+      New-Item -ItemType Directory -Path $configDir -Force | Out-Null
+    }
+    $configBytes = [Convert]::FromBase64String($ConfigBase64)
+    [IO.File]::WriteAllBytes((Join-Path $configDir "config.vdf"), $configBytes)
+    $restoredAny = $true
+    Write-Step "Restored config/config.vdf session file."
+  }
+
+  if (-not [string]::IsNullOrWhiteSpace($LocalConfigBase64)) {
+    $safeUserDataId = [string]$UserDataId
+    if ([string]::IsNullOrWhiteSpace($safeUserDataId)) {
