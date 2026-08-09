@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-09T11:21:37.707901Z",
+  "updatedAt": "2026-08-09T11:21:44.538404Z",
   "items": [
     {
       "id": "bundled-tank_starter",
@@ -35,11 +35,12 @@
       "assets": [],
       "assetCount": 0,
       "reportCount": 0,
-      "votes": 0,
+      "votes": 1,
       "verified": false,
       "experimental": true,
       "fileExtension": "ini",
-      "status": "bundled"
+      "status": "bundled",
+      "updatedAt": "2026-08-09T11:21:44.538386Z"
     },
     {
       "id": "bundled-range_message",
@@ -246,6 +247,9 @@
       "reikrts": 1
     },
     "bundled-range_message": {
+      "reikrts": 1
+    },
+    "bundled-community_hidden_keys": {
       "reikrts": 1
     }
   }
