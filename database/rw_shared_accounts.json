@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-09T11:44:49.957676Z",
+  "updatedAt": "2026-08-09T11:44:57.693433Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -265,7 +265,7 @@
         }
       },
       "created_at": "2026-08-09T11:44:25.045212Z",
-      "updated_at": "2026-08-09T11:44:49.957663Z"
+      "updated_at": "2026-08-09T11:44:57.693418Z"
     }
   ],
   "tournamentProfiles": {
