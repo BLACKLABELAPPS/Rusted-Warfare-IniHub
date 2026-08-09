@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-09T11:22:22.304633Z",
+  "updatedAt": "2026-08-09T11:22:31.280159Z",
   "items": [
     {
       "id": "bundled-tank_starter",
@@ -218,12 +218,12 @@
       "assets": [],
       "assetCount": 0,
       "reportCount": 0,
-      "votes": -1,
+      "votes": 1,
       "verified": true,
       "experimental": false,
       "fileExtension": "ini",
       "status": "bundled",
-      "updatedAt": "2026-08-09T06:26:22.691880Z"
+      "updatedAt": "2026-08-09T11:22:31.280143Z"
     },
     {
       "id": "bundled-track_marks",
@@ -249,7 +249,7 @@
   "reports": [],
   "voters": {
     "bundled-turret_popoff": {
-      "reikrts": -1
+      "reikrts": 1
     },
     "bundled-tank_starter": {
       "reikrts": 1
