@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-09T06:26:22.691895Z",
+  "updatedAt": "2026-08-09T11:21:35.001165Z",
   "items": [
     {
       "id": "bundled-tank_starter",
@@ -15,11 +15,12 @@
       "assets": [],
       "assetCount": 0,
       "reportCount": 0,
-      "votes": 0,
+      "votes": 1,
       "verified": true,
       "experimental": false,
       "fileExtension": "ini",
-      "status": "bundled"
+      "status": "bundled",
+      "updatedAt": "2026-08-09T11:21:35.001150Z"
     },
     {
       "id": "bundled-community_hidden_keys",
@@ -239,6 +240,9 @@
   "voters": {
     "bundled-turret_popoff": {
       "reikrts": -1
+    },
+    "bundled-tank_starter": {
+      "reikrts": 1
     }
   }
 }
