@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-09T11:22:00.684371Z",
+  "updatedAt": "2026-08-09T11:22:03.859268Z",
   "items": [
     {
       "id": "bundled-tank_starter",
@@ -117,11 +117,12 @@
       "assets": [],
       "assetCount": 0,
       "reportCount": 0,
-      "votes": 0,
+      "votes": 1,
       "verified": true,
       "experimental": false,
       "fileExtension": "ini",
-      "status": "bundled"
+      "status": "bundled",
+      "updatedAt": "2026-08-09T11:22:03.859255Z"
     },
     {
       "id": "bundled-dynamic_class_tags",
@@ -258,6 +259,9 @@
       "reikrts": 1
     },
     "bundled-editor_detection": {
+      "reikrts": 1
+    },
+    "bundled-flying_shadow": {
       "reikrts": 1
     }
   }
