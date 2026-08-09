@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-09T11:22:06.520334Z",
+  "updatedAt": "2026-08-09T11:22:09.639153Z",
   "items": [
     {
       "id": "bundled-tank_starter",
@@ -158,11 +158,12 @@
       "assets": [],
       "assetCount": 0,
       "reportCount": 0,
-      "votes": 0,
+      "votes": 1,
       "verified": true,
       "experimental": false,
       "fileExtension": "ini",
-      "status": "bundled"
+      "status": "bundled",
+      "updatedAt": "2026-08-09T11:22:09.639139Z"
     },
     {
       "id": "bundled-scrolling_image_decal",
@@ -266,6 +267,9 @@
       "reikrts": 1
     },
     "bundled-dynamic_class_tags": {
+      "reikrts": 1
+    },
+    "bundled-action_icon_layers": {
       "reikrts": 1
     }
   }
