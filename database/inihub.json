@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-09T11:21:44.538404Z",
+  "updatedAt": "2026-08-09T11:21:48.438316Z",
   "items": [
     {
       "id": "bundled-tank_starter",
@@ -20,7 +20,7 @@
       "experimental": false,
       "fileExtension": "ini",
       "status": "bundled",
-      "updatedAt": "2026-08-09T11:21:35.001150Z"
+      "updatedAt": "2026-08-09T11:21:48.438300Z"
     },
     {
       "id": "bundled-community_hidden_keys",
