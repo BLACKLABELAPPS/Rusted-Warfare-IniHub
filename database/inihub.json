@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-09T11:21:56.268846Z",
+  "updatedAt": "2026-08-09T11:22:00.684371Z",
   "items": [
     {
       "id": "bundled-tank_starter",
@@ -97,11 +97,12 @@
       "assets": [],
       "assetCount": 0,
       "reportCount": 0,
-      "votes": 0,
+      "votes": 1,
       "verified": false,
       "experimental": true,
       "fileExtension": "ini",
-      "status": "bundled"
+      "status": "bundled",
+      "updatedAt": "2026-08-09T11:22:00.684352Z"
     },
     {
       "id": "bundled-flying_shadow",
@@ -254,6 +255,9 @@
       "reikrts": 1
     },
     "bundled-income_multiplier_detector": {
+      "reikrts": 1
+    },
+    "bundled-editor_detection": {
       "reikrts": 1
     }
   }
