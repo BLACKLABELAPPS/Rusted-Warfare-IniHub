@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-09T11:44:57.693433Z",
+  "updatedAt": "2026-08-09T11:45:07.528815Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -130,7 +130,7 @@
             "match_id": 2,
             "round": 1,
             "slot": 2,
-            "status": "scheduled",
+            "status": "completed",
             "participants": [
               {
                 "side": 1,
@@ -142,7 +142,7 @@
                 "side": 2,
                 "team_id": "Bot 4",
                 "score": 0,
-                "is_winner": 0
+                "is_winner": 1
               }
             ],
             "next_match_id": 5,
@@ -206,7 +206,7 @@
               },
               {
                 "side": 2,
-                "team_id": null,
+                "team_id": "Bot 4",
                 "score": 0,
                 "is_winner": 0
               }
@@ -265,7 +265,7 @@
         }
       },
       "created_at": "2026-08-09T11:44:25.045212Z",
-      "updated_at": "2026-08-09T11:44:57.693418Z"
+      "updated_at": "2026-08-09T11:45:07.528799Z"
     }
   ],
   "tournamentProfiles": {
