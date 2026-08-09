@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-09T06:24:42.434131Z",
+  "updatedAt": "2026-08-09T06:25:18.741003Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -44,7 +44,77 @@
   },
   "posts": [],
   "favorites": {},
-  "tournaments": [],
+  "tournaments": [
+    {
+      "id": "rw-hl6b0ab2be-39n59",
+      "name": "hola",
+      "description": "ss",
+      "owner_username": "ReikRtS",
+      "owner_username_lower": "reikrts",
+      "created_by": "ReikRtS",
+      "mode": "single",
+      "format": "single_elimination",
+      "status": "upcoming",
+      "max_participants": 16,
+      "start_date": "2026-08-10",
+      "start_datetime": "2026-08-10T06:24:56.731994Z",
+      "start_at": "2026-08-10T06:24:56.731994Z",
+      "participants": [
+        {
+          "username": "ReikRtS",
+          "username_lower": "reikrts",
+          "avatar_code": "",
+          "joined_at": "2026-08-09T06:25:18.322298Z",
+          "tournament_color_code": "C1"
+        }
+      ],
+      "data_json": {
+        "teams": [],
+        "players": [
+          {
+            "username": "ReikRtS",
+            "is_bot": false,
+            "color_code": "C1"
+          },
+          {
+            "username": "ds",
+            "is_bot": true,
+            "color_code": "C2"
+          }
+        ],
+        "matches": [
+          {
+            "match_id": 1,
+            "round": 1,
+            "slot": 1,
+            "status": "scheduled",
+            "participants": [
+              {
+                "side": 1,
+                "team_id": "ReikRtS",
+                "score": 0,
+                "is_winner": 0
+              },
+              {
+                "side": 2,
+                "team_id": "ds",
+                "score": 0,
+                "is_winner": 0
+              }
+            ],
+            "next_match_id": null,
+            "next_slot": null
+          }
+        ],
+        "meta": {
+          "root_match_id": 1,
+          "next_local_id": 2
+        }
+      },
+      "created_at": "2026-08-09T06:25:18.322298Z",
+      "updated_at": "2026-08-09T06:25:18.322298Z"
+    }
+  ],
   "tournamentProfiles": {
     "reikrts": {
       "username": "ReikRtS",
