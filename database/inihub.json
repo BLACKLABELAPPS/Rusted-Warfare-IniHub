@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-09T11:22:03.859268Z",
+  "updatedAt": "2026-08-09T11:22:06.520334Z",
   "items": [
     {
       "id": "bundled-tank_starter",
@@ -138,11 +138,12 @@
       "assets": [],
       "assetCount": 0,
       "reportCount": 0,
-      "votes": 0,
+      "votes": 1,
       "verified": false,
       "experimental": true,
       "fileExtension": "ini",
-      "status": "bundled"
+      "status": "bundled",
+      "updatedAt": "2026-08-09T11:22:06.520316Z"
     },
     {
       "id": "bundled-action_icon_layers",
@@ -262,6 +263,9 @@
       "reikrts": 1
     },
     "bundled-flying_shadow": {
+      "reikrts": 1
+    },
+    "bundled-dynamic_class_tags": {
       "reikrts": 1
     }
   }
