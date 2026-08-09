@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-09T11:22:14.932136Z",
+  "updatedAt": "2026-08-09T11:22:18.135350Z",
   "items": [
     {
       "id": "bundled-tank_starter",
@@ -198,11 +198,12 @@
       "assets": [],
       "assetCount": 0,
       "reportCount": 0,
-      "votes": 0,
+      "votes": 1,
       "verified": true,
       "experimental": false,
       "fileExtension": "ini",
-      "status": "bundled"
+      "status": "bundled",
+      "updatedAt": "2026-08-09T11:22:18.135331Z"
     },
     {
       "id": "bundled-turret_popoff",
@@ -274,6 +275,9 @@
       "reikrts": 1
     },
     "bundled-scrolling_image_decal": {
+      "reikrts": 1
+    },
+    "bundled-plane_trails": {
       "reikrts": 1
     }
   }
