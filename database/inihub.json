@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-09T11:21:35.001165Z",
+  "updatedAt": "2026-08-09T11:21:37.707901Z",
   "items": [
     {
       "id": "bundled-tank_starter",
@@ -54,11 +54,12 @@
       "assets": [],
       "assetCount": 0,
       "reportCount": 0,
-      "votes": 0,
+      "votes": 1,
       "verified": true,
       "experimental": false,
       "fileExtension": "ini",
-      "status": "bundled"
+      "status": "bundled",
+      "updatedAt": "2026-08-09T11:21:37.707889Z"
     },
     {
       "id": "bundled-income_multiplier_detector",
@@ -242,6 +243,9 @@
       "reikrts": -1
     },
     "bundled-tank_starter": {
+      "reikrts": 1
+    },
+    "bundled-range_message": {
       "reikrts": 1
     }
   }
