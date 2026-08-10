@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-09T19:49:18.720646Z",
+  "updatedAt": "2026-08-10T01:05:57.433444Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -43,7 +43,21 @@
     }
   },
   "posts": [],
-  "favorites": {},
+  "favorites": {
+    "reikrts": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3780787931&appid=647960",
+        "title": "T_Walls_v0.8_Doors!_+_easter_egg",
+        "date": "09/08/2026",
+        "time": "20:05:56",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/17942864589076292648/D87B6B0BE8D0A91E2D003AE2957F0EEFB310EE10/",
+        "source": "favorite"
+      }
+    ]
+  },
   "tournaments": [],
   "tournamentProfiles": {
     "reikrts": {
