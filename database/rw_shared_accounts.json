@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-11T08:02:34.966656Z",
+  "updatedAt": "2026-08-11T08:03:20.743942Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -110,6 +110,17 @@
       }
     ],
     "villaviray": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3447083405&appid=647960",
+        "title": "Command_&_Conquer_Rising_Powers_2",
+        "date": "11/08/2026",
+        "time": "16:03:14",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/53588031908276420/A679267E9344E0CDF45F99CAD72D5A71941AACB2/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3104260133&appid=647960",
         "title": "C&C_Generals_Units_V.0.3.4b",
