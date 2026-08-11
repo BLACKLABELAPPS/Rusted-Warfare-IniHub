@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-11T11:35:52.324474Z",
+  "updatedAt": "2026-08-11T11:36:34.496038Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -331,16 +331,17 @@
         "http://192.168.110.18:8765"
       ],
       "executorUrls": [
+        "https://tvs-tribes-accurate-battle.trycloudflare.com",
         "http://192.168.110.18:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-11T11:35:52.324474Z",
-      "publicUrl": "https://tried-pdt-interpretation-remember.trycloudflare.com",
-      "executorUrl": "https://tried-pdt-interpretation-remember.trycloudflare.com",
+      "updatedAt": "2026-08-11T11:36:34.496038Z",
+      "publicUrl": "https://tvs-tribes-accurate-battle.trycloudflare.com",
+      "executorUrl": "https://tvs-tribes-accurate-battle.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-08-11T07:02:38.741768Z"
+      "lastSeenAt": "2026-08-11T11:36:34.069457Z"
     }
   }
 }
