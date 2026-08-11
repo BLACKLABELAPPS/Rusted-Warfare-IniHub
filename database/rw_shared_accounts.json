@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-11T03:01:48.898714Z",
+  "updatedAt": "2026-08-11T06:16:05.634710Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -79,6 +79,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-11T02:16:35.632542Z",
       "updatedAt": "2026-08-11T02:16:35.632556Z"
+    },
+    "villaviray": {
+      "username": "villaviray",
+      "usernameLower": "villaviray",
+      "passwordSalt": "Z7I06S2K7zKpQkaAN-ZWHm8w_f1QIlYn",
+      "passwordHash": "9aa5cb89d4abab19dacc83a9b5df91ea1c6bf2849800230e337e42b038bea056",
+      "avatarCode": "B380-T5-W17-R35-L2-N23-U1-X11-F72-C0",
+      "collectionId": "",
+      "collectionTitle": "villaviray",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-11T06:16:05.634574Z",
+      "updatedAt": "2026-08-11T06:16:05.634614Z"
     }
   },
   "posts": [],
@@ -158,6 +171,17 @@
       "username": "VladTps5",
       "avatar_code": "B156-T39-W33-R1-L4-N13-U27-X41-F44-C0",
       "joined_at": "2026-08-11T02:16:35.632542Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "villaviray": {
+      "username": "villaviray",
+      "avatar_code": "B380-T5-W17-R35-L2-N23-U1-X11-F72-C0",
+      "joined_at": "2026-08-11T06:16:05.634574Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
