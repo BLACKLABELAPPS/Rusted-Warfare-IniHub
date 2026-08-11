@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-11T11:41:57.532920Z",
+  "updatedAt": "2026-08-11T11:43:39.229899Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -337,7 +337,7 @@
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-11T11:41:57.532920Z",
+      "updatedAt": "2026-08-11T11:43:39.229899Z",
       "publicUrl": "https://tvs-tribes-accurate-battle.trycloudflare.com",
       "executorUrl": "https://tvs-tribes-accurate-battle.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
