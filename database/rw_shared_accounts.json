@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-11T06:35:01.494790Z",
+  "updatedAt": "2026-08-11T06:57:34.760354Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -110,6 +110,17 @@
       }
     ],
     "villaviray": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3670806880&appid=647960",
+        "title": "Mental_Omega_3.04",
+        "date": "11/08/2026",
+        "time": "14:57:31",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/9815268180383877127/4C5321032B0891A42182A4900B1E1AF52244A28C/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2585122844&appid=647960",
         "title": "workshop_2585122844",
