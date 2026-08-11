@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-11T06:17:12.865016Z",
+  "updatedAt": "2026-08-11T06:23:42.514601Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -110,6 +110,17 @@
       }
     ],
     "villaviray": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2585122844&appid=647960",
+        "title": "workshop_2585122844",
+        "date": "11/08/2026",
+        "time": "14:23:40",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3186910980&appid=647960",
         "title": "AEA_Unlimited_Warfare_1.23",
