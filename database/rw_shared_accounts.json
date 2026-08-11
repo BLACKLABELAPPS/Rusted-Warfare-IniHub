@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-11T02:16:35.632571Z",
+  "updatedAt": "2026-08-11T03:01:38.098030Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -205,5 +205,23 @@
       "workflow_run_url": "https://github.com/BLACKLABELAPPS/Rusted-Warfare-IniHub/actions/runs/31144631947"
     }
   ],
-  "settings": {}
+  "settings": {
+    "workshopServer": {
+      "service": "rw-internal-publish-server",
+      "version": 4,
+      "implementation": "dart-shelf",
+      "role": "executor",
+      "localUrl": "http://127.0.0.1:8765",
+      "lanUrl": "http://192.168.254.155:8765",
+      "lanUrls": [
+        "http://192.168.254.155:8765"
+      ],
+      "executorUrls": [
+        "http://192.168.254.155:8765"
+      ],
+      "platform": "windows",
+      "online": true,
+      "updatedAt": "2026-08-11T03:01:38.098030Z"
+    }
+  }
 }
