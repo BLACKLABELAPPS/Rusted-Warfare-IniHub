@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-11T11:43:43.959391Z",
+  "updatedAt": "2026-08-11T12:14:45.203690Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -326,19 +326,20 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://172.16.0.2:8765",
+      "lanUrl": "http://26.52.46.109:8765",
       "lanUrls": [
-        "http://172.16.0.2:8765",
-        "http://192.168.110.18:8765"
+        "http://26.52.46.109:8765",
+        "http://192.168.1.90:8765",
+        "http://192.168.56.1:8765"
       ],
       "executorUrls": [
-        "https://scored-tagged-contracting-santa.trycloudflare.com",
-        "http://172.16.0.2:8765",
-        "http://192.168.110.18:8765"
+        "http://26.52.46.109:8765",
+        "http://192.168.1.90:8765",
+        "http://192.168.56.1:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-11T11:43:43.959391Z",
+      "updatedAt": "2026-08-11T12:14:45.203690Z",
       "publicUrl": "https://scored-tagged-contracting-santa.trycloudflare.com",
       "executorUrl": "https://scored-tagged-contracting-santa.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
