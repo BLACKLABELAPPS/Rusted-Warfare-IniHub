@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T14:20:54.312897Z",
+  "updatedAt": "2026-08-12T14:27:12.702333Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -391,12 +391,11 @@
         "http://192.168.1.3:8765"
       ],
       "executorUrls": [
-        "https://passport-request-reviewed-antiques.trycloudflare.com",
         "http://192.168.1.3:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-12T14:20:54.312897Z",
+      "updatedAt": "2026-08-12T14:27:12.702333Z",
       "publicUrl": "https://passport-request-reviewed-antiques.trycloudflare.com",
       "executorUrl": "https://passport-request-reviewed-antiques.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
