@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T11:24:32.034185Z",
+  "updatedAt": "2026-08-12T12:30:57.454684Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -92,6 +92,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-11T06:16:05.634574Z",
       "updatedAt": "2026-08-11T06:16:05.634614Z"
+    },
+    "qwe": {
+      "username": "qwe",
+      "usernameLower": "qwe",
+      "passwordSalt": "L3q0ov01V_VEojkXQz6-lRSFo6SyEi_6",
+      "passwordHash": "24360770d9bff1827143582f1750f0adcf8fe327a2f9104784fafe63fe6f039b",
+      "avatarCode": "B366-T19-W9-R43-L1-N47-U29-X13-F42-C0",
+      "collectionId": "",
+      "collectionTitle": "qwe",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-12T12:30:57.454616Z",
+      "updatedAt": "2026-08-12T12:30:57.454640Z"
     }
   },
   "posts": [],
@@ -307,6 +320,17 @@
       "username": "villaviray",
       "avatar_code": "B380-T5-W17-R35-L2-N23-U1-X11-F72-C0",
       "joined_at": "2026-08-11T06:16:05.634574Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "qwe": {
+      "username": "qwe",
+      "avatar_code": "B366-T19-W9-R43-L1-N47-U29-X13-F42-C0",
+      "joined_at": "2026-08-12T12:30:57.454616Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
