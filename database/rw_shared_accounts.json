@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T14:19:45.586127Z",
+  "updatedAt": "2026-08-12T14:20:01.913757Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -395,7 +395,7 @@
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-12T14:19:45.586127Z",
+      "updatedAt": "2026-08-12T14:20:01.913757Z",
       "publicUrl": "https://consumer-perth-december-beijing.trycloudflare.com",
       "executorUrl": "https://consumer-perth-december-beijing.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
