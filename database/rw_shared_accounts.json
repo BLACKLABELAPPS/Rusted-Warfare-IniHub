@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-11T16:20:11.675271Z",
+  "updatedAt": "2026-08-12T00:50:26.762415Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -348,16 +348,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://10.0.2.15:8765",
+      "lanUrl": "http://192.168.3.62:8765",
       "lanUrls": [
-        "http://10.0.2.15:8765"
+        "http://192.168.3.62:8765"
       ],
       "executorUrls": [
-        "http://10.0.2.15:8765"
+        "http://192.168.3.62:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-11T13:11:03.244413Z",
+      "updatedAt": "2026-08-12T00:50:26.762415Z",
       "publicUrl": "https://vip-attract-newspapers-site.trycloudflare.com",
       "executorUrl": "https://vip-attract-newspapers-site.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
