@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T12:32:13.205281Z",
+  "updatedAt": "2026-08-12T12:32:15.321876Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -247,19 +247,7 @@
         "source": "favorite"
       }
     ],
-    "qwe": [
-      {
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3755040670&appid=647960",
-        "title": "Gostomel_10p",
-        "date": "12/08/2026",
-        "time": "19:32:12",
-        "type": "Maps",
-        "directory": "",
-        "zipAndElements": "",
-        "urlImage": "https://images.steamusercontent.com/ugc/13355169163151709503/A0DB6E92BEC8A1DF858540F8A63AF6307B81C02C/",
-        "source": "favorite"
-      }
-    ]
+    "qwe": []
   },
   "tournaments": [],
   "tournamentProfiles": {
