@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T00:50:26.762415Z",
+  "updatedAt": "2026-08-12T00:50:49.320902Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -353,16 +353,17 @@
         "http://192.168.3.62:8765"
       ],
       "executorUrls": [
+        "https://hoping-multi-andrews-heath.trycloudflare.com",
         "http://192.168.3.62:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-12T00:50:26.762415Z",
-      "publicUrl": "https://vip-attract-newspapers-site.trycloudflare.com",
-      "executorUrl": "https://vip-attract-newspapers-site.trycloudflare.com",
+      "updatedAt": "2026-08-12T00:50:49.320902Z",
+      "publicUrl": "https://hoping-multi-andrews-heath.trycloudflare.com",
+      "executorUrl": "https://hoping-multi-andrews-heath.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-08-11T12:14:49.525626Z"
+      "lastSeenAt": "2026-08-12T00:50:48.573216Z"
     }
   }
 }
