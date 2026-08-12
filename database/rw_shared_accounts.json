@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T14:20:21.068367Z",
+  "updatedAt": "2026-08-12T14:20:47.130259Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -391,12 +391,11 @@
         "http://192.168.1.3:8765"
       ],
       "executorUrls": [
-        "https://sat-offer-stats-poem.trycloudflare.com",
         "http://192.168.1.3:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-12T14:20:21.068367Z",
+      "updatedAt": "2026-08-12T14:20:47.130259Z",
       "publicUrl": "https://sat-offer-stats-poem.trycloudflare.com",
       "executorUrl": "https://sat-offer-stats-poem.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
