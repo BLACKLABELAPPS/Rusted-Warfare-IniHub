@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T15:23:08.729230Z",
+  "updatedAt": "2026-08-13T15:23:37.567813Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -440,17 +440,18 @@
         "http://10.101.234.101:8765"
       ],
       "executorUrls": [
+        "https://discovery-loose-mart-integrating.trycloudflare.com",
         "http://192.168.254.106:8765",
         "http://10.101.234.101:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-13T15:23:08.729230Z",
-      "publicUrl": "https://bent-mineral-medicine-pilot.trycloudflare.com",
-      "executorUrl": "https://bent-mineral-medicine-pilot.trycloudflare.com",
+      "updatedAt": "2026-08-13T15:23:37.567813Z",
+      "publicUrl": "https://discovery-loose-mart-integrating.trycloudflare.com",
+      "executorUrl": "https://discovery-loose-mart-integrating.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-08-13T12:19:21.127839Z"
+      "lastSeenAt": "2026-08-13T15:23:36.710392Z"
     }
   }
 }
