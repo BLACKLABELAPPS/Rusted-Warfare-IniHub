@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T01:49:47.685676Z",
+  "updatedAt": "2026-08-13T11:04:08.457716Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -415,12 +415,11 @@
         "http://192.168.1.3:8765"
       ],
       "executorUrls": [
-        "https://mac-methods-advised-predict.trycloudflare.com",
         "http://192.168.1.3:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-13T01:49:47.685676Z",
+      "updatedAt": "2026-08-13T11:04:08.457716Z",
       "publicUrl": "https://mac-methods-advised-predict.trycloudflare.com",
       "executorUrl": "https://mac-methods-advised-predict.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
