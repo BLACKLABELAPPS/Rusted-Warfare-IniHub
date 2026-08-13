@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T11:21:15.433408Z",
+  "updatedAt": "2026-08-13T11:21:24.792562Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -416,17 +416,18 @@
         "http://192.168.3.3:8765"
       ],
       "executorUrls": [
+        "https://format-thy-lincoln-hudson.trycloudflare.com",
         "http://192.168.2.212:8765",
         "http://192.168.3.3:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-13T11:21:15.433408Z",
-      "publicUrl": "https://daniel-workplace-attend-knife.trycloudflare.com",
-      "executorUrl": "https://daniel-workplace-attend-knife.trycloudflare.com",
+      "updatedAt": "2026-08-13T11:21:24.792562Z",
+      "publicUrl": "https://format-thy-lincoln-hudson.trycloudflare.com",
+      "executorUrl": "https://format-thy-lincoln-hudson.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-08-13T11:04:51.115205Z"
+      "lastSeenAt": "2026-08-13T11:21:24.375214Z"
     }
   }
 }
