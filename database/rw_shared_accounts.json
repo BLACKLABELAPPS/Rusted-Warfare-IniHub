@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T12:19:21.804451Z",
+  "updatedAt": "2026-08-13T13:40:31.218373Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -118,6 +118,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-12T20:52:12.644626Z",
       "updatedAt": "2026-08-12T20:52:12.644663Z"
+    },
+    "jaime": {
+      "username": "Jaime",
+      "usernameLower": "jaime",
+      "passwordSalt": "oc5Eqxt9e5HDH86iNzB2t3FIBT9xxN5c",
+      "passwordHash": "9db1b33edd929b7c690cc78bfc975344e2a94f2011f332e435d471b4662e8658",
+      "avatarCode": "B855-T42-W48-R28-L4-N14-U32-X40-F79-C0",
+      "collectionId": "",
+      "collectionTitle": "Jaime",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-13T13:40:31.218208Z",
+      "updatedAt": "2026-08-13T13:40:31.218267Z"
     }
   },
   "posts": [],
@@ -356,6 +369,17 @@
       "username": "dariel",
       "avatar_code": "B876-T33-W13-R27-L1-N19-U25-X35-F64-C0",
       "joined_at": "2026-08-12T20:52:12.644626Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "jaime": {
+      "username": "Jaime",
+      "avatar_code": "B855-T42-W48-R28-L4-N14-U32-X40-F79-C0",
+      "joined_at": "2026-08-13T13:40:31.218208Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
