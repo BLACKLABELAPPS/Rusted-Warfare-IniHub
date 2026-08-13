@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T11:04:52.848720Z",
+  "updatedAt": "2026-08-13T11:21:15.433408Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -410,17 +410,18 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.1.3:8765",
+      "lanUrl": "http://192.168.2.212:8765",
       "lanUrls": [
-        "http://192.168.1.3:8765"
+        "http://192.168.2.212:8765",
+        "http://192.168.3.3:8765"
       ],
       "executorUrls": [
-        "https://daniel-workplace-attend-knife.trycloudflare.com",
-        "http://192.168.1.3:8765"
+        "http://192.168.2.212:8765",
+        "http://192.168.3.3:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-13T11:04:52.848720Z",
+      "updatedAt": "2026-08-13T11:21:15.433408Z",
       "publicUrl": "https://daniel-workplace-attend-knife.trycloudflare.com",
       "executorUrl": "https://daniel-workplace-attend-knife.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
