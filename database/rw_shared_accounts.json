@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T11:33:41.407900Z",
+  "updatedAt": "2026-08-13T12:19:08.767921Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -415,12 +415,11 @@
         "http://192.168.1.3:8765"
       ],
       "executorUrls": [
-        "https://tmp-portfolio-arizona-pharmaceuticals.trycloudflare.com",
         "http://192.168.1.3:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-13T11:33:41.407900Z",
+      "updatedAt": "2026-08-13T12:19:08.767921Z",
       "publicUrl": "https://tmp-portfolio-arizona-pharmaceuticals.trycloudflare.com",
       "executorUrl": "https://tmp-portfolio-arizona-pharmaceuticals.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
