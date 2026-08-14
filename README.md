@@ -29,3 +29,19 @@ IniHub is engineered to index, sort, and preserve all file assets required for R
 
 ------------------------------
 
+## 🧰 RustedWarfare IDE Studio — public update feed
+
+`ide-update.json` is the small public update feed used by RustedWarfare IDE Studio. It contains the current stable version, a readable changelog, and translations for the languages supported by the IDE. GitHub only provides the update information; the official app download remains on itch.io:
+
+https://blacklabelapps.itch.io/rustedwarfare-ide-studio
+
+### What changed recently?
+
+* **Smoother editor for large projects.** Rendering, caching, and resource loading have been optimized to reduce slowdowns while scrolling and editing. Code sections can be folded, and undo/redo history stays independent for each tab.
+* **More reliable Rusted Warfare resources and previews.** Project assets are loaded more efficiently, and resource links and previews are kept more stable while working across files.
+* **Workshop + IniHub update tracking.** A Workshop item validated through IniHub can be tracked by the IDE. While the IDE is open, it checks for newer IniHub timestamps and alerts the user when the tracked item changes.
+* **Built-in IDE update detection.** At startup the IDE checks `ide-update.json`. If the published version is newer than the installed version, it shows the changelog and offers to open the official itch.io download page.
+* **Native multitrack Audio Studio.** Users can import audio or record from the microphone, move and trim clips, split, duplicate or join regions, adjust gain and fades, mute or solo tracks, and preview the mix.
+* **Expanded audio editing and export.** Audio tools include reverse, speed changes, compressor, delay, distortion, reverb, noise reduction, pan, bass/treble controls, silence cleanup, and WAV/OGG export with an option to reduce the final file size.
+
+The goal of the feed is intentionally simple: make update information understandable to users without mixing application binaries into the IniHub database repository.
