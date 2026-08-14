@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T16:16:47.965722Z",
+  "updatedAt": "2026-08-14T16:45:46.570792Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -567,18 +567,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://10.137.179.79:8765",
+      "lanUrl": "http://10.230.232.27:8765",
       "lanUrls": [
-        "http://10.137.179.79:8765",
-        "http://192.168.122.1:8765"
+        "http://10.230.232.27:8765"
       ],
       "executorUrls": [
-        "http://10.137.179.79:8765",
-        "http://192.168.122.1:8765"
+        "http://10.230.232.27:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-14T15:23:22.894767Z",
+      "updatedAt": "2026-08-14T16:45:46.570792Z",
       "publicUrl": "https://shuttle-sold-farming-massive.trycloudflare.com",
       "executorUrl": "https://shuttle-sold-farming-massive.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
