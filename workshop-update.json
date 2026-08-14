@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "app": "Rusted Warfare Workshop",
+  "channel": "stable",
+  "version": "1.1.40+1140",
+  "versionName": "1.1.40",
+  "buildNumber": 1140,
+  "downloadUrl": "https://blacklabelapps.itch.io/rusted-warfare-workshop",
+  "publishedAt": "2026-08-15T00:00:00Z",
+  "sourceLanguage": "en",
+  "changelog": "• Update information now comes from the public IniHub feed and is stored in English as the single source text.\n• Release notes, maintenance notices and news are translated automatically when displayed, using the language selected in the Workshop translator and the same Google/MyMemory fallback approach used by the IDE.\n• Workshop + IniHub metadata validation and tracked-item update detection are integrated with the public IniHub data source.\n• Workshop app links and share/open handling remain connected to the public Workshop gateway for reliable opening of shared items.",
+  "maintenence": "",
+  "news": "",
+  "newsLink": ""
+}
