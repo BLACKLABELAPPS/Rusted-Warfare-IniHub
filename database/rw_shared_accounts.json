@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T12:34:17.691346Z",
+  "updatedAt": "2026-08-14T13:20:56.884735Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -170,6 +170,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-14T04:19:56.814205Z",
       "updatedAt": "2026-08-14T04:19:56.814233Z"
+    },
+    "ale202": {
+      "username": "ale202",
+      "usernameLower": "ale202",
+      "passwordSalt": "LI0A4eiSzuES2MyxvnCSAePlDMO3LYkA",
+      "passwordHash": "82ad5f9fa5530eb62b831afca794bcb0c4b816055dd1e05d485b2faa0e8fe3e5",
+      "avatarCode": "B315-T8-W0-R32-L1-N36-U44-X30-F59-C0",
+      "collectionId": "",
+      "collectionTitle": "ale202",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-14T13:20:56.884688Z",
+      "updatedAt": "2026-08-14T13:20:56.884705Z"
     }
   },
   "posts": [],
@@ -452,6 +465,17 @@
       "username": "IFFF",
       "avatar_code": "B232-T41-W21-R33-L2-N1-U11-X27-F72-C0",
       "joined_at": "2026-08-14T04:19:56.814205Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "ale202": {
+      "username": "ale202",
+      "avatar_code": "B315-T8-W0-R32-L1-N36-U44-X30-F59-C0",
+      "joined_at": "2026-08-14T13:20:56.884688Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
