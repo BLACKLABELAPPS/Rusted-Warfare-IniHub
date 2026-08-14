@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T04:19:56.814293Z",
+  "updatedAt": "2026-08-14T06:42:08.076181Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -506,19 +506,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.254.106:8765",
+      "lanUrl": "http://192.168.3.62:8765",
       "lanUrls": [
-        "http://192.168.254.106:8765",
-        "http://10.101.234.101:8765"
+        "http://192.168.3.62:8765"
       ],
       "executorUrls": [
-        "https://captain-depending-cad-stranger.trycloudflare.com",
-        "http://192.168.254.106:8765",
-        "http://10.101.234.101:8765"
+        "http://192.168.3.62:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-13T15:41:19.861520Z",
+      "updatedAt": "2026-08-14T06:42:08.076181Z",
       "publicUrl": "https://captain-depending-cad-stranger.trycloudflare.com",
       "executorUrl": "https://captain-depending-cad-stranger.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
