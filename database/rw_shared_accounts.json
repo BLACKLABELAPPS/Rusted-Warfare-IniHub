@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T16:45:46.570792Z",
+  "updatedAt": "2026-08-14T16:46:27.119713Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -572,16 +572,17 @@
         "http://10.230.232.27:8765"
       ],
       "executorUrls": [
+        "https://wallace-pet-announce-int.trycloudflare.com",
         "http://10.230.232.27:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-14T16:45:46.570792Z",
-      "publicUrl": "https://shuttle-sold-farming-massive.trycloudflare.com",
-      "executorUrl": "https://shuttle-sold-farming-massive.trycloudflare.com",
+      "updatedAt": "2026-08-14T16:46:27.119713Z",
+      "publicUrl": "https://wallace-pet-announce-int.trycloudflare.com",
+      "executorUrl": "https://wallace-pet-announce-int.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-08-14T12:02:57.441221Z"
+      "lastSeenAt": "2026-08-14T16:46:26.513033Z"
     }
   }
 }
