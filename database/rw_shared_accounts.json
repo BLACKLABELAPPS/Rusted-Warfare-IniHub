@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T06:42:08.076181Z",
+  "updatedAt": "2026-08-14T06:42:14.366967Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -511,16 +511,17 @@
         "http://192.168.3.62:8765"
       ],
       "executorUrls": [
+        "https://struck-riding-magnificent-sleeve.trycloudflare.com",
         "http://192.168.3.62:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-14T06:42:08.076181Z",
-      "publicUrl": "https://captain-depending-cad-stranger.trycloudflare.com",
-      "executorUrl": "https://captain-depending-cad-stranger.trycloudflare.com",
+      "updatedAt": "2026-08-14T06:42:14.366967Z",
+      "publicUrl": "https://struck-riding-magnificent-sleeve.trycloudflare.com",
+      "executorUrl": "https://struck-riding-magnificent-sleeve.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-08-13T15:41:19.380526Z"
+      "lastSeenAt": "2026-08-14T06:42:13.283957Z"
     }
   }
 }
