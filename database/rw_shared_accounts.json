@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T15:41:19.861520Z",
+  "updatedAt": "2026-08-14T00:18:57.984151Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -131,6 +131,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-13T13:40:31.218208Z",
       "updatedAt": "2026-08-13T13:40:31.218267Z"
+    },
+    "old": {
+      "username": "OLD",
+      "usernameLower": "old",
+      "passwordSalt": "6OstGclOI9IwNtdcT6SDF6dcocLdzyaE",
+      "passwordHash": "6f7409606a4a19282c2db22dff4bb9c4aae96ad19b15854d9d814b7bff9421eb",
+      "avatarCode": "B988-T25-W37-R1-L4-N17-U13-X31-F12-C0",
+      "collectionId": "",
+      "collectionTitle": "OLD",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-14T00:18:57.984039Z",
+      "updatedAt": "2026-08-14T00:18:57.984059Z"
     }
   },
   "posts": [],
@@ -380,6 +393,17 @@
       "username": "Jaime",
       "avatar_code": "B855-T42-W48-R28-L4-N14-U32-X40-F79-C0",
       "joined_at": "2026-08-13T13:40:31.218208Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "old": {
+      "username": "OLD",
+      "avatar_code": "B988-T25-W37-R1-L4-N17-U13-X31-F12-C0",
+      "joined_at": "2026-08-14T00:18:57.984039Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
