@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T07:01:38.491522Z",
+  "updatedAt": "2026-08-14T07:01:42.828267Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -511,17 +511,17 @@
         "http://192.168.3.62:8765"
       ],
       "executorUrls": [
-        "https://smell-robust-chicago-attached.trycloudflare.com",
+        "https://laura-nav-soldier-learn.trycloudflare.com",
         "http://192.168.3.62:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-14T07:01:38.491522Z",
-      "publicUrl": "https://smell-robust-chicago-attached.trycloudflare.com",
-      "executorUrl": "https://smell-robust-chicago-attached.trycloudflare.com",
+      "updatedAt": "2026-08-14T07:01:42.828267Z",
+      "publicUrl": "https://laura-nav-soldier-learn.trycloudflare.com",
+      "executorUrl": "https://laura-nav-soldier-learn.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-08-14T07:01:24.194907Z"
+      "lastSeenAt": "2026-08-14T07:01:35.092655Z"
     }
   }
 }
