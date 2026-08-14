@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T12:02:50.944082Z",
+  "updatedAt": "2026-08-14T12:02:57.684793Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -511,16 +511,17 @@
         "http://192.168.1.80:8765"
       ],
       "executorUrls": [
+        "https://shuttle-sold-farming-massive.trycloudflare.com",
         "http://192.168.1.80:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-14T12:02:50.944082Z",
-      "publicUrl": "https://ratings-conditioning-fred-hereby.trycloudflare.com",
-      "executorUrl": "https://ratings-conditioning-fred-hereby.trycloudflare.com",
+      "updatedAt": "2026-08-14T12:02:57.684793Z",
+      "publicUrl": "https://shuttle-sold-farming-massive.trycloudflare.com",
+      "executorUrl": "https://shuttle-sold-farming-massive.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-08-14T10:49:21.215622Z"
+      "lastSeenAt": "2026-08-14T12:02:57.441221Z"
     }
   }
 }
