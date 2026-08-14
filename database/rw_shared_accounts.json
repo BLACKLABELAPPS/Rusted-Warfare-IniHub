@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T07:01:42.828267Z",
+  "updatedAt": "2026-08-14T08:44:15.243635Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -506,17 +506,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.3.62:8765",
+      "lanUrl": "http://192.168.1.80:8765",
       "lanUrls": [
-        "http://192.168.3.62:8765"
+        "http://192.168.1.80:8765"
       ],
       "executorUrls": [
-        "https://laura-nav-soldier-learn.trycloudflare.com",
-        "http://192.168.3.62:8765"
+        "http://192.168.1.80:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-14T07:01:42.828267Z",
+      "updatedAt": "2026-08-14T08:44:15.243635Z",
       "publicUrl": "https://laura-nav-soldier-learn.trycloudflare.com",
       "executorUrl": "https://laura-nav-soldier-learn.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
