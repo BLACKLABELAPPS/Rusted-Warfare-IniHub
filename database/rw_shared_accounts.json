@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T08:44:15.243635Z",
+  "updatedAt": "2026-08-14T08:44:39.738904Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -511,16 +511,17 @@
         "http://192.168.1.80:8765"
       ],
       "executorUrls": [
+        "https://decent-ski-axis-forget.trycloudflare.com",
         "http://192.168.1.80:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-14T08:44:15.243635Z",
-      "publicUrl": "https://laura-nav-soldier-learn.trycloudflare.com",
-      "executorUrl": "https://laura-nav-soldier-learn.trycloudflare.com",
+      "updatedAt": "2026-08-14T08:44:39.738904Z",
+      "publicUrl": "https://decent-ski-axis-forget.trycloudflare.com",
+      "executorUrl": "https://decent-ski-axis-forget.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-08-14T07:01:35.092655Z"
+      "lastSeenAt": "2026-08-14T08:44:39.448510Z"
     }
   }
 }
