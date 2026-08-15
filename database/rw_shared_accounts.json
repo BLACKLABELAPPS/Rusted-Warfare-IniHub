@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T22:49:46.607035Z",
+  "updatedAt": "2026-08-15T22:50:21.584681Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -466,6 +466,17 @@
       }
     ],
     "john": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2340131716&appid=647960",
+        "title": "workshop_2340131716",
+        "date": "16/08/2026",
+        "time": "06:50:18",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3418926592&appid=647960",
         "title": "world_at_war_2024_WAW2020_EDIT_credit_to_Gandalf",
