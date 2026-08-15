@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T22:45:45.754237Z",
+  "updatedAt": "2026-08-15T22:49:46.607035Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -466,6 +466,17 @@
       }
     ],
     "john": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3418926592&appid=647960",
+        "title": "world_at_war_2024_WAW2020_EDIT_credit_to_Gandalf",
+        "date": "16/08/2026",
+        "time": "06:49:42",
+        "type": "Total Conversion",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/41196710885934773/1855DB0E7B8CBF070C5EE8EC07D98D1DC9F9F47C/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2958743241&appid=647960",
         "title": "Strangereal_4000X2000",
