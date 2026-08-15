@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T22:50:25.086970Z",
+  "updatedAt": "2026-08-15T22:50:30.395745Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -466,6 +466,17 @@
       }
     ],
     "john": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2340131716&appid=647960",
+        "title": "Earth_Tweaked_by_Vision2020",
+        "date": "16/08/2026",
+        "time": "06:50:20",
+        "type": "Maps",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/1651098362946908604/6E487888F92C072479E5BB67BC83F6DC82F933A6/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3418926592&appid=647960",
         "title": "world_at_war_2024_WAW2020_EDIT_credit_to_Gandalf",
