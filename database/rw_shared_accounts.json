@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T00:13:56.790878Z",
+  "updatedAt": "2026-08-15T00:18:19.784114Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -353,6 +353,17 @@
       }
     ],
     "ale202": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3767465574&appid=647960",
+        "title": "Girls'_RW_Frontline",
+        "date": "14/08/2026",
+        "time": "20:18:17",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/15982900199232957872/E03E62CFDB4FC43D3C21611B3E652025CC6BA508/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3780964970&appid=647960",
         "title": "workshop_3780964970",
