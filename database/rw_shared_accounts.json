@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T22:43:27.523922Z",
+  "updatedAt": "2026-08-15T22:45:07.958029Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -466,6 +466,17 @@
       }
     ],
     "john": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3483075853&appid=647960",
+        "title": "SnafuX3_Maps",
+        "date": "16/08/2026",
+        "time": "06:44:14",
+        "type": "Maps",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/14599833153082161456/2F44791D7BBBF8F88837AA1B35CAB3D52EFF221C/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2985126010&appid=647960",
         "title": "Large_Earth_4000x2000",
