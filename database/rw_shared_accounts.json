@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T22:45:16.345857Z",
+  "updatedAt": "2026-08-15T22:45:45.754237Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -466,6 +466,17 @@
       }
     ],
     "john": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2958743241&appid=647960",
+        "title": "Strangereal_4000X2000",
+        "date": "16/08/2026",
+        "time": "06:45:43",
+        "type": "Maps",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/2072259893574187927/D11C7B1A442A92827BC63753B862525269DD1CC0/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/workshop/browse/?appid=647960&browsesort=trend&actualsort=trend&section=readytouseitems&days=-1&requiredtags%5B%5D=Maps",
         "title": "workshop_3181057550",
