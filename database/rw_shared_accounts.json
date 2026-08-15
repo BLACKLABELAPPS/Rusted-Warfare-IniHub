@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T14:09:30.006167Z",
+  "updatedAt": "2026-08-15T14:22:43.992227Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -401,6 +401,17 @@
       }
     ],
     "john": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3681178353&appid=647960",
+        "title": "My_bebra_mod",
+        "date": "15/08/2026",
+        "time": "22:22:37",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/13576325873307696576/A39E9B3776AADA70B5023624E097214B3D9B96AB/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3553753282&appid=647960",
         "title": "Vuhledar",
