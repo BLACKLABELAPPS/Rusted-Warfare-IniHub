@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T14:22:43.992227Z",
+  "updatedAt": "2026-08-15T14:43:40.991582Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -209,6 +209,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-15T12:00:02.865493Z",
       "updatedAt": "2026-08-15T12:00:02.865597Z"
+    },
+    "mussarelo": {
+      "username": "mussarelo",
+      "usernameLower": "mussarelo",
+      "passwordSalt": "SY9EkuD9Ith1kurCTHpGaRqzPW69jfxq",
+      "passwordHash": "fc051d708aedd02fcf36424c5108c21649146e99f7a246c94d5a8fa1856a7a5a",
+      "avatarCode": "B846-T37-W47-R43-L3-N9-U13-X31-F86-C0",
+      "collectionId": "",
+      "collectionTitle": "mussarelo",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-15T14:43:40.991529Z",
+      "updatedAt": "2026-08-15T14:43:40.991538Z"
     }
   },
   "posts": [],
@@ -618,6 +631,17 @@
       "username": "John",
       "avatar_code": "B406-T13-W17-R1-L2-N23-U19-X3-F18-C0",
       "joined_at": "2026-08-15T12:00:02.865493Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "mussarelo": {
+      "username": "mussarelo",
+      "avatar_code": "B846-T37-W47-R43-L3-N9-U13-X31-F86-C0",
+      "joined_at": "2026-08-15T14:43:40.991529Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
