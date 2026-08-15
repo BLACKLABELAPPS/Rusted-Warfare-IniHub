@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
   <meta name="robots" content="noindex,nofollow">
   <meta name="theme-color" content="#0f766e">
-  <link rel="canonical" href="https://blacklabelapps.github.io/rustedwarfareworkshop/open-app.html">
+  <link rel="canonical" href="https://htmlpreview.github.io/?https://github.com/BLACKLABELAPPS/Rusted-Warfare-IniHub/blob/main/share/open-app.html">
   <title>Rusted Warfare Workshop</title>
   <style>
     :root {
@@ -156,7 +156,7 @@
       }
 
       const customSchemeUrl = `${APP_SCHEME}://${APP_HOST}?${deepLinkQuery}`;
-      const fallbackPage = `${location.origin}${location.pathname}?fallback=1${location.hash}`;
+      const fallbackPage = target;
       const androidIntentUrl = `intent://${APP_HOST}?${deepLinkQuery}` +
         `#Intent;scheme=${APP_SCHEME};package=${APP_PACKAGE};` +
         `S.browser_fallback_url=${encodeURIComponent(fallbackPage)};end`;
