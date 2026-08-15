@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T10:36:45.341648Z",
+  "updatedAt": "2026-08-15T10:39:19.023964Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -607,16 +607,17 @@
         "http://192.168.0.107:8765"
       ],
       "executorUrls": [
+        "https://collapse-puerto-karaoke-mlb.trycloudflare.com",
         "http://192.168.0.107:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-15T10:36:45.341648Z",
-      "publicUrl": "https://wallace-pet-announce-int.trycloudflare.com",
-      "executorUrl": "https://wallace-pet-announce-int.trycloudflare.com",
+      "updatedAt": "2026-08-15T10:39:19.023964Z",
+      "publicUrl": "https://collapse-puerto-karaoke-mlb.trycloudflare.com",
+      "executorUrl": "https://collapse-puerto-karaoke-mlb.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-08-14T16:46:26.513033Z"
+      "lastSeenAt": "2026-08-15T10:39:17.499019Z"
     }
   }
 }
