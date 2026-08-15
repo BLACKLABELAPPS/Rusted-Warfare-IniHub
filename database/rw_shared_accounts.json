@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T18:57:11.325490Z",
+  "updatedAt": "2026-08-15T19:40:20.137172Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -248,6 +248,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-15T18:57:11.325012Z",
       "updatedAt": "2026-08-15T18:57:11.325062Z"
+    },
+    "abhinav1332012": {
+      "username": "abhinav1332012",
+      "usernameLower": "abhinav1332012",
+      "passwordSalt": "_Z_B_GJFdVU8eksOX4oga-TrmtoALnEc",
+      "passwordHash": "8a0fb5a90dc270a6116f9f4c44591afff33a4a9aea49dffad4c9e7862ff9915e",
+      "avatarCode": "B976-T21-W23-R31-L4-N7-U17-X25-F88-C0",
+      "collectionId": "",
+      "collectionTitle": "abhinav1332012",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-15T19:40:20.136972Z",
+      "updatedAt": "2026-08-15T19:40:20.137016Z"
     }
   },
   "posts": [],
@@ -712,6 +725,17 @@
       "username": "exe4987",
       "avatar_code": "B603-T46-W20-R30-L3-N10-U14-X38-F15-C0",
       "joined_at": "2026-08-15T18:57:11.325012Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "abhinav1332012": {
+      "username": "abhinav1332012",
+      "avatar_code": "B976-T21-W23-R31-L4-N7-U17-X25-F88-C0",
+      "joined_at": "2026-08-15T19:40:20.136972Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
