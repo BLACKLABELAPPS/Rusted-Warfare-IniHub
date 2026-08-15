@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T09:17:31.444504Z",
+  "updatedAt": "2026-08-15T10:34:02.956827Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -602,20 +602,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.122.1:8765",
+      "lanUrl": "http://192.168.0.107:8765",
       "lanUrls": [
-        "http://192.168.122.1:8765",
-        "http://10.137.179.11:8765",
-        "http://192.168.240.1:8765"
+        "http://192.168.0.107:8765"
       ],
       "executorUrls": [
-        "http://192.168.122.1:8765",
-        "http://10.137.179.11:8765",
-        "http://192.168.240.1:8765"
+        "http://192.168.0.107:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-14T17:48:38.820174Z",
+      "updatedAt": "2026-08-15T10:34:02.956827Z",
       "publicUrl": "https://wallace-pet-announce-int.trycloudflare.com",
       "executorUrl": "https://wallace-pet-announce-int.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
