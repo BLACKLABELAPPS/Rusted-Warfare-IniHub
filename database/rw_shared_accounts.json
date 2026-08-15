@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T22:45:07.958029Z",
+  "updatedAt": "2026-08-15T22:45:11.620887Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -466,6 +466,17 @@
       }
     ],
     "john": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3181057550&appid=647960",
+        "title": "workshop_3181057550",
+        "date": "16/08/2026",
+        "time": "06:44:54",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3483075853&appid=647960",
         "title": "SnafuX3_Maps",
