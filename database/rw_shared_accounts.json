@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T15:18:39.265376Z",
+  "updatedAt": "2026-08-15T15:39:17.517927Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -414,6 +414,17 @@
       }
     ],
     "john": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2889043532&appid=647960",
+        "title": "Miniature_Wars_World_At_War_BY_GANDALF..._FLY_YOU_FOOLS!!!",
+        "date": "15/08/2026",
+        "time": "23:38:44",
+        "type": "Total Conversion",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/1916872932786135906/220DCDE1C4B209B08F7B1BD524571BFB63B23AEB/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3681178353&appid=647960",
         "title": "My_bebra_mod",
