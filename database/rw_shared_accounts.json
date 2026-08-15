@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T22:50:30.395745Z",
+  "updatedAt": "2026-08-15T23:05:30.526125Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -466,6 +466,17 @@
       }
     ],
     "john": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3397384310&appid=647960",
+        "title": "Modern_war_Project",
+        "date": "16/08/2026",
+        "time": "06:53:00",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/62585168944817215/D039327448B723831AAC4CA0F57A156ECEB533B4/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2340131716&appid=647960",
         "title": "Earth_Tweaked_by_Vision2020",
