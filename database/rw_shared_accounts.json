@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T10:34:02.956827Z",
+  "updatedAt": "2026-08-15T10:36:45.341648Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -611,7 +611,7 @@
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-15T10:34:02.956827Z",
+      "updatedAt": "2026-08-15T10:36:45.341648Z",
       "publicUrl": "https://wallace-pet-announce-int.trycloudflare.com",
       "executorUrl": "https://wallace-pet-announce-int.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
