@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T00:01:49.869497Z",
+  "updatedAt": "2026-08-16T00:02:58.328283Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -466,6 +466,17 @@
       }
     ],
     "john": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3548181397&appid=647960",
+        "title": "FULCRUM_Sandbox_Version_2",
+        "date": "16/08/2026",
+        "time": "08:02:47",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/9264717890210423636/0BFA1E4FF40F11E5ECC31965A9F4FBEA9B42CFA8/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3639891820&appid=647960",
         "title": "Miniature_Wars_World_At_War_2020+",
