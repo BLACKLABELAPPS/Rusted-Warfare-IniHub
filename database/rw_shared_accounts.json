@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T05:00:17.885603Z",
+  "updatedAt": "2026-08-16T09:25:53.988002Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -274,6 +274,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-15T19:53:38.143582Z",
       "updatedAt": "2026-08-15T19:53:38.143644Z"
+    },
+    "zonezac": {
+      "username": "zonezac",
+      "usernameLower": "zonezac",
+      "passwordSalt": "inftwFclVscn4duNOO6MHAvgXfN9BCgh",
+      "passwordHash": "b038772ee5ceb73b0d031e0b67cd36dea56ec4c9bc597a412447fb10065f20b3",
+      "avatarCode": "B693-T22-W14-R30-L0-N26-U2-X14-F81-C0",
+      "collectionId": "",
+      "collectionTitle": "zonezac",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-16T09:25:53.987847Z",
+      "updatedAt": "2026-08-16T09:25:53.987893Z"
     }
   },
   "posts": [],
@@ -894,6 +907,17 @@
       "username": "Tcy",
       "avatar_code": "B685-T10-W10-R26-L0-N4-U48-X14-F13-C0",
       "joined_at": "2026-08-15T19:53:38.143582Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "zonezac": {
+      "username": "zonezac",
+      "avatar_code": "B693-T22-W14-R30-L0-N26-U2-X14-F81-C0",
+      "joined_at": "2026-08-16T09:25:53.987847Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
