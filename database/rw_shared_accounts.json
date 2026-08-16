@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T05:00:12.418758Z",
+  "updatedAt": "2026-08-16T05:00:17.885603Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -953,16 +953,17 @@
         "http://192.168.254.155:8765"
       ],
       "executorUrls": [
+        "https://artwork-flexible-mounted-symbols.trycloudflare.com",
         "http://192.168.254.155:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-16T05:00:12.418758Z",
-      "publicUrl": "https://collapse-puerto-karaoke-mlb.trycloudflare.com",
-      "executorUrl": "https://collapse-puerto-karaoke-mlb.trycloudflare.com",
+      "updatedAt": "2026-08-16T05:00:17.885603Z",
+      "publicUrl": "https://artwork-flexible-mounted-symbols.trycloudflare.com",
+      "executorUrl": "https://artwork-flexible-mounted-symbols.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-08-15T10:39:17.499019Z"
+      "lastSeenAt": "2026-08-16T05:00:14.506882Z"
     }
   }
 }
