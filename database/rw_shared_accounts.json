@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T04:49:32.298992Z",
+  "updatedAt": "2026-08-16T05:00:12.418758Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -948,17 +948,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.0.107:8765",
+      "lanUrl": "http://192.168.254.155:8765",
       "lanUrls": [
-        "http://192.168.0.107:8765"
+        "http://192.168.254.155:8765"
       ],
       "executorUrls": [
-        "https://collapse-puerto-karaoke-mlb.trycloudflare.com",
-        "http://192.168.0.107:8765"
+        "http://192.168.254.155:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-15T10:39:19.023964Z",
+      "updatedAt": "2026-08-16T05:00:12.418758Z",
       "publicUrl": "https://collapse-puerto-karaoke-mlb.trycloudflare.com",
       "executorUrl": "https://collapse-puerto-karaoke-mlb.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
