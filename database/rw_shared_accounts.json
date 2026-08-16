@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T00:02:58.328283Z",
+  "updatedAt": "2026-08-16T00:04:55.017841Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -466,6 +466,17 @@
       }
     ],
     "john": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2271319582&appid=647960",
+        "title": "workshop_2271319582",
+        "date": "16/08/2026",
+        "time": "08:04:10",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3548181397&appid=647960",
         "title": "FULCRUM_Sandbox_Version_2",
