@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T13:02:41.413577Z",
+  "updatedAt": "2026-08-16T13:02:46.939573Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -978,17 +978,18 @@
         "http://192.168.1.85:8765"
       ],
       "executorUrls": [
+        "https://paxil-book-herb-plaza.trycloudflare.com",
         "http://192.168.56.1:8765",
         "http://192.168.1.85:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-16T13:02:41.413577Z",
-      "publicUrl": "https://artwork-flexible-mounted-symbols.trycloudflare.com",
-      "executorUrl": "https://artwork-flexible-mounted-symbols.trycloudflare.com",
+      "updatedAt": "2026-08-16T13:02:46.939573Z",
+      "publicUrl": "https://paxil-book-herb-plaza.trycloudflare.com",
+      "executorUrl": "https://paxil-book-herb-plaza.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-08-16T05:00:14.506882Z"
+      "lastSeenAt": "2026-08-16T13:02:46.401936Z"
     }
   }
 }
