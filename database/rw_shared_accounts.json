@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T00:04:55.017841Z",
+  "updatedAt": "2026-08-16T03:22:24.469002Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -662,6 +662,19 @@
         "directory": "",
         "zipAndElements": "",
         "urlImage": "https://images.steamusercontent.com/ugc/10587794513915826017/66B393B43F0A2A99ADB09317FD4BBEB80B3CF9F0/",
+        "source": "favorite"
+      }
+    ],
+    "tcy": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3665435068&appid=647960",
+        "title": "空想战争中文版steam上已停更",
+        "date": "16/08/2026",
+        "time": "11:22:20",
+        "type": "Maps",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/14318657462494967426/9CE6C172C56E2DCC3F87E1BBA06F34A5D9271579/",
         "source": "favorite"
       }
     ]
