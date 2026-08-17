@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T11:33:02.512076Z",
+  "updatedAt": "2026-08-17T11:33:14.832063Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -707,6 +707,17 @@
       }
     ],
     "moddermaster68": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2895519130&appid=647960",
+        "title": "workshop_2895519130",
+        "date": "17/08/2026",
+        "time": "19:33:12",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3135656812&appid=647960",
         "title": "REDCONICA_beta_1.1.0",
