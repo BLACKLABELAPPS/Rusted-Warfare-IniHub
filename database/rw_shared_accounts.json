@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T12:07:03.168530Z",
+  "updatedAt": "2026-08-17T13:06:47.018706Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1194,14 +1194,13 @@
         "http://192.168.0.101:8765"
       ],
       "executorUrls": [
-        "https://spy-enhanced-properties-end.trycloudflare.com",
         "http://26.121.230.106:8765",
         "http://192.168.56.1:8765",
         "http://192.168.0.101:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-17T12:07:03.168530Z",
+      "updatedAt": "2026-08-17T13:06:47.018706Z",
       "publicUrl": "https://spy-enhanced-properties-end.trycloudflare.com",
       "executorUrl": "https://spy-enhanced-properties-end.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
