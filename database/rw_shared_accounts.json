@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T11:48:14.784159Z",
+  "updatedAt": "2026-08-17T11:48:29.756953Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -707,6 +707,17 @@
       }
     ],
     "moddermaster68": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3462999324&appid=647960",
+        "title": "workshop_3462999324",
+        "date": "17/08/2026",
+        "time": "19:48:26",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2685920480&appid=647960",
         "title": "Anti_Experimental_Turret",
