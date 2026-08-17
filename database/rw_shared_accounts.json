@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T11:36:08.820392Z",
+  "updatedAt": "2026-08-17T11:46:25.890206Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -707,6 +707,17 @@
       }
     ],
     "moddermaster68": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1724556240&appid=647960",
+        "title": "Warhammer_40k",
+        "date": "17/08/2026",
+        "time": "19:46:21",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/828009854497291848/4029775E7FCC0D0CFC4585E7DEB28DBE474135E8/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3036855853&appid=647960",
         "title": "Battle_of_Giants_v1.0_Jurassic_Rift",
