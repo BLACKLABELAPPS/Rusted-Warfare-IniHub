@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T11:32:34.827844Z",
+  "updatedAt": "2026-08-17T11:33:02.512076Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -707,6 +707,17 @@
       }
     ],
     "moddermaster68": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3135656812&appid=647960",
+        "title": "REDCONICA_beta_1.1.0",
+        "date": "17/08/2026",
+        "time": "19:33:00",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/2282827280457277824/FC949FB1C672E6691D0EE02B9A2498D46ED31A6D/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1670760384&appid=647960",
         "title": "Medieval_times_7p",
