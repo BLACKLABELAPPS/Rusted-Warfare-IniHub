@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T00:10:38.241308Z",
+  "updatedAt": "2026-08-17T10:59:15.260885Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -703,6 +703,19 @@
         "directory": "",
         "zipAndElements": "",
         "urlImage": "https://images.steamusercontent.com/ugc/14318657462494967426/9CE6C172C56E2DCC3F87E1BBA06F34A5D9271579/",
+        "source": "favorite"
+      }
+    ],
+    "moddermaster68": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3661570886&appid=647960",
+        "title": "Old_GundamWars_BattleUniverse",
+        "date": "17/08/2026",
+        "time": "18:59:12",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/12129654427825762195/D7A2041EADC18EA1D1FD1810DCD8C11C45C85F76/",
         "source": "favorite"
       }
     ]
