@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T23:09:17.357988Z",
+  "updatedAt": "2026-08-17T00:10:38.241308Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -300,6 +300,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-16T23:09:17.357919Z",
       "updatedAt": "2026-08-16T23:09:17.357940Z"
+    },
+    "360_dark": {
+      "username": "360_Dark",
+      "usernameLower": "360_dark",
+      "passwordSalt": "q7fOp7sFQbgPGHXDSXO_Qr0jrsTY5F0L",
+      "passwordHash": "9389d268789bcdf5da1a5852c2e436795658b46ef7356d36d3303842e10cbef6",
+      "avatarCode": "B639-T30-W40-R20-L4-N44-U16-X4-F31-C0",
+      "collectionId": "",
+      "collectionTitle": "360_Dark",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-17T00:10:38.241161Z",
+      "updatedAt": "2026-08-17T00:10:38.241185Z"
     }
   },
   "posts": [],
@@ -942,6 +955,17 @@
       "username": "POPA_MAKAKI",
       "avatar_code": "B620-T13-W15-R25-L0-N49-U13-X23-F80-C0",
       "joined_at": "2026-08-16T23:09:17.357919Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "360_dark": {
+      "username": "360_Dark",
+      "avatar_code": "B639-T30-W40-R20-L4-N44-U16-X4-F31-C0",
+      "joined_at": "2026-08-17T00:10:38.241161Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
