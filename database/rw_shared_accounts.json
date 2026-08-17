@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T11:35:25.995368Z",
+  "updatedAt": "2026-08-17T11:36:08.820392Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -707,6 +707,17 @@
       }
     ],
     "moddermaster68": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3036855853&appid=647960",
+        "title": "Battle_of_Giants_v1.0_Jurassic_Rift",
+        "date": "17/08/2026",
+        "time": "19:36:06",
+        "type": "Total Conversion",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/2061015569416740497/7BA4475125242A798E6F42F1DD3AF909CA43B75E/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1862418933&appid=647960",
         "title": "Bronze_Age_1.1.5_UPDATE",
