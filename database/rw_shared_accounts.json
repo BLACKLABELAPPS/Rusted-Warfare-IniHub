@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T11:46:47.037126Z",
+  "updatedAt": "2026-08-17T11:48:08.658997Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -707,6 +707,17 @@
       }
     ],
     "moddermaster68": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2685920480&appid=647960",
+        "title": "workshop_2685920480",
+        "date": "17/08/2026",
+        "time": "19:48:06",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1669499888&appid=647960",
         "title": "LUNAR_WARFARE",
