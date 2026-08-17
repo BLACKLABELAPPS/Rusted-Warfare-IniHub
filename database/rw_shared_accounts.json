@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T11:48:11.295893Z",
+  "updatedAt": "2026-08-17T11:48:14.784159Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -707,6 +707,17 @@
       }
     ],
     "moddermaster68": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2685920480&appid=647960",
+        "title": "Anti_Experimental_Turret",
+        "date": "17/08/2026",
+        "time": "19:48:11",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/1826777774196908168/3B30F4FCD39AC59601EC90B05BC46C6C4D654ECD/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1669499888&appid=647960",
         "title": "LUNAR_WARFARE",
