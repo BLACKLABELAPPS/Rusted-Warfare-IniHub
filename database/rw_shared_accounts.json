@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T11:35:12.388079Z",
+  "updatedAt": "2026-08-17T11:35:25.995368Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -707,6 +707,17 @@
       }
     ],
     "moddermaster68": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1862418933&appid=647960",
+        "title": "Bronze_Age_1.1.5_UPDATE",
+        "date": "17/08/2026",
+        "time": "19:35:23",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/766098228963351646/E25FC17F0E3A271075D516CC488A1DA46960D7E4/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1612559487&appid=647960",
         "title": "workshop_1612559487",
