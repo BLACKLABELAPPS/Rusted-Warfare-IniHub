@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T12:12:08.700059Z",
+  "updatedAt": "2026-08-18T23:32:30.659813Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -339,6 +339,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-18T12:12:08.693314Z",
       "updatedAt": "2026-08-18T12:12:08.699391Z"
+    },
+    "khalkha.mongol": {
+      "username": "Khalkha.Mongol",
+      "usernameLower": "khalkha.mongol",
+      "passwordSalt": "oEcZ3o9jsJSZYXA4edgTD6jPCb3fQ_iz",
+      "passwordHash": "704dbb41c78ab0db28793257ac0f600e18550818db5654b81c423156937c4fc6",
+      "avatarCode": "B261-T44-W38-R6-L0-N12-U48-X30-F21-C0",
+      "collectionId": "",
+      "collectionTitle": "Khalkha.Mongol",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-18T23:32:30.659769Z",
+      "updatedAt": "2026-08-18T23:32:30.659776Z"
     }
   },
   "posts": [],
@@ -1181,6 +1194,17 @@
       "username": "ffffghyyb",
       "avatar_code": "B876-T37-W13-R31-L0-N19-U25-X39-F64-C0",
       "joined_at": "2026-08-18T12:12:08.693314Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "khalkha.mongol": {
+      "username": "Khalkha.Mongol",
+      "avatar_code": "B261-T44-W38-R6-L0-N12-U48-X30-F21-C0",
+      "joined_at": "2026-08-18T23:32:30.659769Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
