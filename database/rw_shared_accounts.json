@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T05:39:06.588376Z",
+  "updatedAt": "2026-08-19T07:39:20.111091Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -365,6 +365,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-19T05:39:06.588285Z",
       "updatedAt": "2026-08-19T05:39:06.588301Z"
+    },
+    "jimwel": {
+      "username": "Jimwel",
+      "usernameLower": "jimwel",
+      "passwordSalt": "qPcynSssBhoFxafif695uR5XHk9zVOuI",
+      "passwordHash": "f89e6b4230315376f2c3c7a07655cc1c863faf1bebb7244aeda10f749ccb0266",
+      "avatarCode": "B603-T46-W6-R38-L1-N38-U14-X0-F75-C0",
+      "collectionId": "",
+      "collectionTitle": "Jimwel",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-19T07:39:20.110992Z",
+      "updatedAt": "2026-08-19T07:39:20.111008Z"
     }
   },
   "posts": [],
@@ -1229,6 +1242,17 @@
       "username": "mark",
       "avatar_code": "B138-T31-W37-R3-L4-N35-U39-X23-F58-C0",
       "joined_at": "2026-08-19T05:39:06.588285Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "jimwel": {
+      "username": "Jimwel",
+      "avatar_code": "B603-T46-W6-R38-L1-N38-U14-X0-F75-C0",
+      "joined_at": "2026-08-19T07:39:20.110992Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
