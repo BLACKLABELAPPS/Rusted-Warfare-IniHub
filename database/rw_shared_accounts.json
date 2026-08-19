@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T13:44:34.283494Z",
+  "updatedAt": "2026-08-19T13:44:40.687171Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1336,16 +1336,17 @@
         "http://192.168.254.155:8765"
       ],
       "executorUrls": [
+        "https://training-burton-iii-dip.trycloudflare.com",
         "http://192.168.254.155:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-19T13:44:34.283494Z",
-      "publicUrl": "https://proposition-dakota-geological-widespread.trycloudflare.com",
-      "executorUrl": "https://proposition-dakota-geological-widespread.trycloudflare.com",
+      "updatedAt": "2026-08-19T13:44:40.687171Z",
+      "publicUrl": "https://training-burton-iii-dip.trycloudflare.com",
+      "executorUrl": "https://training-burton-iii-dip.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-08-17T13:06:53.800940Z"
+      "lastSeenAt": "2026-08-19T13:44:39.843674Z"
     }
   }
 }
