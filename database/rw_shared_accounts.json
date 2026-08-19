@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T13:44:40.687171Z",
+  "updatedAt": "2026-08-19T17:20:34.959329Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -391,6 +391,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-19T10:09:10.202447Z",
       "updatedAt": "2026-08-19T10:09:10.202463Z"
+    },
+    "sporewall_capn": {
+      "username": "sporewall_capn",
+      "usernameLower": "sporewall_capn",
+      "passwordSalt": "to9_h2NzIclSHTh2sH6pnKmCuR1t3HPc",
+      "passwordHash": "b253dc7c7979eeb0fe75b64a5cf7359b3a3bfcb00d16257c523c15011d919c3c",
+      "avatarCode": "B111-T10-W0-R46-L4-N38-U30-X18-F39-C0",
+      "collectionId": "",
+      "collectionTitle": "sporewall_capn",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-19T17:20:34.959267Z",
+      "updatedAt": "2026-08-19T17:20:34.959278Z"
     }
   },
   "posts": [],
@@ -1277,6 +1290,17 @@
       "username": "unic",
       "avatar_code": "B516-T27-W7-R21-L0-N9-U23-X33-F44-C0",
       "joined_at": "2026-08-19T10:09:10.202447Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "sporewall_capn": {
+      "username": "sporewall_capn",
+      "avatar_code": "B111-T10-W0-R46-L4-N38-U30-X18-F39-C0",
+      "joined_at": "2026-08-19T17:20:34.959267Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
