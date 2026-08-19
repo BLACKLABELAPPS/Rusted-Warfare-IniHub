@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T23:32:30.659813Z",
+  "updatedAt": "2026-08-19T05:39:06.588376Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -352,6 +352,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-18T23:32:30.659769Z",
       "updatedAt": "2026-08-18T23:32:30.659776Z"
+    },
+    "mark": {
+      "username": "mark",
+      "usernameLower": "mark",
+      "passwordSalt": "fT7jnLPbWgAJWWhKITbwGEGcdFqTDHPh",
+      "passwordHash": "77a43dc2ab7163e446de25b565d58912bffa5787fac8b58c469f8a767dc752cf",
+      "avatarCode": "B138-T31-W37-R3-L4-N35-U39-X23-F58-C0",
+      "collectionId": "",
+      "collectionTitle": "mark",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-19T05:39:06.588285Z",
+      "updatedAt": "2026-08-19T05:39:06.588301Z"
     }
   },
   "posts": [],
@@ -1205,6 +1218,17 @@
       "username": "Khalkha.Mongol",
       "avatar_code": "B261-T44-W38-R6-L0-N12-U48-X30-F21-C0",
       "joined_at": "2026-08-18T23:32:30.659769Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "mark": {
+      "username": "mark",
+      "avatar_code": "B138-T31-W37-R3-L4-N35-U39-X23-F58-C0",
+      "joined_at": "2026-08-19T05:39:06.588285Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
