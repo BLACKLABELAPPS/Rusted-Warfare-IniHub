@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T07:39:20.111091Z",
+  "updatedAt": "2026-08-19T10:09:10.202534Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -378,6 +378,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-19T07:39:20.110992Z",
       "updatedAt": "2026-08-19T07:39:20.111008Z"
+    },
+    "unic": {
+      "username": "unic",
+      "usernameLower": "unic",
+      "passwordSalt": "Q3RgrnvlFH4skbEolWY_8qyhkSn3X7Sv",
+      "passwordHash": "c97cbd59cf1609541f3878a835728535ccdc9e5acb9907dda0708eb48dd8720d",
+      "avatarCode": "B516-T27-W7-R21-L0-N9-U23-X33-F44-C0",
+      "collectionId": "",
+      "collectionTitle": "unic",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-19T10:09:10.202447Z",
+      "updatedAt": "2026-08-19T10:09:10.202463Z"
     }
   },
   "posts": [],
@@ -1253,6 +1266,17 @@
       "username": "Jimwel",
       "avatar_code": "B603-T46-W6-R38-L1-N38-U14-X0-F75-C0",
       "joined_at": "2026-08-19T07:39:20.110992Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "unic": {
+      "username": "unic",
+      "avatar_code": "B516-T27-W7-R21-L0-N9-U23-X33-F44-C0",
+      "joined_at": "2026-08-19T10:09:10.202447Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
