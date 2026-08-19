@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T10:09:10.202534Z",
+  "updatedAt": "2026-08-19T13:44:34.283494Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1331,21 +1331,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://26.121.230.106:8765",
+      "lanUrl": "http://192.168.254.155:8765",
       "lanUrls": [
-        "http://26.121.230.106:8765",
-        "http://192.168.56.1:8765",
-        "http://192.168.0.101:8765"
+        "http://192.168.254.155:8765"
       ],
       "executorUrls": [
-        "https://proposition-dakota-geological-widespread.trycloudflare.com",
-        "http://26.121.230.106:8765",
-        "http://192.168.56.1:8765",
-        "http://192.168.0.101:8765"
+        "http://192.168.254.155:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-17T13:06:54.420863Z",
+      "updatedAt": "2026-08-19T13:44:34.283494Z",
       "publicUrl": "https://proposition-dakota-geological-widespread.trycloudflare.com",
       "executorUrl": "https://proposition-dakota-geological-widespread.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
