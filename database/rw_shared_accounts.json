@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-20T09:34:59.153804Z",
+  "updatedAt": "2026-08-20T18:50:26.459969Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1392,17 +1392,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.1.4:8765",
+      "lanUrl": "http://192.168.1.3:8765",
       "lanUrls": [
-        "http://192.168.1.4:8765"
+        "http://192.168.1.3:8765"
       ],
       "executorUrls": [
-        "https://hanging-metres-transcripts-insured.trycloudflare.com",
-        "http://192.168.1.4:8765"
+        "http://192.168.1.3:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-20T06:24:51.916343Z",
+      "updatedAt": "2026-08-20T18:50:26.459969Z",
       "publicUrl": "https://hanging-metres-transcripts-insured.trycloudflare.com",
       "executorUrl": "https://hanging-metres-transcripts-insured.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
