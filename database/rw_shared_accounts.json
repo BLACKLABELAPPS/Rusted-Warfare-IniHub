@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-20T18:50:38.336684Z",
+  "updatedAt": "2026-08-20T19:58:47.067962Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1392,17 +1392,18 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.1.3:8765",
+      "lanUrl": "http://26.253.216.237:8765",
       "lanUrls": [
-        "http://192.168.1.3:8765"
+        "http://26.253.216.237:8765",
+        "http://10.0.0.101:8765"
       ],
       "executorUrls": [
-        "https://injuries-prep-fluid-generating.trycloudflare.com",
-        "http://192.168.1.3:8765"
+        "http://26.253.216.237:8765",
+        "http://10.0.0.101:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-20T18:50:38.336684Z",
+      "updatedAt": "2026-08-20T19:58:47.067962Z",
       "publicUrl": "https://injuries-prep-fluid-generating.trycloudflare.com",
       "executorUrl": "https://injuries-prep-fluid-generating.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
