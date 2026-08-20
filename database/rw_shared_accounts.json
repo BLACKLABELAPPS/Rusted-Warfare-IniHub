@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-20T18:50:26.459969Z",
+  "updatedAt": "2026-08-20T18:50:38.336684Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1397,16 +1397,17 @@
         "http://192.168.1.3:8765"
       ],
       "executorUrls": [
+        "https://injuries-prep-fluid-generating.trycloudflare.com",
         "http://192.168.1.3:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-20T18:50:26.459969Z",
-      "publicUrl": "https://hanging-metres-transcripts-insured.trycloudflare.com",
-      "executorUrl": "https://hanging-metres-transcripts-insured.trycloudflare.com",
+      "updatedAt": "2026-08-20T18:50:38.336684Z",
+      "publicUrl": "https://injuries-prep-fluid-generating.trycloudflare.com",
+      "executorUrl": "https://injuries-prep-fluid-generating.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-08-20T06:24:51.431166Z"
+      "lastSeenAt": "2026-08-20T18:50:38.014748Z"
     }
   }
 }
