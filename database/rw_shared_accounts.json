@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-20T06:24:51.916343Z",
+  "updatedAt": "2026-08-20T06:56:29.174710Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -961,6 +961,19 @@
         "directory": "",
         "zipAndElements": "",
         "urlImage": "https://images.steamusercontent.com/ugc/12129654427825762195/D7A2041EADC18EA1D1FD1810DCD8C11C45C85F76/",
+        "source": "favorite"
+      }
+    ],
+    "sporewall_capn": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2414959685&appid=647960",
+        "title": "Scarlet_Horizons_v0.39_Luftwaffe_Update",
+        "date": "20/08/2026",
+        "time": "14:56:27",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/1818899443943088569/87D58D96D9A1B046801F9BC507E3316FD4C98679/",
         "source": "favorite"
       }
     ]
