@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-20T06:56:29.174710Z",
+  "updatedAt": "2026-08-20T09:34:59.153804Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -404,6 +404,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-19T17:20:34.959267Z",
       "updatedAt": "2026-08-19T17:20:34.959278Z"
+    },
+    "tataua": {
+      "username": "Tataua",
+      "usernameLower": "tataua",
+      "passwordSalt": "nARVGvcXRkK9tsSpVP3EaiOMaOJ971WK",
+      "passwordHash": "8ab1ab32cdb6bc6f9296c7b48a81ca904f83f3c4afd2771908963fbb945c6972",
+      "avatarCode": "B381-T2-W12-R30-L1-N32-U14-X46-F5-C0",
+      "collectionId": "",
+      "collectionTitle": "Tataua",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-20T09:34:59.153696Z",
+      "updatedAt": "2026-08-20T09:34:59.153715Z"
     }
   },
   "posts": [],
@@ -1314,6 +1327,17 @@
       "username": "sporewall_capn",
       "avatar_code": "B111-T10-W0-R46-L4-N38-U30-X18-F39-C0",
       "joined_at": "2026-08-19T17:20:34.959267Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "tataua": {
+      "username": "Tataua",
+      "avatar_code": "B381-T2-W12-R30-L1-N32-U14-X46-F5-C0",
+      "joined_at": "2026-08-20T09:34:59.153696Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
