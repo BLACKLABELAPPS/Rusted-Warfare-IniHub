@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T17:20:34.959329Z",
+  "updatedAt": "2026-08-20T06:19:02.844192Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1355,17 +1355,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.254.155:8765",
+      "lanUrl": "http://192.168.1.4:8765",
       "lanUrls": [
-        "http://192.168.254.155:8765"
+        "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://training-burton-iii-dip.trycloudflare.com",
-        "http://192.168.254.155:8765"
+        "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-19T13:44:40.687171Z",
+      "updatedAt": "2026-08-20T06:19:02.844192Z",
       "publicUrl": "https://training-burton-iii-dip.trycloudflare.com",
       "executorUrl": "https://training-burton-iii-dip.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
