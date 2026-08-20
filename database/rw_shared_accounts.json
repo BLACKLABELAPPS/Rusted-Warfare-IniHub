@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-20T06:24:47.781714Z",
+  "updatedAt": "2026-08-20T06:24:51.916343Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1360,16 +1360,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://hanging-metres-transcripts-insured.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-20T06:24:47.781714Z",
-      "publicUrl": "https://aluminium-suit-recently-music.trycloudflare.com",
-      "executorUrl": "https://aluminium-suit-recently-music.trycloudflare.com",
+      "updatedAt": "2026-08-20T06:24:51.916343Z",
+      "publicUrl": "https://hanging-metres-transcripts-insured.trycloudflare.com",
+      "executorUrl": "https://hanging-metres-transcripts-insured.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-08-20T06:19:21.739907Z"
+      "lastSeenAt": "2026-08-20T06:24:51.431166Z"
     }
   }
 }
