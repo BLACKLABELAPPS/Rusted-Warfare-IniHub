@@ -10,6 +10,11 @@
       "link": "https://ko-fi.com/storm33",
       "author": "STORM-33",
       "contribution": "Procedural map generator (Procedural map generation tool, outputting industry-standard TMX ... Tiled Map eXchange format)"
+    },
+    {
+      "link": "https://mirwanda.com/support-us",
+      "author": "Reza Mirwanda",
+      "contribution": "Gaphical map editor (A full-featured map editor that lives in your pocket.\n🗺️ TMX / JSON Support\nCreate and edit maps in the standard Tiled TMX and JSON formats, designed from the ground up for mobile touch screens with intuitive gestures and controls.)"
     }
   ]
 }
