@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T18:41:32.488084Z",
+  "updatedAt": "2026-08-21T18:41:38.793012Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1070,13 +1070,13 @@
                 "side": 1,
                 "team_id": "Kratos",
                 "score": 0,
-                "is_winner": 1
+                "is_winner": 0
               },
               {
                 "side": 2,
                 "team_id": "Bot#2",
                 "score": 0,
-                "is_winner": 0
+                "is_winner": 1
               }
             ],
             "next_match_id": null,
@@ -1089,7 +1089,7 @@
         }
       },
       "created_at": "2026-08-21T18:41:06.969995Z",
-      "updated_at": "2026-08-21T18:41:32.488061Z"
+      "updated_at": "2026-08-21T18:41:38.792991Z"
     }
   ],
   "tournamentProfiles": {
