@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T23:30:13.741278Z",
+  "updatedAt": "2026-08-21T23:30:18.165731Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1569,16 +1569,17 @@
         "http://192.168.0.227:8765"
       ],
       "executorUrls": [
+        "https://reduces-exploring-differential-motorcycle.trycloudflare.com",
         "http://192.168.0.227:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-21T23:30:13.741278Z",
-      "publicUrl": "https://volume-look-bunny-junction.trycloudflare.com",
-      "executorUrl": "https://volume-look-bunny-junction.trycloudflare.com",
+      "updatedAt": "2026-08-21T23:30:18.165731Z",
+      "publicUrl": "https://reduces-exploring-differential-motorcycle.trycloudflare.com",
+      "executorUrl": "https://reduces-exploring-differential-motorcycle.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-08-21T23:16:20.640442Z"
+      "lastSeenAt": "2026-08-21T23:30:17.816287Z"
     }
   }
 }
