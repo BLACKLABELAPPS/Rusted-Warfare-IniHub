@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T18:41:38.793012Z",
+  "updatedAt": "2026-08-21T18:41:56.377590Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1017,81 +1017,7 @@
       }
     ]
   },
-  "tournaments": [
-    {
-      "id": "rw-hlk3l780wb-7c4gm",
-      "name": "2",
-      "description": "2",
-      "owner_username": "Kratos",
-      "owner_username_lower": "kratos",
-      "created_by": "Kratos",
-      "mode": "single",
-      "format": "single_elimination",
-      "status": "finished",
-      "max_participants": 16,
-      "start_date": "2026-08-22",
-      "start_datetime": "2026-08-22T18:40:34.309805Z",
-      "start_at": "2026-08-22T18:40:34.309805Z",
-      "participants": [
-        {
-          "username": "Kratos",
-          "username_lower": "kratos",
-          "avatar_code": "B9-T40-W32-R0-L3-N44-U2-X16-F53-C0",
-          "joined_at": "2026-08-21T18:41:06.969995Z",
-          "tournament_color_code": "C1"
-        }
-      ],
-      "data_json": {
-        "teams": [],
-        "team_colors": {},
-        "players": [
-          {
-            "username": "Kratos",
-            "player_name": "Kratos",
-            "is_bot": false,
-            "color_code": "C1",
-            "avatar_code": "B9-T40-W32-R0-L3-N44-U2-X16-F53-C0"
-          },
-          {
-            "username": "Bot#2",
-            "player_name": "",
-            "is_bot": true,
-            "color_code": "C2"
-          }
-        ],
-        "matches": [
-          {
-            "match_id": 1,
-            "round": 1,
-            "slot": 1,
-            "status": "completed",
-            "participants": [
-              {
-                "side": 1,
-                "team_id": "Kratos",
-                "score": 0,
-                "is_winner": 0
-              },
-              {
-                "side": 2,
-                "team_id": "Bot#2",
-                "score": 0,
-                "is_winner": 1
-              }
-            ],
-            "next_match_id": null,
-            "next_slot": null
-          }
-        ],
-        "meta": {
-          "root_match_id": 1,
-          "next_local_id": 2
-        }
-      },
-      "created_at": "2026-08-21T18:41:06.969995Z",
-      "updated_at": "2026-08-21T18:41:38.792991Z"
-    }
-  ],
+  "tournaments": [],
   "tournamentProfiles": {
     "reikrts": {
       "username": "ReikRtS",
