@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-20T20:05:56.947987Z",
+  "updatedAt": "2026-08-21T09:49:23.267068Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -417,6 +417,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-20T09:34:59.153696Z",
       "updatedAt": "2026-08-20T09:34:59.153715Z"
+    },
+    "cam": {
+      "username": "cam",
+      "usernameLower": "cam",
+      "passwordSalt": "qcRsJD3Rrw_DKdN5FYDtKQwmAh4ave5W",
+      "passwordHash": "b29eeec32c4764aac2001bfe353a15080034983e773093f2655e6329972567ac",
+      "avatarCode": "B686-T31-W37-R37-L3-N49-U7-X21-F30-C0",
+      "collectionId": "",
+      "collectionTitle": "cam",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-21T09:49:23.266916Z",
+      "updatedAt": "2026-08-21T09:49:23.266940Z"
     }
   },
   "posts": [],
@@ -1338,6 +1351,17 @@
       "username": "Tataua",
       "avatar_code": "B381-T2-W12-R30-L1-N32-U14-X46-F5-C0",
       "joined_at": "2026-08-20T09:34:59.153696Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "cam": {
+      "username": "cam",
+      "avatar_code": "B686-T31-W37-R37-L3-N49-U7-X21-F30-C0",
+      "joined_at": "2026-08-21T09:49:23.266916Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
