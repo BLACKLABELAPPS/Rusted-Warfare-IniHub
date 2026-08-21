@@ -1,6 +1,15 @@
 {
   "format": "link_/-/_author_/-/_contribution",
   "credits": [
-    "https://atgamersstudio.itch.io_/-/_Ali Thaufan / Bang Alii_/-/_Animator Sprite (Inside on Pixel Editor & Inside on Editor 3D)"
+    {
+      "link": "https://atgamersstudio.itch.io",
+      "author": "Ali Thaufan / Bang Alii",
+      "contribution": "Animator Sprite (Inside on Pixel Editor & Inside on Editor 3D)"
+    },
+    {
+      "link": "https://github.com/STORM-33",
+      "author": "STORM-33",
+      "contribution": "Procedural map generator (Procedural map generation tool, outputting industry-standard TMX (Tiled Map eXchange) format)"
+    }
   ]
 }
