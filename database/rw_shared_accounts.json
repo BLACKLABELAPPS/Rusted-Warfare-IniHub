@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T09:49:23.267068Z",
+  "updatedAt": "2026-08-21T18:40:20.458848Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -430,6 +430,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-21T09:49:23.266916Z",
       "updatedAt": "2026-08-21T09:49:23.266940Z"
+    },
+    "kratos": {
+      "username": "Kratos",
+      "usernameLower": "kratos",
+      "passwordSalt": "B_G4oIvTOZ3ZN0cGhrUQtSa5iDjAr8lm",
+      "passwordHash": "c8e5d15d4cfb6aca12dd2dfc77c4a3403f472548d0ac6b9abc91c13c8919c2ed",
+      "avatarCode": "B9-T40-W32-R0-L3-N44-U2-X16-F53-C0",
+      "collectionId": "",
+      "collectionTitle": "Kratos",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-21T18:40:20.458436Z",
+      "updatedAt": "2026-08-21T18:40:20.458744Z"
     }
   },
   "posts": [],
@@ -1362,6 +1375,17 @@
       "username": "cam",
       "avatar_code": "B686-T31-W37-R37-L3-N49-U7-X21-F30-C0",
       "joined_at": "2026-08-21T09:49:23.266916Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "kratos": {
+      "username": "Kratos",
+      "avatar_code": "B9-T40-W32-R0-L3-N44-U2-X16-F53-C0",
+      "joined_at": "2026-08-21T18:40:20.458436Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
