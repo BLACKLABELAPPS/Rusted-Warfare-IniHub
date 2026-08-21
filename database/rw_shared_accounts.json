@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T18:41:56.377590Z",
+  "updatedAt": "2026-08-21T18:43:14.452128Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1017,7 +1017,131 @@
       }
     ]
   },
-  "tournaments": [],
+  "tournaments": [
+    {
+      "id": "rw-hlk3nap0vn-853j",
+      "name": "67",
+      "description": "j",
+      "owner_username": "Kratos",
+      "owner_username_lower": "kratos",
+      "created_by": "Kratos",
+      "mode": "single",
+      "format": "single_elimination",
+      "status": "upcoming",
+      "max_participants": 16,
+      "start_date": "2026-08-22",
+      "start_datetime": "2026-08-22T18:42:25.552803Z",
+      "start_at": "2026-08-22T18:42:25.552803Z",
+      "participants": [
+        {
+          "username": "360_Dark",
+          "username_lower": "360_dark",
+          "avatar_code": "B639-T30-W40-R20-L4-N44-U16-X4-F31-C0",
+          "joined_at": "2026-08-21T18:43:13.734323Z",
+          "tournament_color_code": "C1"
+        }
+      ],
+      "data_json": {
+        "teams": [],
+        "team_colors": {},
+        "players": [
+          {
+            "username": "360_Dark",
+            "player_name": "360_Dark",
+            "is_bot": false,
+            "color_code": "C1",
+            "avatar_code": "B639-T30-W40-R20-L4-N44-U16-X4-F31-C0"
+          },
+          {
+            "username": "Bot#2",
+            "player_name": "",
+            "is_bot": true,
+            "color_code": "C2"
+          },
+          {
+            "username": "Bot#3",
+            "player_name": "",
+            "is_bot": true,
+            "color_code": "C3"
+          }
+        ],
+        "matches": [
+          {
+            "match_id": 1,
+            "round": 1,
+            "slot": 1,
+            "status": "scheduled",
+            "participants": [
+              {
+                "side": 1,
+                "team_id": "360_Dark",
+                "score": 0,
+                "is_winner": 0
+              },
+              {
+                "side": 2,
+                "team_id": "Bot#2",
+                "score": 0,
+                "is_winner": 0
+              }
+            ],
+            "next_match_id": 3,
+            "next_slot": 1
+          },
+          {
+            "match_id": 2,
+            "round": 1,
+            "slot": 2,
+            "status": "scheduled",
+            "participants": [
+              {
+                "side": 1,
+                "team_id": "Bot#3",
+                "score": 0,
+                "is_winner": 0
+              },
+              {
+                "side": 2,
+                "team_id": null,
+                "score": 0,
+                "is_winner": 0
+              }
+            ],
+            "next_match_id": 3,
+            "next_slot": 2
+          },
+          {
+            "match_id": 3,
+            "round": 2,
+            "slot": 1,
+            "status": "scheduled",
+            "participants": [
+              {
+                "side": 1,
+                "team_id": null,
+                "score": 0,
+                "is_winner": 0
+              },
+              {
+                "side": 2,
+                "team_id": null,
+                "score": 0,
+                "is_winner": 0
+              }
+            ],
+            "next_match_id": null,
+            "next_slot": null
+          }
+        ],
+        "meta": {
+          "root_match_id": 3,
+          "next_local_id": 4
+        }
+      },
+      "created_at": "2026-08-21T18:43:13.734323Z",
+      "updated_at": "2026-08-21T18:43:13.734323Z"
+    }
+  ],
   "tournamentProfiles": {
     "reikrts": {
       "username": "ReikRtS",
