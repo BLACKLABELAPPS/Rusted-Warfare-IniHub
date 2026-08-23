@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T06:11:10.520457Z",
+  "updatedAt": "2026-08-23T06:11:16.091476Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1569,16 +1569,17 @@
         "http://192.168.18.24:8765"
       ],
       "executorUrls": [
+        "https://placing-homes-brunswick-campaign.trycloudflare.com",
         "http://192.168.18.24:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-23T06:11:10.520457Z",
-      "publicUrl": "https://str-harvey-configuration-providing.trycloudflare.com",
-      "executorUrl": "https://str-harvey-configuration-providing.trycloudflare.com",
+      "updatedAt": "2026-08-23T06:11:16.091476Z",
+      "publicUrl": "https://placing-homes-brunswick-campaign.trycloudflare.com",
+      "executorUrl": "https://placing-homes-brunswick-campaign.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-08-23T05:51:17.626998Z"
+      "lastSeenAt": "2026-08-23T06:11:15.196154Z"
     }
   }
 }
