@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-24T09:07:40.515526Z",
+  "updatedAt": "2026-08-24T09:42:34.844174Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1030,6 +1030,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3053072229&appid=647960",
+        "title": "Additional_Units_Of_Mass_Destruction",
+        "date": "24/08/2026",
+        "time": "17:42:32",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/2139831096844724628/BFD2211167D328D87CB998C34F39650116A3FB06/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2479931388&appid=647960",
         "title": "Repairing_Turrets",
