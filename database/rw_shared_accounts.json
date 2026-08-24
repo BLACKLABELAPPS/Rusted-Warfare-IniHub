@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-24T13:52:06.429017Z",
+  "updatedAt": "2026-08-24T18:45:19.188688Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1733,17 +1733,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.18.24:8765",
+      "lanUrl": "http://192.168.0.227:8765",
       "lanUrls": [
-        "http://192.168.18.24:8765"
+        "http://192.168.0.227:8765"
       ],
       "executorUrls": [
-        "https://placing-homes-brunswick-campaign.trycloudflare.com",
-        "http://192.168.18.24:8765"
+        "http://192.168.0.227:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-23T06:11:16.091476Z",
+      "updatedAt": "2026-08-24T18:45:19.188688Z",
       "publicUrl": "https://placing-homes-brunswick-campaign.trycloudflare.com",
       "executorUrl": "https://placing-homes-brunswick-campaign.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
