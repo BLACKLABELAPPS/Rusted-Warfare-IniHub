@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-24T09:42:34.844174Z",
+  "updatedAt": "2026-08-24T12:20:54.715185Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1030,6 +1030,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2585122844&appid=647960",
+        "title": "Major_Experimentals",
+        "date": "24/08/2026",
+        "time": "20:20:51",
+        "type": "Total Conversion",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/5976910200415163917/F00FA79865834FE8A4AA514C01F7A5477671A470/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3053072229&appid=647960",
         "title": "Additional_Units_Of_Mass_Destruction",
