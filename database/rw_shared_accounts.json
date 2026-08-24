@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-24T08:25:42.502655Z",
+  "updatedAt": "2026-08-24T08:32:21.878925Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1030,6 +1030,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3529043522&appid=647960",
+        "title": "Vanilla_Turrets_Expansion",
+        "date": "24/08/2026",
+        "time": "16:32:20",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/15648292922037701413/1A2CDE78E4AE98577913EB9CFC973B578A16D389/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2576882561&appid=647960",
         "title": "Repair_Bay_+",
