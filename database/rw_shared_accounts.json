@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-24T13:37:24.625072Z",
+  "updatedAt": "2026-08-24T13:52:06.429017Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1030,6 +1030,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3789217444&appid=647960",
+        "title": "Laboratory_Expansion",
+        "date": "24/08/2026",
+        "time": "21:52:04",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/14153370193471174312/A1B4F10ECE51DC6B5D56E4368EB555F018B6A08A/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1858366647&appid=647960",
         "title": "Amy's_Walls_v2.0",
