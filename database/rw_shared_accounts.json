@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-24T12:20:54.715185Z",
+  "updatedAt": "2026-08-24T13:37:24.625072Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1030,6 +1030,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1858366647&appid=647960",
+        "title": "Amy's_Walls_v2.0",
+        "date": "24/08/2026",
+        "time": "21:37:22",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/1774974355835943120/A8E9CBF44B460DB7A0AAE698B5DA98B6EE182B9E/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2585122844&appid=647960",
         "title": "Major_Experimentals",
