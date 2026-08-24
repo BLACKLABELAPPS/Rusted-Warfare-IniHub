@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-24T07:42:08.654105Z",
+  "updatedAt": "2026-08-24T07:46:54.908780Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1030,6 +1030,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3244627435&appid=647960",
+        "title": "fast_bomber",
+        "date": "24/08/2026",
+        "time": "15:46:53",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/2493382606415815320/1786E23CDC4D2AB3D8334E0B3B4F26EC7888B233/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3754558691&appid=647960",
         "title": "New_York_City_10p",
