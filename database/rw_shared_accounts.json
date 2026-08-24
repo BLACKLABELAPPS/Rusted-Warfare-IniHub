@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-24T07:46:54.908780Z",
+  "updatedAt": "2026-08-24T08:19:02.892403Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1030,6 +1030,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3498937793&appid=647960",
+        "title": "Supersonic_Bomber",
+        "date": "24/08/2026",
+        "time": "16:19:00",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/17696049772018442591/A7AEB3E77DEB39CE0A54F0ABA0E1598C5C003CFA/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3244627435&appid=647960",
         "title": "fast_bomber",
