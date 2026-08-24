@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-24T18:45:19.188688Z",
+  "updatedAt": "2026-08-24T18:45:24.524443Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1738,16 +1738,17 @@
         "http://192.168.0.227:8765"
       ],
       "executorUrls": [
+        "https://cia-humidity-talks-remarks.trycloudflare.com",
         "http://192.168.0.227:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-24T18:45:19.188688Z",
-      "publicUrl": "https://placing-homes-brunswick-campaign.trycloudflare.com",
-      "executorUrl": "https://placing-homes-brunswick-campaign.trycloudflare.com",
+      "updatedAt": "2026-08-24T18:45:24.524443Z",
+      "publicUrl": "https://cia-humidity-talks-remarks.trycloudflare.com",
+      "executorUrl": "https://cia-humidity-talks-remarks.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-08-23T06:11:15.196154Z"
+      "lastSeenAt": "2026-08-24T18:45:24.158434Z"
     }
   }
 }
