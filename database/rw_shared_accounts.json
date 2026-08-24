@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-24T09:01:59.077038Z",
+  "updatedAt": "2026-08-24T09:07:40.515526Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1030,6 +1030,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2479931388&appid=647960",
+        "title": "Repairing_Turrets",
+        "date": "24/08/2026",
+        "time": "17:07:39",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/2020460977766678928/38806C7A2756FD9C2FF373ED094D8EF158076B04/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2566112642&appid=647960",
         "title": "OLD_Anti_Air_&_Ground_Turrets_+",
