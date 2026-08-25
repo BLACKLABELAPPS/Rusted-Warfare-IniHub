@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T09:53:07.388977Z",
+  "updatedAt": "2026-08-25T09:56:57.150670Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1030,6 +1030,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1364885094&appid=647960",
+        "title": "Builders,_For_Realsies_Major_Update_2!",
+        "date": "25/08/2026",
+        "time": "17:56:54",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/960854631835656821/C38E5CFCFD65CA604ED54661AB7A637936AD0540/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3728828486&appid=647960",
         "title": "Phase_Builder",
