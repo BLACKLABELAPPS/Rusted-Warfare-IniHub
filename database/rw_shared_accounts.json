@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T11:17:35.201425Z",
+  "updatedAt": "2026-08-25T11:21:24.643551Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1030,6 +1030,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3196349032&appid=647960",
+        "title": "Nautical_Link",
+        "date": "25/08/2026",
+        "time": "19:21:22",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/2468626847907643532/C9D3EC2AE52D818B595200EFD52A3D2D969B1E02/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1543894635&appid=647960",
         "title": "Laser_Breaker",
