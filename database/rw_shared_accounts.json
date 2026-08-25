@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T12:58:50.206352Z",
+  "updatedAt": "2026-08-25T13:02:43.048584Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1043,6 +1043,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3684640283&appid=647960",
+        "title": "Steel_Union",
+        "date": "25/08/2026",
+        "time": "21:02:41",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/13941154414439577170/E4F8D85316C6B0FD57AD3B8EA3D88AD69C594A60/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3704377999&appid=647960",
         "title": "Vanilla_style_units+_1.2.0",
