@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T13:20:39.581094Z",
+  "updatedAt": "2026-08-25T13:50:08.356461Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1043,6 +1043,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3633441753&appid=647960",
+        "title": "Better_Nuke_1.0",
+        "date": "25/08/2026",
+        "time": "21:50:05",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/9247973069798557267/D8A07DABDFDD7B148F56F2C855EED7C9DE38B8DD/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3635771603&appid=647960",
         "title": "GINAW_System_by_Aironium",
