@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T08:39:19.485862Z",
+  "updatedAt": "2026-08-25T09:03:31.076214Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1030,6 +1030,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3739572048&appid=647960",
+        "title": "A_Vanilla_Dream_v1.0",
+        "date": "25/08/2026",
+        "time": "17:03:28",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/11036768068568744211/EC4C5F07C72CBD8997FB97C74B9A40CB2A623817/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1669499888&appid=647960",
         "title": "LUNAR_WARFARE",
