@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T07:25:33.969195Z",
+  "updatedAt": "2026-08-25T08:13:09.633039Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1030,6 +1030,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1372692347&appid=647960",
+        "title": "Experimental_Turtle",
+        "date": "25/08/2026",
+        "time": "16:13:08",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/912419715092633212/F31F7955C514885735A97AAE30D11502321AF74B/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1814602860&appid=647960",
         "title": "Armolitskiy's_Infantry_mod",
