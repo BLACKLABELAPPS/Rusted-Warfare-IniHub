@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T15:06:36.091351Z",
+  "updatedAt": "2026-08-25T15:58:54.102893Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1043,6 +1043,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2963344643&appid=647960",
+        "title": "Mobile_Turrets",
+        "date": "25/08/2026",
+        "time": "23:58:52",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/2050868590928321737/B7344F63A4629C000ABA8CE3E747235B312F23E0/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2859059857&appid=647960",
         "title": "Supremacy_War_v1.3",
