@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T09:03:31.076214Z",
+  "updatedAt": "2026-08-25T09:07:28.861132Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1030,6 +1030,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2828747062&appid=647960",
+        "title": "Devastation_1.0.3",
+        "date": "25/08/2026",
+        "time": "17:07:26",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/1881957618354769114/7921896FE3997CF4553E73326B1288CA2D392087/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3739572048&appid=647960",
         "title": "A_Vanilla_Dream_v1.0",
