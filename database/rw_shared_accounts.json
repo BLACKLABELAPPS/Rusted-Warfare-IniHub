@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T18:17:42.286204Z",
+  "updatedAt": "2026-08-25T18:24:49.350603Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2346,13 +2346,12 @@
         "http://192.168.1.3:8765"
       ],
       "executorUrls": [
-        "https://agriculture-beings-walker-tale.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.3:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-25T18:17:42.286204Z",
+      "updatedAt": "2026-08-25T18:24:49.350603Z",
       "publicUrl": "https://agriculture-beings-walker-tale.trycloudflare.com",
       "executorUrl": "https://agriculture-beings-walker-tale.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
