@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T14:24:38.418448Z",
+  "updatedAt": "2026-08-25T14:26:11.272490Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1043,6 +1043,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2988836845&appid=647960",
+        "title": "Chameleon_A.M.O.G.U.S",
+        "date": "25/08/2026",
+        "time": "22:26:09",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/2061006600223301684/C86FA01F2381FBDB1F098FE231053766FB024AB9/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3483931170&appid=647960",
         "title": "Gear_Protocol",
