@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T12:47:38.641402Z",
+  "updatedAt": "2026-08-25T12:58:50.206352Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1043,6 +1043,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3704377999&appid=647960",
+        "title": "Vanilla_style_units+_1.2.0",
+        "date": "25/08/2026",
+        "time": "20:58:48",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/16477914330555966625/0A58520DB255D5E611C40FBE56852F7C7E01FDDC/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3723214622&appid=647960",
         "title": "Missile_Turret",
