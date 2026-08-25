@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T17:21:12.575984Z",
+  "updatedAt": "2026-08-25T17:37:33.423919Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2345,12 +2345,11 @@
         "http://192.168.0.227:8765"
       ],
       "executorUrls": [
-        "https://fraction-nut-however-announces.trycloudflare.com",
         "http://192.168.0.227:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-25T17:21:12.575984Z",
+      "updatedAt": "2026-08-25T17:37:33.423919Z",
       "publicUrl": "https://fraction-nut-however-announces.trycloudflare.com",
       "executorUrl": "https://fraction-nut-however-announces.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
