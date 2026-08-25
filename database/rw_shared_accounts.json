@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T12:31:36.579500Z",
+  "updatedAt": "2026-08-25T12:34:07.634533Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -456,6 +456,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-24T07:39:12.516339Z",
       "updatedAt": "2026-08-24T07:39:12.516347Z"
+    },
+    "sano87": {
+      "username": "sano87",
+      "usernameLower": "sano87",
+      "passwordSalt": "jv2P5FecsyCeO0qLQbheCAwyN0K2AbOO",
+      "passwordHash": "c057dad1b59ffe561a0b9ce055a23544783f8d69e43314fe381206eb2021c887",
+      "avatarCode": "B297-T24-W34-R48-L1-N46-U36-X0-F69-C0",
+      "collectionId": "",
+      "collectionTitle": "sano87",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-25T12:34:07.634395Z",
+      "updatedAt": "2026-08-25T12:34:07.634440Z"
     }
   },
   "posts": [],
@@ -1998,6 +2011,17 @@
       "username": "blooduse2836",
       "avatar_code": "B247-T14-W4-R42-L4-N20-U16-X4-F71-C0",
       "joined_at": "2026-08-24T07:39:12.516339Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "sano87": {
+      "username": "sano87",
+      "avatar_code": "B297-T24-W34-R48-L1-N46-U36-X0-F69-C0",
+      "joined_at": "2026-08-25T12:34:07.634395Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
