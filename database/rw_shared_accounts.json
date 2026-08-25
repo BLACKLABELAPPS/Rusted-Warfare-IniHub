@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T05:49:52.301544Z",
+  "updatedAt": "2026-08-25T07:23:56.052147Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1030,6 +1030,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1317506697&appid=647960",
+        "title": "Demo_Truck",
+        "date": "25/08/2026",
+        "time": "15:23:53",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/928176899433532455/C4E4E4CD5CD941D81620E8A2DC1111AAD0BF8226/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2464596358&appid=647960",
         "title": "General_Airon's_RBUTS_1.1",
