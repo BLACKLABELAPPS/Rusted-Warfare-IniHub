@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T16:08:43.974038Z",
+  "updatedAt": "2026-08-25T16:08:51.049381Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1043,17 +1043,6 @@
       }
     ],
     "blooduse2836": [
-      {
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3561136339&appid=647960",
-        "title": "northern_front",
-        "date": "26/08/2026",
-        "time": "00:08:41",
-        "type": "Addon",
-        "directory": "",
-        "zipAndElements": "",
-        "urlImage": "https://images.steamusercontent.com/ugc/18135923728679627200/866838D982329AF9294C5F2DE30C5EC335A2D828/",
-        "source": "favorite"
-      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3428231473&appid=647960",
         "title": "AI_nuke_launcher",
