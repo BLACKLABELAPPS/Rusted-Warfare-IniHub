@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T07:23:56.052147Z",
+  "updatedAt": "2026-08-25T07:25:33.969195Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1030,6 +1030,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1814602860&appid=647960",
+        "title": "Armolitskiy's_Infantry_mod",
+        "date": "25/08/2026",
+        "time": "15:25:31",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/773974984929861931/DE7D2BFEDFE26299A9819AE5C29E8292D8D45DE9/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1317506697&appid=647960",
         "title": "Demo_Truck",
