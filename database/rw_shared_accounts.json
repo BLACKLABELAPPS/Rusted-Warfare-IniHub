@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T10:39:25.573140Z",
+  "updatedAt": "2026-08-25T10:46:24.647560Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1030,6 +1030,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3477857046&appid=647960",
+        "title": "Advanced_Tech_v1.4.6",
+        "date": "25/08/2026",
+        "time": "18:46:22",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/17270767361187274515/01DD0C770A5B2A7EAAC24E1C139A49F546F1E3E8/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2096723515&appid=647960",
         "title": "Evolution_RTS",
