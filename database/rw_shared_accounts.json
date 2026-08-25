@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T17:21:03.239302Z",
+  "updatedAt": "2026-08-25T17:21:12.575984Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2345,16 +2345,17 @@
         "http://192.168.0.227:8765"
       ],
       "executorUrls": [
+        "https://fraction-nut-however-announces.trycloudflare.com",
         "http://192.168.0.227:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-25T17:21:03.239302Z",
-      "publicUrl": "https://suits-regards-surge-subsequent.trycloudflare.com",
-      "executorUrl": "https://suits-regards-surge-subsequent.trycloudflare.com",
+      "updatedAt": "2026-08-25T17:21:12.575984Z",
+      "publicUrl": "https://fraction-nut-however-announces.trycloudflare.com",
+      "executorUrl": "https://fraction-nut-however-announces.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-08-24T21:14:04.847446Z"
+      "lastSeenAt": "2026-08-25T17:21:12.136152Z"
     }
   }
 }
