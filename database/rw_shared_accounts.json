@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T13:02:43.048584Z",
+  "updatedAt": "2026-08-25T13:18:36.748690Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1043,6 +1043,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3654233069&appid=647960",
+        "title": "The_Bugs!",
+        "date": "25/08/2026",
+        "time": "21:18:35",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/13375592308007029947/60774E7BAC6CF9CAFFF02A48183E21A45CC554DD/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3684640283&appid=647960",
         "title": "Steel_Union",
