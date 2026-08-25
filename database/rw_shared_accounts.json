@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T14:36:35.440963Z",
+  "updatedAt": "2026-08-25T14:36:41.559017Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1043,17 +1043,6 @@
       }
     ],
     "blooduse2836": [
-      {
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1672784549&appid=647960",
-        "title": "Experimental_Scorpion",
-        "date": "25/08/2026",
-        "time": "22:36:32",
-        "type": "Addon",
-        "directory": "",
-        "zipAndElements": "",
-        "urlImage": "https://images.steamusercontent.com/ugc/995764246290943376/AC96F3CD960C3A752A7199B9C7F30BC56274083F/",
-        "source": "favorite"
-      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1321958957&appid=647960",
         "title": "Command_and_Conquer_Total_Converion_Converter_V3",
