@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T14:39:20.799434Z",
+  "updatedAt": "2026-08-25T15:06:36.091351Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1043,6 +1043,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2859059857&appid=647960",
+        "title": "Supremacy_War_v1.3",
+        "date": "25/08/2026",
+        "time": "23:06:34",
+        "type": "Total Conversion",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/2487754465579442436/DDBB3BE0C412300D760BDBF858F4B0A57800DA43/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1314921003&appid=647960",
         "title": "Uber's_Mechs",
