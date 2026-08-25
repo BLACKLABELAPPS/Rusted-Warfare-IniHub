@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T13:57:29.848323Z",
+  "updatedAt": "2026-08-25T14:04:07.834107Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1043,6 +1043,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3307409323&appid=647960",
+        "title": "Rusted_Warfare_Extended_V0.5",
+        "date": "25/08/2026",
+        "time": "22:04:05",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/2475376452006570174/43E7FA29593F7BA48B69B965930AC6980B5CFF80/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3580964959&appid=647960",
         "title": "Tree_gang's_mod_no_ost",
