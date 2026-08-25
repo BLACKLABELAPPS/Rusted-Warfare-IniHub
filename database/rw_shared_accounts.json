@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T18:24:49.350603Z",
+  "updatedAt": "2026-08-25T18:24:54.324217Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2346,17 +2346,18 @@
         "http://192.168.1.3:8765"
       ],
       "executorUrls": [
+        "https://places-contacting-explanation-bridal.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.3:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-25T18:24:49.350603Z",
-      "publicUrl": "https://agriculture-beings-walker-tale.trycloudflare.com",
-      "executorUrl": "https://agriculture-beings-walker-tale.trycloudflare.com",
+      "updatedAt": "2026-08-25T18:24:54.323224Z",
+      "publicUrl": "https://places-contacting-explanation-bridal.trycloudflare.com",
+      "executorUrl": "https://places-contacting-explanation-bridal.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-08-25T18:17:41.312036Z"
+      "lastSeenAt": "2026-08-25T18:24:53.813524Z"
     }
   }
 }
