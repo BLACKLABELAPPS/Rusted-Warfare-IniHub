@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T21:45:43.330938Z",
+  "updatedAt": "2026-08-25T23:32:50.277461Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1056,6 +1056,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3399662087&appid=647960",
+        "title": "Super_Destroyer",
+        "date": "26/08/2026",
+        "time": "07:32:48",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/45697954633324497/446BF6F3D4F5E3C2A14DAA28B21712D793E8AAFE/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3428231473&appid=647960",
         "title": "AI_nuke_launcher",
