@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T12:34:07.634533Z",
+  "updatedAt": "2026-08-25T12:37:05.042881Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1043,6 +1043,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3780964970&appid=647960",
+        "title": "Experimental_Factory_Upgraded!_Tier_3",
+        "date": "25/08/2026",
+        "time": "20:37:02",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/15284952505192621803/E98935EB41DC5FE3A493E0F7AFC65AE6A1C8F84F/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3740717887&appid=647960",
         "title": "Experemental_interceptor",
