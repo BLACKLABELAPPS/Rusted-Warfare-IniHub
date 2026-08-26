@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-26T07:20:51.028534Z",
+  "updatedAt": "2026-08-26T08:14:24.081543Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1069,6 +1069,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1988573595&appid=647960",
+        "title": "Rusted_Warfare_Combat_Expanded_Updated_for_1.15!",
+        "date": "26/08/2026",
+        "time": "16:14:22",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/1774958658124989858/1E5556A59AE1FBDA3DF9ABB7A17542361AD591A1/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2700706075&appid=647960",
         "title": "Experimental_Laser_Cannon",
