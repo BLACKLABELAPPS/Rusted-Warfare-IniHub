@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-26T11:31:12.941448Z",
+  "updatedAt": "2026-08-26T12:11:16.106800Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -495,6 +495,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-26T02:01:14.699957Z",
       "updatedAt": "2026-08-26T02:01:14.699967Z"
+    },
+    "shiro": {
+      "username": "Shiro",
+      "usernameLower": "shiro",
+      "passwordSalt": "AxDqX6GOvxAmg6z_g7Dnh7fyxOfbY86y",
+      "passwordHash": "54cdc04e6138b2cba0fffe7be61eb5f73627815e3f647b5cf52d6e8b2c6fee05",
+      "avatarCode": "B540-T19-W35-R45-L1-N19-U19-X25-F0-C0",
+      "collectionId": "",
+      "collectionTitle": "Shiro",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-26T12:11:16.106723Z",
+      "updatedAt": "2026-08-26T12:11:16.106737Z"
     }
   },
   "posts": [],
@@ -2477,6 +2490,17 @@
       "username": "loco",
       "avatar_code": "B572-T13-W35-R49-L4-N33-U1-X11-F0-C0",
       "joined_at": "2026-08-26T02:01:14.699957Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "shiro": {
+      "username": "Shiro",
+      "avatar_code": "B540-T19-W35-R45-L1-N19-U19-X25-F0-C0",
+      "joined_at": "2026-08-26T12:11:16.106723Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
