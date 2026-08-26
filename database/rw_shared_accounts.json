@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-26T06:40:45.752337Z",
+  "updatedAt": "2026-08-26T07:20:51.028534Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1069,6 +1069,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2700706075&appid=647960",
+        "title": "Experimental_Laser_Cannon",
+        "date": "26/08/2026",
+        "time": "15:20:49",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/1831276854753630687/7830E4CAE9411BDC2C3C0F5F88BC0CD5DC3BB2D0/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2478782232&appid=647960",
         "title": "workshop_2478782232",
