@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-26T12:11:16.106800Z",
+  "updatedAt": "2026-08-26T14:15:51.382041Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -508,6 +508,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-26T12:11:16.106723Z",
       "updatedAt": "2026-08-26T12:11:16.106737Z"
+    },
+    "astrology": {
+      "username": "astrology",
+      "usernameLower": "astrology",
+      "passwordSalt": "trSa11rNi4WE3h7sFo3S_iNRNf_ssHlA",
+      "passwordHash": "4dc3c8f0a8c8bd5dde04055536c801bea74d26a406e331e7e4131121f61ab7a2",
+      "avatarCode": "B603-T46-W20-R6-L0-N10-U18-X0-F83-C0",
+      "collectionId": "",
+      "collectionTitle": "astrology",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-26T14:15:51.381988Z",
+      "updatedAt": "2026-08-26T14:15:51.381996Z"
     }
   },
   "posts": [],
@@ -2501,6 +2514,17 @@
       "username": "Shiro",
       "avatar_code": "B540-T19-W35-R45-L1-N19-U19-X25-F0-C0",
       "joined_at": "2026-08-26T12:11:16.106723Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "astrology": {
+      "username": "astrology",
+      "avatar_code": "B603-T46-W20-R6-L0-N10-U18-X0-F83-C0",
+      "joined_at": "2026-08-26T14:15:51.381988Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
