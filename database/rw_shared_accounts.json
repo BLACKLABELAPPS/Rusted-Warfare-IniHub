@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-26T10:33:00.929824Z",
+  "updatedAt": "2026-08-26T10:33:03.256454Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1069,6 +1069,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2828747062&appid=647960",
+        "title": "Devastation_1.0.3",
+        "date": "26/08/2026",
+        "time": "18:32:59",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/1881957618354769114/7921896FE3997CF4553E73326B1288CA2D392087/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2895519130&appid=647960",
         "title": "War_In_Heaven_v2.21_Exodus_Beyond",
