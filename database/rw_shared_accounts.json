@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-26T09:14:01.310263Z",
+  "updatedAt": "2026-08-26T09:16:22.469608Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1069,6 +1069,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2999472761&appid=647960",
+        "title": "Credits_Sharing",
+        "date": "26/08/2026",
+        "time": "17:16:20",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/2023853806728465863/5BCF2BDC45CF4878BFA8EF8EE2F72ED0AEEFDEA7/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3020753691&appid=647960",
         "title": "Rusted_Technologies",
