@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-26T02:01:14.700014Z",
+  "updatedAt": "2026-08-26T06:37:20.343860Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1069,6 +1069,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2685920480&appid=647960",
+        "title": "workshop_2685920480",
+        "date": "26/08/2026",
+        "time": "14:37:18",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3399662087&appid=647960",
         "title": "Super_Destroyer",
