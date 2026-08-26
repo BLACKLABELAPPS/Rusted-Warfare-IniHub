@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T23:32:50.277461Z",
+  "updatedAt": "2026-08-26T02:01:14.700014Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -482,6 +482,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-25T21:45:43.330822Z",
       "updatedAt": "2026-08-25T21:45:43.330843Z"
+    },
+    "loco": {
+      "username": "loco",
+      "usernameLower": "loco",
+      "passwordSalt": "E201-cyYUCjK6_XTXMyyffMwqDo9bJWJ",
+      "passwordHash": "ea4fb1bfc47099f1830884563b9f1f88ee4bbbe3cd8e4e4f2bc11acf24b164ea",
+      "avatarCode": "B572-T13-W35-R49-L4-N33-U1-X11-F0-C0",
+      "collectionId": "",
+      "collectionTitle": "loco",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-26T02:01:14.699957Z",
+      "updatedAt": "2026-08-26T02:01:14.699967Z"
     }
   },
   "posts": [],
@@ -2321,6 +2334,17 @@
       "username": "nizriel",
       "avatar_code": "B988-T13-W25-R43-L1-N31-U9-X19-F76-C0",
       "joined_at": "2026-08-25T21:45:43.330822Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "loco": {
+      "username": "loco",
+      "avatar_code": "B572-T13-W35-R49-L4-N33-U1-X11-F0-C0",
+      "joined_at": "2026-08-26T02:01:14.699957Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
