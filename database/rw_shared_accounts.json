@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-26T10:33:03.256454Z",
+  "updatedAt": "2026-08-26T10:36:01.277013Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1069,6 +1069,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2819149894&appid=647960",
+        "title": "workshop_2819149894",
+        "date": "26/08/2026",
+        "time": "18:35:58",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2828747062&appid=647960",
         "title": "Devastation_1.0.3",
