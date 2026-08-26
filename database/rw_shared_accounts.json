@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-26T11:31:06.562024Z",
+  "updatedAt": "2026-08-26T11:31:12.941448Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2536,16 +2536,17 @@
         "http://192.168.0.227:8765"
       ],
       "executorUrls": [
+        "https://generation-ireland-traveller-june.trycloudflare.com",
         "http://192.168.0.227:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-26T11:31:06.562024Z",
-      "publicUrl": "https://places-contacting-explanation-bridal.trycloudflare.com",
-      "executorUrl": "https://places-contacting-explanation-bridal.trycloudflare.com",
+      "updatedAt": "2026-08-26T11:31:12.941448Z",
+      "publicUrl": "https://generation-ireland-traveller-june.trycloudflare.com",
+      "executorUrl": "https://generation-ireland-traveller-june.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-08-25T18:24:53.813524Z"
+      "lastSeenAt": "2026-08-26T11:31:12.498189Z"
     }
   }
 }
