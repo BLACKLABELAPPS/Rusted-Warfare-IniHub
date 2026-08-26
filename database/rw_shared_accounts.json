@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-26T08:14:24.081543Z",
+  "updatedAt": "2026-08-26T08:17:03.577661Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1069,6 +1069,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3167935403&appid=647960",
+        "title": "Major_Experimentals_Nostalgia_version",
+        "date": "26/08/2026",
+        "time": "16:17:02",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/5976910200411423259/A938227BB42B159A8F4E074FB62A13F6875DA654/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1988573595&appid=647960",
         "title": "Rusted_Warfare_Combat_Expanded_Updated_for_1.15!",
