@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-27T11:11:27.863157Z",
+  "updatedAt": "2026-08-27T11:11:40.604196Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2621,16 +2621,17 @@
         "http://192.168.1.19:8765"
       ],
       "executorUrls": [
+        "https://hose-timothy-toronto-portions.trycloudflare.com",
         "http://192.168.1.19:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-27T11:11:27.863157Z",
-      "publicUrl": "https://generation-ireland-traveller-june.trycloudflare.com",
-      "executorUrl": "https://generation-ireland-traveller-june.trycloudflare.com",
+      "updatedAt": "2026-08-27T11:11:40.604196Z",
+      "publicUrl": "https://hose-timothy-toronto-portions.trycloudflare.com",
+      "executorUrl": "https://hose-timothy-toronto-portions.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-08-26T11:31:12.498189Z"
+      "lastSeenAt": "2026-08-27T11:11:40.139146Z"
     }
   }
 }
