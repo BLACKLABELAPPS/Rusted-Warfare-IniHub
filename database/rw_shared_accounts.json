@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-27T14:29:53.893910Z",
+  "updatedAt": "2026-08-27T21:30:39.236126Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -534,6 +534,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-26T19:11:51.519139Z",
       "updatedAt": "2026-08-26T19:11:51.519169Z"
+    },
+    "golden": {
+      "username": "golden",
+      "usernameLower": "golden",
+      "passwordSalt": "cMpe-A5f9zw1yvxCYGGemBss0nseaTPW",
+      "passwordHash": "0f06ef6825a3d2e0423eb71b52f36bdea8f7263613ab64668dec1c2f4f23e684",
+      "avatarCode": "B110-T5-W11-R25-L0-N13-U13-X49-F86-C0",
+      "collectionId": "",
+      "collectionTitle": "golden",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-27T21:30:39.236056Z",
+      "updatedAt": "2026-08-27T21:30:39.236069Z"
     }
   },
   "posts": [],
@@ -2573,6 +2586,17 @@
       "username": "yudierki86",
       "avatar_code": "B875-T14-W42-R24-L2-N28-U36-X22-F51-C0",
       "joined_at": "2026-08-26T19:11:51.519139Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "golden": {
+      "username": "golden",
+      "avatar_code": "B110-T5-W11-R25-L0-N13-U13-X49-F86-C0",
+      "joined_at": "2026-08-27T21:30:39.236056Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
