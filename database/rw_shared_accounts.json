@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-26T19:11:51.519247Z",
+  "updatedAt": "2026-08-27T01:29:26.464944Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1975,6 +1975,19 @@
         "directory": "",
         "zipAndElements": "",
         "urlImage": "https://images.steamusercontent.com/ugc/15567280733151270490/CDD160126D18F9844C42A9D31F0B04F6D818791A/",
+        "source": "favorite"
+      }
+    ],
+    "shiro": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3779244094&appid=647960",
+        "title": "Amberglow",
+        "date": "26/08/2026",
+        "time": "20:52:58",
+        "type": "Total Conversion",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/11740451237119438985/09C0576CD55B302EBF48AA329AD402F0FE73C7D4/",
         "source": "favorite"
       }
     ]
