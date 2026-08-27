@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-27T11:11:40.604196Z",
+  "updatedAt": "2026-08-27T14:29:53.893910Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1979,6 +1979,17 @@
       }
     ],
     "shiro": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3782875011&appid=647960",
+        "title": "The_Wilds_of_Vorix_0.6",
+        "date": "27/08/2026",
+        "time": "10:29:45",
+        "type": "Total Conversion",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/10492771539268633739/F937E73B0BA703508745C204AE4F973444C29597/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3779244094&appid=647960",
         "title": "Amberglow",
