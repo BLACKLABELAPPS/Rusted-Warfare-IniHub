@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-28T12:53:00.903660Z",
+  "updatedAt": "2026-08-28T16:17:04.766671Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2651,17 +2651,18 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.1.19:8765",
+      "lanUrl": "http://192.168.56.1:8765",
       "lanUrls": [
-        "http://192.168.1.19:8765"
+        "http://192.168.56.1:8765",
+        "http://192.168.1.85:8765"
       ],
       "executorUrls": [
-        "https://hose-timothy-toronto-portions.trycloudflare.com",
-        "http://192.168.1.19:8765"
+        "http://192.168.56.1:8765",
+        "http://192.168.1.85:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-27T11:11:40.604196Z",
+      "updatedAt": "2026-08-28T16:17:04.766671Z",
       "publicUrl": "https://hose-timothy-toronto-portions.trycloudflare.com",
       "executorUrl": "https://hose-timothy-toronto-portions.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
