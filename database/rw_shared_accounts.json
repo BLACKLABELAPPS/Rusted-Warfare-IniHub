@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-28T16:17:07.606085Z",
+  "updatedAt": "2026-08-28T16:27:09.893074Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1121,6 +1121,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3751705281&appid=647960",
+        "title": "Drone_carrier_mech",
+        "date": "29/08/2026",
+        "time": "00:27:06",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/11993396650996724346/3ED0EA110D893E53F95DB7486885BF1597E9DC5A/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2926440161&appid=647960",
         "title": "Debug_Mod_Mods_Resources_Add_on",
