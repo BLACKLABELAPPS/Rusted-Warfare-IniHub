@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-28T16:27:09.893074Z",
+  "updatedAt": "2026-08-28T16:32:08.651647Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1121,6 +1121,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2965766754&appid=647960",
+        "title": "Rifter",
+        "date": "29/08/2026",
+        "time": "00:32:07",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/2040736055728895577/A585BB611D5044E98B7DFF7EC423D1E3B1931E86/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3751705281&appid=647960",
         "title": "Drone_carrier_mech",
