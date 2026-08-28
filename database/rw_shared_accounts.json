@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-28T18:56:24.565407Z",
+  "updatedAt": "2026-08-28T19:17:26.472960Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -547,6 +547,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-27T21:30:39.236056Z",
       "updatedAt": "2026-08-27T21:30:39.236069Z"
+    },
+    "boomka": {
+      "username": "Boomka",
+      "usernameLower": "boomka",
+      "passwordSalt": "v13BuQRE4RR7YTwL1sxMoLau4Zu__UuX",
+      "passwordHash": "45c4fc5d956651fd8e4309a18e0ea9394640b978ca45ccb29a0aecefa34dd46e",
+      "avatarCode": "B916-T3-W47-R15-L3-N27-U41-X5-F8-C0",
+      "collectionId": "",
+      "collectionTitle": "Boomka",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-28T19:17:26.472915Z",
+      "updatedAt": "2026-08-28T19:17:26.472924Z"
     }
   },
   "posts": [],
@@ -2663,6 +2676,17 @@
       "username": "golden",
       "avatar_code": "B110-T5-W11-R25-L0-N13-U13-X49-F86-C0",
       "joined_at": "2026-08-27T21:30:39.236056Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "boomka": {
+      "username": "Boomka",
+      "avatar_code": "B916-T3-W47-R15-L3-N27-U41-X5-F8-C0",
+      "joined_at": "2026-08-28T19:17:26.472915Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
