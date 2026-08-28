@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-28T16:17:04.766671Z",
+  "updatedAt": "2026-08-28T16:17:07.606085Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2657,17 +2657,18 @@
         "http://192.168.1.85:8765"
       ],
       "executorUrls": [
+        "https://identify-friendly-cornwall-arrange.trycloudflare.com",
         "http://192.168.56.1:8765",
         "http://192.168.1.85:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-28T16:17:04.766671Z",
-      "publicUrl": "https://hose-timothy-toronto-portions.trycloudflare.com",
-      "executorUrl": "https://hose-timothy-toronto-portions.trycloudflare.com",
+      "updatedAt": "2026-08-28T16:17:07.606085Z",
+      "publicUrl": "https://identify-friendly-cornwall-arrange.trycloudflare.com",
+      "executorUrl": "https://identify-friendly-cornwall-arrange.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-08-27T11:11:40.139146Z"
+      "lastSeenAt": "2026-08-28T16:17:07.181739Z"
     }
   }
 }
