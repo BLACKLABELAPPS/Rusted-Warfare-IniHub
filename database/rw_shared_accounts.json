@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-28T19:17:26.472960Z",
+  "updatedAt": "2026-08-29T06:10:58.276133Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1134,6 +1134,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3745814508&appid=647960",
+        "title": "Space_Crusaders",
+        "date": "29/08/2026",
+        "time": "14:10:55",
+        "type": "Total Conversion",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/10932779045168490772/10DE852E24994439A6A426D4C84CC01166023829/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2664379226&appid=647960",
         "title": "AEA_Lite_1.0",
