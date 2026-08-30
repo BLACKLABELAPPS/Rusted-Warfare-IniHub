@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-30T14:34:20.753697Z",
+  "updatedAt": "2026-08-30T14:34:26.613504Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2768,16 +2768,17 @@
         "http://192.168.254.118:8765"
       ],
       "executorUrls": [
+        "https://skating-portrait-wrap-rouge.trycloudflare.com",
         "http://192.168.254.118:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-30T14:34:20.753697Z",
-      "publicUrl": "https://deployment-extending-involved-missile.trycloudflare.com",
-      "executorUrl": "https://deployment-extending-involved-missile.trycloudflare.com",
+      "updatedAt": "2026-08-30T14:34:26.613504Z",
+      "publicUrl": "https://skating-portrait-wrap-rouge.trycloudflare.com",
+      "executorUrl": "https://skating-portrait-wrap-rouge.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-08-29T14:10:45.880413Z"
+      "lastSeenAt": "2026-08-30T14:34:26.118965Z"
     }
   }
 }
