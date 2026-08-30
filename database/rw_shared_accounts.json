@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-30T19:26:04.819585Z",
+  "updatedAt": "2026-08-30T21:27:37.038683Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -573,6 +573,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-30T19:26:04.819275Z",
       "updatedAt": "2026-08-30T19:26:04.819507Z"
+    },
+    "eyad": {
+      "username": "Eyad",
+      "usernameLower": "eyad",
+      "passwordSalt": "69E3R1j19M-_VvORGglKoEH6XwK5Zo-E",
+      "passwordHash": "08cc0a3e1ef7aa0d1dfc4e45e9194e0dd8d0a91e29282da27a4a609d069d99e9",
+      "avatarCode": "B292-T3-W33-R47-L1-N35-U49-X9-F20-C0",
+      "collectionId": "",
+      "collectionTitle": "Eyad",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-30T21:27:37.038622Z",
+      "updatedAt": "2026-08-30T21:27:37.038631Z"
     }
   },
   "posts": [],
@@ -2733,6 +2746,17 @@
       "username": "Reaper",
       "avatar_code": "B712-T47-W23-R39-L4-N3-U17-X33-F84-C0",
       "joined_at": "2026-08-30T19:26:04.819275Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "eyad": {
+      "username": "Eyad",
+      "avatar_code": "B292-T3-W33-R47-L1-N35-U49-X9-F20-C0",
+      "joined_at": "2026-08-30T21:27:37.038622Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
