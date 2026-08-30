@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-30T14:34:26.613504Z",
+  "updatedAt": "2026-08-30T19:26:04.819585Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -560,6 +560,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-28T19:17:26.472915Z",
       "updatedAt": "2026-08-28T19:17:26.472924Z"
+    },
+    "reaper": {
+      "username": "Reaper",
+      "usernameLower": "reaper",
+      "passwordSalt": "QGsCaW5OKmemjyLW3NkqJGOJBy_qBgNp",
+      "passwordHash": "17cd0f4bed0be01261e3ee276ffbec43cd15dfdd1b38fdd02b9b5f9844618c03",
+      "avatarCode": "B712-T47-W23-R39-L4-N3-U17-X33-F84-C0",
+      "collectionId": "",
+      "collectionTitle": "Reaper",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-30T19:26:04.819275Z",
+      "updatedAt": "2026-08-30T19:26:04.819507Z"
     }
   },
   "posts": [],
@@ -2709,6 +2722,17 @@
       "username": "Boomka",
       "avatar_code": "B916-T3-W47-R15-L3-N27-U41-X5-F8-C0",
       "joined_at": "2026-08-28T19:17:26.472915Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "reaper": {
+      "username": "Reaper",
+      "avatar_code": "B712-T47-W23-R39-L4-N3-U17-X33-F84-C0",
+      "joined_at": "2026-08-30T19:26:04.819275Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
