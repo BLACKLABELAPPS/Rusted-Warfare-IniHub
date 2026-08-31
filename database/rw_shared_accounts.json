@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-31T11:17:02.879871Z",
+  "updatedAt": "2026-08-31T11:17:07.236063Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2816,16 +2816,17 @@
         "http://192.168.1.21:8765"
       ],
       "executorUrls": [
+        "https://bigger-brave-had-shuttle.trycloudflare.com",
         "http://192.168.1.21:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-31T11:17:02.879871Z",
-      "publicUrl": "https://doll-pregnancy-created-sends.trycloudflare.com",
-      "executorUrl": "https://doll-pregnancy-created-sends.trycloudflare.com",
+      "updatedAt": "2026-08-31T11:17:07.236063Z",
+      "publicUrl": "https://bigger-brave-had-shuttle.trycloudflare.com",
+      "executorUrl": "https://bigger-brave-had-shuttle.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-08-31T05:44:22.202260Z"
+      "lastSeenAt": "2026-08-31T11:17:06.809294Z"
     }
   }
 }
