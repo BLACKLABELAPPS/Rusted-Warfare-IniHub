@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-31T17:10:30.193676Z",
+  "updatedAt": "2026-08-31T17:27:24.717219Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -612,6 +612,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-31T17:10:30.193647Z",
       "updatedAt": "2026-08-31T17:10:30.193655Z"
+    },
+    "samurai555": {
+      "username": "Samurai555",
+      "usernameLower": "samurai555",
+      "passwordSalt": "QkogTvVoOqhbafU5Fys336WJc9kTM_UH",
+      "passwordHash": "5031175fd7675eaa68c13770c2d2d48f1872aa928bb506af3249049dcd9bdd9d",
+      "avatarCode": "B820-T45-W15-R25-L2-N17-U45-X1-F48-C0",
+      "collectionId": "",
+      "collectionTitle": "Samurai555",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-31T17:27:24.717059Z",
+      "updatedAt": "2026-08-31T17:27:24.717081Z"
     }
   },
   "posts": [],
@@ -2829,6 +2842,17 @@
       "username": "Vlad31",
       "avatar_code": "B500-T41-W37-R13-L3-N47-U3-X43-F28-C0",
       "joined_at": "2026-08-31T17:10:30.193647Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "samurai555": {
+      "username": "Samurai555",
+      "avatar_code": "B820-T45-W15-R25-L2-N17-U45-X1-F48-C0",
+      "joined_at": "2026-08-31T17:27:24.717059Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
