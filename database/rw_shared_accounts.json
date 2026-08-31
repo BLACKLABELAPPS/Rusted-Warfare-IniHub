@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-31T03:06:57.088490Z",
+  "updatedAt": "2026-08-31T05:44:15.848189Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2816,12 +2816,11 @@
         "http://192.168.1.2:8765"
       ],
       "executorUrls": [
-        "https://surgery-killing-edit-explicit.trycloudflare.com",
         "http://192.168.1.2:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-31T03:06:57.087492Z",
+      "updatedAt": "2026-08-31T05:44:15.848189Z",
       "publicUrl": "https://surgery-killing-edit-explicit.trycloudflare.com",
       "executorUrl": "https://surgery-killing-edit-explicit.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
