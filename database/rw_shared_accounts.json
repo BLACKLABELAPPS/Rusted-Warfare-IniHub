@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-31T12:10:07.791733Z",
+  "updatedAt": "2026-08-31T12:25:06.237020Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2840,12 +2840,11 @@
         "http://192.168.1.21:8765"
       ],
       "executorUrls": [
-        "https://bigger-brave-had-shuttle.trycloudflare.com",
         "http://192.168.1.21:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-08-31T11:17:07.236063Z",
+      "updatedAt": "2026-08-31T12:25:06.237020Z",
       "publicUrl": "https://bigger-brave-had-shuttle.trycloudflare.com",
       "executorUrl": "https://bigger-brave-had-shuttle.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
