@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-31T16:39:06.352169Z",
+  "updatedAt": "2026-08-31T17:10:30.193676Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -599,6 +599,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-31T12:10:07.790953Z",
       "updatedAt": "2026-08-31T12:10:07.791591Z"
+    },
+    "vlad31": {
+      "username": "Vlad31",
+      "usernameLower": "vlad31",
+      "passwordSalt": "rZc76wpGp5LWDZf9aMKyWTpwziQja59y",
+      "passwordHash": "cbe6a18298b7851b1aab0b340b6073109acad02119d8180e4767f2448668008c",
+      "avatarCode": "B500-T41-W37-R13-L3-N47-U3-X43-F28-C0",
+      "collectionId": "",
+      "collectionTitle": "Vlad31",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-31T17:10:30.193647Z",
+      "updatedAt": "2026-08-31T17:10:30.193655Z"
     }
   },
   "posts": [],
@@ -2805,6 +2818,17 @@
       "username": "Alkenzi",
       "avatar_code": "B761-T46-W40-R10-L3-N6-U46-X30-F73-C0",
       "joined_at": "2026-08-31T12:10:07.790953Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "vlad31": {
+      "username": "Vlad31",
+      "avatar_code": "B500-T41-W37-R13-L3-N47-U3-X43-F28-C0",
+      "joined_at": "2026-08-31T17:10:30.193647Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
