@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-31T11:17:07.236063Z",
+  "updatedAt": "2026-08-31T12:10:07.791733Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -586,6 +586,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-30T21:27:37.038622Z",
       "updatedAt": "2026-08-30T21:27:37.038631Z"
+    },
+    "alkenzi": {
+      "username": "Alkenzi",
+      "usernameLower": "alkenzi",
+      "passwordSalt": "MinoSfgFQ8yYnje8mUtXIzJ9nG3QnJuA",
+      "passwordHash": "34d0fad38f0e5bdcdf587c4cf410ee3e282c4a06a66af921fb2d50ae71912284",
+      "avatarCode": "B761-T46-W40-R10-L3-N6-U46-X30-F73-C0",
+      "collectionId": "",
+      "collectionTitle": "Alkenzi",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-08-31T12:10:07.790953Z",
+      "updatedAt": "2026-08-31T12:10:07.791591Z"
     }
   },
   "posts": [],
@@ -2757,6 +2770,17 @@
       "username": "Eyad",
       "avatar_code": "B292-T3-W33-R47-L1-N35-U49-X9-F20-C0",
       "joined_at": "2026-08-30T21:27:37.038622Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "alkenzi": {
+      "username": "Alkenzi",
+      "avatar_code": "B761-T46-W40-R10-L3-N6-U46-X30-F73-C0",
+      "joined_at": "2026-08-31T12:10:07.790953Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
