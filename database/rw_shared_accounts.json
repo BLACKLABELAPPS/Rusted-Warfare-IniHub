@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-31T12:25:15.598949Z",
+  "updatedAt": "2026-08-31T12:45:57.968530Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1173,6 +1173,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3642705591&appid=647960",
+        "title": "AEA_Unlimited_Warfare_1.27.12_REMAKE",
+        "date": "31/08/2026",
+        "time": "20:45:52",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/10015458595305584588/5B9405D8679A8A4E5F83CDF55655AAF181FDE88F/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3410414923&appid=647960",
         "title": "Aironium's_Project_Limen_v1.0",
