@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-31T23:27:16.113142Z",
+  "updatedAt": "2026-09-01T00:28:09.697287Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -625,6 +625,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-08-31T17:27:24.717059Z",
       "updatedAt": "2026-08-31T17:51:38.126675Z"
+    },
+    "miclovin": {
+      "username": "miclovin",
+      "usernameLower": "miclovin",
+      "passwordSalt": "cxKki7yQg8I_XJMP4JnAo_nhR-tkIjRn",
+      "passwordHash": "803e9291c7822a35b8599b3e5db429c09bd79a8222eae596c023b7f9783a0972",
+      "avatarCode": "B980-T5-W25-R35-L1-N27-U5-X11-F8-C0",
+      "collectionId": "",
+      "collectionTitle": "miclovin",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-01T00:28:09.697194Z",
+      "updatedAt": "2026-09-01T00:28:09.697205Z"
     }
   },
   "posts": [],
@@ -2853,6 +2866,17 @@
       "username": "Samurai555",
       "avatar_code": "B820-T45-W15-R25-L2-N17-U45-X1-F48-C0",
       "joined_at": "2026-08-31T17:27:24.717059Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "miclovin": {
+      "username": "miclovin",
+      "avatar_code": "B980-T5-W25-R35-L1-N27-U5-X11-F8-C0",
+      "joined_at": "2026-09-01T00:28:09.697194Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
