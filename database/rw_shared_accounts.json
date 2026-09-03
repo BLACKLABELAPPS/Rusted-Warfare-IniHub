@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-03T11:52:54.865708Z",
+  "updatedAt": "2026-09-03T11:53:00.063005Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2984,16 +2984,17 @@
         "http://192.168.1.14:8765"
       ],
       "executorUrls": [
+        "https://levy-blink-marcus-wireless.trycloudflare.com",
         "http://192.168.1.14:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-03T11:52:54.865708Z",
-      "publicUrl": "https://databases-conscious-attendance-treatment.trycloudflare.com",
-      "executorUrl": "https://databases-conscious-attendance-treatment.trycloudflare.com",
+      "updatedAt": "2026-09-03T11:53:00.063005Z",
+      "publicUrl": "https://levy-blink-marcus-wireless.trycloudflare.com",
+      "executorUrl": "https://levy-blink-marcus-wireless.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-03T11:09:13.221844Z"
+      "lastSeenAt": "2026-09-03T11:52:59.431917Z"
     }
   }
 }
