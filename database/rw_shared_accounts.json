@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-03T13:00:36.310455Z",
+  "updatedAt": "2026-09-03T14:20:07.648212Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3003,17 +3003,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.1.14:8765",
+      "lanUrl": "http://192.168.254.118:8765",
       "lanUrls": [
-        "http://192.168.1.14:8765"
+        "http://192.168.254.118:8765"
       ],
       "executorUrls": [
-        "https://levy-blink-marcus-wireless.trycloudflare.com",
-        "http://192.168.1.14:8765"
+        "http://192.168.254.118:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-03T11:53:00.063005Z",
+      "updatedAt": "2026-09-03T14:20:07.648212Z",
       "publicUrl": "https://levy-blink-marcus-wireless.trycloudflare.com",
       "executorUrl": "https://levy-blink-marcus-wireless.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
