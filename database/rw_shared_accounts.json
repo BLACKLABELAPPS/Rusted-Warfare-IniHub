@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-03T16:48:18.797868Z",
+  "updatedAt": "2026-09-03T17:22:38.164603Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1264,6 +1264,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2930691750&appid=647960",
+        "title": "Bastion_Mech",
+        "date": "04/09/2026",
+        "time": "01:22:36",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/2020463495310727614/2E3C4CC958C7D89D3DC71C90A5130484193BDFC9/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3642705591&appid=647960",
         "title": "AEA_Unlimited_Warfare_1.27.12_REMAKE",
