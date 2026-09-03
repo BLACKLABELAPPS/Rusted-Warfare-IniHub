@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-03T19:30:23.326180Z",
+  "updatedAt": "2026-09-03T19:31:03.242624Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3087,16 +3087,17 @@
         "http://192.168.1.2:8765"
       ],
       "executorUrls": [
+        "https://triumph-payroll-purse-implications.trycloudflare.com",
         "http://192.168.1.2:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-03T19:30:23.324179Z",
-      "publicUrl": "https://upper-villages-apnic-childhood.trycloudflare.com",
-      "executorUrl": "https://upper-villages-apnic-childhood.trycloudflare.com",
+      "updatedAt": "2026-09-03T19:31:03.242624Z",
+      "publicUrl": "https://triumph-payroll-purse-implications.trycloudflare.com",
+      "executorUrl": "https://triumph-payroll-purse-implications.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-03T14:20:16.186661Z"
+      "lastSeenAt": "2026-09-03T19:30:54.136225Z"
     }
   }
 }
