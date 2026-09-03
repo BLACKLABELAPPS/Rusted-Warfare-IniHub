@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-03T09:20:29.582955Z",
+  "updatedAt": "2026-09-03T09:21:32.878153Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2984,16 +2984,17 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
+        "https://says-attendance-seekers-euro.trycloudflare.com",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-03T09:20:29.582955Z",
-      "publicUrl": "https://powerpoint-charts-solved-accessories.trycloudflare.com",
-      "executorUrl": "https://powerpoint-charts-solved-accessories.trycloudflare.com",
+      "updatedAt": "2026-09-03T09:21:32.878153Z",
+      "publicUrl": "https://says-attendance-seekers-euro.trycloudflare.com",
+      "executorUrl": "https://says-attendance-seekers-euro.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-03T04:03:58.891345Z"
+      "lastSeenAt": "2026-09-03T09:21:32.339764Z"
     }
   }
 }
