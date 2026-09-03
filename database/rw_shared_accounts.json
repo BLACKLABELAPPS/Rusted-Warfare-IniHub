@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-03T23:37:01.722315Z",
+  "updatedAt": "2026-09-03T23:50:17.610354Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3087,12 +3087,11 @@
         "http://192.168.1.2:8765"
       ],
       "executorUrls": [
-        "https://headed-prices-slides-police.trycloudflare.com",
         "http://192.168.1.2:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-03T23:37:01.721314Z",
+      "updatedAt": "2026-09-03T23:50:17.608339Z",
       "publicUrl": "https://headed-prices-slides-police.trycloudflare.com",
       "executorUrl": "https://headed-prices-slides-police.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
