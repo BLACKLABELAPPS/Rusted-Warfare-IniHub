@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-03T19:34:02.075977Z",
+  "updatedAt": "2026-09-03T19:34:32.914756Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3087,16 +3087,17 @@
         "http://192.168.1.2:8765"
       ],
       "executorUrls": [
+        "https://behavior-lace-gif-settings.trycloudflare.com",
         "http://192.168.1.2:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-03T19:34:02.073977Z",
-      "publicUrl": "https://triumph-payroll-purse-implications.trycloudflare.com",
-      "executorUrl": "https://triumph-payroll-purse-implications.trycloudflare.com",
+      "updatedAt": "2026-09-03T19:34:32.914756Z",
+      "publicUrl": "https://behavior-lace-gif-settings.trycloudflare.com",
+      "executorUrl": "https://behavior-lace-gif-settings.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-03T19:30:54.136225Z"
+      "lastSeenAt": "2026-09-03T19:34:17.129938Z"
     }
   }
 }
