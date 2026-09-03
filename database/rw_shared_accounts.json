@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-03T19:34:32.914756Z",
+  "updatedAt": "2026-09-03T21:44:52.968609Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3087,12 +3087,11 @@
         "http://192.168.1.2:8765"
       ],
       "executorUrls": [
-        "https://behavior-lace-gif-settings.trycloudflare.com",
         "http://192.168.1.2:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-03T19:34:32.914756Z",
+      "updatedAt": "2026-09-03T21:44:52.966074Z",
       "publicUrl": "https://behavior-lace-gif-settings.trycloudflare.com",
       "executorUrl": "https://behavior-lace-gif-settings.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
