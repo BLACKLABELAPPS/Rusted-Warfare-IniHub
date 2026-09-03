@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-03T21:44:52.968609Z",
+  "updatedAt": "2026-09-03T21:45:35.916262Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3087,16 +3087,17 @@
         "http://192.168.1.2:8765"
       ],
       "executorUrls": [
+        "https://fighter-geographic-spin-facilitate.trycloudflare.com",
         "http://192.168.1.2:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-03T21:44:52.966074Z",
-      "publicUrl": "https://behavior-lace-gif-settings.trycloudflare.com",
-      "executorUrl": "https://behavior-lace-gif-settings.trycloudflare.com",
+      "updatedAt": "2026-09-03T21:45:35.916262Z",
+      "publicUrl": "https://fighter-geographic-spin-facilitate.trycloudflare.com",
+      "executorUrl": "https://fighter-geographic-spin-facilitate.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-03T19:34:17.129938Z"
+      "lastSeenAt": "2026-09-03T21:45:12.928767Z"
     }
   }
 }
