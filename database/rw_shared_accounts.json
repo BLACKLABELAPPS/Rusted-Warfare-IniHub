@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-03T23:50:31.969680Z",
+  "updatedAt": "2026-09-04T00:19:11.540566Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3087,12 +3087,11 @@
         "http://192.168.1.2:8765"
       ],
       "executorUrls": [
-        "https://tremendous-adware-gain-truck.trycloudflare.com",
         "http://192.168.1.2:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-03T23:50:31.969680Z",
+      "updatedAt": "2026-09-04T00:19:11.539563Z",
       "publicUrl": "https://tremendous-adware-gain-truck.trycloudflare.com",
       "executorUrl": "https://tremendous-adware-gain-truck.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
