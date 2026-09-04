@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-04T09:56:42.346043Z",
+  "updatedAt": "2026-09-04T12:31:02.773406Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -703,6 +703,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-04T05:35:49.122111Z",
       "updatedAt": "2026-09-04T05:35:49.122135Z"
+    },
+    "chebupelenator": {
+      "username": "chebupelenator",
+      "usernameLower": "chebupelenator",
+      "passwordSalt": "c5Soi7hL6Zn-Bhww7joAMdgqAC92VDZj",
+      "passwordHash": "a9e399e3a1ecd7f34d026b7a5e1290b6788a03e5be524e4a51087711a6f82a3c",
+      "avatarCode": "B356-T49-W39-R3-L3-N27-U37-X47-F76-C0",
+      "collectionId": "",
+      "collectionTitle": "chebupelenator",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-04T12:31:02.773272Z",
+      "updatedAt": "2026-09-04T12:31:02.773309Z"
     }
   },
   "posts": [],
@@ -3052,6 +3065,17 @@
       "username": "selamat",
       "avatar_code": "B326-T17-W27-R41-L1-N29-U29-X15-F2-C0",
       "joined_at": "2026-09-04T05:35:49.122111Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "chebupelenator": {
+      "username": "chebupelenator",
+      "avatar_code": "B356-T49-W39-R3-L3-N27-U37-X47-F76-C0",
+      "joined_at": "2026-09-04T12:31:02.773272Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
