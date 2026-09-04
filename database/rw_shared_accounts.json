@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-04T03:52:38.650501Z",
+  "updatedAt": "2026-09-04T03:52:55.092606Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3087,16 +3087,17 @@
         "http://192.168.1.2:8765"
       ],
       "executorUrls": [
+        "https://holes-commercial-minneapolis-submissions.trycloudflare.com",
         "http://192.168.1.2:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-04T03:52:38.648964Z",
-      "publicUrl": "https://universities-dear-manufacturing-nutritional.trycloudflare.com",
-      "executorUrl": "https://universities-dear-manufacturing-nutritional.trycloudflare.com",
+      "updatedAt": "2026-09-04T03:52:55.091608Z",
+      "publicUrl": "https://holes-commercial-minneapolis-submissions.trycloudflare.com",
+      "executorUrl": "https://holes-commercial-minneapolis-submissions.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-04T03:46:55.290886Z"
+      "lastSeenAt": "2026-09-04T03:52:46.543698Z"
     }
   }
 }
