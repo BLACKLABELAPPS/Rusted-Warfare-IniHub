@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-04T03:17:20.762357Z",
+  "updatedAt": "2026-09-04T03:46:44.145065Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3087,12 +3087,11 @@
         "http://192.168.1.2:8765"
       ],
       "executorUrls": [
-        "https://fridge-initiated-partial-obtain.trycloudflare.com",
         "http://192.168.1.2:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-04T03:17:20.762357Z",
+      "updatedAt": "2026-09-04T03:46:44.143068Z",
       "publicUrl": "https://fridge-initiated-partial-obtain.trycloudflare.com",
       "executorUrl": "https://fridge-initiated-partial-obtain.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
