@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-04T17:45:27.005905Z",
+  "updatedAt": "2026-09-04T17:45:45.665439Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3159,16 +3159,17 @@
         "http://192.168.1.2:8765"
       ],
       "executorUrls": [
+        "https://counted-contests-catering-cup.trycloudflare.com",
         "http://192.168.1.2:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-04T17:45:27.003904Z",
-      "publicUrl": "https://station-departments-steady-nevertheless.trycloudflare.com",
-      "executorUrl": "https://station-departments-steady-nevertheless.trycloudflare.com",
+      "updatedAt": "2026-09-04T17:45:45.665439Z",
+      "publicUrl": "https://counted-contests-catering-cup.trycloudflare.com",
+      "executorUrl": "https://counted-contests-catering-cup.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-04T15:02:23.519860Z"
+      "lastSeenAt": "2026-09-04T17:45:38.906167Z"
     }
   }
 }
