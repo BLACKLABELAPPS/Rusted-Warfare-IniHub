@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-04T01:53:45.391551Z",
+  "updatedAt": "2026-09-04T03:17:01.012138Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3087,12 +3087,11 @@
         "http://192.168.1.2:8765"
       ],
       "executorUrls": [
-        "https://bulletin-record-spending-took.trycloudflare.com",
         "http://192.168.1.2:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-04T01:53:45.391551Z",
+      "updatedAt": "2026-09-04T03:17:01.010145Z",
       "publicUrl": "https://bulletin-record-spending-took.trycloudflare.com",
       "executorUrl": "https://bulletin-record-spending-took.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
