@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-04T03:46:59.100499Z",
+  "updatedAt": "2026-09-04T03:52:38.650501Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3087,12 +3087,11 @@
         "http://192.168.1.2:8765"
       ],
       "executorUrls": [
-        "https://universities-dear-manufacturing-nutritional.trycloudflare.com",
         "http://192.168.1.2:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-04T03:46:59.100499Z",
+      "updatedAt": "2026-09-04T03:52:38.648964Z",
       "publicUrl": "https://universities-dear-manufacturing-nutritional.trycloudflare.com",
       "executorUrl": "https://universities-dear-manufacturing-nutritional.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
