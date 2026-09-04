@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-04T17:45:45.665439Z",
+  "updatedAt": "2026-09-04T20:31:01.833683Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -729,6 +729,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-04T16:22:44.342314Z",
       "updatedAt": "2026-09-04T16:22:44.342326Z"
+    },
+    "klingiske": {
+      "username": "Klingiske",
+      "usernameLower": "klingiske",
+      "passwordSalt": "HfHnXvWJqtbD1WJ4c9-qVHt1p2r8hWDz",
+      "passwordHash": "e44832b8d6a13b0b6d130d762a8dbf97b1f17f191f9cc29ff1d3b7da1d40292b",
+      "avatarCode": "B536-T13-W33-R41-L2-N17-U41-X7-F48-C0",
+      "collectionId": "",
+      "collectionTitle": "Klingiske",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-04T20:31:01.833536Z",
+      "updatedAt": "2026-09-04T20:31:01.833558Z"
     }
   },
   "posts": [],
@@ -3100,6 +3113,17 @@
       "username": "jonathanar386",
       "avatar_code": "B684-T17-W25-R47-L4-N23-U5-X19-F72-C0",
       "joined_at": "2026-09-04T16:22:44.342314Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "klingiske": {
+      "username": "Klingiske",
+      "avatar_code": "B536-T13-W33-R41-L2-N17-U41-X7-F48-C0",
+      "joined_at": "2026-09-04T20:31:01.833536Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
