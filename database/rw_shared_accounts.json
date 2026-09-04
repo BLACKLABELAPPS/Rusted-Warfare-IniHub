@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-04T09:56:33.595552Z",
+  "updatedAt": "2026-09-04T09:56:42.346043Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3111,16 +3111,17 @@
         "http://192.168.1.14:8765"
       ],
       "executorUrls": [
+        "https://deferred-gui-bigger-bowl.trycloudflare.com",
         "http://192.168.1.14:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-04T09:56:33.595552Z",
-      "publicUrl": "https://holes-commercial-minneapolis-submissions.trycloudflare.com",
-      "executorUrl": "https://holes-commercial-minneapolis-submissions.trycloudflare.com",
+      "updatedAt": "2026-09-04T09:56:42.346043Z",
+      "publicUrl": "https://deferred-gui-bigger-bowl.trycloudflare.com",
+      "executorUrl": "https://deferred-gui-bigger-bowl.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-04T03:52:46.543698Z"
+      "lastSeenAt": "2026-09-04T09:56:41.357431Z"
     }
   }
 }
