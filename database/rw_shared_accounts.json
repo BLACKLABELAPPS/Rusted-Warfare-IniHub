@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-04T15:02:32.635039Z",
+  "updatedAt": "2026-09-04T16:22:44.342379Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -716,6 +716,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-04T12:31:02.773272Z",
       "updatedAt": "2026-09-04T12:31:02.773309Z"
+    },
+    "jonathanar386": {
+      "username": "jonathanar386",
+      "usernameLower": "jonathanar386",
+      "passwordSalt": "WsgOC4v8fJDEDGEk2RBSyIE2U3WE6ngg",
+      "passwordHash": "0b32af3ebf6891f668eab14c5ab01872b2f4b7e8690667133e6dec7f3f0c188c",
+      "avatarCode": "B684-T17-W25-R47-L4-N23-U5-X19-F72-C0",
+      "collectionId": "",
+      "collectionTitle": "jonathanar386",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-04T16:22:44.342314Z",
+      "updatedAt": "2026-09-04T16:22:44.342326Z"
     }
   },
   "posts": [],
@@ -3076,6 +3089,17 @@
       "username": "chebupelenator",
       "avatar_code": "B356-T49-W39-R3-L3-N27-U37-X47-F76-C0",
       "joined_at": "2026-09-04T12:31:02.773272Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "jonathanar386": {
+      "username": "jonathanar386",
+      "avatar_code": "B684-T17-W25-R47-L4-N23-U5-X19-F72-C0",
+      "joined_at": "2026-09-04T16:22:44.342314Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
