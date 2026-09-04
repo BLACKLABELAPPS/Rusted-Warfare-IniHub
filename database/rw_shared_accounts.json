@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-04T01:53:39.667070Z",
+  "updatedAt": "2026-09-04T01:53:45.391551Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3087,16 +3087,17 @@
         "http://192.168.1.2:8765"
       ],
       "executorUrls": [
+        "https://bulletin-record-spending-took.trycloudflare.com",
         "http://192.168.1.2:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-04T01:53:39.665067Z",
-      "publicUrl": "https://services-womens-jury-eval.trycloudflare.com",
-      "executorUrl": "https://services-womens-jury-eval.trycloudflare.com",
+      "updatedAt": "2026-09-04T01:53:45.391551Z",
+      "publicUrl": "https://bulletin-record-spending-took.trycloudflare.com",
+      "executorUrl": "https://bulletin-record-spending-took.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-04T01:51:31.678074Z"
+      "lastSeenAt": "2026-09-04T01:53:44.830380Z"
     }
   }
 }
