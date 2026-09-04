@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-04T01:24:15.238850Z",
+  "updatedAt": "2026-09-04T01:24:24.085513Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3087,16 +3087,17 @@
         "http://192.168.1.14:8765"
       ],
       "executorUrls": [
+        "https://serve-vehicle-reach-fraser.trycloudflare.com",
         "http://192.168.1.14:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-04T01:24:15.238850Z",
-      "publicUrl": "https://draw-introduces-forms-nato.trycloudflare.com",
-      "executorUrl": "https://draw-introduces-forms-nato.trycloudflare.com",
+      "updatedAt": "2026-09-04T01:24:24.085513Z",
+      "publicUrl": "https://serve-vehicle-reach-fraser.trycloudflare.com",
+      "executorUrl": "https://serve-vehicle-reach-fraser.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-04T00:40:21.504499Z"
+      "lastSeenAt": "2026-09-04T01:24:22.920972Z"
     }
   }
 }
