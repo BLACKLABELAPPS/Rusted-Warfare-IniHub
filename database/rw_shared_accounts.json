@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-04T00:40:14.255334Z",
+  "updatedAt": "2026-09-04T00:40:23.051079Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3087,16 +3087,17 @@
         "http://192.168.1.2:8765"
       ],
       "executorUrls": [
+        "https://draw-introduces-forms-nato.trycloudflare.com",
         "http://192.168.1.2:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-04T00:40:14.253670Z",
-      "publicUrl": "https://calculator-eat-stand-buzz.trycloudflare.com",
-      "executorUrl": "https://calculator-eat-stand-buzz.trycloudflare.com",
+      "updatedAt": "2026-09-04T00:40:23.051079Z",
+      "publicUrl": "https://draw-introduces-forms-nato.trycloudflare.com",
+      "executorUrl": "https://draw-introduces-forms-nato.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-04T00:19:18.581635Z"
+      "lastSeenAt": "2026-09-04T00:40:21.504499Z"
     }
   }
 }
