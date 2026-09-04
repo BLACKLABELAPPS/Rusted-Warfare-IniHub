@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-04T00:40:23.051079Z",
+  "updatedAt": "2026-09-04T01:24:15.238850Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3082,17 +3082,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.1.2:8765",
+      "lanUrl": "http://192.168.1.14:8765",
       "lanUrls": [
-        "http://192.168.1.2:8765"
+        "http://192.168.1.14:8765"
       ],
       "executorUrls": [
-        "https://draw-introduces-forms-nato.trycloudflare.com",
-        "http://192.168.1.2:8765"
+        "http://192.168.1.14:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-04T00:40:23.051079Z",
+      "updatedAt": "2026-09-04T01:24:15.238850Z",
       "publicUrl": "https://draw-introduces-forms-nato.trycloudflare.com",
       "executorUrl": "https://draw-introduces-forms-nato.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
