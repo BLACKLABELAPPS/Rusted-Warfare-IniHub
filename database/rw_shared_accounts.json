@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-04T03:46:44.145065Z",
+  "updatedAt": "2026-09-04T03:46:59.100499Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3087,16 +3087,17 @@
         "http://192.168.1.2:8765"
       ],
       "executorUrls": [
+        "https://universities-dear-manufacturing-nutritional.trycloudflare.com",
         "http://192.168.1.2:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-04T03:46:44.143068Z",
-      "publicUrl": "https://fridge-initiated-partial-obtain.trycloudflare.com",
-      "executorUrl": "https://fridge-initiated-partial-obtain.trycloudflare.com",
+      "updatedAt": "2026-09-04T03:46:59.100499Z",
+      "publicUrl": "https://universities-dear-manufacturing-nutritional.trycloudflare.com",
+      "executorUrl": "https://universities-dear-manufacturing-nutritional.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-04T03:17:09.431695Z"
+      "lastSeenAt": "2026-09-04T03:46:55.290886Z"
     }
   }
 }
