@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-04T16:22:44.342379Z",
+  "updatedAt": "2026-09-04T17:45:27.005905Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3159,12 +3159,11 @@
         "http://192.168.1.2:8765"
       ],
       "executorUrls": [
-        "https://station-departments-steady-nevertheless.trycloudflare.com",
         "http://192.168.1.2:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-04T15:02:32.635039Z",
+      "updatedAt": "2026-09-04T17:45:27.003904Z",
       "publicUrl": "https://station-departments-steady-nevertheless.trycloudflare.com",
       "executorUrl": "https://station-departments-steady-nevertheless.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
