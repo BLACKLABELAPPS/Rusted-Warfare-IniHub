@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-04T01:51:32.551430Z",
+  "updatedAt": "2026-09-04T01:53:39.667070Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3087,12 +3087,11 @@
         "http://192.168.1.2:8765"
       ],
       "executorUrls": [
-        "https://services-womens-jury-eval.trycloudflare.com",
         "http://192.168.1.2:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-04T01:51:32.551430Z",
+      "updatedAt": "2026-09-04T01:53:39.665067Z",
       "publicUrl": "https://services-womens-jury-eval.trycloudflare.com",
       "executorUrl": "https://services-womens-jury-eval.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
