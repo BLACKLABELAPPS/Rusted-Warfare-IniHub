@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-04T20:42:17.856514Z",
+  "updatedAt": "2026-09-05T00:52:51.025942Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3178,17 +3178,18 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.1.2:8765",
+      "lanUrl": "http://192.168.137.1:8765",
       "lanUrls": [
+        "http://192.168.137.1:8765",
         "http://192.168.1.2:8765"
       ],
       "executorUrls": [
-        "https://technological-turner-tale-sake.trycloudflare.com",
+        "http://192.168.137.1:8765",
         "http://192.168.1.2:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-04T20:42:17.856514Z",
+      "updatedAt": "2026-09-05T00:52:51.025942Z",
       "publicUrl": "https://technological-turner-tale-sake.trycloudflare.com",
       "executorUrl": "https://technological-turner-tale-sake.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
