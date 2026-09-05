@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-05T13:52:36.690234Z",
+  "updatedAt": "2026-09-05T13:52:47.918780Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,16 +3183,17 @@
         "http://192.168.254.118:8765"
       ],
       "executorUrls": [
+        "https://sponsorship-trustees-agree-treat.trycloudflare.com",
         "http://192.168.254.118:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-05T13:52:36.690234Z",
-      "publicUrl": "https://glass-division-fed-smithsonian.trycloudflare.com",
-      "executorUrl": "https://glass-division-fed-smithsonian.trycloudflare.com",
+      "updatedAt": "2026-09-05T13:52:47.918780Z",
+      "publicUrl": "https://sponsorship-trustees-agree-treat.trycloudflare.com",
+      "executorUrl": "https://sponsorship-trustees-agree-treat.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-05T03:51:39.889072Z"
+      "lastSeenAt": "2026-09-05T13:52:47.069341Z"
     }
   }
 }
