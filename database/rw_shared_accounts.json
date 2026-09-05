@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-05T23:31:35.131142Z",
+  "updatedAt": "2026-09-05T23:41:40.229577Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,12 +3183,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://wheels-census-kerry-institutional.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-05T23:31:35.131142Z",
+      "updatedAt": "2026-09-05T23:41:40.228575Z",
       "publicUrl": "https://wheels-census-kerry-institutional.trycloudflare.com",
       "executorUrl": "https://wheels-census-kerry-institutional.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
