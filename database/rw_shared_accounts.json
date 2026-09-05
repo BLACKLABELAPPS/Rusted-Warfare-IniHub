@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-05T23:31:20.975355Z",
+  "updatedAt": "2026-09-05T23:31:35.131142Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,16 +3183,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://wheels-census-kerry-institutional.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-05T23:31:20.973495Z",
-      "publicUrl": "https://nurse-nature-star-tar.trycloudflare.com",
-      "executorUrl": "https://nurse-nature-star-tar.trycloudflare.com",
+      "updatedAt": "2026-09-05T23:31:35.131142Z",
+      "publicUrl": "https://wheels-census-kerry-institutional.trycloudflare.com",
+      "executorUrl": "https://wheels-census-kerry-institutional.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-05T20:49:45.367883Z"
+      "lastSeenAt": "2026-09-05T23:31:25.938818Z"
     }
   }
 }
