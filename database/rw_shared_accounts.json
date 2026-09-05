@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-05T00:54:11.795439Z",
+  "updatedAt": "2026-09-05T00:54:18.079279Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3184,17 +3184,18 @@
         "http://192.168.1.2:8765"
       ],
       "executorUrls": [
+        "https://advisors-remedy-prix-winners.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.2:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-05T00:54:11.795439Z",
-      "publicUrl": "https://males-dive-share-national.trycloudflare.com",
-      "executorUrl": "https://males-dive-share-national.trycloudflare.com",
+      "updatedAt": "2026-09-05T00:54:18.079279Z",
+      "publicUrl": "https://advisors-remedy-prix-winners.trycloudflare.com",
+      "executorUrl": "https://advisors-remedy-prix-winners.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-05T00:53:00.341500Z"
+      "lastSeenAt": "2026-09-05T00:54:17.651788Z"
     }
   }
 }
