@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-05T13:52:47.918780Z",
+  "updatedAt": "2026-09-05T15:32:30.167792Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -657,13 +657,13 @@
       "usernameLower": "ruan__.77",
       "passwordSalt": "3HBawwsNG-K5PP9HoaNXEYvL3iQbDqAz",
       "passwordHash": "87051c522ed1615bef6bc34ca7aa9860f4fc9fb57f29603da85f20f0dbbb4595",
-      "avatarCode": "B545-T30-W0-R18-L2-N44-U38-X6-F89-C0",
+      "avatarCode": "B609-T28-W28-R46-L0-N4-U48-X16-F13-C0",
       "collectionId": "",
       "collectionTitle": "Ruan__.77",
       "defaultPublishedFileId": "",
       "defaultVisibility": "0",
       "joinedAt": "2026-09-02T06:43:23.181049Z",
-      "updatedAt": "2026-09-02T06:43:23.181064Z"
+      "updatedAt": "2026-09-05T15:32:30.167749Z"
     },
     "bali": {
       "username": "bali",
@@ -3056,7 +3056,7 @@
     },
     "ruan__.77": {
       "username": "Ruan__.77",
-      "avatar_code": "B545-T30-W0-R18-L2-N44-U38-X6-F89-C0",
+      "avatar_code": "B609-T28-W28-R46-L0-N4-U48-X16-F13-C0",
       "joined_at": "2026-09-02T06:43:23.181049Z",
       "wins": 0,
       "participations": 0,
