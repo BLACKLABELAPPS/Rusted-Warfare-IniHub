@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-05T02:39:37.283457Z",
+  "updatedAt": "2026-09-05T03:51:27.035227Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3178,17 +3178,18 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.1.27:8765",
+      "lanUrl": "http://192.168.137.1:8765",
       "lanUrls": [
-        "http://192.168.1.27:8765"
+        "http://192.168.137.1:8765",
+        "http://192.168.1.2:8765"
       ],
       "executorUrls": [
-        "https://electronic-alexander-yea-sale.trycloudflare.com",
-        "http://192.168.1.27:8765"
+        "http://192.168.137.1:8765",
+        "http://192.168.1.2:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-05T02:39:37.283457Z",
+      "updatedAt": "2026-09-05T03:51:27.033225Z",
       "publicUrl": "https://electronic-alexander-yea-sale.trycloudflare.com",
       "executorUrl": "https://electronic-alexander-yea-sale.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
