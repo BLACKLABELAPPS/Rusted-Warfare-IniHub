@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-05T20:01:05.685079Z",
+  "updatedAt": "2026-09-05T20:49:39.175838Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,12 +3183,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://kelkoo-tale-classification-jurisdiction.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-05T20:01:05.685079Z",
+      "updatedAt": "2026-09-05T20:49:39.173542Z",
       "publicUrl": "https://kelkoo-tale-classification-jurisdiction.trycloudflare.com",
       "executorUrl": "https://kelkoo-tale-classification-jurisdiction.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
