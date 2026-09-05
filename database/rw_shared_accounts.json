@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-05T20:00:54.691008Z",
+  "updatedAt": "2026-09-05T20:01:05.685079Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,16 +3183,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://kelkoo-tale-classification-jurisdiction.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-05T20:00:54.690006Z",
-      "publicUrl": "https://civilization-immune-involve-develops.trycloudflare.com",
-      "executorUrl": "https://civilization-immune-involve-develops.trycloudflare.com",
+      "updatedAt": "2026-09-05T20:01:05.685079Z",
+      "publicUrl": "https://kelkoo-tale-classification-jurisdiction.trycloudflare.com",
+      "executorUrl": "https://kelkoo-tale-classification-jurisdiction.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-05T18:25:13.135787Z"
+      "lastSeenAt": "2026-09-05T20:01:04.673246Z"
     }
   }
 }
