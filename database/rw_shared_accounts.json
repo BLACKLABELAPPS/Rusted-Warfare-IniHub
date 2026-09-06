@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T05:05:12.630705Z",
+  "updatedAt": "2026-09-06T05:05:21.280933Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,16 +3183,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://flying-venues-scholar-values.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T05:05:12.629551Z",
-      "publicUrl": "https://superior-deal-debian-initial.trycloudflare.com",
-      "executorUrl": "https://superior-deal-debian-initial.trycloudflare.com",
+      "updatedAt": "2026-09-06T05:05:21.280933Z",
+      "publicUrl": "https://flying-venues-scholar-values.trycloudflare.com",
+      "executorUrl": "https://flying-venues-scholar-values.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-06T04:46:54.189694Z"
+      "lastSeenAt": "2026-09-06T05:05:18.726826Z"
     }
   }
 }
