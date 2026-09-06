@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T05:15:39.228314Z",
+  "updatedAt": "2026-09-06T05:27:02.837399Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,12 +3183,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://finances-basic-light-creek.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T05:15:39.228314Z",
+      "updatedAt": "2026-09-06T05:27:02.835399Z",
       "publicUrl": "https://finances-basic-light-creek.trycloudflare.com",
       "executorUrl": "https://finances-basic-light-creek.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
