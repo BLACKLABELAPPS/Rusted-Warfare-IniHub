@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T22:53:26.393417Z",
+  "updatedAt": "2026-09-06T23:12:55.165358Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3220,12 +3220,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://msie-interventions-grid-introduction.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T22:53:26.393417Z",
+      "updatedAt": "2026-09-06T23:12:55.163371Z",
       "publicUrl": "https://msie-interventions-grid-introduction.trycloudflare.com",
       "executorUrl": "https://msie-interventions-grid-introduction.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
