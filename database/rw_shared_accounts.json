@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T19:07:35.671813Z",
+  "updatedAt": "2026-09-06T19:10:08.026552Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3196,12 +3196,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://auction-binary-fans-sends.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T19:07:35.671813Z",
+      "updatedAt": "2026-09-06T19:10:08.024203Z",
       "publicUrl": "https://auction-binary-fans-sends.trycloudflare.com",
       "executorUrl": "https://auction-binary-fans-sends.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
