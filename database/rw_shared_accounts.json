@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T01:45:53.439648Z",
+  "updatedAt": "2026-09-06T01:46:03.834384Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,16 +3183,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://license-linda-designs-currency.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T01:45:53.437652Z",
-      "publicUrl": "https://surf-receiving-thrown-nirvana.trycloudflare.com",
-      "executorUrl": "https://surf-receiving-thrown-nirvana.trycloudflare.com",
+      "updatedAt": "2026-09-06T01:46:03.834384Z",
+      "publicUrl": "https://license-linda-designs-currency.trycloudflare.com",
+      "executorUrl": "https://license-linda-designs-currency.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-06T01:03:50.671186Z"
+      "lastSeenAt": "2026-09-06T01:45:58.442453Z"
     }
   }
 }
