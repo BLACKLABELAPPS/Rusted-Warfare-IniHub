@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T15:04:09.508048Z",
+  "updatedAt": "2026-09-06T15:24:19.208505Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3196,12 +3196,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://breath-predictions-requested-permitted.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T15:04:09.508048Z",
+      "updatedAt": "2026-09-06T15:24:19.207526Z",
       "publicUrl": "https://breath-predictions-requested-permitted.trycloudflare.com",
       "executorUrl": "https://breath-predictions-requested-permitted.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
