@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T05:44:40.319184Z",
+  "updatedAt": "2026-09-06T05:44:47.934921Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,16 +3183,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://earning-refurbished-exams-realistic.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T05:44:40.318184Z",
-      "publicUrl": "https://vocals-promotions-truth-quantum.trycloudflare.com",
-      "executorUrl": "https://vocals-promotions-truth-quantum.trycloudflare.com",
+      "updatedAt": "2026-09-06T05:44:47.934921Z",
+      "publicUrl": "https://earning-refurbished-exams-realistic.trycloudflare.com",
+      "executorUrl": "https://earning-refurbished-exams-realistic.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-06T05:27:09.403577Z"
+      "lastSeenAt": "2026-09-06T05:44:46.299157Z"
     }
   }
 }
