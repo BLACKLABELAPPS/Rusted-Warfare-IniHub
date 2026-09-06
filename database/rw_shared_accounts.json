@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T05:15:29.108973Z",
+  "updatedAt": "2026-09-06T05:15:39.228314Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,16 +3183,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://finances-basic-light-creek.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T05:15:29.106972Z",
-      "publicUrl": "https://flying-venues-scholar-values.trycloudflare.com",
-      "executorUrl": "https://flying-venues-scholar-values.trycloudflare.com",
+      "updatedAt": "2026-09-06T05:15:39.228314Z",
+      "publicUrl": "https://finances-basic-light-creek.trycloudflare.com",
+      "executorUrl": "https://finances-basic-light-creek.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-06T05:05:18.726826Z"
+      "lastSeenAt": "2026-09-06T05:15:33.939893Z"
     }
   }
 }
