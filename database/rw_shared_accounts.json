@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T02:59:00.745453Z",
+  "updatedAt": "2026-09-06T02:59:07.996761Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,16 +3183,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://thursday-distance-toolbar-chronicle.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T02:59:00.743447Z",
-      "publicUrl": "https://sports-endorsement-accidents-rank.trycloudflare.com",
-      "executorUrl": "https://sports-endorsement-accidents-rank.trycloudflare.com",
+      "updatedAt": "2026-09-06T02:59:07.996761Z",
+      "publicUrl": "https://thursday-distance-toolbar-chronicle.trycloudflare.com",
+      "executorUrl": "https://thursday-distance-toolbar-chronicle.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-06T02:47:24.636552Z"
+      "lastSeenAt": "2026-09-06T02:59:06.487516Z"
     }
   }
 }
