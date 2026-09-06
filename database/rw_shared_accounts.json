@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T14:44:26.654153Z",
+  "updatedAt": "2026-09-06T14:44:32.330159Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3196,16 +3196,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://hiv-reduction-telecom-pens.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T14:44:26.652154Z",
-      "publicUrl": "https://pipes-antarctica-logan-confidentiality.trycloudflare.com",
-      "executorUrl": "https://pipes-antarctica-logan-confidentiality.trycloudflare.com",
+      "updatedAt": "2026-09-06T14:44:32.330159Z",
+      "publicUrl": "https://hiv-reduction-telecom-pens.trycloudflare.com",
+      "executorUrl": "https://hiv-reduction-telecom-pens.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-06T14:42:58.429631Z"
+      "lastSeenAt": "2026-09-06T14:44:31.816032Z"
     }
   }
 }
