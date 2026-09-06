@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T00:49:21.210922Z",
+  "updatedAt": "2026-09-06T00:49:31.603227Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,16 +3183,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://toner-albany-physics-alerts.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T00:49:21.209922Z",
-      "publicUrl": "https://victorian-concluded-september-engaged.trycloudflare.com",
-      "executorUrl": "https://victorian-concluded-september-engaged.trycloudflare.com",
+      "updatedAt": "2026-09-06T00:49:31.603227Z",
+      "publicUrl": "https://toner-albany-physics-alerts.trycloudflare.com",
+      "executorUrl": "https://toner-albany-physics-alerts.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-05T23:41:46.250186Z"
+      "lastSeenAt": "2026-09-06T00:49:26.083266Z"
     }
   }
 }
