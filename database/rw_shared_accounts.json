@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T05:44:47.934921Z",
+  "updatedAt": "2026-09-06T05:51:48.496542Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,12 +3183,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://earning-refurbished-exams-realistic.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T05:44:47.934921Z",
+      "updatedAt": "2026-09-06T05:51:48.494838Z",
       "publicUrl": "https://earning-refurbished-exams-realistic.trycloudflare.com",
       "executorUrl": "https://earning-refurbished-exams-realistic.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
