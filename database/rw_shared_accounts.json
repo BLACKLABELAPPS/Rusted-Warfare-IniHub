@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T23:21:43.798517Z",
+  "updatedAt": "2026-09-06T23:21:53.191436Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3220,16 +3220,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://vatican-avoiding-due-mothers.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T23:21:43.796503Z",
-      "publicUrl": "https://mills-carolina-med-matched.trycloudflare.com",
-      "executorUrl": "https://mills-carolina-med-matched.trycloudflare.com",
+      "updatedAt": "2026-09-06T23:21:53.190439Z",
+      "publicUrl": "https://vatican-avoiding-due-mothers.trycloudflare.com",
+      "executorUrl": "https://vatican-avoiding-due-mothers.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-06T23:13:05.517294Z"
+      "lastSeenAt": "2026-09-06T23:21:52.530614Z"
     }
   }
 }
