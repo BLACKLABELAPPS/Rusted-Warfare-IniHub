@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T13:09:37.879045Z",
+  "updatedAt": "2026-09-06T13:52:38.590693Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2374,6 +2374,19 @@
         "directory": "",
         "zipAndElements": "",
         "urlImage": "https://images.steamusercontent.com/ugc/773981158474491450/5FCB595C707B9B0DF318F1C0485BE4E23B7D0784/",
+        "source": "favorite"
+      }
+    ],
+    "lowki": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3635859371&appid=647960",
+        "title": "Clonism",
+        "date": "06/09/2026",
+        "time": "21:52:34",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/16570159595958715950/E84ADE35B6BF17386F76782E2CAFAEBE7B53D40B/",
         "source": "favorite"
       }
     ]
