@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T02:59:07.996761Z",
+  "updatedAt": "2026-09-06T03:01:04.506015Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,12 +3183,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://thursday-distance-toolbar-chronicle.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T02:59:07.996761Z",
+      "updatedAt": "2026-09-06T03:01:04.504020Z",
       "publicUrl": "https://thursday-distance-toolbar-chronicle.trycloudflare.com",
       "executorUrl": "https://thursday-distance-toolbar-chronicle.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
