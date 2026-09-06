@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T06:00:14.376482Z",
+  "updatedAt": "2026-09-06T06:00:21.545955Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,16 +3183,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://festivals-input-age-improvements.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T06:00:14.374481Z",
-      "publicUrl": "https://cole-margaret-pledge-predict.trycloudflare.com",
-      "executorUrl": "https://cole-margaret-pledge-predict.trycloudflare.com",
+      "updatedAt": "2026-09-06T06:00:21.545955Z",
+      "publicUrl": "https://festivals-input-age-improvements.trycloudflare.com",
+      "executorUrl": "https://festivals-input-age-improvements.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-06T05:51:54.209673Z"
+      "lastSeenAt": "2026-09-06T06:00:20.031358Z"
     }
   }
 }
