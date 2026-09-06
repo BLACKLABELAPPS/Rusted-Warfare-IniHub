@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T15:24:27.641133Z",
+  "updatedAt": "2026-09-06T15:34:28.719432Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3196,12 +3196,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://suppliers-vocals-innovations-claimed.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T15:24:27.641133Z",
+      "updatedAt": "2026-09-06T15:34:28.717365Z",
       "publicUrl": "https://suppliers-vocals-innovations-claimed.trycloudflare.com",
       "executorUrl": "https://suppliers-vocals-innovations-claimed.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
