@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T05:51:48.496542Z",
+  "updatedAt": "2026-09-06T05:51:55.750605Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,16 +3183,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://cole-margaret-pledge-predict.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T05:51:48.494838Z",
-      "publicUrl": "https://earning-refurbished-exams-realistic.trycloudflare.com",
-      "executorUrl": "https://earning-refurbished-exams-realistic.trycloudflare.com",
+      "updatedAt": "2026-09-06T05:51:55.750605Z",
+      "publicUrl": "https://cole-margaret-pledge-predict.trycloudflare.com",
+      "executorUrl": "https://cole-margaret-pledge-predict.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-06T05:44:46.299157Z"
+      "lastSeenAt": "2026-09-06T05:51:54.209673Z"
     }
   }
 }
