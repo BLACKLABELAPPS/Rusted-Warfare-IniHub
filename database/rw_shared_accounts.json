@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T11:16:49.219945Z",
+  "updatedAt": "2026-09-06T11:16:54.286882Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,16 +3183,17 @@
         "http://192.168.0.227:8765"
       ],
       "executorUrls": [
+        "https://morning-jay-majority-approval.trycloudflare.com",
         "http://192.168.0.227:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T11:16:49.219945Z",
-      "publicUrl": "https://physician-monthly-fathers-hull.trycloudflare.com",
-      "executorUrl": "https://physician-monthly-fathers-hull.trycloudflare.com",
+      "updatedAt": "2026-09-06T11:16:54.286882Z",
+      "publicUrl": "https://morning-jay-majority-approval.trycloudflare.com",
+      "executorUrl": "https://morning-jay-majority-approval.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-06T08:15:31.697003Z"
+      "lastSeenAt": "2026-09-06T11:16:53.837581Z"
     }
   }
 }
