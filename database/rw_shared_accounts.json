@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T06:00:21.545955Z",
+  "updatedAt": "2026-09-06T06:03:15.280977Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,12 +3183,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://festivals-input-age-improvements.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T06:00:21.545955Z",
+      "updatedAt": "2026-09-06T06:03:15.279200Z",
       "publicUrl": "https://festivals-input-age-improvements.trycloudflare.com",
       "executorUrl": "https://festivals-input-age-improvements.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
