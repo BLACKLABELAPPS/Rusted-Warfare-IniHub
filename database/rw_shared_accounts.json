@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T01:03:51.155584Z",
+  "updatedAt": "2026-09-06T01:45:53.439648Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,12 +3183,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://surf-receiving-thrown-nirvana.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T01:03:51.155584Z",
+      "updatedAt": "2026-09-06T01:45:53.437652Z",
       "publicUrl": "https://surf-receiving-thrown-nirvana.trycloudflare.com",
       "executorUrl": "https://surf-receiving-thrown-nirvana.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
