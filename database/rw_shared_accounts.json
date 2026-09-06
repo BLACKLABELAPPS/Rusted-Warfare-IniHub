@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T04:46:58.420226Z",
+  "updatedAt": "2026-09-06T05:05:12.630705Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,12 +3183,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://superior-deal-debian-initial.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T04:46:58.420226Z",
+      "updatedAt": "2026-09-06T05:05:12.629551Z",
       "publicUrl": "https://superior-deal-debian-initial.trycloudflare.com",
       "executorUrl": "https://superior-deal-debian-initial.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
