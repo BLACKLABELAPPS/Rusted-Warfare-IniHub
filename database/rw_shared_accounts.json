@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T03:21:38.764141Z",
+  "updatedAt": "2026-09-06T03:21:44.525566Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,16 +3183,17 @@
         "http://192.168.1.27:8765"
       ],
       "executorUrls": [
+        "https://determines-boxed-how-johnston.trycloudflare.com",
         "http://192.168.1.27:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T03:21:38.764141Z",
-      "publicUrl": "https://ada-subsection-gbp-net.trycloudflare.com",
-      "executorUrl": "https://ada-subsection-gbp-net.trycloudflare.com",
+      "updatedAt": "2026-09-06T03:21:44.525566Z",
+      "publicUrl": "https://determines-boxed-how-johnston.trycloudflare.com",
+      "executorUrl": "https://determines-boxed-how-johnston.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-06T03:01:10.714877Z"
+      "lastSeenAt": "2026-09-06T03:21:44.065439Z"
     }
   }
 }
