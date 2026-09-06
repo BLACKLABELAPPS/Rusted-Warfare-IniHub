@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T19:00:54.010706Z",
+  "updatedAt": "2026-09-06T19:07:27.112293Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3196,12 +3196,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://opposite-completion-taken-employers.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T19:00:54.009710Z",
+      "updatedAt": "2026-09-06T19:07:27.111297Z",
       "publicUrl": "https://opposite-completion-taken-employers.trycloudflare.com",
       "executorUrl": "https://opposite-completion-taken-employers.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
