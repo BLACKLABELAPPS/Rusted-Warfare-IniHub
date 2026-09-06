@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T23:21:53.191436Z",
+  "updatedAt": "2026-09-06T23:46:28.070702Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3220,12 +3220,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://vatican-avoiding-due-mothers.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T23:21:53.190439Z",
+      "updatedAt": "2026-09-06T23:46:28.068776Z",
       "publicUrl": "https://vatican-avoiding-due-mothers.trycloudflare.com",
       "executorUrl": "https://vatican-avoiding-due-mothers.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
