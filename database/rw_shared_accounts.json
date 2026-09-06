@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T05:05:21.280933Z",
+  "updatedAt": "2026-09-06T05:11:07.870857Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,12 +3183,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://flying-venues-scholar-values.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T05:05:21.280933Z",
+      "updatedAt": "2026-09-06T05:11:07.868865Z",
       "publicUrl": "https://flying-venues-scholar-values.trycloudflare.com",
       "executorUrl": "https://flying-venues-scholar-values.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
