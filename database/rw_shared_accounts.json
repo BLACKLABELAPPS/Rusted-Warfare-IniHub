@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T14:42:53.004688Z",
+  "updatedAt": "2026-09-06T14:42:58.990204Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3196,16 +3196,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://pipes-antarctica-logan-confidentiality.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T14:42:53.003750Z",
-      "publicUrl": "https://dietary-cache-introductory-invoice.trycloudflare.com",
-      "executorUrl": "https://dietary-cache-introductory-invoice.trycloudflare.com",
+      "updatedAt": "2026-09-06T14:42:58.990204Z",
+      "publicUrl": "https://pipes-antarctica-logan-confidentiality.trycloudflare.com",
+      "executorUrl": "https://pipes-antarctica-logan-confidentiality.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-06T13:09:36.894725Z"
+      "lastSeenAt": "2026-09-06T14:42:58.429631Z"
     }
   }
 }
