@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T05:27:02.837399Z",
+  "updatedAt": "2026-09-06T05:27:10.080842Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,16 +3183,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://vocals-promotions-truth-quantum.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T05:27:02.835399Z",
-      "publicUrl": "https://finances-basic-light-creek.trycloudflare.com",
-      "executorUrl": "https://finances-basic-light-creek.trycloudflare.com",
+      "updatedAt": "2026-09-06T05:27:10.080842Z",
+      "publicUrl": "https://vocals-promotions-truth-quantum.trycloudflare.com",
+      "executorUrl": "https://vocals-promotions-truth-quantum.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-06T05:15:33.939893Z"
+      "lastSeenAt": "2026-09-06T05:27:09.403577Z"
     }
   }
 }
