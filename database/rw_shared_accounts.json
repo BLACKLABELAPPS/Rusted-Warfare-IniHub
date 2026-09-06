@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T00:49:31.603227Z",
+  "updatedAt": "2026-09-06T01:03:45.588086Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,12 +3183,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://toner-albany-physics-alerts.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T00:49:31.603227Z",
+      "updatedAt": "2026-09-06T01:03:45.586086Z",
       "publicUrl": "https://toner-albany-physics-alerts.trycloudflare.com",
       "executorUrl": "https://toner-albany-physics-alerts.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
