@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T20:22:09.771754Z",
+  "updatedAt": "2026-09-06T22:53:17.225648Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3220,12 +3220,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://circulation-porter-station-tennessee.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T19:10:16.102406Z",
+      "updatedAt": "2026-09-06T22:53:17.223403Z",
       "publicUrl": "https://circulation-porter-station-tennessee.trycloudflare.com",
       "executorUrl": "https://circulation-porter-station-tennessee.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
