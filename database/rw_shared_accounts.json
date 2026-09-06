@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T04:46:49.005280Z",
+  "updatedAt": "2026-09-06T04:46:58.420226Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,16 +3183,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://superior-deal-debian-initial.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T04:46:49.004278Z",
-      "publicUrl": "https://values-secondary-aluminium-execute.trycloudflare.com",
-      "executorUrl": "https://values-secondary-aluminium-execute.trycloudflare.com",
+      "updatedAt": "2026-09-06T04:46:58.420226Z",
+      "publicUrl": "https://superior-deal-debian-initial.trycloudflare.com",
+      "executorUrl": "https://superior-deal-debian-initial.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-06T04:21:49.683890Z"
+      "lastSeenAt": "2026-09-06T04:46:54.189694Z"
     }
   }
 }
