@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-05T23:41:47.876285Z",
+  "updatedAt": "2026-09-06T00:42:03.460559Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,12 +3183,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://victorian-concluded-september-engaged.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-05T23:41:47.876285Z",
+      "updatedAt": "2026-09-06T00:42:03.458479Z",
       "publicUrl": "https://victorian-concluded-september-engaged.trycloudflare.com",
       "executorUrl": "https://victorian-concluded-september-engaged.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
