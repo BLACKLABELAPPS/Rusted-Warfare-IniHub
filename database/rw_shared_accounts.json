@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T05:51:55.750605Z",
+  "updatedAt": "2026-09-06T06:00:14.376482Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,12 +3183,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://cole-margaret-pledge-predict.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T05:51:55.750605Z",
+      "updatedAt": "2026-09-06T06:00:14.374481Z",
       "publicUrl": "https://cole-margaret-pledge-predict.trycloudflare.com",
       "executorUrl": "https://cole-margaret-pledge-predict.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
