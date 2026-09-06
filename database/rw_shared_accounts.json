@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T02:11:37.889789Z",
+  "updatedAt": "2026-09-06T02:47:19.059854Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3183,12 +3183,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://assets-flip-national-poem.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T02:11:37.889789Z",
+      "updatedAt": "2026-09-06T02:47:19.058355Z",
       "publicUrl": "https://assets-flip-national-poem.trycloudflare.com",
       "executorUrl": "https://assets-flip-national-poem.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
