@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T14:58:17.161470Z",
+  "updatedAt": "2026-09-06T14:58:25.348509Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3196,16 +3196,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://auctions-spray-entering-acer.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T14:58:17.159475Z",
-      "publicUrl": "https://hiv-reduction-telecom-pens.trycloudflare.com",
-      "executorUrl": "https://hiv-reduction-telecom-pens.trycloudflare.com",
+      "updatedAt": "2026-09-06T14:58:25.348509Z",
+      "publicUrl": "https://auctions-spray-entering-acer.trycloudflare.com",
+      "executorUrl": "https://auctions-spray-entering-acer.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-06T14:44:31.816032Z"
+      "lastSeenAt": "2026-09-06T14:58:23.733766Z"
     }
   }
 }
