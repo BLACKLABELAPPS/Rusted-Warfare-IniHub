@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T06:03:22.667612Z",
+  "updatedAt": "2026-09-06T08:15:27.557588Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3178,17 +3178,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.1.4:8765",
+      "lanUrl": "http://192.168.0.227:8765",
       "lanUrls": [
-        "http://192.168.1.4:8765"
+        "http://192.168.0.227:8765"
       ],
       "executorUrls": [
-        "https://automation-assist-addressed-knight.trycloudflare.com",
-        "http://192.168.1.4:8765"
+        "http://192.168.0.227:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-06T06:03:22.667612Z",
+      "updatedAt": "2026-09-06T08:15:27.557588Z",
       "publicUrl": "https://automation-assist-addressed-knight.trycloudflare.com",
       "executorUrl": "https://automation-assist-addressed-knight.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
