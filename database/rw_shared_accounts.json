@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T09:18:46.652195Z",
+  "updatedAt": "2026-09-07T14:15:14.330487Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -781,6 +781,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-07T09:18:46.652006Z",
       "updatedAt": "2026-09-07T09:18:46.652036Z"
+    },
+    "shudi": {
+      "username": "shudi",
+      "usernameLower": "shudi",
+      "passwordSalt": "ybS2uojA606EkHy4cgmV3KD_0GOXhuWp",
+      "passwordHash": "c36f86acd9b27279339e61878ba08965bb70946773afb2906aaead951e18d541",
+      "avatarCode": "B240-T21-W33-R45-L0-N17-U9-X21-F84-C0",
+      "collectionId": "",
+      "collectionTitle": "shudi",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-07T14:15:14.330397Z",
+      "updatedAt": "2026-09-07T14:15:14.330412Z"
     }
   },
   "posts": [],
@@ -3209,6 +3222,17 @@
       "username": "Monly",
       "avatar_code": "B232-T13-W33-R37-L2-N13-U41-X3-F44-C0",
       "joined_at": "2026-09-07T09:18:46.652006Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "shudi": {
+      "username": "shudi",
+      "avatar_code": "B240-T21-W33-R45-L0-N17-U9-X21-F84-C0",
+      "joined_at": "2026-09-07T14:15:14.330397Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
