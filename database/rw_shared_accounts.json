@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T18:24:38.881300Z",
+  "updatedAt": "2026-09-07T18:24:42.695231Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3292,16 +3292,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://imperial-supervisors-rolled-tony.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-07T18:24:38.879149Z",
-      "publicUrl": "https://upgrades-receptor-while-relief.trycloudflare.com",
-      "executorUrl": "https://upgrades-receptor-while-relief.trycloudflare.com",
+      "updatedAt": "2026-09-07T18:24:42.695231Z",
+      "publicUrl": "https://imperial-supervisors-rolled-tony.trycloudflare.com",
+      "executorUrl": "https://imperial-supervisors-rolled-tony.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-07T18:19:49.597122Z"
+      "lastSeenAt": "2026-09-07T18:24:39.098814Z"
     }
   }
 }
