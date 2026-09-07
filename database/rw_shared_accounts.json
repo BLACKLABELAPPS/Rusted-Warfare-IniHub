@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T15:44:56.627825Z",
+  "updatedAt": "2026-09-07T16:32:24.698782Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3292,12 +3292,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://insulin-hormone-name-printers.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-07T15:44:56.627825Z",
+      "updatedAt": "2026-09-07T16:32:24.696775Z",
       "publicUrl": "https://insulin-hormone-name-printers.trycloudflare.com",
       "executorUrl": "https://insulin-hormone-name-printers.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
