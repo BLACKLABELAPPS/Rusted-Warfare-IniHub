@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T18:34:51.072352Z",
+  "updatedAt": "2026-09-07T18:34:58.491605Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3292,16 +3292,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://chevy-similarly-shipment-earn.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-07T18:34:51.070040Z",
-      "publicUrl": "https://imperial-supervisors-rolled-tony.trycloudflare.com",
-      "executorUrl": "https://imperial-supervisors-rolled-tony.trycloudflare.com",
+      "updatedAt": "2026-09-07T18:34:58.491605Z",
+      "publicUrl": "https://chevy-similarly-shipment-earn.trycloudflare.com",
+      "executorUrl": "https://chevy-similarly-shipment-earn.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-07T18:24:39.098814Z"
+      "lastSeenAt": "2026-09-07T18:34:57.863927Z"
     }
   }
 }
