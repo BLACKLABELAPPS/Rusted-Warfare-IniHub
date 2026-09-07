@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T18:34:58.491605Z",
+  "updatedAt": "2026-09-07T19:49:24.271422Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3292,12 +3292,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://chevy-similarly-shipment-earn.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-07T18:34:58.491605Z",
+      "updatedAt": "2026-09-07T19:49:24.269420Z",
       "publicUrl": "https://chevy-similarly-shipment-earn.trycloudflare.com",
       "executorUrl": "https://chevy-similarly-shipment-earn.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
