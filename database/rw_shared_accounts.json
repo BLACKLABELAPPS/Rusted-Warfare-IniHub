@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T22:59:00.727311Z",
+  "updatedAt": "2026-09-07T22:59:18.168442Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3292,16 +3292,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://forever-signals-geneva-jar.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-07T22:59:00.726311Z",
-      "publicUrl": "https://considerable-fitness-trading-kirk.trycloudflare.com",
-      "executorUrl": "https://considerable-fitness-trading-kirk.trycloudflare.com",
+      "updatedAt": "2026-09-07T22:59:18.168442Z",
+      "publicUrl": "https://forever-signals-geneva-jar.trycloudflare.com",
+      "executorUrl": "https://forever-signals-geneva-jar.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-07T22:51:22.619424Z"
+      "lastSeenAt": "2026-09-07T22:59:13.780978Z"
     }
   }
 }
