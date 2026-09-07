@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T21:34:51.685628Z",
+  "updatedAt": "2026-09-07T21:35:01.463768Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3292,16 +3292,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://layers-locally-kind-glass.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-07T21:34:51.683626Z",
-      "publicUrl": "https://comp-mode-steve-chapel.trycloudflare.com",
-      "executorUrl": "https://comp-mode-steve-chapel.trycloudflare.com",
+      "updatedAt": "2026-09-07T21:35:01.463768Z",
+      "publicUrl": "https://layers-locally-kind-glass.trycloudflare.com",
+      "executorUrl": "https://layers-locally-kind-glass.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-07T21:03:40.262167Z"
+      "lastSeenAt": "2026-09-07T21:35:00.443648Z"
     }
   }
 }
