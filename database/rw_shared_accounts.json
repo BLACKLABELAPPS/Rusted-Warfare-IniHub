@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T18:19:50.231784Z",
+  "updatedAt": "2026-09-07T18:24:38.881300Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3292,12 +3292,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://upgrades-receptor-while-relief.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-07T18:19:50.230785Z",
+      "updatedAt": "2026-09-07T18:24:38.879149Z",
       "publicUrl": "https://upgrades-receptor-while-relief.trycloudflare.com",
       "executorUrl": "https://upgrades-receptor-while-relief.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
