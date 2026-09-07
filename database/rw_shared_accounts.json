@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T03:53:03.285642Z",
+  "updatedAt": "2026-09-07T06:23:04.749397Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3244,12 +3244,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://hugh-investment-webmaster-hawk.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-07T03:53:03.284644Z",
+      "updatedAt": "2026-09-07T06:23:04.747395Z",
       "publicUrl": "https://hugh-investment-webmaster-hawk.trycloudflare.com",
       "executorUrl": "https://hugh-investment-webmaster-hawk.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
