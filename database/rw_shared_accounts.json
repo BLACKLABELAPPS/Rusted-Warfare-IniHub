@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T15:07:34.261589Z",
+  "updatedAt": "2026-09-07T15:44:48.614923Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3292,12 +3292,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://und-testing-really-marathon.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-07T15:07:34.261589Z",
+      "updatedAt": "2026-09-07T15:44:48.612495Z",
       "publicUrl": "https://und-testing-really-marathon.trycloudflare.com",
       "executorUrl": "https://und-testing-really-marathon.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
