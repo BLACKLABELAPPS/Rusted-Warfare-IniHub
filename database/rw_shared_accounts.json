@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T16:55:21.685131Z",
+  "updatedAt": "2026-09-07T17:36:44.877526Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3292,12 +3292,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://tony-cams-relatives-member.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-07T16:55:21.685131Z",
+      "updatedAt": "2026-09-07T17:36:44.875784Z",
       "publicUrl": "https://tony-cams-relatives-member.trycloudflare.com",
       "executorUrl": "https://tony-cams-relatives-member.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
