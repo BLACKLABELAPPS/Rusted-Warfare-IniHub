@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T16:55:09.989994Z",
+  "updatedAt": "2026-09-07T16:55:21.685131Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3292,16 +3292,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://tony-cams-relatives-member.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-07T16:55:09.987060Z",
-      "publicUrl": "https://plans-should-barbara-duck.trycloudflare.com",
-      "executorUrl": "https://plans-should-barbara-duck.trycloudflare.com",
+      "updatedAt": "2026-09-07T16:55:21.685131Z",
+      "publicUrl": "https://tony-cams-relatives-member.trycloudflare.com",
+      "executorUrl": "https://tony-cams-relatives-member.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-07T16:37:40.600899Z"
+      "lastSeenAt": "2026-09-07T16:55:20.225395Z"
     }
   }
 }
