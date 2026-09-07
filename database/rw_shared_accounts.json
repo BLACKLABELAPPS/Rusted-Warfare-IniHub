@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T23:03:45.668880Z",
+  "updatedAt": "2026-09-07T23:04:25.534161Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3292,12 +3292,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://ide-minneapolis-lasting-insider.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-07T23:03:45.667902Z",
+      "updatedAt": "2026-09-07T23:04:25.532160Z",
       "publicUrl": "https://ide-minneapolis-lasting-insider.trycloudflare.com",
       "executorUrl": "https://ide-minneapolis-lasting-insider.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
