@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T14:15:14.330487Z",
+  "updatedAt": "2026-09-07T14:26:56.149776Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3292,12 +3292,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://cabinets-msg-talk-affordable.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-07T06:23:19.320967Z",
+      "updatedAt": "2026-09-07T14:26:56.146781Z",
       "publicUrl": "https://cabinets-msg-talk-affordable.trycloudflare.com",
       "executorUrl": "https://cabinets-msg-talk-affordable.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
