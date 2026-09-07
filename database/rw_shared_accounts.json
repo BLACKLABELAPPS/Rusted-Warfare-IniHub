@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T22:59:18.168442Z",
+  "updatedAt": "2026-09-07T23:03:37.115154Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3292,12 +3292,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://forever-signals-geneva-jar.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-07T22:59:18.168442Z",
+      "updatedAt": "2026-09-07T23:03:37.113154Z",
       "publicUrl": "https://forever-signals-geneva-jar.trycloudflare.com",
       "executorUrl": "https://forever-signals-geneva-jar.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
