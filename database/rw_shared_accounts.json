@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T19:49:27.400017Z",
+  "updatedAt": "2026-09-07T20:59:22.557611Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3292,12 +3292,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://travel-surprised-index-pool.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-07T19:49:27.400017Z",
+      "updatedAt": "2026-09-07T20:59:22.555614Z",
       "publicUrl": "https://travel-surprised-index-pool.trycloudflare.com",
       "executorUrl": "https://travel-surprised-index-pool.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
