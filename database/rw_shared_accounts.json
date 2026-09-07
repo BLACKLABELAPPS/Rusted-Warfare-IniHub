@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T16:37:41.244367Z",
+  "updatedAt": "2026-09-07T16:55:09.989994Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3292,12 +3292,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://plans-should-barbara-duck.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-07T16:37:41.244367Z",
+      "updatedAt": "2026-09-07T16:55:09.987060Z",
       "publicUrl": "https://plans-should-barbara-duck.trycloudflare.com",
       "executorUrl": "https://plans-should-barbara-duck.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
