@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T21:35:01.463768Z",
+  "updatedAt": "2026-09-07T21:48:52.739346Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3292,12 +3292,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://layers-locally-kind-glass.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-07T21:35:01.463768Z",
+      "updatedAt": "2026-09-07T21:48:52.738240Z",
       "publicUrl": "https://layers-locally-kind-glass.trycloudflare.com",
       "executorUrl": "https://layers-locally-kind-glass.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
