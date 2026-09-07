@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T22:39:10.518069Z",
+  "updatedAt": "2026-09-07T22:39:24.707648Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3292,16 +3292,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://laptops-applications-protocol-hdtv.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-07T22:39:10.516064Z",
-      "publicUrl": "https://acquisitions-nav-hills-allows.trycloudflare.com",
-      "executorUrl": "https://acquisitions-nav-hills-allows.trycloudflare.com",
+      "updatedAt": "2026-09-07T22:39:24.707648Z",
+      "publicUrl": "https://laptops-applications-protocol-hdtv.trycloudflare.com",
+      "executorUrl": "https://laptops-applications-protocol-hdtv.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-07T22:06:42.845540Z"
+      "lastSeenAt": "2026-09-07T22:39:17.008885Z"
     }
   }
 }
