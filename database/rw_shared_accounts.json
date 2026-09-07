@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T21:49:07.025326Z",
+  "updatedAt": "2026-09-07T22:06:37.200456Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3292,12 +3292,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://capital-bottles-oscar-addressing.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-07T21:49:07.025326Z",
+      "updatedAt": "2026-09-07T22:06:37.199457Z",
       "publicUrl": "https://capital-bottles-oscar-addressing.trycloudflare.com",
       "executorUrl": "https://capital-bottles-oscar-addressing.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
