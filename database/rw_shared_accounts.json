@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T22:06:50.947882Z",
+  "updatedAt": "2026-09-07T22:39:10.518069Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3292,12 +3292,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://acquisitions-nav-hills-allows.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-07T22:06:50.946885Z",
+      "updatedAt": "2026-09-07T22:39:10.516064Z",
       "publicUrl": "https://acquisitions-nav-hills-allows.trycloudflare.com",
       "executorUrl": "https://acquisitions-nav-hills-allows.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
