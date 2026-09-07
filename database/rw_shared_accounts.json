@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T17:37:03.658274Z",
+  "updatedAt": "2026-09-07T18:06:58.385038Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3292,12 +3292,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://prescription-presentations-networking-postal.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-07T17:37:03.658274Z",
+      "updatedAt": "2026-09-07T18:06:58.384036Z",
       "publicUrl": "https://prescription-presentations-networking-postal.trycloudflare.com",
       "executorUrl": "https://prescription-presentations-networking-postal.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
