@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T17:38:41.622949Z",
+  "updatedAt": "2026-09-08T18:12:25.569754Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3364,12 +3364,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://legislation-scheme-moral-regions.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-08T17:38:41.622949Z",
+      "updatedAt": "2026-09-08T18:12:25.567758Z",
       "publicUrl": "https://legislation-scheme-moral-regions.trycloudflare.com",
       "executorUrl": "https://legislation-scheme-moral-regions.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
