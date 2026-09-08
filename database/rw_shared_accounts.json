@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T22:53:57.282705Z",
+  "updatedAt": "2026-09-08T22:54:10.028845Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3364,16 +3364,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://abu-badge-remains-tracker.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-08T22:53:57.280701Z",
-      "publicUrl": "https://scenarios-debug-pmid-expiration.trycloudflare.com",
-      "executorUrl": "https://scenarios-debug-pmid-expiration.trycloudflare.com",
+      "updatedAt": "2026-09-08T22:54:10.028845Z",
+      "publicUrl": "https://abu-badge-remains-tracker.trycloudflare.com",
+      "executorUrl": "https://abu-badge-remains-tracker.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-08T22:40:42.393616Z"
+      "lastSeenAt": "2026-09-08T22:54:05.439212Z"
     }
   }
 }
