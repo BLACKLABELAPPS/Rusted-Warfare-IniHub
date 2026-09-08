@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T00:26:13.733965Z",
+  "updatedAt": "2026-09-08T00:27:31.823998Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -794,6 +794,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-07T14:15:14.330397Z",
       "updatedAt": "2026-09-07T14:15:14.330412Z"
+    },
+    "kabrms": {
+      "username": "Kabrms",
+      "usernameLower": "kabrms",
+      "passwordSalt": "KVAuABteTnLpD5lEN-A1_6d8WCZ1_v_L",
+      "passwordHash": "19e077dc170c215fb06a71c39c534cf22ff8b89a716dddd8a43adf0d25b332b5",
+      "avatarCode": "B787-T30-W32-R18-L2-N22-U12-X2-F27-C0",
+      "collectionId": "",
+      "collectionTitle": "Kabrms",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-08T00:27:31.823949Z",
+      "updatedAt": "2026-09-08T00:27:31.823959Z"
     }
   },
   "posts": [],
@@ -3233,6 +3246,17 @@
       "username": "shudi",
       "avatar_code": "B240-T21-W33-R45-L0-N17-U9-X21-F84-C0",
       "joined_at": "2026-09-07T14:15:14.330397Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "kabrms": {
+      "username": "Kabrms",
+      "avatar_code": "B787-T30-W32-R18-L2-N22-U12-X2-F27-C0",
+      "joined_at": "2026-09-08T00:27:31.823949Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
