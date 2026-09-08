@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T18:20:40.489880Z",
+  "updatedAt": "2026-09-08T20:59:58.769642Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3364,12 +3364,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://replied-und-fix-messenger.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-08T18:20:40.489880Z",
+      "updatedAt": "2026-09-08T20:59:58.768640Z",
       "publicUrl": "https://replied-und-fix-messenger.trycloudflare.com",
       "executorUrl": "https://replied-und-fix-messenger.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
