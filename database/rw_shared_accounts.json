@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T18:12:37.318660Z",
+  "updatedAt": "2026-09-08T18:20:29.713491Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3364,12 +3364,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://belkin-consistently-watts-partially.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-08T18:12:37.318660Z",
+      "updatedAt": "2026-09-08T18:20:29.711490Z",
       "publicUrl": "https://belkin-consistently-watts-partially.trycloudflare.com",
       "executorUrl": "https://belkin-consistently-watts-partially.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
