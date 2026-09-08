@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T09:45:27.327354Z",
+  "updatedAt": "2026-09-08T09:45:44.369436Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3340,16 +3340,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://updates-pixel-discussion-absent.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-08T09:45:27.324819Z",
-      "publicUrl": "https://select-berlin-railroad-ten.trycloudflare.com",
-      "executorUrl": "https://select-berlin-railroad-ten.trycloudflare.com",
+      "updatedAt": "2026-09-08T09:45:44.368432Z",
+      "publicUrl": "https://updates-pixel-discussion-absent.trycloudflare.com",
+      "executorUrl": "https://updates-pixel-discussion-absent.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-08T09:21:01.287550Z"
+      "lastSeenAt": "2026-09-08T09:45:36.968870Z"
     }
   }
 }
