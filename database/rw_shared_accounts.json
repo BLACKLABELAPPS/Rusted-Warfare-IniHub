@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T18:12:25.569754Z",
+  "updatedAt": "2026-09-08T18:12:37.318660Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3364,16 +3364,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://belkin-consistently-watts-partially.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-08T18:12:25.567758Z",
-      "publicUrl": "https://legislation-scheme-moral-regions.trycloudflare.com",
-      "executorUrl": "https://legislation-scheme-moral-regions.trycloudflare.com",
+      "updatedAt": "2026-09-08T18:12:37.318660Z",
+      "publicUrl": "https://belkin-consistently-watts-partially.trycloudflare.com",
+      "executorUrl": "https://belkin-consistently-watts-partially.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-08T17:38:37.383703Z"
+      "lastSeenAt": "2026-09-08T18:12:36.208398Z"
     }
   }
 }
