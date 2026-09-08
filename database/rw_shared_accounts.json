@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T00:51:30.785456Z",
+  "updatedAt": "2026-09-08T01:06:29.723937Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3316,12 +3316,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://statutory-desired-cultural-noted.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-08T00:51:30.785456Z",
+      "updatedAt": "2026-09-08T01:06:29.722930Z",
       "publicUrl": "https://statutory-desired-cultural-noted.trycloudflare.com",
       "executorUrl": "https://statutory-desired-cultural-noted.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
