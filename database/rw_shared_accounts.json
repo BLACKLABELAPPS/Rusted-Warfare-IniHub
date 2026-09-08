@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T21:22:30.587628Z",
+  "updatedAt": "2026-09-08T21:22:45.392405Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3364,16 +3364,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://stake-announcement-called-interventions.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-08T21:22:30.585604Z",
-      "publicUrl": "https://eye-exclude-optional-computing.trycloudflare.com",
-      "executorUrl": "https://eye-exclude-optional-computing.trycloudflare.com",
+      "updatedAt": "2026-09-08T21:22:45.392405Z",
+      "publicUrl": "https://stake-announcement-called-interventions.trycloudflare.com",
+      "executorUrl": "https://stake-announcement-called-interventions.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-08T21:18:00.485364Z"
+      "lastSeenAt": "2026-09-08T21:22:38.747715Z"
     }
   }
 }
