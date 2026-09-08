@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T21:46:56.280428Z",
+  "updatedAt": "2026-09-08T21:47:06.628021Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3364,16 +3364,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://cheese-episode-taxation-residents.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-08T21:46:56.278611Z",
-      "publicUrl": "https://belt-velocity-chuck-tale.trycloudflare.com",
-      "executorUrl": "https://belt-velocity-chuck-tale.trycloudflare.com",
+      "updatedAt": "2026-09-08T21:47:06.628021Z",
+      "publicUrl": "https://cheese-episode-taxation-residents.trycloudflare.com",
+      "executorUrl": "https://cheese-episode-taxation-residents.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-08T21:40:05.212447Z"
+      "lastSeenAt": "2026-09-08T21:47:03.788830Z"
     }
   }
 }
