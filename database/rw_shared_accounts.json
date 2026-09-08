@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T09:08:41.493801Z",
+  "updatedAt": "2026-09-08T09:20:53.899742Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3316,12 +3316,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://commissions-discuss-functions-intention.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-08T09:08:41.492802Z",
+      "updatedAt": "2026-09-08T09:20:53.897740Z",
       "publicUrl": "https://commissions-discuss-functions-intention.trycloudflare.com",
       "executorUrl": "https://commissions-discuss-functions-intention.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
