@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T22:07:07.858475Z",
+  "updatedAt": "2026-09-08T22:19:43.607991Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3364,12 +3364,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://institutions-quiz-forbes-button.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-08T22:07:07.858475Z",
+      "updatedAt": "2026-09-08T22:19:43.605997Z",
       "publicUrl": "https://institutions-quiz-forbes-button.trycloudflare.com",
       "executorUrl": "https://institutions-quiz-forbes-button.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
