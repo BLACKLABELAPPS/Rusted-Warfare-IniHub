@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T01:50:10.291911Z",
+  "updatedAt": "2026-09-08T01:50:19.468867Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3316,16 +3316,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://mazda-conservation-expenditures-mesa.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-08T01:50:10.290210Z",
-      "publicUrl": "https://numbers-floating-pillow-vintage.trycloudflare.com",
-      "executorUrl": "https://numbers-floating-pillow-vintage.trycloudflare.com",
+      "updatedAt": "2026-09-08T01:50:19.468867Z",
+      "publicUrl": "https://mazda-conservation-expenditures-mesa.trycloudflare.com",
+      "executorUrl": "https://mazda-conservation-expenditures-mesa.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-08T01:37:29.145307Z"
+      "lastSeenAt": "2026-09-08T01:50:17.709971Z"
     }
   }
 }
