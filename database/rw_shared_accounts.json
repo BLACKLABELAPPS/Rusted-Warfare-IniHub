@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T22:06:55.280614Z",
+  "updatedAt": "2026-09-08T22:07:07.858475Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3364,16 +3364,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://institutions-quiz-forbes-button.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-08T22:06:55.279090Z",
-      "publicUrl": "https://cheese-episode-taxation-residents.trycloudflare.com",
-      "executorUrl": "https://cheese-episode-taxation-residents.trycloudflare.com",
+      "updatedAt": "2026-09-08T22:07:07.858475Z",
+      "publicUrl": "https://institutions-quiz-forbes-button.trycloudflare.com",
+      "executorUrl": "https://institutions-quiz-forbes-button.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-08T21:47:03.788830Z"
+      "lastSeenAt": "2026-09-08T22:07:04.231852Z"
     }
   }
 }
