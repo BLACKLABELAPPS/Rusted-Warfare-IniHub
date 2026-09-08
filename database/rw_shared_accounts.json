@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T21:22:45.392405Z",
+  "updatedAt": "2026-09-08T21:34:56.970242Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3364,12 +3364,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://stake-announcement-called-interventions.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-08T21:22:45.392405Z",
+      "updatedAt": "2026-09-08T21:34:56.968244Z",
       "publicUrl": "https://stake-announcement-called-interventions.trycloudflare.com",
       "executorUrl": "https://stake-announcement-called-interventions.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
