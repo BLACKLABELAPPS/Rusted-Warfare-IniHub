@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T17:13:01.310635Z",
+  "updatedAt": "2026-09-08T17:38:27.610367Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3364,12 +3364,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://bradley-paxil-inside-gmbh.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-08T17:13:01.310635Z",
+      "updatedAt": "2026-09-08T17:38:27.608675Z",
       "publicUrl": "https://bradley-paxil-inside-gmbh.trycloudflare.com",
       "executorUrl": "https://bradley-paxil-inside-gmbh.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
