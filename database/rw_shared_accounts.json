@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T13:36:27.910850Z",
+  "updatedAt": "2026-09-08T16:38:32.338789Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3364,12 +3364,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://updates-pixel-discussion-absent.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-08T09:45:44.368432Z",
+      "updatedAt": "2026-09-08T16:38:32.336789Z",
       "publicUrl": "https://updates-pixel-discussion-absent.trycloudflare.com",
       "executorUrl": "https://updates-pixel-discussion-absent.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
