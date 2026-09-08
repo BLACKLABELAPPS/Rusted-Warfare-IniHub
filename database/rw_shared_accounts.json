@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T23:01:53.699903Z",
+  "updatedAt": "2026-09-08T23:02:07.780258Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3364,16 +3364,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://jefferson-fossil-captain-widespread.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-08T23:01:53.697897Z",
-      "publicUrl": "https://abu-badge-remains-tracker.trycloudflare.com",
-      "executorUrl": "https://abu-badge-remains-tracker.trycloudflare.com",
+      "updatedAt": "2026-09-08T23:02:07.780258Z",
+      "publicUrl": "https://jefferson-fossil-captain-widespread.trycloudflare.com",
+      "executorUrl": "https://jefferson-fossil-captain-widespread.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-08T22:54:05.439212Z"
+      "lastSeenAt": "2026-09-08T23:02:04.283444Z"
     }
   }
 }
