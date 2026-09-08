@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T08:14:19.603662Z",
+  "updatedAt": "2026-09-08T08:14:30.512512Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3316,16 +3316,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://baby-plots-venues-bottle.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-08T08:14:19.601662Z",
-      "publicUrl": "https://about-paris-pole-difficulties.trycloudflare.com",
-      "executorUrl": "https://about-paris-pole-difficulties.trycloudflare.com",
+      "updatedAt": "2026-09-08T08:14:30.512512Z",
+      "publicUrl": "https://baby-plots-venues-bottle.trycloudflare.com",
+      "executorUrl": "https://baby-plots-venues-bottle.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-08T07:44:49.056620Z"
+      "lastSeenAt": "2026-09-08T08:14:27.196324Z"
     }
   }
 }
