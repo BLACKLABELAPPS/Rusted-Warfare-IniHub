@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T09:35:00.709434Z",
+  "updatedAt": "2026-09-08T09:45:27.327354Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3340,12 +3340,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://select-berlin-railroad-ten.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-08T09:21:04.718793Z",
+      "updatedAt": "2026-09-08T09:45:27.324819Z",
       "publicUrl": "https://select-berlin-railroad-ten.trycloudflare.com",
       "executorUrl": "https://select-berlin-railroad-ten.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
