@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T06:10:51.371894Z",
+  "updatedAt": "2026-09-08T06:40:13.971775Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3316,12 +3316,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://equipped-evaluating-yards-exterior.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-08T06:10:51.371894Z",
+      "updatedAt": "2026-09-08T06:40:13.969771Z",
       "publicUrl": "https://equipped-evaluating-yards-exterior.trycloudflare.com",
       "executorUrl": "https://equipped-evaluating-yards-exterior.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
