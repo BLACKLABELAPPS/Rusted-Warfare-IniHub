@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T00:27:31.823998Z",
+  "updatedAt": "2026-09-08T00:51:23.459769Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3316,12 +3316,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://processors-punch-configurations-caused.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-08T00:26:13.733965Z",
+      "updatedAt": "2026-09-08T00:51:23.458514Z",
       "publicUrl": "https://processors-punch-configurations-caused.trycloudflare.com",
       "executorUrl": "https://processors-punch-configurations-caused.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
