@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T17:38:27.610367Z",
+  "updatedAt": "2026-09-08T17:38:41.622949Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3364,16 +3364,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://legislation-scheme-moral-regions.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-08T17:38:27.608675Z",
-      "publicUrl": "https://bradley-paxil-inside-gmbh.trycloudflare.com",
-      "executorUrl": "https://bradley-paxil-inside-gmbh.trycloudflare.com",
+      "updatedAt": "2026-09-08T17:38:41.622949Z",
+      "publicUrl": "https://legislation-scheme-moral-regions.trycloudflare.com",
+      "executorUrl": "https://legislation-scheme-moral-regions.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-08T17:12:58.548570Z"
+      "lastSeenAt": "2026-09-08T17:38:37.383703Z"
     }
   }
 }
