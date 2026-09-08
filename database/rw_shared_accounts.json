@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T01:33:44.235339Z",
+  "updatedAt": "2026-09-08T01:36:31.476551Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3316,12 +3316,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://cologne-directions-remembered-peer.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-08T01:33:44.234348Z",
+      "updatedAt": "2026-09-08T01:36:31.475552Z",
       "publicUrl": "https://cologne-directions-remembered-peer.trycloudflare.com",
       "executorUrl": "https://cologne-directions-remembered-peer.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
