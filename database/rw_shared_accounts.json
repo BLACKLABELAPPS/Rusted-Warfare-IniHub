@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T21:35:09.055009Z",
+  "updatedAt": "2026-09-08T21:39:55.722803Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3364,12 +3364,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://motorola-pensions-patrol-realize.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-08T21:35:09.055009Z",
+      "updatedAt": "2026-09-08T21:39:55.720802Z",
       "publicUrl": "https://motorola-pensions-patrol-realize.trycloudflare.com",
       "executorUrl": "https://motorola-pensions-patrol-realize.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
