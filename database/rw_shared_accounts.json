@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T06:10:41.439525Z",
+  "updatedAt": "2026-09-08T06:10:51.371894Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3316,16 +3316,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://equipped-evaluating-yards-exterior.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-08T06:10:41.438004Z",
-      "publicUrl": "https://mazda-conservation-expenditures-mesa.trycloudflare.com",
-      "executorUrl": "https://mazda-conservation-expenditures-mesa.trycloudflare.com",
+      "updatedAt": "2026-09-08T06:10:51.371894Z",
+      "publicUrl": "https://equipped-evaluating-yards-exterior.trycloudflare.com",
+      "executorUrl": "https://equipped-evaluating-yards-exterior.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-08T01:50:17.709971Z"
+      "lastSeenAt": "2026-09-08T06:10:48.172431Z"
     }
   }
 }
