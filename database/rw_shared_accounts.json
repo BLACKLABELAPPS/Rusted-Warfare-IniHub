@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T15:47:00.694972Z",
+  "updatedAt": "2026-09-09T16:08:23.076725Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3377,12 +3377,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://steering-tel-exam-interim.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-09T15:47:00.694972Z",
+      "updatedAt": "2026-09-09T16:08:23.075138Z",
       "publicUrl": "https://steering-tel-exam-interim.trycloudflare.com",
       "executorUrl": "https://steering-tel-exam-interim.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
