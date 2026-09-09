@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T17:16:09.910010Z",
+  "updatedAt": "2026-09-09T17:16:21.974421Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3377,16 +3377,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://taking-fighting-midwest-adjusted.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-09T17:16:09.908010Z",
-      "publicUrl": "https://adjustment-relations-humans-regions.trycloudflare.com",
-      "executorUrl": "https://adjustment-relations-humans-regions.trycloudflare.com",
+      "updatedAt": "2026-09-09T17:16:21.974421Z",
+      "publicUrl": "https://taking-fighting-midwest-adjusted.trycloudflare.com",
+      "executorUrl": "https://taking-fighting-midwest-adjusted.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-09T16:23:59.587627Z"
+      "lastSeenAt": "2026-09-09T17:16:17.785249Z"
     }
   }
 }
