@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T16:08:39.608456Z",
+  "updatedAt": "2026-09-09T16:23:51.078254Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3377,12 +3377,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://nick-accommodations-ratio-offset.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-09T16:08:39.608456Z",
+      "updatedAt": "2026-09-09T16:23:51.077253Z",
       "publicUrl": "https://nick-accommodations-ratio-offset.trycloudflare.com",
       "executorUrl": "https://nick-accommodations-ratio-offset.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
