@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T02:08:37.314930Z",
+  "updatedAt": "2026-09-09T02:08:54.029293Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3364,16 +3364,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://rid-keno-red-large.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-09T02:08:37.312932Z",
-      "publicUrl": "https://impact-mono-brakes-bone.trycloudflare.com",
-      "executorUrl": "https://impact-mono-brakes-bone.trycloudflare.com",
+      "updatedAt": "2026-09-09T02:08:54.029293Z",
+      "publicUrl": "https://rid-keno-red-large.trycloudflare.com",
+      "executorUrl": "https://rid-keno-red-large.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-09T01:44:44.117269Z"
+      "lastSeenAt": "2026-09-09T02:08:45.422386Z"
     }
   }
 }
