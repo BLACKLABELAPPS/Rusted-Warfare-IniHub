@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T02:35:29.456937Z",
+  "updatedAt": "2026-09-09T02:35:34.451862Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3364,16 +3364,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://aaa-fridge-asylum-gary.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-09T02:35:29.455940Z",
-      "publicUrl": "https://rid-keno-red-large.trycloudflare.com",
-      "executorUrl": "https://rid-keno-red-large.trycloudflare.com",
+      "updatedAt": "2026-09-09T02:35:34.451862Z",
+      "publicUrl": "https://aaa-fridge-asylum-gary.trycloudflare.com",
+      "executorUrl": "https://aaa-fridge-asylum-gary.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-09T02:08:45.422386Z"
+      "lastSeenAt": "2026-09-09T02:35:33.944641Z"
     }
   }
 }
