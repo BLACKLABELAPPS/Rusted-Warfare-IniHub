@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T01:34:37.827296Z",
+  "updatedAt": "2026-09-09T01:44:38.860243Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3364,12 +3364,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://mel-todd-government-courts.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-09T01:34:37.827296Z",
+      "updatedAt": "2026-09-09T01:44:38.858244Z",
       "publicUrl": "https://mel-todd-government-courts.trycloudflare.com",
       "executorUrl": "https://mel-todd-government-courts.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
