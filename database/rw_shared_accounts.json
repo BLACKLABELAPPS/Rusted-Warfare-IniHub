@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T13:26:27.468564Z",
+  "updatedAt": "2026-09-09T13:26:38.767284Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3377,16 +3377,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://evident-rebound-personals-hoped.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-09T13:26:27.466565Z",
-      "publicUrl": "https://lawn-women-intervals-java.trycloudflare.com",
-      "executorUrl": "https://lawn-women-intervals-java.trycloudflare.com",
+      "updatedAt": "2026-09-09T13:26:38.767284Z",
+      "publicUrl": "https://evident-rebound-personals-hoped.trycloudflare.com",
+      "executorUrl": "https://evident-rebound-personals-hoped.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-09T13:01:00.765092Z"
+      "lastSeenAt": "2026-09-09T13:26:37.462407Z"
     }
   }
 }
