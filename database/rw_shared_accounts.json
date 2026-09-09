@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T12:05:57.964391Z",
+  "updatedAt": "2026-09-09T12:33:31.756983Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3377,12 +3377,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://crafts-rapidly-stars-impression.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-09T12:05:57.964391Z",
+      "updatedAt": "2026-09-09T12:33:31.754979Z",
       "publicUrl": "https://crafts-rapidly-stars-impression.trycloudflare.com",
       "executorUrl": "https://crafts-rapidly-stars-impression.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
