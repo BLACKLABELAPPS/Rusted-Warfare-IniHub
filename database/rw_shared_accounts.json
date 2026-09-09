@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T01:44:44.568165Z",
+  "updatedAt": "2026-09-09T02:08:37.314930Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3364,12 +3364,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://impact-mono-brakes-bone.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-09T01:44:44.568165Z",
+      "updatedAt": "2026-09-09T02:08:37.312932Z",
       "publicUrl": "https://impact-mono-brakes-bone.trycloudflare.com",
       "executorUrl": "https://impact-mono-brakes-bone.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
