@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T15:20:01.463411Z",
+  "updatedAt": "2026-09-09T15:46:48.387604Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3377,12 +3377,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://zus-dragon-desert-alfred.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-09T15:20:01.463411Z",
+      "updatedAt": "2026-09-09T15:46:48.385642Z",
       "publicUrl": "https://zus-dragon-desert-alfred.trycloudflare.com",
       "executorUrl": "https://zus-dragon-desert-alfred.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
