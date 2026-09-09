@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T15:19:50.101810Z",
+  "updatedAt": "2026-09-09T15:20:01.463411Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3377,16 +3377,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://zus-dragon-desert-alfred.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-09T15:19:50.100806Z",
-      "publicUrl": "https://josh-balanced-keywords-jump.trycloudflare.com",
-      "executorUrl": "https://josh-balanced-keywords-jump.trycloudflare.com",
+      "updatedAt": "2026-09-09T15:20:01.463411Z",
+      "publicUrl": "https://zus-dragon-desert-alfred.trycloudflare.com",
+      "executorUrl": "https://zus-dragon-desert-alfred.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-09T14:06:36.033277Z"
+      "lastSeenAt": "2026-09-09T15:19:59.712181Z"
     }
   }
 }
