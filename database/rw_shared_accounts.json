@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T23:40:03.307430Z",
+  "updatedAt": "2026-09-09T23:40:24.733182Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3401,16 +3401,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://painted-rec-discussing-protocols.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-09T23:40:03.305433Z",
-      "publicUrl": "https://however-marine-seafood-earning.trycloudflare.com",
-      "executorUrl": "https://however-marine-seafood-earning.trycloudflare.com",
+      "updatedAt": "2026-09-09T23:40:24.733182Z",
+      "publicUrl": "https://painted-rec-discussing-protocols.trycloudflare.com",
+      "executorUrl": "https://painted-rec-discussing-protocols.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-09T21:53:02.757319Z"
+      "lastSeenAt": "2026-09-09T23:40:17.366861Z"
     }
   }
 }
