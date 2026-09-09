@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T23:02:07.780258Z",
+  "updatedAt": "2026-09-09T00:07:31.686352Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3364,12 +3364,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://jefferson-fossil-captain-widespread.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-08T23:02:07.780258Z",
+      "updatedAt": "2026-09-09T00:07:31.685348Z",
       "publicUrl": "https://jefferson-fossil-captain-widespread.trycloudflare.com",
       "executorUrl": "https://jefferson-fossil-captain-widespread.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
