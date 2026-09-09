@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T00:46:16.526718Z",
+  "updatedAt": "2026-09-09T01:34:26.465559Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3364,12 +3364,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://beans-apps-ata-msg.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-09T00:46:16.526718Z",
+      "updatedAt": "2026-09-09T01:34:26.464559Z",
       "publicUrl": "https://beans-apps-ata-msg.trycloudflare.com",
       "executorUrl": "https://beans-apps-ata-msg.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
