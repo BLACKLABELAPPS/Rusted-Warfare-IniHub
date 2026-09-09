@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T04:32:17.695173Z",
+  "updatedAt": "2026-09-09T05:43:10.372396Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3377,12 +3377,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://ourselves-craft-crucial-went.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-09T03:27:07.881913Z",
+      "updatedAt": "2026-09-09T05:43:10.369399Z",
       "publicUrl": "https://ourselves-craft-crucial-went.trycloudflare.com",
       "executorUrl": "https://ourselves-craft-crucial-went.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
