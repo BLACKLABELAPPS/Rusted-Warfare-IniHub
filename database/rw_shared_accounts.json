@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T14:06:39.754378Z",
+  "updatedAt": "2026-09-09T15:19:50.101810Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3377,12 +3377,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://josh-balanced-keywords-jump.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-09T14:06:39.754378Z",
+      "updatedAt": "2026-09-09T15:19:50.100806Z",
       "publicUrl": "https://josh-balanced-keywords-jump.trycloudflare.com",
       "executorUrl": "https://josh-balanced-keywords-jump.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
