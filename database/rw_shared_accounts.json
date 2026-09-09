@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T02:59:56.506051Z",
+  "updatedAt": "2026-09-09T03:26:56.413963Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3364,12 +3364,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://roles-faced-clara-notices.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-09T02:59:56.506051Z",
+      "updatedAt": "2026-09-09T03:26:56.411962Z",
       "publicUrl": "https://roles-faced-clara-notices.trycloudflare.com",
       "executorUrl": "https://roles-faced-clara-notices.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
