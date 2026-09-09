@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T12:33:44.449376Z",
+  "updatedAt": "2026-09-09T13:00:50.501537Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3377,12 +3377,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://cole-assistant-scenes-grande.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-09T12:33:44.449376Z",
+      "updatedAt": "2026-09-09T13:00:50.499538Z",
       "publicUrl": "https://cole-assistant-scenes-grande.trycloudflare.com",
       "executorUrl": "https://cole-assistant-scenes-grande.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
