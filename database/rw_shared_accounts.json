@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T16:08:23.076725Z",
+  "updatedAt": "2026-09-09T16:08:39.608456Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3377,16 +3377,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://nick-accommodations-ratio-offset.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-09T16:08:23.075138Z",
-      "publicUrl": "https://steering-tel-exam-interim.trycloudflare.com",
-      "executorUrl": "https://steering-tel-exam-interim.trycloudflare.com",
+      "updatedAt": "2026-09-09T16:08:39.608456Z",
+      "publicUrl": "https://nick-accommodations-ratio-offset.trycloudflare.com",
+      "executorUrl": "https://nick-accommodations-ratio-offset.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-09T15:46:57.198533Z"
+      "lastSeenAt": "2026-09-09T16:08:35.596683Z"
     }
   }
 }
