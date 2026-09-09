@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T02:59:46.702361Z",
+  "updatedAt": "2026-09-09T02:59:56.506051Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3364,16 +3364,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://roles-faced-clara-notices.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-09T02:59:46.701362Z",
-      "publicUrl": "https://aaa-fridge-asylum-gary.trycloudflare.com",
-      "executorUrl": "https://aaa-fridge-asylum-gary.trycloudflare.com",
+      "updatedAt": "2026-09-09T02:59:56.506051Z",
+      "publicUrl": "https://roles-faced-clara-notices.trycloudflare.com",
+      "executorUrl": "https://roles-faced-clara-notices.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-09T02:35:33.944641Z"
+      "lastSeenAt": "2026-09-09T02:59:52.909511Z"
     }
   }
 }
