@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T17:16:21.974421Z",
+  "updatedAt": "2026-09-09T17:28:21.143032Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -833,6 +833,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-08T13:36:27.910737Z",
       "updatedAt": "2026-09-08T13:36:27.910757Z"
+    },
+    "jose8960": {
+      "username": "jose8960",
+      "usernameLower": "jose8960",
+      "passwordSalt": "ANlNmVJdGUGOvWizJ-T4nn_4rQpqLj3_",
+      "passwordHash": "01087f964eda752a0dc4bfc17fe1cf5ca9b17fddb11c32cf1caaa66d64acf406",
+      "avatarCode": "B169-T42-W2-R14-L2-N22-U4-X38-F41-C0",
+      "collectionId": "",
+      "collectionTitle": "jose8960",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-09T17:28:21.142979Z",
+      "updatedAt": "2026-09-09T17:28:21.142992Z"
     }
   },
   "posts": [],
@@ -3318,6 +3331,17 @@
       "username": "account",
       "avatar_code": "B654-T7-W29-R13-L1-N21-U17-X1-F62-C0",
       "joined_at": "2026-09-08T13:36:27.910737Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "jose8960": {
+      "username": "jose8960",
+      "avatar_code": "B169-T42-W2-R14-L2-N22-U4-X38-F41-C0",
+      "joined_at": "2026-09-09T17:28:21.142979Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
