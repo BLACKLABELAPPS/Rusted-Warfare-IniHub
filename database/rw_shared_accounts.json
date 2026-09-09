@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T13:01:02.111790Z",
+  "updatedAt": "2026-09-09T13:26:27.468564Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3377,12 +3377,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://lawn-women-intervals-java.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-09T13:01:02.111790Z",
+      "updatedAt": "2026-09-09T13:26:27.466565Z",
       "publicUrl": "https://lawn-women-intervals-java.trycloudflare.com",
       "executorUrl": "https://lawn-women-intervals-java.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
