@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T17:28:21.143032Z",
+  "updatedAt": "2026-09-09T18:07:43.678227Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3401,12 +3401,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://taking-fighting-midwest-adjusted.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-09T17:16:21.974421Z",
+      "updatedAt": "2026-09-09T18:07:43.675776Z",
       "publicUrl": "https://taking-fighting-midwest-adjusted.trycloudflare.com",
       "executorUrl": "https://taking-fighting-midwest-adjusted.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
