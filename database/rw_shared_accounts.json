@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T16:24:05.043267Z",
+  "updatedAt": "2026-09-09T17:16:09.910010Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3377,12 +3377,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://adjustment-relations-humans-regions.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-09T16:24:05.043267Z",
+      "updatedAt": "2026-09-09T17:16:09.908010Z",
       "publicUrl": "https://adjustment-relations-humans-regions.trycloudflare.com",
       "executorUrl": "https://adjustment-relations-humans-regions.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
