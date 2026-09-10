@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-10T13:40:19.254276Z",
+  "updatedAt": "2026-09-10T13:41:22.173120Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3401,12 +3401,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://involved-harvest-reg-speeches.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-10T13:40:19.254276Z",
+      "updatedAt": "2026-09-10T13:41:22.172121Z",
       "publicUrl": "https://involved-harvest-reg-speeches.trycloudflare.com",
       "executorUrl": "https://involved-harvest-reg-speeches.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
