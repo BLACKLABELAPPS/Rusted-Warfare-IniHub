@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-10T15:42:43.626447Z",
+  "updatedAt": "2026-09-10T15:44:51.381846Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3401,12 +3401,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://waiting-optimum-ecommerce-pensions.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-10T15:42:43.626447Z",
+      "updatedAt": "2026-09-10T15:44:51.379872Z",
       "publicUrl": "https://waiting-optimum-ecommerce-pensions.trycloudflare.com",
       "executorUrl": "https://waiting-optimum-ecommerce-pensions.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
