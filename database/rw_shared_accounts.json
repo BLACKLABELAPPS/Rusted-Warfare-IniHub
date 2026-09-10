@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-10T23:49:40.808793Z",
+  "updatedAt": "2026-09-10T23:49:47.731655Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3425,16 +3425,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://sara-expand-max-statute.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-10T23:49:40.807795Z",
-      "publicUrl": "https://influence-predicted-knights-headset.trycloudflare.com",
-      "executorUrl": "https://influence-predicted-knights-headset.trycloudflare.com",
+      "updatedAt": "2026-09-10T23:49:47.731655Z",
+      "publicUrl": "https://sara-expand-max-statute.trycloudflare.com",
+      "executorUrl": "https://sara-expand-max-statute.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-10T23:35:47.156652Z"
+      "lastSeenAt": "2026-09-10T23:49:45.269176Z"
     }
   }
 }
