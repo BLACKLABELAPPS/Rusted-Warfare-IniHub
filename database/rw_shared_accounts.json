@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-10T13:42:08.057648Z",
+  "updatedAt": "2026-09-10T15:42:36.282620Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3401,12 +3401,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://west-medication-duke-typical.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-10T13:42:08.057648Z",
+      "updatedAt": "2026-09-10T15:42:36.281620Z",
       "publicUrl": "https://west-medication-duke-typical.trycloudflare.com",
       "executorUrl": "https://west-medication-duke-typical.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
