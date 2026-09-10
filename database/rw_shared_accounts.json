@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-10T12:46:24.691963Z",
+  "updatedAt": "2026-09-10T12:46:44.354106Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3401,16 +3401,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://blowing-sur-product-pounds.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-10T12:46:24.689966Z",
-      "publicUrl": "https://painted-rec-discussing-protocols.trycloudflare.com",
-      "executorUrl": "https://painted-rec-discussing-protocols.trycloudflare.com",
+      "updatedAt": "2026-09-10T12:46:44.354106Z",
+      "publicUrl": "https://blowing-sur-product-pounds.trycloudflare.com",
+      "executorUrl": "https://blowing-sur-product-pounds.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-09T23:40:17.366861Z"
+      "lastSeenAt": "2026-09-10T12:46:37.326854Z"
     }
   }
 }
