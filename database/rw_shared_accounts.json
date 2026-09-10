@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-10T13:41:30.644191Z",
+  "updatedAt": "2026-09-10T13:42:03.580050Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3401,12 +3401,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://cia-females-meeting-pan.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-10T13:41:30.644191Z",
+      "updatedAt": "2026-09-10T13:42:03.579052Z",
       "publicUrl": "https://cia-females-meeting-pan.trycloudflare.com",
       "executorUrl": "https://cia-females-meeting-pan.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
