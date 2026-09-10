@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-10T19:01:01.574524Z",
+  "updatedAt": "2026-09-10T23:35:41.230031Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3425,12 +3425,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://grain-tables-them-kong.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-10T15:44:57.470874Z",
+      "updatedAt": "2026-09-10T23:35:41.228034Z",
       "publicUrl": "https://grain-tables-them-kong.trycloudflare.com",
       "executorUrl": "https://grain-tables-them-kong.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
