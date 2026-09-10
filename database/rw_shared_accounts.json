@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-10T13:39:59.439073Z",
+  "updatedAt": "2026-09-10T13:40:19.254276Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3401,16 +3401,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://involved-harvest-reg-speeches.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-10T13:39:59.438065Z",
-      "publicUrl": "https://blowing-sur-product-pounds.trycloudflare.com",
-      "executorUrl": "https://blowing-sur-product-pounds.trycloudflare.com",
+      "updatedAt": "2026-09-10T13:40:19.254276Z",
+      "publicUrl": "https://involved-harvest-reg-speeches.trycloudflare.com",
+      "executorUrl": "https://involved-harvest-reg-speeches.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-10T12:46:37.326854Z"
+      "lastSeenAt": "2026-09-10T13:40:08.679270Z"
     }
   }
 }
