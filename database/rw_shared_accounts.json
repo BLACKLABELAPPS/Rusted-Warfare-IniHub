@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-11T13:16:38.880242Z",
+  "updatedAt": "2026-09-11T13:27:34.719458Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3449,12 +3449,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://favorites-brokers-pointed-house.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-11T13:16:38.880242Z",
+      "updatedAt": "2026-09-11T13:27:34.717824Z",
       "publicUrl": "https://favorites-brokers-pointed-house.trycloudflare.com",
       "executorUrl": "https://favorites-brokers-pointed-house.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
