@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-11T12:13:03.780563Z",
+  "updatedAt": "2026-09-11T12:28:57.948194Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3449,12 +3449,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://songs-cottage-greensboro-clarke.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-11T12:13:03.780563Z",
+      "updatedAt": "2026-09-11T12:28:57.947199Z",
       "publicUrl": "https://songs-cottage-greensboro-clarke.trycloudflare.com",
       "executorUrl": "https://songs-cottage-greensboro-clarke.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
