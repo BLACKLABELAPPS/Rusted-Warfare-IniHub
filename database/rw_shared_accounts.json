@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-11T00:35:25.714597Z",
+  "updatedAt": "2026-09-11T00:51:13.915022Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3425,12 +3425,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://income-ratio-cardiac-thread.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-11T00:35:25.714597Z",
+      "updatedAt": "2026-09-11T00:51:13.914024Z",
       "publicUrl": "https://income-ratio-cardiac-thread.trycloudflare.com",
       "executorUrl": "https://income-ratio-cardiac-thread.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
