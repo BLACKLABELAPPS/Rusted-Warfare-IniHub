@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-11T00:51:13.915022Z",
+  "updatedAt": "2026-09-11T00:51:20.211378Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3425,16 +3425,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://process-appointment-ericsson-fate.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-11T00:51:13.914024Z",
-      "publicUrl": "https://income-ratio-cardiac-thread.trycloudflare.com",
-      "executorUrl": "https://income-ratio-cardiac-thread.trycloudflare.com",
+      "updatedAt": "2026-09-11T00:51:20.211378Z",
+      "publicUrl": "https://process-appointment-ericsson-fate.trycloudflare.com",
+      "executorUrl": "https://process-appointment-ericsson-fate.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-11T00:35:22.029574Z"
+      "lastSeenAt": "2026-09-11T00:51:19.127838Z"
     }
   }
 }
