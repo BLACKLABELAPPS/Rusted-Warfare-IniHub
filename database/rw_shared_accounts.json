@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-11T01:46:33.251151Z",
+  "updatedAt": "2026-09-11T01:47:31.470104Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3425,12 +3425,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://fraser-make-phd-rock.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-11T01:46:33.251151Z",
+      "updatedAt": "2026-09-11T01:47:31.468084Z",
       "publicUrl": "https://fraser-make-phd-rock.trycloudflare.com",
       "executorUrl": "https://fraser-make-phd-rock.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
