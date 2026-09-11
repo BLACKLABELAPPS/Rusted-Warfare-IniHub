@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-11T01:47:31.470104Z",
+  "updatedAt": "2026-09-11T01:47:38.728643Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3425,16 +3425,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://martial-representative-norman-eternal.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-11T01:47:31.468084Z",
-      "publicUrl": "https://fraser-make-phd-rock.trycloudflare.com",
-      "executorUrl": "https://fraser-make-phd-rock.trycloudflare.com",
+      "updatedAt": "2026-09-11T01:47:38.728643Z",
+      "publicUrl": "https://martial-representative-norman-eternal.trycloudflare.com",
+      "executorUrl": "https://martial-representative-norman-eternal.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-11T01:46:32.317031Z"
+      "lastSeenAt": "2026-09-11T01:47:37.444363Z"
     }
   }
 }
