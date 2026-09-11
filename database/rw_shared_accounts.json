@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-11T12:12:56.406289Z",
+  "updatedAt": "2026-09-11T12:13:03.780563Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3449,16 +3449,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://songs-cottage-greensboro-clarke.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-11T12:12:56.404289Z",
-      "publicUrl": "https://chan-bye-strategy-contract.trycloudflare.com",
-      "executorUrl": "https://chan-bye-strategy-contract.trycloudflare.com",
+      "updatedAt": "2026-09-11T12:13:03.780563Z",
+      "publicUrl": "https://songs-cottage-greensboro-clarke.trycloudflare.com",
+      "executorUrl": "https://songs-cottage-greensboro-clarke.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-11T11:40:00.348526Z"
+      "lastSeenAt": "2026-09-11T12:13:02.578492Z"
     }
   }
 }
