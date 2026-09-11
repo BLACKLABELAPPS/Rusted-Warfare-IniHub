@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-11T00:51:20.211378Z",
+  "updatedAt": "2026-09-11T01:08:06.611287Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3425,12 +3425,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://process-appointment-ericsson-fate.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-11T00:51:20.211378Z",
+      "updatedAt": "2026-09-11T01:08:06.609289Z",
       "publicUrl": "https://process-appointment-ericsson-fate.trycloudflare.com",
       "executorUrl": "https://process-appointment-ericsson-fate.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
