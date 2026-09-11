@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-11T07:42:28.593030Z",
+  "updatedAt": "2026-09-11T11:07:35.313100Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3449,12 +3449,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://martial-representative-norman-eternal.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-11T01:47:38.728643Z",
+      "updatedAt": "2026-09-11T11:07:35.312095Z",
       "publicUrl": "https://martial-representative-norman-eternal.trycloudflare.com",
       "executorUrl": "https://martial-representative-norman-eternal.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
