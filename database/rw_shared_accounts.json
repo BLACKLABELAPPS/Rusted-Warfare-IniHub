@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T19:53:50.971777Z",
+  "updatedAt": "2026-09-12T20:30:20.124557Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3510,12 +3510,11 @@
         "http://192.168.1.20:8765"
       ],
       "executorUrls": [
-        "https://buy-recycling-miss-mission.trycloudflare.com",
         "http://192.168.1.20:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-12T19:53:50.971777Z",
+      "updatedAt": "2026-09-12T20:30:20.124557Z",
       "publicUrl": "https://buy-recycling-miss-mission.trycloudflare.com",
       "executorUrl": "https://buy-recycling-miss-mission.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
