@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T16:41:52.840928Z",
+  "updatedAt": "2026-09-12T16:41:59.338632Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3510,16 +3510,17 @@
         "http://192.168.1.20:8765"
       ],
       "executorUrls": [
+        "https://gibson-discretion-impressive-comics.trycloudflare.com",
         "http://192.168.1.20:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-12T16:41:52.840928Z",
-      "publicUrl": "https://plots-really-rim-miniature.trycloudflare.com",
-      "executorUrl": "https://plots-really-rim-miniature.trycloudflare.com",
+      "updatedAt": "2026-09-12T16:41:59.338632Z",
+      "publicUrl": "https://gibson-discretion-impressive-comics.trycloudflare.com",
+      "executorUrl": "https://gibson-discretion-impressive-comics.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-12T16:00:39.401777Z"
+      "lastSeenAt": "2026-09-12T16:41:58.699313Z"
     }
   }
 }
