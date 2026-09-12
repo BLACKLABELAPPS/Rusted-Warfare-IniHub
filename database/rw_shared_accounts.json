@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T15:46:20.769591Z",
+  "updatedAt": "2026-09-12T15:47:04.139944Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3510,16 +3510,17 @@
         "http://10.0.2.15:8765"
       ],
       "executorUrls": [
+        "https://api.trycloudflare.com",
         "http://10.0.2.15:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-12T15:46:20.769591Z",
-      "publicUrl": "https://belts-attractions-cas-listing.trycloudflare.com",
-      "executorUrl": "https://belts-attractions-cas-listing.trycloudflare.com",
+      "updatedAt": "2026-09-12T15:47:04.139944Z",
+      "publicUrl": "https://api.trycloudflare.com",
+      "executorUrl": "https://api.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-12T13:20:39.767324Z"
+      "lastSeenAt": "2026-09-12T15:46:59.918936Z"
     }
   }
 }
