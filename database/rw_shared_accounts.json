@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T20:30:20.124557Z",
+  "updatedAt": "2026-09-12T20:30:25.665513Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3510,16 +3510,17 @@
         "http://192.168.1.20:8765"
       ],
       "executorUrls": [
+        "https://pounds-batman-happening-soa.trycloudflare.com",
         "http://192.168.1.20:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-12T20:30:20.124557Z",
-      "publicUrl": "https://buy-recycling-miss-mission.trycloudflare.com",
-      "executorUrl": "https://buy-recycling-miss-mission.trycloudflare.com",
+      "updatedAt": "2026-09-12T20:30:25.665513Z",
+      "publicUrl": "https://pounds-batman-happening-soa.trycloudflare.com",
+      "executorUrl": "https://pounds-batman-happening-soa.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-12T19:53:50.234025Z"
+      "lastSeenAt": "2026-09-12T20:30:25.031649Z"
     }
   }
 }
