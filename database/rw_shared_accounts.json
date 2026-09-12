@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T16:44:39.617937Z",
+  "updatedAt": "2026-09-12T19:53:43.347112Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3510,12 +3510,11 @@
         "http://192.168.1.20:8765"
       ],
       "executorUrls": [
-        "https://disabilities-equal-impressive-discusses.trycloudflare.com",
         "http://192.168.1.20:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-12T16:44:39.617937Z",
+      "updatedAt": "2026-09-12T19:53:43.347112Z",
       "publicUrl": "https://disabilities-equal-impressive-discusses.trycloudflare.com",
       "executorUrl": "https://disabilities-equal-impressive-discusses.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
