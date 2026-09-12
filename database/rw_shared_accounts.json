@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T09:16:37.531036Z",
+  "updatedAt": "2026-09-12T09:21:53.818387Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2543,6 +2543,19 @@
         "directory": "",
         "zipAndElements": "",
         "urlImage": "https://images.steamusercontent.com/ugc/13066899153884324865/1670C922D55690B3A2A30C744D692079D0FD3183/",
+        "source": "favorite"
+      }
+    ],
+    "jimboy": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2387715250&appid=647960",
+        "title": "Girls_Cross_Anchor",
+        "date": "12/09/2026",
+        "time": "17:21:51",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/1774957634230827474/1C25F5BF0E4CC0B63F7ADF186108AD1AFB0640A5/",
         "source": "favorite"
       }
     ]
