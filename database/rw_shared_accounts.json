@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T16:00:33.965246Z",
+  "updatedAt": "2026-09-12T16:00:40.806113Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3511,17 +3511,18 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://plots-really-rim-miniature.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-12T16:00:33.964248Z",
-      "publicUrl": "https://api.trycloudflare.com",
-      "executorUrl": "https://api.trycloudflare.com",
+      "updatedAt": "2026-09-12T16:00:40.806113Z",
+      "publicUrl": "https://plots-really-rim-miniature.trycloudflare.com",
+      "executorUrl": "https://plots-really-rim-miniature.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-12T15:46:59.918936Z"
+      "lastSeenAt": "2026-09-12T16:00:39.401777Z"
     }
   }
 }
