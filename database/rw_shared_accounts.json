@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T09:21:53.818387Z",
+  "updatedAt": "2026-09-12T13:16:36.833123Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3481,17 +3481,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.1.4:8765",
+      "lanUrl": "http://192.168.1.20:8765",
       "lanUrls": [
-        "http://192.168.1.4:8765"
+        "http://192.168.1.20:8765"
       ],
       "executorUrls": [
-        "https://gratuit-earn-figures-introduction.trycloudflare.com",
-        "http://192.168.1.4:8765"
+        "http://192.168.1.20:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-11T15:50:23.247412Z",
+      "updatedAt": "2026-09-12T13:16:36.833123Z",
       "publicUrl": "https://gratuit-earn-figures-introduction.trycloudflare.com",
       "executorUrl": "https://gratuit-earn-figures-introduction.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
