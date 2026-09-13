@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T15:16:58.934301Z",
+  "updatedAt": "2026-09-13T15:26:12.013852Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3641,12 +3641,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://sure-suzuki-printers-blocking.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-13T15:16:58.934301Z",
+      "updatedAt": "2026-09-13T15:26:12.011853Z",
       "publicUrl": "https://sure-suzuki-printers-blocking.trycloudflare.com",
       "executorUrl": "https://sure-suzuki-printers-blocking.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
