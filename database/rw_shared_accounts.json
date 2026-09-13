@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T22:35:05.240498Z",
+  "updatedAt": "2026-09-13T22:45:28.090016Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3713,12 +3713,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://snowboard-hose-treatments-taking.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-13T22:34:15.910003Z",
+      "updatedAt": "2026-09-13T22:45:28.088015Z",
       "publicUrl": "https://snowboard-hose-treatments-taking.trycloudflare.com",
       "executorUrl": "https://snowboard-hose-treatments-taking.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
