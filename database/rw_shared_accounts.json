@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T13:49:38.980552Z",
+  "updatedAt": "2026-09-13T14:22:36.342810Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3642,13 +3642,12 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://compounds-huntington-guests-world.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-13T13:49:38.980552Z",
+      "updatedAt": "2026-09-13T14:22:36.341814Z",
       "publicUrl": "https://compounds-huntington-guests-world.trycloudflare.com",
       "executorUrl": "https://compounds-huntington-guests-world.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
