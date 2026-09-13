@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T20:29:56.603399Z",
+  "updatedAt": "2026-09-13T20:30:02.290315Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3665,16 +3665,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://discs-southampton-lover-noon.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-13T20:29:56.602402Z",
-      "publicUrl": "https://recipe-utilities-documentary-sally.trycloudflare.com",
-      "executorUrl": "https://recipe-utilities-documentary-sally.trycloudflare.com",
+      "updatedAt": "2026-09-13T20:30:02.290315Z",
+      "publicUrl": "https://discs-southampton-lover-noon.trycloudflare.com",
+      "executorUrl": "https://discs-southampton-lover-noon.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-13T20:20:55.375697Z"
+      "lastSeenAt": "2026-09-13T20:30:00.800419Z"
     }
   }
 }
