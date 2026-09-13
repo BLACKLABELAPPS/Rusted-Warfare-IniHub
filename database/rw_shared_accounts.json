@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T17:53:00.421073Z",
+  "updatedAt": "2026-09-13T18:15:54.576210Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3641,12 +3641,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://gospel-pig-arrive-hold.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-13T17:53:00.420074Z",
+      "updatedAt": "2026-09-13T18:15:54.575210Z",
       "publicUrl": "https://gospel-pig-arrive-hold.trycloudflare.com",
       "executorUrl": "https://gospel-pig-arrive-hold.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
