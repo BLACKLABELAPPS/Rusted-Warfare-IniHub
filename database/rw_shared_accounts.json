@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T18:15:54.576210Z",
+  "updatedAt": "2026-09-13T18:16:00.444775Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3641,16 +3641,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://logan-interactive-cartoon-ipaq.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-13T18:15:54.575210Z",
-      "publicUrl": "https://gospel-pig-arrive-hold.trycloudflare.com",
-      "executorUrl": "https://gospel-pig-arrive-hold.trycloudflare.com",
+      "updatedAt": "2026-09-13T18:16:00.444775Z",
+      "publicUrl": "https://logan-interactive-cartoon-ipaq.trycloudflare.com",
+      "executorUrl": "https://logan-interactive-cartoon-ipaq.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-13T17:52:58.734005Z"
+      "lastSeenAt": "2026-09-13T18:15:58.555311Z"
     }
   }
 }
