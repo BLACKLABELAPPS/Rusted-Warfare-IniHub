@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T21:44:39.151432Z",
+  "updatedAt": "2026-09-13T21:57:57.044664Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3689,12 +3689,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://hand-socket-says-necessity.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-13T21:44:39.151432Z",
+      "updatedAt": "2026-09-13T21:57:57.042664Z",
       "publicUrl": "https://hand-socket-says-necessity.trycloudflare.com",
       "executorUrl": "https://hand-socket-says-necessity.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
