@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T20:20:57.963673Z",
+  "updatedAt": "2026-09-13T20:29:56.603399Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3665,12 +3665,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://recipe-utilities-documentary-sally.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-13T20:20:57.963673Z",
+      "updatedAt": "2026-09-13T20:29:56.602402Z",
       "publicUrl": "https://recipe-utilities-documentary-sally.trycloudflare.com",
       "executorUrl": "https://recipe-utilities-documentary-sally.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
