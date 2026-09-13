@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T18:50:11.551630Z",
+  "updatedAt": "2026-09-13T18:50:18.659773Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3641,16 +3641,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://elsewhere-lovers-coaching-finger.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-13T18:50:11.549649Z",
-      "publicUrl": "https://maker-identity-pioneer-bon.trycloudflare.com",
-      "executorUrl": "https://maker-identity-pioneer-bon.trycloudflare.com",
+      "updatedAt": "2026-09-13T18:50:18.659773Z",
+      "publicUrl": "https://elsewhere-lovers-coaching-finger.trycloudflare.com",
+      "executorUrl": "https://elsewhere-lovers-coaching-finger.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-13T18:44:22.829307Z"
+      "lastSeenAt": "2026-09-13T18:50:16.181897Z"
     }
   }
 }
