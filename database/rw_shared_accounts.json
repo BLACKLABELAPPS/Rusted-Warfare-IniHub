@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T19:22:05.858131Z",
+  "updatedAt": "2026-09-13T20:20:51.393198Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3665,12 +3665,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://life-walls-parks-residential.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-13T19:20:00.367666Z",
+      "updatedAt": "2026-09-13T20:20:51.392202Z",
       "publicUrl": "https://life-walls-parks-residential.trycloudflare.com",
       "executorUrl": "https://life-walls-parks-residential.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
