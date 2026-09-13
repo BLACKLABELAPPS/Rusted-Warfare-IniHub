@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T10:42:14.011515Z",
+  "updatedAt": "2026-09-13T13:49:31.852194Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3636,16 +3636,18 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.1.20:8765",
+      "lanUrl": "http://192.168.137.1:8765",
       "lanUrls": [
-        "http://192.168.1.20:8765"
+        "http://192.168.137.1:8765",
+        "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "http://192.168.1.20:8765"
+        "http://192.168.137.1:8765",
+        "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-13T10:42:14.011515Z",
+      "updatedAt": "2026-09-13T13:49:31.851199Z",
       "publicUrl": "https://lighting-pct-kelkoo-joined.trycloudflare.com",
       "executorUrl": "https://lighting-pct-kelkoo-joined.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
