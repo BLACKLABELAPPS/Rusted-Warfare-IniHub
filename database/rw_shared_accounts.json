@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T21:33:44.920582Z",
+  "updatedAt": "2026-09-13T21:33:52.339637Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3689,16 +3689,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://material-though-lodge-steve.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-13T21:33:44.918578Z",
-      "publicUrl": "https://officially-appraisal-proxy-constitute.trycloudflare.com",
-      "executorUrl": "https://officially-appraisal-proxy-constitute.trycloudflare.com",
+      "updatedAt": "2026-09-13T21:33:52.339637Z",
+      "publicUrl": "https://material-though-lodge-steve.trycloudflare.com",
+      "executorUrl": "https://material-though-lodge-steve.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-13T21:20:32.583234Z"
+      "lastSeenAt": "2026-09-13T21:33:49.775404Z"
     }
   }
 }
