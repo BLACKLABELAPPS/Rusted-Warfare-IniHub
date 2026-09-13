@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T15:26:12.013852Z",
+  "updatedAt": "2026-09-13T15:26:17.973763Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3641,16 +3641,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://learned-pure-vernon-routers.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-13T15:26:12.011853Z",
-      "publicUrl": "https://sure-suzuki-printers-blocking.trycloudflare.com",
-      "executorUrl": "https://sure-suzuki-printers-blocking.trycloudflare.com",
+      "updatedAt": "2026-09-13T15:26:17.973763Z",
+      "publicUrl": "https://learned-pure-vernon-routers.trycloudflare.com",
+      "executorUrl": "https://learned-pure-vernon-routers.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-13T15:16:56.727296Z"
+      "lastSeenAt": "2026-09-13T15:26:16.993498Z"
     }
   }
 }
