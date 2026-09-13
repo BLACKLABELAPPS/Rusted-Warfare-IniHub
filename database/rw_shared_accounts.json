@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T22:27:19.610066Z",
+  "updatedAt": "2026-09-13T22:34:08.934671Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3689,12 +3689,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://mazda-temple-abs-super.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-13T22:27:19.610066Z",
+      "updatedAt": "2026-09-13T22:34:08.932675Z",
       "publicUrl": "https://mazda-temple-abs-super.trycloudflare.com",
       "executorUrl": "https://mazda-temple-abs-super.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
