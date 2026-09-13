@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T16:51:39.470542Z",
+  "updatedAt": "2026-09-13T17:30:49.315809Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3641,12 +3641,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://sufficiently-exec-cats-shanghai.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-13T16:51:39.470542Z",
+      "updatedAt": "2026-09-13T17:30:49.314809Z",
       "publicUrl": "https://sufficiently-exec-cats-shanghai.trycloudflare.com",
       "executorUrl": "https://sufficiently-exec-cats-shanghai.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
