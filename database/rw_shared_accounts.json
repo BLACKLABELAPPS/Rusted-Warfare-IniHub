@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T15:26:17.973763Z",
+  "updatedAt": "2026-09-13T16:34:22.943914Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3641,12 +3641,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://learned-pure-vernon-routers.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-13T15:26:17.973763Z",
+      "updatedAt": "2026-09-13T16:34:22.941915Z",
       "publicUrl": "https://learned-pure-vernon-routers.trycloudflare.com",
       "executorUrl": "https://learned-pure-vernon-routers.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
