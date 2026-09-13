@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T19:20:00.367666Z",
+  "updatedAt": "2026-09-13T19:22:05.858131Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -950,6 +950,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-13T10:15:47.571201Z",
       "updatedAt": "2026-09-13T10:15:47.571213Z"
+    },
+    "spidey14020": {
+      "username": "Spidey14020",
+      "usernameLower": "spidey14020",
+      "passwordSalt": "IagCe5VWQgwv4hrR9VyCJ1I9hJeLNsio",
+      "passwordHash": "ed0d73884276d1566f38edd93a6a69adb2b323e8e7821426ecc608e64af8e1cf",
+      "avatarCode": "B828-T21-W23-R33-L3-N7-U21-X31-F88-C0",
+      "collectionId": "",
+      "collectionTitle": "Spidey14020",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-13T19:22:05.857852Z",
+      "updatedAt": "2026-09-13T19:22:05.857860Z"
     }
   },
   "posts": [],
@@ -3582,6 +3595,17 @@
       "username": "BOBY",
       "avatar_code": "B737-T18-W38-R36-L4-N36-U22-X10-F13-C0",
       "joined_at": "2026-09-13T10:15:47.571201Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "spidey14020": {
+      "username": "Spidey14020",
+      "avatar_code": "B828-T21-W23-R33-L3-N7-U21-X31-F88-C0",
+      "joined_at": "2026-09-13T19:22:05.857852Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
