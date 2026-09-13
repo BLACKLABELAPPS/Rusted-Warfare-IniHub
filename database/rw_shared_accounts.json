@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T18:32:04.044051Z",
+  "updatedAt": "2026-09-13T18:32:11.382244Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3641,16 +3641,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://clothes-puzzle-anywhere-sing.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-13T18:32:04.042051Z",
-      "publicUrl": "https://logan-interactive-cartoon-ipaq.trycloudflare.com",
-      "executorUrl": "https://logan-interactive-cartoon-ipaq.trycloudflare.com",
+      "updatedAt": "2026-09-13T18:32:11.382244Z",
+      "publicUrl": "https://clothes-puzzle-anywhere-sing.trycloudflare.com",
+      "executorUrl": "https://clothes-puzzle-anywhere-sing.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-13T18:15:58.555311Z"
+      "lastSeenAt": "2026-09-13T18:32:09.841943Z"
     }
   }
 }
