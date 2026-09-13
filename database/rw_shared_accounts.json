@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T23:38:48.445116Z",
+  "updatedAt": "2026-09-13T01:12:57.439306Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3553,22 +3553,18 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://10.2.0.2:8765",
+      "lanUrl": "http://192.168.137.1:8765",
       "lanUrls": [
-        "http://10.2.0.2:8765",
-        "http://10.0.0.2:8765",
-        "http://192.168.1.104:8765",
-        "http://192.168.1.106:8765"
+        "http://192.168.137.1:8765",
+        "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "http://10.2.0.2:8765",
-        "http://10.0.0.2:8765",
-        "http://192.168.1.104:8765",
-        "http://192.168.1.106:8765"
+        "http://192.168.137.1:8765",
+        "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-12T22:42:52.467096Z",
+      "updatedAt": "2026-09-13T01:12:57.438306Z",
       "publicUrl": "https://pounds-batman-happening-soa.trycloudflare.com",
       "executorUrl": "https://pounds-batman-happening-soa.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
