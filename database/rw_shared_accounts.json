@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T22:46:24.966754Z",
+  "updatedAt": "2026-09-13T22:46:32.984518Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3713,16 +3713,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://img-heath-prep-files.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-13T22:46:24.964753Z",
-      "publicUrl": "https://next-said-letters-magnetic.trycloudflare.com",
-      "executorUrl": "https://next-said-letters-magnetic.trycloudflare.com",
+      "updatedAt": "2026-09-13T22:46:32.984518Z",
+      "publicUrl": "https://img-heath-prep-files.trycloudflare.com",
+      "executorUrl": "https://img-heath-prep-files.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-13T22:45:33.836215Z"
+      "lastSeenAt": "2026-09-13T22:46:31.207758Z"
     }
   }
 }
