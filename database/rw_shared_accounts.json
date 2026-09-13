@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T17:30:55.347023Z",
+  "updatedAt": "2026-09-13T17:52:54.517885Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3641,12 +3641,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://url-nice-defense-potato.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-13T17:30:55.347023Z",
+      "updatedAt": "2026-09-13T17:52:54.515881Z",
       "publicUrl": "https://url-nice-defense-potato.trycloudflare.com",
       "executorUrl": "https://url-nice-defense-potato.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
