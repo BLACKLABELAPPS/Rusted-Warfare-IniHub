@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T19:19:54.164262Z",
+  "updatedAt": "2026-09-13T19:20:00.367666Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3641,16 +3641,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://life-walls-parks-residential.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-13T19:19:54.162267Z",
-      "publicUrl": "https://loan-port-jay-notifications.trycloudflare.com",
-      "executorUrl": "https://loan-port-jay-notifications.trycloudflare.com",
+      "updatedAt": "2026-09-13T19:20:00.367666Z",
+      "publicUrl": "https://life-walls-parks-residential.trycloudflare.com",
+      "executorUrl": "https://life-walls-parks-residential.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-13T19:07:23.591646Z"
+      "lastSeenAt": "2026-09-13T19:19:58.969638Z"
     }
   }
 }
