@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T20:30:02.290315Z",
+  "updatedAt": "2026-09-13T21:00:23.265559Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3665,12 +3665,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://discs-southampton-lover-noon.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-13T20:30:02.290315Z",
+      "updatedAt": "2026-09-13T21:00:23.263956Z",
       "publicUrl": "https://discs-southampton-lover-noon.trycloudflare.com",
       "executorUrl": "https://discs-southampton-lover-noon.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
