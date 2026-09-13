@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T22:13:23.158223Z",
+  "updatedAt": "2026-09-13T22:13:30.326612Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3689,16 +3689,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://milan-replaced-prerequisite-expense.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-13T22:13:23.156222Z",
-      "publicUrl": "https://boat-salary-suite-remember.trycloudflare.com",
-      "executorUrl": "https://boat-salary-suite-remember.trycloudflare.com",
+      "updatedAt": "2026-09-13T22:13:30.326612Z",
+      "publicUrl": "https://milan-replaced-prerequisite-expense.trycloudflare.com",
+      "executorUrl": "https://milan-replaced-prerequisite-expense.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-13T21:58:03.065789Z"
+      "lastSeenAt": "2026-09-13T22:13:28.984174Z"
     }
   }
 }
