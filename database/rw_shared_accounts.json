@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T21:20:26.287993Z",
+  "updatedAt": "2026-09-13T21:20:41.933589Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3665,16 +3665,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://officially-appraisal-proxy-constitute.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-13T21:20:26.286908Z",
-      "publicUrl": "https://telescope-ent-omissions-chains.trycloudflare.com",
-      "executorUrl": "https://telescope-ent-omissions-chains.trycloudflare.com",
+      "updatedAt": "2026-09-13T21:20:41.933589Z",
+      "publicUrl": "https://officially-appraisal-proxy-constitute.trycloudflare.com",
+      "executorUrl": "https://officially-appraisal-proxy-constitute.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-13T21:00:27.530247Z"
+      "lastSeenAt": "2026-09-13T21:20:32.583234Z"
     }
   }
 }
