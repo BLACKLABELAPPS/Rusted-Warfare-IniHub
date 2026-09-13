@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T09:01:08.862034Z",
+  "updatedAt": "2026-09-13T09:20:42.898260Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2608,6 +2608,30 @@
         "directory": "",
         "zipAndElements": "",
         "urlImage": "https://images.steamusercontent.com/ugc/1774957634230827474/1C25F5BF0E4CC0B63F7ADF186108AD1AFB0640A5/",
+        "source": "favorite"
+      }
+    ],
+    "vil": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2749712324&appid=647960",
+        "title": "EK_Definitive_Edition",
+        "date": "13/09/2026",
+        "time": "13:20:40",
+        "type": "Total Conversion",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/16455573629115614944/3F69D6DF4133C04CF671CB33903D0E438B26DA95/",
+        "source": "favorite"
+      },
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3186910980&appid=647960",
+        "title": "AEA_Unlimited_Warfare_1.23",
+        "date": "13/09/2026",
+        "time": "13:09:32",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/2461852599991197463/A49FDE9B52C893B13D86D4AB7D0AEC1FF91BA204/",
         "source": "favorite"
       }
     ]
