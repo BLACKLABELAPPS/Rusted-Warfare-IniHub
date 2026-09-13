@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T01:18:24.706060Z",
+  "updatedAt": "2026-09-13T09:01:08.862034Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -924,6 +924,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-12T23:38:48.445054Z",
       "updatedAt": "2026-09-12T23:38:48.445071Z"
+    },
+    "vil": {
+      "username": "Vil",
+      "usernameLower": "vil",
+      "passwordSalt": "67na9CJm4DykeHetEr_ajCvzvEeArSUl",
+      "passwordHash": "77549c82b33ddebe88b0c755dbb758bf9c5abffb2232d6655a08f6027f7672f6",
+      "avatarCode": "B686-T27-W37-R19-L4-N3-U3-X29-F98-C0",
+      "collectionId": "",
+      "collectionTitle": "Vil",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-13T09:01:08.861952Z",
+      "updatedAt": "2026-09-13T09:01:08.861963Z"
     }
   },
   "posts": [],
@@ -3499,6 +3512,17 @@
       "username": "anjai",
       "avatar_code": "B136-T21-W29-R45-L0-N9-U9-X25-F76-C0",
       "joined_at": "2026-09-12T23:38:48.445054Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "vil": {
+      "username": "Vil",
+      "avatar_code": "B686-T27-W37-R19-L4-N3-U3-X29-F98-C0",
+      "joined_at": "2026-09-13T09:01:08.861952Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
