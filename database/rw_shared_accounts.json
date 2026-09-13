@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-13T16:34:43.005543Z",
+  "updatedAt": "2026-09-13T16:42:36.062851Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3641,12 +3641,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://reid-ambassador-massive-companies.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-13T16:34:43.005543Z",
+      "updatedAt": "2026-09-13T16:42:36.060846Z",
       "publicUrl": "https://reid-ambassador-massive-companies.trycloudflare.com",
       "executorUrl": "https://reid-ambassador-massive-companies.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
