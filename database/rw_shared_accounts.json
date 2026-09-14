@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14T02:47:37.484036Z",
+  "updatedAt": "2026-09-14T03:18:44.516845Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3756,17 +3756,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.1.4:8765",
+      "lanUrl": "http://192.168.1.38:8765",
       "lanUrls": [
-        "http://192.168.1.4:8765"
+        "http://192.168.1.38:8765"
       ],
       "executorUrls": [
-        "https://anime-choices-roles-yang.trycloudflare.com",
-        "http://192.168.1.4:8765"
+        "http://192.168.1.38:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-14T02:47:37.483038Z",
+      "updatedAt": "2026-09-14T03:18:44.516845Z",
       "publicUrl": "https://anime-choices-roles-yang.trycloudflare.com",
       "executorUrl": "https://anime-choices-roles-yang.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
