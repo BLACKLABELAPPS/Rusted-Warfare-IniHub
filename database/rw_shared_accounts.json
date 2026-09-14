@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14T00:50:06.078186Z",
+  "updatedAt": "2026-09-14T00:50:31.206566Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3737,16 +3737,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://sunshine-williams-questions-kruger.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-14T00:50:06.075187Z",
-      "publicUrl": "https://helped-bookmark-fourth-federation.trycloudflare.com",
-      "executorUrl": "https://helped-bookmark-fourth-federation.trycloudflare.com",
+      "updatedAt": "2026-09-14T00:50:31.206566Z",
+      "publicUrl": "https://sunshine-williams-questions-kruger.trycloudflare.com",
+      "executorUrl": "https://sunshine-williams-questions-kruger.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-13T22:57:11.315272Z"
+      "lastSeenAt": "2026-09-14T00:50:13.448688Z"
     }
   }
 }
