@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14T18:49:16.167914Z",
+  "updatedAt": "2026-09-14T19:10:27.821391Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3785,12 +3785,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://enhanced-radar-seeker-lyrics.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-14T18:41:34.357147Z",
+      "updatedAt": "2026-09-14T19:10:27.820395Z",
       "publicUrl": "https://enhanced-radar-seeker-lyrics.trycloudflare.com",
       "executorUrl": "https://enhanced-radar-seeker-lyrics.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
