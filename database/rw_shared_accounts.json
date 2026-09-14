@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14T03:18:44.516845Z",
+  "updatedAt": "2026-09-14T03:18:56.795692Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3761,16 +3761,17 @@
         "http://192.168.1.38:8765"
       ],
       "executorUrls": [
+        "https://newcastle-survey-hugh-cohen.trycloudflare.com",
         "http://192.168.1.38:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-14T03:18:44.516845Z",
-      "publicUrl": "https://anime-choices-roles-yang.trycloudflare.com",
-      "executorUrl": "https://anime-choices-roles-yang.trycloudflare.com",
+      "updatedAt": "2026-09-14T03:18:56.795692Z",
+      "publicUrl": "https://newcastle-survey-hugh-cohen.trycloudflare.com",
+      "executorUrl": "https://newcastle-survey-hugh-cohen.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-14T02:47:21.477757Z"
+      "lastSeenAt": "2026-09-14T03:18:55.768039Z"
     }
   }
 }
