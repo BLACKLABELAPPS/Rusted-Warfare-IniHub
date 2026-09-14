@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14T19:10:33.759979Z",
+  "updatedAt": "2026-09-14T19:37:44.533496Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3785,12 +3785,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://sent-paul-auction-ethics.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-14T19:10:33.759979Z",
+      "updatedAt": "2026-09-14T19:37:44.532496Z",
       "publicUrl": "https://sent-paul-auction-ethics.trycloudflare.com",
       "executorUrl": "https://sent-paul-auction-ethics.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
