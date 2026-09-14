@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14T03:23:39.785031Z",
+  "updatedAt": "2026-09-14T03:23:47.893285Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3761,16 +3761,17 @@
         "http://192.168.1.38:8765"
       ],
       "executorUrls": [
+        "https://louise-sheffield-vegas-spare.trycloudflare.com",
         "http://192.168.1.38:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-14T03:23:39.785031Z",
-      "publicUrl": "https://newcastle-survey-hugh-cohen.trycloudflare.com",
-      "executorUrl": "https://newcastle-survey-hugh-cohen.trycloudflare.com",
+      "updatedAt": "2026-09-14T03:23:47.893285Z",
+      "publicUrl": "https://louise-sheffield-vegas-spare.trycloudflare.com",
+      "executorUrl": "https://louise-sheffield-vegas-spare.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-14T03:18:55.768039Z"
+      "lastSeenAt": "2026-09-14T03:23:46.751111Z"
     }
   }
 }
