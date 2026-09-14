@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14T02:15:29.842832Z",
+  "updatedAt": "2026-09-14T02:15:36.393789Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3761,16 +3761,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://hansen-louisiana-cet-serious.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-14T02:15:29.841831Z",
-      "publicUrl": "https://mod-territory-headlines-journalists.trycloudflare.com",
-      "executorUrl": "https://mod-territory-headlines-journalists.trycloudflare.com",
+      "updatedAt": "2026-09-14T02:15:36.393789Z",
+      "publicUrl": "https://hansen-louisiana-cet-serious.trycloudflare.com",
+      "executorUrl": "https://hansen-louisiana-cet-serious.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-14T02:11:58.104169Z"
+      "lastSeenAt": "2026-09-14T02:15:34.122721Z"
     }
   }
 }
