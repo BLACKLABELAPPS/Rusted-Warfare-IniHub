@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14T03:23:47.893285Z",
+  "updatedAt": "2026-09-14T03:28:18.250338Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3756,17 +3756,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.1.38:8765",
+      "lanUrl": "http://192.168.1.4:8765",
       "lanUrls": [
-        "http://192.168.1.38:8765"
+        "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://louise-sheffield-vegas-spare.trycloudflare.com",
-        "http://192.168.1.38:8765"
+        "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-14T03:23:47.893285Z",
+      "updatedAt": "2026-09-14T03:28:18.248346Z",
       "publicUrl": "https://louise-sheffield-vegas-spare.trycloudflare.com",
       "executorUrl": "https://louise-sheffield-vegas-spare.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
