@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14T18:41:26.507918Z",
+  "updatedAt": "2026-09-14T18:41:34.357147Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3761,16 +3761,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://enhanced-radar-seeker-lyrics.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-14T18:41:26.505919Z",
-      "publicUrl": "https://stylish-thinkpad-reasonable-commodity.trycloudflare.com",
-      "executorUrl": "https://stylish-thinkpad-reasonable-commodity.trycloudflare.com",
+      "updatedAt": "2026-09-14T18:41:34.357147Z",
+      "publicUrl": "https://enhanced-radar-seeker-lyrics.trycloudflare.com",
+      "executorUrl": "https://enhanced-radar-seeker-lyrics.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-14T14:50:20.148019Z"
+      "lastSeenAt": "2026-09-14T18:41:33.241103Z"
     }
   }
 }
