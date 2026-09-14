@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14T06:36:05.324201Z",
+  "updatedAt": "2026-09-14T06:40:16.700213Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3761,12 +3761,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://compete-studio-eating-get.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-14T06:36:05.324201Z",
+      "updatedAt": "2026-09-14T06:40:16.698566Z",
       "publicUrl": "https://compete-studio-eating-get.trycloudflare.com",
       "executorUrl": "https://compete-studio-eating-get.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
