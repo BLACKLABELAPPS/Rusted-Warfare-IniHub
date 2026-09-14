@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14T00:40:11.575077Z",
+  "updatedAt": "2026-09-14T00:40:24.150637Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -995,13 +995,13 @@
       "usernameLower": "astalis",
       "passwordSalt": "9WWSPALnoVxgoI92mdQyPx56nc9_qmsA",
       "passwordHash": "48f48266af886d1f4bd6a7470f78b33c798c6ed26e2ee8c6eeb94209997655fc",
-      "avatarCode": "B152-T29-W49-R7-L3-N33-U11-X23-F64-C0",
+      "avatarCode": "B758-T49-W9-R23-L0-N47-U47-X1-F70-C0",
       "collectionId": "",
       "collectionTitle": "Astalis",
       "defaultPublishedFileId": "",
       "defaultVisibility": "0",
       "joinedAt": "2026-09-14T00:39:30.371548Z",
-      "updatedAt": "2026-09-14T00:40:11.575020Z"
+      "updatedAt": "2026-09-14T00:40:24.150557Z"
     }
   },
   "posts": [],
@@ -3676,7 +3676,7 @@
     },
     "astalis": {
       "username": "Astalis",
-      "avatar_code": "B152-T29-W49-R7-L3-N33-U11-X23-F64-C0",
+      "avatar_code": "B758-T49-W9-R23-L0-N47-U47-X1-F70-C0",
       "joined_at": "2026-09-14T00:39:30.371548Z",
       "wins": 0,
       "participations": 0,
