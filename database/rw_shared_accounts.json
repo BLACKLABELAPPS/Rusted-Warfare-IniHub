@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14T00:50:31.206566Z",
+  "updatedAt": "2026-09-14T00:58:18.335738Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1002,6 +1002,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-14T00:39:30.371548Z",
       "updatedAt": "2026-09-14T00:40:24.150557Z"
+    },
+    "clarkey": {
+      "username": "clarkey",
+      "usernameLower": "clarkey",
+      "passwordSalt": "H4_weENlABZKov3iIpdXiISGpKnIro49",
+      "passwordHash": "fd3bd757a79c171b9e3ebb06e996940dfc814f1314f07b47dc0ad0a69721c8f3",
+      "avatarCode": "B2-T45-W1-R3-L0-N35-U43-X5-F90-C0",
+      "collectionId": "",
+      "collectionTitle": "clarkey",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-14T00:58:18.335672Z",
+      "updatedAt": "2026-09-14T00:58:18.335682Z"
     }
   },
   "posts": [],
@@ -3678,6 +3691,17 @@
       "username": "Astalis",
       "avatar_code": "B758-T49-W9-R23-L0-N47-U47-X1-F70-C0",
       "joined_at": "2026-09-14T00:39:30.371548Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "clarkey": {
+      "username": "clarkey",
+      "avatar_code": "B2-T45-W1-R3-L0-N35-U43-X5-F90-C0",
+      "joined_at": "2026-09-14T00:58:18.335672Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
