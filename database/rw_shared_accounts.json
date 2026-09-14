@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14T08:32:02.291631Z",
+  "updatedAt": "2026-09-14T08:32:10.293509Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3761,16 +3761,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://toe-alias-breakfast-locks.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-14T08:32:02.289626Z",
-      "publicUrl": "https://weighted-letter-showed-neural.trycloudflare.com",
-      "executorUrl": "https://weighted-letter-showed-neural.trycloudflare.com",
+      "updatedAt": "2026-09-14T08:32:10.293509Z",
+      "publicUrl": "https://toe-alias-breakfast-locks.trycloudflare.com",
+      "executorUrl": "https://toe-alias-breakfast-locks.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-14T07:05:22.039165Z"
+      "lastSeenAt": "2026-09-14T08:32:08.976783Z"
     }
   }
 }
