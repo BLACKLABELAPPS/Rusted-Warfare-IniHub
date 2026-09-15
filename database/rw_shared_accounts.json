@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-15T12:05:49.803304Z",
+  "updatedAt": "2026-09-15T12:19:51.435935Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2751,6 +2751,17 @@
       }
     ],
     "kurlik": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2980240332&appid=647960",
+        "title": "World_war_2_Realism",
+        "date": "15/09/2026",
+        "time": "18:19:48",
+        "type": "Total Conversion",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/10323325255591264175/ADDCB761C62132D7E2F3B71974B48307F38B16F3/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3704377999&appid=647960",
         "title": "Vanilla_style_units+_1.2.0",
