@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-15T04:22:17.446535Z",
+  "updatedAt": "2026-09-15T04:47:30.156266Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3785,12 +3785,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://vessel-undefined-defensive-alive.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-15T04:22:17.446535Z",
+      "updatedAt": "2026-09-15T04:47:30.154550Z",
       "publicUrl": "https://vessel-undefined-defensive-alive.trycloudflare.com",
       "executorUrl": "https://vessel-undefined-defensive-alive.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
