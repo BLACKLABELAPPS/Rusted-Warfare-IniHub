@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-15T11:51:10.912667Z",
+  "updatedAt": "2026-09-15T12:04:56.142593Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2751,6 +2751,17 @@
       }
     ],
     "kurlik": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2685920480&appid=647960",
+        "title": "Anti_Experimental_Turret",
+        "date": "15/09/2026",
+        "time": "18:04:54",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/1826777774196908168/3B30F4FCD39AC59601EC90B05BC46C6C4D654ECD/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3632229043&appid=647960",
         "title": "Condition_Blue",
