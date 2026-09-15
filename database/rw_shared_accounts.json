@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-15T06:19:22.597588Z",
+  "updatedAt": "2026-09-15T06:26:22.196336Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3801,12 +3801,12 @@
   "premiumEntitlements": {
     "rustedwarfareworkshop": {
       "schemaVersion": 1,
-      "environment": "live",
+      "environment": "sandbox",
       "status": "approval_pending",
-      "paypalSubscriptionId": "I-GD10HBHL0DY0",
-      "planId": "P-4P344611TT231354ANKUBD4I",
-      "pendingAt": "2026-09-15T04:49:22.505519Z",
-      "updatedAt": "2026-09-15T04:49:22.505519Z",
+      "paypalSubscriptionId": "I-9XPG08V3KKW6",
+      "planId": "P-7U247509XV989593TNKUKZ6A",
+      "pendingAt": "2026-09-15T06:26:21.697065Z",
+      "updatedAt": "2026-09-15T06:26:21.697065Z",
       "username": "RustedWarfareWorkshop",
       "usernameLower": "rustedwarfareworkshop"
     }
