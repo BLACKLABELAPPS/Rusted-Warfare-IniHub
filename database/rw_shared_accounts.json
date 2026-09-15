@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-15T04:47:30.156266Z",
+  "updatedAt": "2026-09-15T04:47:36.633702Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3785,16 +3785,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://white-formula-barry-fixed.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-15T04:47:30.154550Z",
-      "publicUrl": "https://vessel-undefined-defensive-alive.trycloudflare.com",
-      "executorUrl": "https://vessel-undefined-defensive-alive.trycloudflare.com",
+      "updatedAt": "2026-09-15T04:47:36.632702Z",
+      "publicUrl": "https://white-formula-barry-fixed.trycloudflare.com",
+      "executorUrl": "https://white-formula-barry-fixed.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-15T04:22:15.599757Z"
+      "lastSeenAt": "2026-09-15T04:47:34.593176Z"
     }
   }
 }
