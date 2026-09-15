@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-15T06:03:23.508808Z",
+  "updatedAt": "2026-09-15T06:19:15.648960Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3785,12 +3785,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://pac-sponsor-initiated-artist.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-15T06:03:23.508808Z",
+      "updatedAt": "2026-09-15T06:19:15.646958Z",
       "publicUrl": "https://pac-sponsor-initiated-artist.trycloudflare.com",
       "executorUrl": "https://pac-sponsor-initiated-artist.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
