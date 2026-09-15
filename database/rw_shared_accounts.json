@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-15T11:28:31.216478Z",
+  "updatedAt": "2026-09-15T11:30:16.231654Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2747,6 +2747,19 @@
         "directory": "",
         "zipAndElements": "",
         "urlImage": "https://images.steamusercontent.com/ugc/2461852599991197463/A49FDE9B52C893B13D86D4AB7D0AEC1FF91BA204/",
+        "source": "favorite"
+      }
+    ],
+    "kurlik": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3462334380&appid=647960",
+        "title": "WW2_Realism+_Version_汉化版",
+        "date": "15/09/2026",
+        "time": "17:30:14",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/33321834191929884/2FA40566B3936262D1D1CA53437AA37E0F47A4BF/",
         "source": "favorite"
       }
     ]
