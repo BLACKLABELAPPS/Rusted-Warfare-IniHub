@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-15T06:27:51.984794Z",
+  "updatedAt": "2026-09-15T06:28:43.976725Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1021,13 +1021,13 @@
       "usernameLower": "rustedwarfareworkshop",
       "passwordSalt": "C0cJlaY6LdAm_6AMoHEPFvA5NazvlDgx",
       "passwordHash": "77c43651990d5dff4f014ebd22d696cfc25590ab0bcb1e65528f1a7c603bb95c",
-      "avatarCode": "B791-T8-W48-R36-L3-N14-U10-X48-F15-C0",
+      "avatarCode": "B821-T42-W34-R16-L3-N8-U22-X22-F9-C0",
       "collectionId": "",
       "collectionTitle": "RustedWarfareWorkshop",
       "defaultPublishedFileId": "",
       "defaultVisibility": "0",
       "joinedAt": "2026-09-14T18:49:16.164916Z",
-      "updatedAt": "2026-09-14T18:49:16.164916Z"
+      "updatedAt": "2026-09-15T06:28:43.975726Z"
     }
   },
   "posts": [],
@@ -3724,7 +3724,7 @@
     },
     "rustedwarfareworkshop": {
       "username": "RustedWarfareWorkshop",
-      "avatar_code": "B791-T8-W48-R36-L3-N14-U10-X48-F15-C0",
+      "avatar_code": "B821-T42-W34-R16-L3-N8-U22-X22-F9-C0",
       "joined_at": "2026-09-14T18:49:16.164916Z",
       "wins": 0,
       "participations": 0,
