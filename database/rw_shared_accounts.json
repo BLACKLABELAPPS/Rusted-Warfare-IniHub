@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-15T11:39:41.877723Z",
+  "updatedAt": "2026-09-15T11:45:17.679040Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2751,6 +2751,17 @@
       }
     ],
     "kurlik": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2164984035&appid=647960",
+        "title": "Azur_Weebs",
+        "date": "15/09/2026",
+        "time": "17:45:15",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/1620690099935804138/0B7D92290F3139779312E9B9D0C09418FA33F209/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3558966676&appid=647960",
         "title": "4p_Verdun",
