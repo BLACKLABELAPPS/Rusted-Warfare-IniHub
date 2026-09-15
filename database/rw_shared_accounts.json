@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-15T12:04:56.142593Z",
+  "updatedAt": "2026-09-15T12:05:49.803304Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2751,6 +2751,17 @@
       }
     ],
     "kurlik": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3704377999&appid=647960",
+        "title": "Vanilla_style_units+_1.2.0",
+        "date": "15/09/2026",
+        "time": "18:05:47",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/16477914330555966625/0A58520DB255D5E611C40FBE56852F7C7E01FDDC/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2685920480&appid=647960",
         "title": "Anti_Experimental_Turret",
