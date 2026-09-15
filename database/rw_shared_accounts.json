@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-15T06:28:43.976725Z",
+  "updatedAt": "2026-09-15T11:28:31.216478Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1028,6 +1028,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-14T18:49:16.164916Z",
       "updatedAt": "2026-09-15T06:28:43.975726Z"
+    },
+    "kurlik": {
+      "username": "KuRlIk",
+      "usernameLower": "kurlik",
+      "passwordSalt": "Z6IO9LsfxxzZNVbcE19eTKNxkKW4Fz6x",
+      "passwordHash": "6145dd2c8f3a2888534096a4289dc8f55fbe0bcf98776fb80b76caaf425fe4f3",
+      "avatarCode": "B689-T12-W22-R34-L1-N42-U24-X8-F61-C0",
+      "collectionId": "",
+      "collectionTitle": "KuRlIk",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-15T11:28:31.216361Z",
+      "updatedAt": "2026-09-15T11:28:31.216383Z"
     }
   },
   "posts": [],
@@ -3726,6 +3739,17 @@
       "username": "RustedWarfareWorkshop",
       "avatar_code": "B821-T42-W34-R16-L3-N8-U22-X22-F9-C0",
       "joined_at": "2026-09-14T18:49:16.164916Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "kurlik": {
+      "username": "KuRlIk",
+      "avatar_code": "B689-T12-W22-R34-L1-N42-U24-X8-F61-C0",
+      "joined_at": "2026-09-15T11:28:31.216361Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
