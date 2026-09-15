@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-15T04:49:22.978876Z",
+  "updatedAt": "2026-09-15T06:02:57.855287Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3785,12 +3785,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://white-formula-barry-fixed.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-15T04:47:36.632702Z",
+      "updatedAt": "2026-09-15T06:02:57.853290Z",
       "publicUrl": "https://white-formula-barry-fixed.trycloudflare.com",
       "executorUrl": "https://white-formula-barry-fixed.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
