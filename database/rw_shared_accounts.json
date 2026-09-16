@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-16T03:17:52.464880Z",
+  "updatedAt": "2026-09-16T03:39:50.817545Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3923,12 +3923,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://buf-names-sentence-amenities.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-16T03:17:52.464880Z",
+      "updatedAt": "2026-09-16T03:39:50.815546Z",
       "publicUrl": "https://buf-names-sentence-amenities.trycloudflare.com",
       "executorUrl": "https://buf-names-sentence-amenities.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
