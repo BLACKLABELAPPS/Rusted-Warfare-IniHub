@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-16T03:14:39.054415Z",
+  "updatedAt": "2026-09-16T03:17:45.856048Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3923,12 +3923,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://rand-gay-component-uri.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-16T03:14:39.053488Z",
+      "updatedAt": "2026-09-16T03:17:45.854054Z",
       "publicUrl": "https://rand-gay-component-uri.trycloudflare.com",
       "executorUrl": "https://rand-gay-component-uri.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
