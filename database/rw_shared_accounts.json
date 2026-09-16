@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-16T10:39:34.883326Z",
+  "updatedAt": "2026-09-16T11:48:01.048198Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4242,12 +4242,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://nonprofit-oaks-plasma-grams.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-16T03:39:57.238898Z",
+      "updatedAt": "2026-09-16T11:48:01.046197Z",
       "publicUrl": "https://nonprofit-oaks-plasma-grams.trycloudflare.com",
       "executorUrl": "https://nonprofit-oaks-plasma-grams.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
