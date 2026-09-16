@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-16T19:12:40.260054Z",
+  "updatedAt": "2026-09-16T20:22:43.217401Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4261,16 +4261,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.0.227:8765",
+      "lanUrl": "http://192.168.1.4:8765",
       "lanUrls": [
-        "http://192.168.0.227:8765"
+        "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "http://192.168.0.227:8765"
+        "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-16T19:12:40.260054Z",
+      "updatedAt": "2026-09-16T20:22:43.215434Z",
       "publicUrl": "https://ipod-attachment-complex-sandy.trycloudflare.com",
       "executorUrl": "https://ipod-attachment-complex-sandy.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
