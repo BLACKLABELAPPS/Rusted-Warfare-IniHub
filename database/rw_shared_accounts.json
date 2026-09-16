@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-16T17:20:22.759861Z",
+  "updatedAt": "2026-09-16T18:13:24.424486Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4266,12 +4266,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://perfect-instrument-plane-muslim.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-16T17:20:22.759861Z",
+      "updatedAt": "2026-09-16T18:13:24.422483Z",
       "publicUrl": "https://perfect-instrument-plane-muslim.trycloudflare.com",
       "executorUrl": "https://perfect-instrument-plane-muslim.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
