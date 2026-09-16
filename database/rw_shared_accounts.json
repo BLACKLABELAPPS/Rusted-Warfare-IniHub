@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-16T01:11:08.013070Z",
+  "updatedAt": "2026-09-16T01:11:35.901777Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3923,16 +3923,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://database-regulatory-person-clarity.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-16T01:11:08.011069Z",
-      "publicUrl": "https://prairie-travelers-telling-wool.trycloudflare.com",
-      "executorUrl": "https://prairie-travelers-telling-wool.trycloudflare.com",
+      "updatedAt": "2026-09-16T01:11:35.901777Z",
+      "publicUrl": "https://database-regulatory-person-clarity.trycloudflare.com",
+      "executorUrl": "https://database-regulatory-person-clarity.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-15T06:19:20.163109Z"
+      "lastSeenAt": "2026-09-16T01:11:28.322086Z"
     }
   },
   "premiumEntitlements": {
