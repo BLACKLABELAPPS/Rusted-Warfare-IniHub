@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-16T11:48:01.048198Z",
+  "updatedAt": "2026-09-16T11:48:08.737188Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4242,16 +4242,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://becoming-studied-western-deeply.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-16T11:48:01.046197Z",
-      "publicUrl": "https://nonprofit-oaks-plasma-grams.trycloudflare.com",
-      "executorUrl": "https://nonprofit-oaks-plasma-grams.trycloudflare.com",
+      "updatedAt": "2026-09-16T11:48:08.737188Z",
+      "publicUrl": "https://becoming-studied-western-deeply.trycloudflare.com",
+      "executorUrl": "https://becoming-studied-western-deeply.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-16T03:39:54.279536Z"
+      "lastSeenAt": "2026-09-16T11:48:05.253045Z"
     }
   },
   "premiumEntitlements": {
