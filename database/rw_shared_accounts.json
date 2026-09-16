@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-16T03:39:57.238898Z",
+  "updatedAt": "2026-09-16T08:31:25.550795Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1054,6 +1054,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-15T14:14:57.300909Z",
       "updatedAt": "2026-09-15T14:14:57.300917Z"
+    },
+    "precious": {
+      "username": "precious",
+      "usernameLower": "precious",
+      "passwordSalt": "NWtrtbmJ93_HZp7dHCms9KFc_PoPkMsx",
+      "passwordHash": "ce66aacb428a613a9c802a152feae503de379b44cc386aff17a29a2b1e3cc23e",
+      "avatarCode": "B265-T42-W2-R20-L4-N14-U4-X22-F37-C0",
+      "collectionId": "",
+      "collectionTitle": "precious",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-16T08:31:25.550682Z",
+      "updatedAt": "2026-09-16T08:31:25.550699Z"
     }
   },
   "posts": [],
@@ -3864,6 +3877,17 @@
       "username": "Archduke187",
       "avatar_code": "B906-T3-W47-R29-L3-N7-U21-X49-F26-C0",
       "joined_at": "2026-09-15T14:14:57.300909Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "precious": {
+      "username": "precious",
+      "avatar_code": "B265-T42-W2-R20-L4-N14-U4-X22-F37-C0",
+      "joined_at": "2026-09-16T08:31:25.550682Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
