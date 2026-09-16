@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-16T10:28:18.823975Z",
+  "updatedAt": "2026-09-16T10:35:37.724834Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2777,6 +2777,17 @@
       }
     ],
     "kurlik": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3577717946&appid=647960",
+        "title": "Rustedsaken_v1.0.0_05.02",
+        "date": "16/09/2026",
+        "time": "16:35:34",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/15990512734283988827/FF4590BAC1D5BE61AF914957E41BB863041F96B6/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3719742411&appid=647960",
         "title": "WarCommander_Mod_Official_Version",
