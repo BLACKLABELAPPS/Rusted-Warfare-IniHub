@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-16T20:50:28.472221Z",
+  "updatedAt": "2026-09-16T23:47:53.524525Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4266,12 +4266,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://mounts-fans-kenneth-anthony.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-16T20:50:28.472221Z",
+      "updatedAt": "2026-09-16T23:47:53.522523Z",
       "publicUrl": "https://mounts-fans-kenneth-anthony.trycloudflare.com",
       "executorUrl": "https://mounts-fans-kenneth-anthony.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
