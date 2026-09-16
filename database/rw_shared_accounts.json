@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-16T01:11:35.901777Z",
+  "updatedAt": "2026-09-16T03:14:12.162945Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3923,12 +3923,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://database-regulatory-person-clarity.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-16T01:11:35.901777Z",
+      "updatedAt": "2026-09-16T03:14:12.160942Z",
       "publicUrl": "https://database-regulatory-person-clarity.trycloudflare.com",
       "executorUrl": "https://database-regulatory-person-clarity.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
