@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-15T17:59:45.504597Z",
+  "updatedAt": "2026-09-16T01:11:08.013070Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3923,12 +3923,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://prairie-travelers-telling-wool.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-15T06:19:22.597588Z",
+      "updatedAt": "2026-09-16T01:11:08.011069Z",
       "publicUrl": "https://prairie-travelers-telling-wool.trycloudflare.com",
       "executorUrl": "https://prairie-travelers-telling-wool.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
