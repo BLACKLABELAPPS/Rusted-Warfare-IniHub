@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-16T23:48:01.080564Z",
+  "updatedAt": "2026-09-16T23:57:03.499441Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4266,12 +4266,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://sox-answering-warehouse-logs.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-16T23:48:01.080564Z",
+      "updatedAt": "2026-09-16T23:57:03.497440Z",
       "publicUrl": "https://sox-answering-warehouse-logs.trycloudflare.com",
       "executorUrl": "https://sox-answering-warehouse-logs.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
