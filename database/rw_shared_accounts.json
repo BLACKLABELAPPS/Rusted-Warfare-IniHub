@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-16T11:48:08.737188Z",
+  "updatedAt": "2026-09-16T14:39:21.284759Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4242,12 +4242,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://becoming-studied-western-deeply.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-16T11:48:08.737188Z",
+      "updatedAt": "2026-09-16T14:39:21.282757Z",
       "publicUrl": "https://becoming-studied-western-deeply.trycloudflare.com",
       "executorUrl": "https://becoming-studied-western-deeply.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
