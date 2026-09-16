@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-16T17:20:15.486106Z",
+  "updatedAt": "2026-09-16T17:20:22.759861Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4266,16 +4266,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://perfect-instrument-plane-muslim.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-16T17:20:15.484471Z",
-      "publicUrl": "https://ensuring-bugs-grown-empty.trycloudflare.com",
-      "executorUrl": "https://ensuring-bugs-grown-empty.trycloudflare.com",
+      "updatedAt": "2026-09-16T17:20:22.759861Z",
+      "publicUrl": "https://perfect-instrument-plane-muslim.trycloudflare.com",
+      "executorUrl": "https://perfect-instrument-plane-muslim.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-16T16:43:21.848282Z"
+      "lastSeenAt": "2026-09-16T17:20:19.991575Z"
     }
   },
   "premiumEntitlements": {
