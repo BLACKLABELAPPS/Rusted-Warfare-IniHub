@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-16T08:32:48.417157Z",
+  "updatedAt": "2026-09-16T10:00:36.134106Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2777,6 +2777,17 @@
       }
     ],
     "kurlik": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3778141392&appid=647960",
+        "title": "shockstorm_1944_by_col",
+        "date": "16/09/2026",
+        "time": "16:00:33",
+        "type": "Total Conversion",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/11202432971571429064/26D1A282237E6452FF371334C68022B756B57115/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2980240332&appid=647960",
         "title": "World_war_2_Realism",
