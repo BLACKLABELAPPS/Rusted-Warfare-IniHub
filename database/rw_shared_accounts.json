@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-16T08:31:25.550795Z",
+  "updatedAt": "2026-09-16T08:32:48.417157Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2990,6 +2990,257 @@
       },
       "created_at": "2026-08-21T18:43:13.734323Z",
       "updated_at": "2026-08-21T18:43:13.734323Z"
+    },
+    {
+      "id": "rw-hmcaswnzl2-3f8ez",
+      "name": "dodo",
+      "description": "",
+      "owner_username": "precious",
+      "owner_username_lower": "precious",
+      "created_by": "precious",
+      "mode": "single",
+      "format": "single_elimination",
+      "status": "upcoming",
+      "max_participants": 16,
+      "start_date": "2026-09-17",
+      "start_datetime": "2026-09-17T08:31:41.520030Z",
+      "start_at": "2026-09-17T08:31:41.520030Z",
+      "participants": [
+        {
+          "username": "precious",
+          "username_lower": "precious",
+          "avatar_code": "B265-T42-W2-R20-L4-N14-U4-X22-F37-C0",
+          "joined_at": "2026-09-16T08:32:47.039462Z",
+          "tournament_color_code": "C1"
+        },
+        {
+          "username": "22ETEE",
+          "username_lower": "22etee",
+          "avatar_code": "B384-T27-W23-R33-L3-N1-U7-X31-F64-C0",
+          "joined_at": "2026-09-16T08:32:47.039462Z",
+          "tournament_color_code": "C3"
+        },
+        {
+          "username": "360_Dark",
+          "username_lower": "360_dark",
+          "avatar_code": "B639-T30-W40-R20-L4-N44-U16-X4-F31-C0",
+          "joined_at": "2026-09-16T08:32:47.039462Z",
+          "tournament_color_code": "C4"
+        }
+      ],
+      "data_json": {
+        "teams": [],
+        "team_colors": {},
+        "players": [
+          {
+            "username": "precious",
+            "player_name": "precious",
+            "is_bot": false,
+            "color_code": "C1",
+            "avatar_code": "B265-T42-W2-R20-L4-N14-U4-X22-F37-C0"
+          },
+          {
+            "username": "22ETEE",
+            "player_name": "22ETEE",
+            "is_bot": false,
+            "color_code": "C3",
+            "avatar_code": "B384-T27-W23-R33-L3-N1-U7-X31-F64-C0"
+          },
+          {
+            "username": "360_Dark",
+            "player_name": "360_Dark",
+            "is_bot": false,
+            "color_code": "C4",
+            "avatar_code": "B639-T30-W40-R20-L4-N44-U16-X4-F31-C0"
+          },
+          {
+            "username": "Bot#5",
+            "player_name": "",
+            "is_bot": true,
+            "color_code": "C5"
+          },
+          {
+            "username": "Bot#6",
+            "player_name": "",
+            "is_bot": true,
+            "color_code": "C6"
+          },
+          {
+            "username": "Bot#7",
+            "player_name": "",
+            "is_bot": true,
+            "color_code": "C7"
+          },
+          {
+            "username": "Bot#8",
+            "player_name": "",
+            "is_bot": true,
+            "color_code": "C8"
+          }
+        ],
+        "matches": [
+          {
+            "match_id": 1,
+            "round": 1,
+            "slot": 1,
+            "status": "scheduled",
+            "participants": [
+              {
+                "side": 1,
+                "team_id": "precious",
+                "score": 0,
+                "is_winner": 0
+              },
+              {
+                "side": 2,
+                "team_id": "22ETEE",
+                "score": 0,
+                "is_winner": 0
+              }
+            ],
+            "next_match_id": 5,
+            "next_slot": 1
+          },
+          {
+            "match_id": 2,
+            "round": 1,
+            "slot": 2,
+            "status": "scheduled",
+            "participants": [
+              {
+                "side": 1,
+                "team_id": "360_Dark",
+                "score": 0,
+                "is_winner": 0
+              },
+              {
+                "side": 2,
+                "team_id": "Bot#5",
+                "score": 0,
+                "is_winner": 0
+              }
+            ],
+            "next_match_id": 5,
+            "next_slot": 2
+          },
+          {
+            "match_id": 3,
+            "round": 1,
+            "slot": 3,
+            "status": "scheduled",
+            "participants": [
+              {
+                "side": 1,
+                "team_id": "Bot#6",
+                "score": 0,
+                "is_winner": 0
+              },
+              {
+                "side": 2,
+                "team_id": "Bot#7",
+                "score": 0,
+                "is_winner": 0
+              }
+            ],
+            "next_match_id": 6,
+            "next_slot": 1
+          },
+          {
+            "match_id": 4,
+            "round": 1,
+            "slot": 4,
+            "status": "scheduled",
+            "participants": [
+              {
+                "side": 1,
+                "team_id": "Bot#8",
+                "score": 0,
+                "is_winner": 0
+              },
+              {
+                "side": 2,
+                "team_id": null,
+                "score": 0,
+                "is_winner": 0
+              }
+            ],
+            "next_match_id": 6,
+            "next_slot": 2
+          },
+          {
+            "match_id": 5,
+            "round": 2,
+            "slot": 1,
+            "status": "scheduled",
+            "participants": [
+              {
+                "side": 1,
+                "team_id": null,
+                "score": 0,
+                "is_winner": 0
+              },
+              {
+                "side": 2,
+                "team_id": null,
+                "score": 0,
+                "is_winner": 0
+              }
+            ],
+            "next_match_id": 7,
+            "next_slot": 1
+          },
+          {
+            "match_id": 6,
+            "round": 2,
+            "slot": 2,
+            "status": "scheduled",
+            "participants": [
+              {
+                "side": 1,
+                "team_id": null,
+                "score": 0,
+                "is_winner": 0
+              },
+              {
+                "side": 2,
+                "team_id": null,
+                "score": 0,
+                "is_winner": 0
+              }
+            ],
+            "next_match_id": 7,
+            "next_slot": 2
+          },
+          {
+            "match_id": 7,
+            "round": 3,
+            "slot": 1,
+            "status": "scheduled",
+            "participants": [
+              {
+                "side": 1,
+                "team_id": null,
+                "score": 0,
+                "is_winner": 0
+              },
+              {
+                "side": 2,
+                "team_id": null,
+                "score": 0,
+                "is_winner": 0
+              }
+            ],
+            "next_match_id": null,
+            "next_slot": null
+          }
+        ],
+        "meta": {
+          "root_match_id": 7,
+          "next_local_id": 8
+        }
+      },
+      "created_at": "2026-09-16T08:32:47.039462Z",
+      "updated_at": "2026-09-16T08:32:47.039462Z"
     }
   ],
   "tournamentProfiles": {
