@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-16T20:22:43.217401Z",
+  "updatedAt": "2026-09-16T20:22:50.611355Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4266,16 +4266,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://banana-additions-assembly-heated.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-16T20:22:43.215434Z",
-      "publicUrl": "https://ipod-attachment-complex-sandy.trycloudflare.com",
-      "executorUrl": "https://ipod-attachment-complex-sandy.trycloudflare.com",
+      "updatedAt": "2026-09-16T20:22:50.611355Z",
+      "publicUrl": "https://banana-additions-assembly-heated.trycloudflare.com",
+      "executorUrl": "https://banana-additions-assembly-heated.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-16T18:13:37.660995Z"
+      "lastSeenAt": "2026-09-16T20:22:46.387520Z"
     }
   },
   "premiumEntitlements": {
