@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-17T05:28:41.862626Z",
+  "updatedAt": "2026-09-17T05:28:48.724469Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4266,16 +4266,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://loc-meditation-fairy-scientist.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-17T05:28:41.860627Z",
-      "publicUrl": "https://healthcare-lyrics-writer-cookbook.trycloudflare.com",
-      "executorUrl": "https://healthcare-lyrics-writer-cookbook.trycloudflare.com",
+      "updatedAt": "2026-09-17T05:28:48.724469Z",
+      "publicUrl": "https://loc-meditation-fairy-scientist.trycloudflare.com",
+      "executorUrl": "https://loc-meditation-fairy-scientist.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-17T05:27:02.119454Z"
+      "lastSeenAt": "2026-09-17T05:28:45.226657Z"
     }
   },
   "premiumEntitlements": {
