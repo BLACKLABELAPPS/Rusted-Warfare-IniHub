@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-17T09:57:51.052469Z",
+  "updatedAt": "2026-09-17T20:26:01.398727Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1080,6 +1080,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-16T14:47:52.077915Z",
       "updatedAt": "2026-09-16T14:47:52.077923Z"
+    },
+    "mango": {
+      "username": "mango",
+      "usernameLower": "mango",
+      "passwordSalt": "kKAIKJixH8MTVqe1Jh-wEvkq5NtKa3ys",
+      "passwordHash": "76486f7380f52400c0fc521789d1a67e9fbb3dcfa8da9e62f5fdb9f70f546092",
+      "avatarCode": "B3-T46-W38-R20-L4-N24-U32-X18-F47-C0",
+      "collectionId": "",
+      "collectionTitle": "mango",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-17T20:26:01.398589Z",
+      "updatedAt": "2026-09-17T20:26:01.398622Z"
     }
   },
   "posts": [],
@@ -4229,6 +4242,17 @@
       "username": "ggooss",
       "avatar_code": "B809-T32-W42-R4-L2-N12-U44-X24-F81-C0",
       "joined_at": "2026-09-16T14:47:52.077915Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "mango": {
+      "username": "mango",
+      "avatar_code": "B3-T46-W38-R20-L4-N24-U32-X18-F47-C0",
+      "joined_at": "2026-09-17T20:26:01.398589Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
