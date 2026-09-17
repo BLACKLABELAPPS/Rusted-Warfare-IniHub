@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-17T05:33:37.922871Z",
+  "updatedAt": "2026-09-17T05:39:24.135662Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4266,12 +4266,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://either-bizrate-logan-dream.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-17T05:33:37.921865Z",
+      "updatedAt": "2026-09-17T05:39:24.134658Z",
       "publicUrl": "https://either-bizrate-logan-dream.trycloudflare.com",
       "executorUrl": "https://either-bizrate-logan-dream.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
