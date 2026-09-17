@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-16T23:57:09.463707Z",
+  "updatedAt": "2026-09-17T00:49:30.661801Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4266,12 +4266,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://cabinets-spirit-ids-initial.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-16T23:57:09.461705Z",
+      "updatedAt": "2026-09-17T00:49:30.659797Z",
       "publicUrl": "https://cabinets-spirit-ids-initial.trycloudflare.com",
       "executorUrl": "https://cabinets-spirit-ids-initial.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
