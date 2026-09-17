@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-17T05:26:57.905374Z",
+  "updatedAt": "2026-09-17T05:27:04.825464Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4266,16 +4266,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://healthcare-lyrics-writer-cookbook.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-17T05:26:57.904377Z",
-      "publicUrl": "https://sometimes-telephony-artwork-break.trycloudflare.com",
-      "executorUrl": "https://sometimes-telephony-artwork-break.trycloudflare.com",
+      "updatedAt": "2026-09-17T05:27:04.825464Z",
+      "publicUrl": "https://healthcare-lyrics-writer-cookbook.trycloudflare.com",
+      "executorUrl": "https://healthcare-lyrics-writer-cookbook.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-17T05:26:16.260843Z"
+      "lastSeenAt": "2026-09-17T05:27:02.119454Z"
     }
   },
   "premiumEntitlements": {
