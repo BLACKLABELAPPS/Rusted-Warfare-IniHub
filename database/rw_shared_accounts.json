@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-17T05:47:37.152317Z",
+  "updatedAt": "2026-09-17T09:45:12.186373Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2790,6 +2790,17 @@
       }
     ],
     "kurlik": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2096723515&appid=647960",
+        "title": "Evolution_RTS",
+        "date": "17/09/2026",
+        "time": "15:45:09",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/1021699616109389517/6FB158769BA1FE3C809605540382DD00C811B50C/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3475589131&appid=647960",
         "title": "REDCONICA_The_New_States",
