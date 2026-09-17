@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-17T05:22:35.631050Z",
+  "updatedAt": "2026-09-17T05:22:43.319757Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4266,16 +4266,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://behind-drink-monday-swimming.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-17T05:22:35.629045Z",
-      "publicUrl": "https://api.trycloudflare.com",
-      "executorUrl": "https://api.trycloudflare.com",
+      "updatedAt": "2026-09-17T05:22:43.319757Z",
+      "publicUrl": "https://behind-drink-monday-swimming.trycloudflare.com",
+      "executorUrl": "https://behind-drink-monday-swimming.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-17T00:49:47.061277Z"
+      "lastSeenAt": "2026-09-17T05:22:39.881011Z"
     }
   },
   "premiumEntitlements": {
