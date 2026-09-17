@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-17T05:26:16.989884Z",
+  "updatedAt": "2026-09-17T05:26:57.905374Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4266,12 +4266,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://sometimes-telephony-artwork-break.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-17T05:26:16.989884Z",
+      "updatedAt": "2026-09-17T05:26:57.904377Z",
       "publicUrl": "https://sometimes-telephony-artwork-break.trycloudflare.com",
       "executorUrl": "https://sometimes-telephony-artwork-break.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
