@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-18T03:09:45.301764Z",
+  "updatedAt": "2026-09-18T03:09:51.471986Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4336,16 +4336,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://enhancing-around-des-higher.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-18T03:09:45.300762Z",
-      "publicUrl": "https://seller-mine-melbourne-disciplinary.trycloudflare.com",
-      "executorUrl": "https://seller-mine-melbourne-disciplinary.trycloudflare.com",
+      "updatedAt": "2026-09-18T03:09:51.471986Z",
+      "publicUrl": "https://enhancing-around-des-higher.trycloudflare.com",
+      "executorUrl": "https://enhancing-around-des-higher.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-18T03:06:25.629788Z"
+      "lastSeenAt": "2026-09-18T03:09:50.322248Z"
     }
   },
   "premiumEntitlements": {
