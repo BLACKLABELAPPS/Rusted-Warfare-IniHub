@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-18T03:20:50.967499Z",
+  "updatedAt": "2026-09-18T03:22:36.374419Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4336,12 +4336,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://wagon-narrow-lounge-signatures.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-18T03:20:50.967499Z",
+      "updatedAt": "2026-09-18T03:22:36.371413Z",
       "publicUrl": "https://wagon-narrow-lounge-signatures.trycloudflare.com",
       "executorUrl": "https://wagon-narrow-lounge-signatures.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
