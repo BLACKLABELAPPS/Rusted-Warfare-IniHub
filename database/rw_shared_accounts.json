@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-18T03:37:48.687401Z",
+  "updatedAt": "2026-09-18T03:37:55.233988Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4336,16 +4336,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://call-weight-flexibility-arising.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-18T03:37:48.686403Z",
-      "publicUrl": "https://essential-rfc-sitting-speaker.trycloudflare.com",
-      "executorUrl": "https://essential-rfc-sitting-speaker.trycloudflare.com",
+      "updatedAt": "2026-09-18T03:37:55.233988Z",
+      "publicUrl": "https://call-weight-flexibility-arising.trycloudflare.com",
+      "executorUrl": "https://call-weight-flexibility-arising.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-18T03:25:19.023444Z"
+      "lastSeenAt": "2026-09-18T03:37:53.136838Z"
     }
   },
   "premiumEntitlements": {
