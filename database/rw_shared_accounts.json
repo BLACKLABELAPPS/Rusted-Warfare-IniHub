@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-18T03:25:21.709168Z",
+  "updatedAt": "2026-09-18T03:37:48.687401Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4336,12 +4336,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://essential-rfc-sitting-speaker.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-18T03:25:21.709168Z",
+      "updatedAt": "2026-09-18T03:37:48.686403Z",
       "publicUrl": "https://essential-rfc-sitting-speaker.trycloudflare.com",
       "executorUrl": "https://essential-rfc-sitting-speaker.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
