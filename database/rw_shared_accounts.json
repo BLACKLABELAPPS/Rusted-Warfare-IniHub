@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-18T03:38:39.115045Z",
+  "updatedAt": "2026-09-18T03:38:45.980959Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4336,16 +4336,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://vancouver-generators-proteins-bloggers.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-18T03:38:39.113047Z",
-      "publicUrl": "https://call-weight-flexibility-arising.trycloudflare.com",
-      "executorUrl": "https://call-weight-flexibility-arising.trycloudflare.com",
+      "updatedAt": "2026-09-18T03:38:45.980959Z",
+      "publicUrl": "https://vancouver-generators-proteins-bloggers.trycloudflare.com",
+      "executorUrl": "https://vancouver-generators-proteins-bloggers.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-18T03:37:53.136838Z"
+      "lastSeenAt": "2026-09-18T03:38:43.308428Z"
     }
   },
   "premiumEntitlements": {
