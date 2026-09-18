@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-17T17:15:34.047703Z",
+  "updatedAt": "2026-09-18T03:06:20.526419Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4336,12 +4336,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://harbor-duke-refers-hence.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-17T05:47:37.152317Z",
+      "updatedAt": "2026-09-18T03:06:20.524419Z",
       "publicUrl": "https://harbor-duke-refers-hence.trycloudflare.com",
       "executorUrl": "https://harbor-duke-refers-hence.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
