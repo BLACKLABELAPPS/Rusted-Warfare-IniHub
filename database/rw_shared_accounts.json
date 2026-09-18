@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-18T03:37:55.233988Z",
+  "updatedAt": "2026-09-18T03:38:39.115045Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4336,12 +4336,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://call-weight-flexibility-arising.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-18T03:37:55.233988Z",
+      "updatedAt": "2026-09-18T03:38:39.113047Z",
       "publicUrl": "https://call-weight-flexibility-arising.trycloudflare.com",
       "executorUrl": "https://call-weight-flexibility-arising.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
