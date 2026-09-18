@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-18T03:09:51.471986Z",
+  "updatedAt": "2026-09-18T03:20:02.488509Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4336,12 +4336,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://enhancing-around-des-higher.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-18T03:09:51.471986Z",
+      "updatedAt": "2026-09-18T03:20:02.485870Z",
       "publicUrl": "https://enhancing-around-des-higher.trycloudflare.com",
       "executorUrl": "https://enhancing-around-des-higher.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
