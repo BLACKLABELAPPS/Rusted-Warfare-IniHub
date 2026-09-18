@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-18T19:13:07.265907Z",
+  "updatedAt": "2026-09-18T23:40:56.793401Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1119,6 +1119,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-18T19:13:07.265702Z",
       "updatedAt": "2026-09-18T19:13:07.265818Z"
+    },
+    "ktstrph": {
+      "username": "KTSTRPH",
+      "usernameLower": "ktstrph",
+      "passwordSalt": "0PwZAm2L_22HagUtXNWJEx7O_tD3B1KM",
+      "passwordHash": "254679d310e8e846dc31a9e4d531cd7edd81da0586b226f95aea69fc0e99e86e",
+      "avatarCode": "B539-T40-W30-R24-L2-N0-U42-X32-F51-C0",
+      "collectionId": "",
+      "collectionTitle": "KTSTRPH",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-18T23:40:56.793351Z",
+      "updatedAt": "2026-09-18T23:40:56.793362Z"
     }
   },
   "posts": [],
@@ -4301,6 +4314,17 @@
       "username": "SCP",
       "avatar_code": "B295-T8-W2-R36-L3-N18-U14-X48-F15-C0",
       "joined_at": "2026-09-18T19:13:07.265702Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "ktstrph": {
+      "username": "KTSTRPH",
+      "avatar_code": "B539-T40-W30-R24-L2-N0-U42-X32-F51-C0",
+      "joined_at": "2026-09-18T23:40:56.793351Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
