@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-19T02:40:16.506800Z",
+  "updatedAt": "2026-09-19T02:40:22.440992Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4384,16 +4384,17 @@
         "http://192.168.0.154:8765"
       ],
       "executorUrls": [
+        "https://tion-romance-selling-clinics.trycloudflare.com",
         "http://192.168.0.154:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-19T02:40:16.506800Z",
-      "publicUrl": "https://charging-compute-repeated-knock.trycloudflare.com",
-      "executorUrl": "https://charging-compute-repeated-knock.trycloudflare.com",
+      "updatedAt": "2026-09-19T02:40:22.440992Z",
+      "publicUrl": "https://tion-romance-selling-clinics.trycloudflare.com",
+      "executorUrl": "https://tion-romance-selling-clinics.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-19T02:36:15.316843Z"
+      "lastSeenAt": "2026-09-19T02:40:21.963529Z"
     }
   },
   "premiumEntitlements": {
