@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-19T14:39:04.925325Z",
+  "updatedAt": "2026-09-19T14:39:11.867916Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4432,16 +4432,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://trailers-finish-untitled-vegetarian.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-19T14:39:04.924325Z",
-      "publicUrl": "https://trees-nano-needle-ozone.trycloudflare.com",
-      "executorUrl": "https://trees-nano-needle-ozone.trycloudflare.com",
+      "updatedAt": "2026-09-19T14:39:11.867916Z",
+      "publicUrl": "https://trailers-finish-untitled-vegetarian.trycloudflare.com",
+      "executorUrl": "https://trailers-finish-untitled-vegetarian.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-19T13:49:09.611903Z"
+      "lastSeenAt": "2026-09-19T14:39:08.993363Z"
     }
   },
   "premiumEntitlements": {
