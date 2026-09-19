@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-19T11:07:40.764171Z",
+  "updatedAt": "2026-09-19T11:08:18.093354Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4432,12 +4432,11 @@
         "http://192.168.0.154:8765"
       ],
       "executorUrls": [
-        "https://juvenile-prices-negotiation-wine.trycloudflare.com",
         "http://192.168.0.154:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-19T11:07:40.764171Z",
+      "updatedAt": "2026-09-19T11:08:18.093354Z",
       "publicUrl": "https://juvenile-prices-negotiation-wine.trycloudflare.com",
       "executorUrl": "https://juvenile-prices-negotiation-wine.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
