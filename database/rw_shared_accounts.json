@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-19T13:09:12.009266Z",
+  "updatedAt": "2026-09-19T13:09:17.054989Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4432,16 +4432,17 @@
         "http://192.168.0.154:8765"
       ],
       "executorUrls": [
+        "https://disk-paperback-hearts-reservoir.trycloudflare.com",
         "http://192.168.0.154:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-19T13:09:12.009266Z",
-      "publicUrl": "https://tamil-reasons-bomb-drum.trycloudflare.com",
-      "executorUrl": "https://tamil-reasons-bomb-drum.trycloudflare.com",
+      "updatedAt": "2026-09-19T13:09:17.054989Z",
+      "publicUrl": "https://disk-paperback-hearts-reservoir.trycloudflare.com",
+      "executorUrl": "https://disk-paperback-hearts-reservoir.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-19T13:07:49.220639Z"
+      "lastSeenAt": "2026-09-19T13:09:16.455047Z"
     }
   },
   "premiumEntitlements": {
