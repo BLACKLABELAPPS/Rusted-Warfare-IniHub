@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-18T23:40:56.793401Z",
+  "updatedAt": "2026-09-19T02:10:08.441975Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4379,23 +4379,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://172.18.0.1:8765",
+      "lanUrl": "http://192.168.0.154:8765",
       "lanUrls": [
-        "http://172.18.0.1:8765",
-        "http://26.168.169.5:8765",
-        "http://192.168.56.1:8765",
-        "http://192.168.0.11:8765"
+        "http://192.168.0.154:8765"
       ],
       "executorUrls": [
-        "https://consistency-jonathan-learners-full.trycloudflare.com",
-        "http://172.18.0.1:8765",
-        "http://26.168.169.5:8765",
-        "http://192.168.56.1:8765",
-        "http://192.168.0.11:8765"
+        "http://192.168.0.154:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-18T17:47:48.972717Z",
+      "updatedAt": "2026-09-19T02:10:08.441975Z",
       "publicUrl": "https://consistency-jonathan-learners-full.trycloudflare.com",
       "executorUrl": "https://consistency-jonathan-learners-full.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
