@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-19T04:58:57.180559Z",
+  "updatedAt": "2026-09-19T05:00:45.765846Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4384,12 +4384,11 @@
         "http://192.168.0.154:8765"
       ],
       "executorUrls": [
-        "https://synopsis-cottage-refers-charter.trycloudflare.com",
         "http://192.168.0.154:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-19T04:58:57.180559Z",
+      "updatedAt": "2026-09-19T05:00:45.765846Z",
       "publicUrl": "https://synopsis-cottage-refers-charter.trycloudflare.com",
       "executorUrl": "https://synopsis-cottage-refers-charter.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
