@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-19T13:09:17.054989Z",
+  "updatedAt": "2026-09-19T13:49:03.167392Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4432,12 +4432,11 @@
         "http://192.168.0.154:8765"
       ],
       "executorUrls": [
-        "https://disk-paperback-hearts-reservoir.trycloudflare.com",
         "http://192.168.0.154:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-19T13:09:17.054989Z",
+      "updatedAt": "2026-09-19T13:49:03.167392Z",
       "publicUrl": "https://disk-paperback-hearts-reservoir.trycloudflare.com",
       "executorUrl": "https://disk-paperback-hearts-reservoir.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
