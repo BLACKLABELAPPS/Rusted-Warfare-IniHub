@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-19T14:59:41.206570Z",
+  "updatedAt": "2026-09-19T14:59:46.039824Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4432,16 +4432,17 @@
         "http://192.168.0.154:8765"
       ],
       "executorUrls": [
+        "https://picnic-disco-heating-romantic.trycloudflare.com",
         "http://192.168.0.154:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-19T14:59:41.206570Z",
-      "publicUrl": "https://trailers-finish-untitled-vegetarian.trycloudflare.com",
-      "executorUrl": "https://trailers-finish-untitled-vegetarian.trycloudflare.com",
+      "updatedAt": "2026-09-19T14:59:46.039824Z",
+      "publicUrl": "https://picnic-disco-heating-romantic.trycloudflare.com",
+      "executorUrl": "https://picnic-disco-heating-romantic.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-19T14:39:08.993363Z"
+      "lastSeenAt": "2026-09-19T14:59:45.497508Z"
     }
   },
   "premiumEntitlements": {
