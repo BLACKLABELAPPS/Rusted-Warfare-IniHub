@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-19T05:14:10.933762Z",
+  "updatedAt": "2026-09-19T05:14:16.834691Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4384,16 +4384,17 @@
         "http://192.168.0.154:8765"
       ],
       "executorUrls": [
+        "https://raises-oak-oven-mine.trycloudflare.com",
         "http://192.168.0.154:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-19T05:14:10.933762Z",
-      "publicUrl": "https://mail-traveller-harrison-cure.trycloudflare.com",
-      "executorUrl": "https://mail-traveller-harrison-cure.trycloudflare.com",
+      "updatedAt": "2026-09-19T05:14:16.834691Z",
+      "publicUrl": "https://raises-oak-oven-mine.trycloudflare.com",
+      "executorUrl": "https://raises-oak-oven-mine.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-19T05:00:48.713030Z"
+      "lastSeenAt": "2026-09-19T05:14:16.170120Z"
     }
   },
   "premiumEntitlements": {
