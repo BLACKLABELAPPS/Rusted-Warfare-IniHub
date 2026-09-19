@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-19T13:49:03.167392Z",
+  "updatedAt": "2026-09-19T13:49:10.080118Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4432,16 +4432,17 @@
         "http://192.168.0.154:8765"
       ],
       "executorUrls": [
+        "https://trees-nano-needle-ozone.trycloudflare.com",
         "http://192.168.0.154:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-19T13:49:03.167392Z",
-      "publicUrl": "https://disk-paperback-hearts-reservoir.trycloudflare.com",
-      "executorUrl": "https://disk-paperback-hearts-reservoir.trycloudflare.com",
+      "updatedAt": "2026-09-19T13:49:10.080118Z",
+      "publicUrl": "https://trees-nano-needle-ozone.trycloudflare.com",
+      "executorUrl": "https://trees-nano-needle-ozone.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-19T13:09:16.455047Z"
+      "lastSeenAt": "2026-09-19T13:49:09.611903Z"
     }
   },
   "premiumEntitlements": {
