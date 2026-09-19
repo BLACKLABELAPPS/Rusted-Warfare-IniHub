@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-19T05:14:16.834691Z",
+  "updatedAt": "2026-09-19T05:46:19.527804Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1132,6 +1132,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-18T23:40:56.793351Z",
       "updatedAt": "2026-09-18T23:40:56.793362Z"
+    },
+    "prime": {
+      "username": "Prime",
+      "usernameLower": "prime",
+      "passwordSalt": "YsM4AQiSqs1XFEKRt3_nEZ5IxtBGgWv0",
+      "passwordHash": "1aa4e2e6670335d861eead2d6428aaf0bb50cf1ab322ad59ef5c158b96330837",
+      "avatarCode": "B498-T41-W1-R35-L2-N17-U21-X33-F22-C0",
+      "collectionId": "",
+      "collectionTitle": "Prime",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-19T05:46:19.527697Z",
+      "updatedAt": "2026-09-19T05:46:19.527741Z"
     }
   },
   "posts": [],
@@ -4325,6 +4338,17 @@
       "username": "KTSTRPH",
       "avatar_code": "B539-T40-W30-R24-L2-N0-U42-X32-F51-C0",
       "joined_at": "2026-09-18T23:40:56.793351Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "prime": {
+      "username": "Prime",
+      "avatar_code": "B498-T41-W1-R35-L2-N17-U21-X33-F22-C0",
+      "joined_at": "2026-09-19T05:46:19.527697Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
