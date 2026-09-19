@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-19T02:36:17.590183Z",
+  "updatedAt": "2026-09-19T02:40:16.506800Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4384,12 +4384,11 @@
         "http://192.168.0.154:8765"
       ],
       "executorUrls": [
-        "https://charging-compute-repeated-knock.trycloudflare.com",
         "http://192.168.0.154:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-19T02:36:17.590183Z",
+      "updatedAt": "2026-09-19T02:40:16.506800Z",
       "publicUrl": "https://charging-compute-repeated-knock.trycloudflare.com",
       "executorUrl": "https://charging-compute-repeated-knock.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
