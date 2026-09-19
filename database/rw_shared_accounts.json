@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-19T05:46:19.527804Z",
+  "updatedAt": "2026-09-19T08:46:25.703377Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1145,6 +1145,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-19T05:46:19.527697Z",
       "updatedAt": "2026-09-19T05:46:19.527741Z"
+    },
+    "kimho322": {
+      "username": "kimho322",
+      "usernameLower": "kimho322",
+      "passwordSalt": "7u8hkf39ezGY7C3HjfTJZdnkscczCEFe",
+      "passwordHash": "dbcfffeca977c4277e006489a108d054d3764882bc01fb5f979c0dcf05fd34fe",
+      "avatarCode": "B184-T15-W23-R35-L2-N7-U35-X47-F60-C0",
+      "collectionId": "",
+      "collectionTitle": "kimho322",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-19T08:46:25.703300Z",
+      "updatedAt": "2026-09-19T08:46:25.703316Z"
     }
   },
   "posts": [],
@@ -4349,6 +4362,17 @@
       "username": "Prime",
       "avatar_code": "B498-T41-W1-R35-L2-N17-U21-X33-F22-C0",
       "joined_at": "2026-09-19T05:46:19.527697Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "kimho322": {
+      "username": "kimho322",
+      "avatar_code": "B184-T15-W23-R35-L2-N7-U35-X47-F60-C0",
+      "joined_at": "2026-09-19T08:46:25.703300Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
