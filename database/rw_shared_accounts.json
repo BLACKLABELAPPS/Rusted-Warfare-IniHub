@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-19T22:38:44.043176Z",
+  "updatedAt": "2026-09-19T22:38:50.707514Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4456,16 +4456,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://maria-acoustic-costa-villas.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-19T22:38:44.041178Z",
-      "publicUrl": "https://picnic-disco-heating-romantic.trycloudflare.com",
-      "executorUrl": "https://picnic-disco-heating-romantic.trycloudflare.com",
+      "updatedAt": "2026-09-19T22:38:50.707514Z",
+      "publicUrl": "https://maria-acoustic-costa-villas.trycloudflare.com",
+      "executorUrl": "https://maria-acoustic-costa-villas.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-19T14:59:45.497508Z"
+      "lastSeenAt": "2026-09-19T22:38:48.317331Z"
     }
   },
   "premiumEntitlements": {
