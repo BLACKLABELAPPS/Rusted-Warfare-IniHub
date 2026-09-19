@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-19T11:47:58.486376Z",
+  "updatedAt": "2026-09-19T11:48:03.753386Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4432,16 +4432,17 @@
         "http://192.168.0.154:8765"
       ],
       "executorUrls": [
+        "https://gregory-visiting-loaded-expects.trycloudflare.com",
         "http://192.168.0.154:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-19T11:47:58.486376Z",
-      "publicUrl": "https://caring-legs-louise-smoke.trycloudflare.com",
-      "executorUrl": "https://caring-legs-louise-smoke.trycloudflare.com",
+      "updatedAt": "2026-09-19T11:48:03.753386Z",
+      "publicUrl": "https://gregory-visiting-loaded-expects.trycloudflare.com",
+      "executorUrl": "https://gregory-visiting-loaded-expects.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-19T11:08:23.458459Z"
+      "lastSeenAt": "2026-09-19T11:48:03.124562Z"
     }
   },
   "premiumEntitlements": {
