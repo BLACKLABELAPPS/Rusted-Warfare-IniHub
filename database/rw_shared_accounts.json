@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-19T04:39:41.594715Z",
+  "updatedAt": "2026-09-19T04:42:14.522914Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4384,12 +4384,11 @@
         "http://192.168.0.154:8765"
       ],
       "executorUrls": [
-        "https://swap-module-mood-edward.trycloudflare.com",
         "http://192.168.0.154:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-19T04:39:41.594715Z",
+      "updatedAt": "2026-09-19T04:42:14.522914Z",
       "publicUrl": "https://swap-module-mood-edward.trycloudflare.com",
       "executorUrl": "https://swap-module-mood-edward.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
