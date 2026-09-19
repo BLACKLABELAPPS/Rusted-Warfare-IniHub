@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-19T15:38:13.871628Z",
+  "updatedAt": "2026-09-19T22:38:44.043176Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4451,17 +4451,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.0.154:8765",
+      "lanUrl": "http://192.168.1.4:8765",
       "lanUrls": [
-        "http://192.168.0.154:8765"
+        "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://picnic-disco-heating-romantic.trycloudflare.com",
-        "http://192.168.0.154:8765"
+        "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-19T14:59:46.039824Z",
+      "updatedAt": "2026-09-19T22:38:44.041178Z",
       "publicUrl": "https://picnic-disco-heating-romantic.trycloudflare.com",
       "executorUrl": "https://picnic-disco-heating-romantic.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
