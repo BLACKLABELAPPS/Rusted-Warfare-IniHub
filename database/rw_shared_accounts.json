@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-19T04:56:39.264946Z",
+  "updatedAt": "2026-09-19T04:56:50.521250Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4384,16 +4384,17 @@
         "http://192.168.0.154:8765"
       ],
       "executorUrls": [
+        "https://beam-packed-pilot-marks.trycloudflare.com",
         "http://192.168.0.154:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-19T04:56:39.264946Z",
-      "publicUrl": "https://upcoming-asian-hong-essay.trycloudflare.com",
-      "executorUrl": "https://upcoming-asian-hong-essay.trycloudflare.com",
+      "updatedAt": "2026-09-19T04:56:50.521250Z",
+      "publicUrl": "https://beam-packed-pilot-marks.trycloudflare.com",
+      "executorUrl": "https://beam-packed-pilot-marks.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-19T04:53:21.594575Z"
+      "lastSeenAt": "2026-09-19T04:56:43.595557Z"
     }
   },
   "premiumEntitlements": {
