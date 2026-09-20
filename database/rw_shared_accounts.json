@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T22:38:48.713502Z",
+  "updatedAt": "2026-09-20T22:43:15.515830Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4528,12 +4528,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://offering-three-prevention-recruiting.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T22:38:48.713502Z",
+      "updatedAt": "2026-09-20T22:43:15.514830Z",
       "publicUrl": "https://offering-three-prevention-recruiting.trycloudflare.com",
       "executorUrl": "https://offering-three-prevention-recruiting.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
