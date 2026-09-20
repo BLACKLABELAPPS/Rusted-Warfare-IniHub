@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T22:04:44.984659Z",
+  "updatedAt": "2026-09-20T22:38:41.882202Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4528,12 +4528,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://getting-green-stuff-members.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T22:04:44.983651Z",
+      "updatedAt": "2026-09-20T22:38:41.880203Z",
       "publicUrl": "https://getting-green-stuff-members.trycloudflare.com",
       "executorUrl": "https://getting-green-stuff-members.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
