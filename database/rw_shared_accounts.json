@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T20:19:58.467843Z",
+  "updatedAt": "2026-09-20T20:40:58.104210Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4504,12 +4504,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://symantec-instances-trusts-match.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T20:15:18.621518Z",
+      "updatedAt": "2026-09-20T20:40:58.102441Z",
       "publicUrl": "https://symantec-instances-trusts-match.trycloudflare.com",
       "executorUrl": "https://symantec-instances-trusts-match.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
