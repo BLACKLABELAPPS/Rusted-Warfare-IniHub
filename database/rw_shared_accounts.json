@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T19:39:41.259108Z",
+  "updatedAt": "2026-09-20T19:53:17.138393Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4480,12 +4480,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://launch-maker-gore-another.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T19:39:41.259108Z",
+      "updatedAt": "2026-09-20T19:53:17.137391Z",
       "publicUrl": "https://launch-maker-gore-another.trycloudflare.com",
       "executorUrl": "https://launch-maker-gore-another.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
