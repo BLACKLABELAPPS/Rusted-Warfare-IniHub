@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T20:07:06.511283Z",
+  "updatedAt": "2026-09-20T20:15:02.504642Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4480,12 +4480,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://together-patient-artificial-discretion.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T20:07:06.511283Z",
+      "updatedAt": "2026-09-20T20:15:02.502621Z",
       "publicUrl": "https://together-patient-artificial-discretion.trycloudflare.com",
       "executorUrl": "https://together-patient-artificial-discretion.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
