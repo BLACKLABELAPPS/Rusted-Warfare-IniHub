@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T21:00:36.443409Z",
+  "updatedAt": "2026-09-20T21:14:21.965664Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4504,12 +4504,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://bishop-mumbai-interview-sleeping.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T21:00:36.442409Z",
+      "updatedAt": "2026-09-20T21:14:21.963664Z",
       "publicUrl": "https://bishop-mumbai-interview-sleeping.trycloudflare.com",
       "executorUrl": "https://bishop-mumbai-interview-sleeping.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
