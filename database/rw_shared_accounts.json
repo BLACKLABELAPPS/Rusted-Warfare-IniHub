@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T23:14:55.751599Z",
+  "updatedAt": "2026-09-20T23:15:23.398714Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4528,16 +4528,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://lectures-survive-probe-accounts.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T23:14:55.749599Z",
-      "publicUrl": "https://parties-origin-tony-supply.trycloudflare.com",
-      "executorUrl": "https://parties-origin-tony-supply.trycloudflare.com",
+      "updatedAt": "2026-09-20T23:15:23.398714Z",
+      "publicUrl": "https://lectures-survive-probe-accounts.trycloudflare.com",
+      "executorUrl": "https://lectures-survive-probe-accounts.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-20T23:09:39.996746Z"
+      "lastSeenAt": "2026-09-20T23:15:14.964692Z"
     }
   },
   "premiumEntitlements": {
