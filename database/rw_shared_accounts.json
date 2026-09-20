@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T18:49:25.985449Z",
+  "updatedAt": "2026-09-20T19:39:34.174467Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4480,12 +4480,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://eva-hydrogen-formula-sandwich.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T18:49:25.985449Z",
+      "updatedAt": "2026-09-20T19:39:34.172469Z",
       "publicUrl": "https://eva-hydrogen-formula-sandwich.trycloudflare.com",
       "executorUrl": "https://eva-hydrogen-formula-sandwich.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
