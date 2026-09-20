@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T20:15:18.621518Z",
+  "updatedAt": "2026-09-20T20:19:58.467843Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1184,6 +1184,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-20T15:08:19.804845Z",
       "updatedAt": "2026-09-20T15:08:33.419676Z"
+    },
+    "titan": {
+      "username": "Titan",
+      "usernameLower": "titan",
+      "passwordSalt": "QYYP9p2Nsq5SYRDlhLcxdjIGph9MfEZz",
+      "passwordHash": "b394bcfdf713d79fb0d21793562b93a4b069fbc6458d6331bd7f4f602a794050",
+      "avatarCode": "B887-T36-W26-R14-L3-N6-U6-X40-F7-C0",
+      "collectionId": "",
+      "collectionTitle": "Titan",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-20T20:19:58.467781Z",
+      "updatedAt": "2026-09-20T20:19:58.467792Z"
     }
   },
   "posts": [],
@@ -4421,6 +4434,17 @@
       "username": "SteamPunk",
       "avatar_code": "B201-T36-W24-R42-L3-N18-U48-X8-F77-C0",
       "joined_at": "2026-09-20T15:08:19.804845Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "titan": {
+      "username": "Titan",
+      "avatar_code": "B887-T36-W26-R14-L3-N6-U6-X40-F7-C0",
+      "joined_at": "2026-09-20T20:19:58.467781Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
