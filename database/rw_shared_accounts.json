@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T10:48:04.201346Z",
+  "updatedAt": "2026-09-20T12:58:24.348678Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4451,19 +4451,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://25.42.203.255:8765",
+      "lanUrl": "http://192.168.1.4:8765",
       "lanUrls": [
-        "http://25.42.203.255:8765",
-        "http://192.168.0.215:8765"
+        "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://thirty-deaf-nikon-specifics.trycloudflare.com",
-        "http://25.42.203.255:8765",
-        "http://192.168.0.215:8765"
+        "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T10:48:04.201346Z",
+      "updatedAt": "2026-09-20T12:58:24.345665Z",
       "publicUrl": "https://thirty-deaf-nikon-specifics.trycloudflare.com",
       "executorUrl": "https://thirty-deaf-nikon-specifics.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
