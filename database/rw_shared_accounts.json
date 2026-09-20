@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T10:47:49.075305Z",
+  "updatedAt": "2026-09-20T10:48:04.201346Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4457,17 +4457,18 @@
         "http://192.168.0.215:8765"
       ],
       "executorUrls": [
+        "https://thirty-deaf-nikon-specifics.trycloudflare.com",
         "http://25.42.203.255:8765",
         "http://192.168.0.215:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T10:47:49.075305Z",
-      "publicUrl": "https://sterling-fell-sleeps-adams.trycloudflare.com",
-      "executorUrl": "https://sterling-fell-sleeps-adams.trycloudflare.com",
+      "updatedAt": "2026-09-20T10:48:04.201346Z",
+      "publicUrl": "https://thirty-deaf-nikon-specifics.trycloudflare.com",
+      "executorUrl": "https://thirty-deaf-nikon-specifics.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-20T10:44:29.498262Z"
+      "lastSeenAt": "2026-09-20T10:48:03.907925Z"
     }
   },
   "premiumEntitlements": {
