@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T21:14:21.965664Z",
+  "updatedAt": "2026-09-20T21:14:29.522023Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4504,16 +4504,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://systems-combines-sunny-girlfriend.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T21:14:21.963664Z",
-      "publicUrl": "https://bishop-mumbai-interview-sleeping.trycloudflare.com",
-      "executorUrl": "https://bishop-mumbai-interview-sleeping.trycloudflare.com",
+      "updatedAt": "2026-09-20T21:14:29.522023Z",
+      "publicUrl": "https://systems-combines-sunny-girlfriend.trycloudflare.com",
+      "executorUrl": "https://systems-combines-sunny-girlfriend.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-20T21:00:33.602048Z"
+      "lastSeenAt": "2026-09-20T21:14:27.996941Z"
     }
   },
   "premiumEntitlements": {
