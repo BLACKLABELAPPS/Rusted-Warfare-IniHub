@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T22:45:48.482102Z",
+  "updatedAt": "2026-09-20T22:46:08.286120Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4528,16 +4528,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://adopt-operates-consulting-overall.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T22:45:48.480099Z",
-      "publicUrl": "https://accuracy-mice-adjustment-charger.trycloudflare.com",
-      "executorUrl": "https://accuracy-mice-adjustment-charger.trycloudflare.com",
+      "updatedAt": "2026-09-20T22:46:08.286120Z",
+      "publicUrl": "https://adopt-operates-consulting-overall.trycloudflare.com",
+      "executorUrl": "https://adopt-operates-consulting-overall.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-20T22:43:19.220404Z"
+      "lastSeenAt": "2026-09-20T22:45:57.958621Z"
     }
   },
   "premiumEntitlements": {
