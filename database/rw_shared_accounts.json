@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T22:59:47.977874Z",
+  "updatedAt": "2026-09-20T23:07:35.553112Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4528,12 +4528,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://section-seem-properties-productions.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T22:59:47.977874Z",
+      "updatedAt": "2026-09-20T23:07:35.551120Z",
       "publicUrl": "https://section-seem-properties-productions.trycloudflare.com",
       "executorUrl": "https://section-seem-properties-productions.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
