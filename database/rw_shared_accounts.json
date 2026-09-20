@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T22:46:08.286120Z",
+  "updatedAt": "2026-09-20T22:59:40.453022Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4528,12 +4528,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://adopt-operates-consulting-overall.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T22:46:08.286120Z",
+      "updatedAt": "2026-09-20T22:59:40.451027Z",
       "publicUrl": "https://adopt-operates-consulting-overall.trycloudflare.com",
       "executorUrl": "https://adopt-operates-consulting-overall.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
