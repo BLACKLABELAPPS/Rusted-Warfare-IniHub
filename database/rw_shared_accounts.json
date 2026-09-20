@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T23:09:45.894048Z",
+  "updatedAt": "2026-09-20T23:14:55.751599Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4528,12 +4528,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://parties-origin-tony-supply.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T23:09:45.894048Z",
+      "updatedAt": "2026-09-20T23:14:55.749599Z",
       "publicUrl": "https://parties-origin-tony-supply.trycloudflare.com",
       "executorUrl": "https://parties-origin-tony-supply.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
