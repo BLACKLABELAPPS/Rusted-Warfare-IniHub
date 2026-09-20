@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T01:20:47.097716Z",
+  "updatedAt": "2026-09-20T01:20:53.387870Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4456,16 +4456,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://transparency-temporal-bathroom-blond.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T01:20:47.095719Z",
-      "publicUrl": "https://idol-professor-cradle-inspector.trycloudflare.com",
-      "executorUrl": "https://idol-professor-cradle-inspector.trycloudflare.com",
+      "updatedAt": "2026-09-20T01:20:53.387870Z",
+      "publicUrl": "https://transparency-temporal-bathroom-blond.trycloudflare.com",
+      "executorUrl": "https://transparency-temporal-bathroom-blond.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-20T00:42:46.705839Z"
+      "lastSeenAt": "2026-09-20T01:20:50.478430Z"
     }
   },
   "premiumEntitlements": {
