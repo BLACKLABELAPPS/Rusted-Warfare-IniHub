@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T07:10:24.946256Z",
+  "updatedAt": "2026-09-20T07:10:31.025027Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4456,16 +4456,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://favourites-downtown-derby-inspired.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T07:10:24.944506Z",
-      "publicUrl": "https://sage-progress-july-ties.trycloudflare.com",
-      "executorUrl": "https://sage-progress-july-ties.trycloudflare.com",
+      "updatedAt": "2026-09-20T07:10:31.025027Z",
+      "publicUrl": "https://favourites-downtown-derby-inspired.trycloudflare.com",
+      "executorUrl": "https://favourites-downtown-derby-inspired.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-20T06:48:09.798409Z"
+      "lastSeenAt": "2026-09-20T07:10:30.418489Z"
     }
   },
   "premiumEntitlements": {
