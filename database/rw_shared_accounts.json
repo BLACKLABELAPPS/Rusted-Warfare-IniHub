@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T23:08:00.433704Z",
+  "updatedAt": "2026-09-20T23:09:22.788673Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4528,12 +4528,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://acquisition-vampire-click-sandwich.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T23:08:00.432705Z",
+      "updatedAt": "2026-09-20T23:09:22.786661Z",
       "publicUrl": "https://acquisition-vampire-click-sandwich.trycloudflare.com",
       "executorUrl": "https://acquisition-vampire-click-sandwich.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
