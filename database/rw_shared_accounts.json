@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T13:35:12.735618Z",
+  "updatedAt": "2026-09-20T15:08:19.804897Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1171,6 +1171,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-19T15:38:13.871204Z",
       "updatedAt": "2026-09-19T15:38:13.871509Z"
+    },
+    "steampunk": {
+      "username": "SteamPunk",
+      "usernameLower": "steampunk",
+      "passwordSalt": "bwuMkgR1Gbcm03RDfH1Zcdg-IGO9H0bt",
+      "passwordHash": "5abee21c8d206277083c15b13faf4d922ca9ab8bfe7a7c7e602aa9b715b9f73f",
+      "avatarCode": "B201-T36-W24-R42-L3-N18-U48-X8-F77-C0",
+      "collectionId": "",
+      "collectionTitle": "SteamPunk",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-20T15:08:19.804845Z",
+      "updatedAt": "2026-09-20T15:08:19.804853Z"
     }
   },
   "posts": [],
@@ -4397,6 +4410,17 @@
       "username": "tai9392919",
       "avatar_code": "B829-T8-W0-R20-L1-N12-U38-X0-F21-C0",
       "joined_at": "2026-09-19T15:38:13.871204Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "steampunk": {
+      "username": "SteamPunk",
+      "avatar_code": "B201-T36-W24-R42-L3-N18-U48-X8-F77-C0",
+      "joined_at": "2026-09-20T15:08:19.804845Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
