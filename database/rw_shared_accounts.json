@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T08:06:49.004878Z",
+  "updatedAt": "2026-09-20T08:06:56.149333Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4456,16 +4456,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://sullivan-lisa-overall-absolutely.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T08:06:49.002874Z",
-      "publicUrl": "https://neural-mel-word-relax.trycloudflare.com",
-      "executorUrl": "https://neural-mel-word-relax.trycloudflare.com",
+      "updatedAt": "2026-09-20T08:06:56.149333Z",
+      "publicUrl": "https://sullivan-lisa-overall-absolutely.trycloudflare.com",
+      "executorUrl": "https://sullivan-lisa-overall-absolutely.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-20T07:47:26.115892Z"
+      "lastSeenAt": "2026-09-20T08:06:54.645596Z"
     }
   },
   "premiumEntitlements": {
