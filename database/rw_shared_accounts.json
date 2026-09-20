@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T21:14:29.522023Z",
+  "updatedAt": "2026-09-20T21:26:18.752211Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4504,12 +4504,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://systems-combines-sunny-girlfriend.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T21:14:29.522023Z",
+      "updatedAt": "2026-09-20T21:26:18.751209Z",
       "publicUrl": "https://systems-combines-sunny-girlfriend.trycloudflare.com",
       "executorUrl": "https://systems-combines-sunny-girlfriend.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
