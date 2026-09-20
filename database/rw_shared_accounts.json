@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T10:44:32.434875Z",
+  "updatedAt": "2026-09-20T10:47:49.075305Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4451,17 +4451,18 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.1.4:8765",
+      "lanUrl": "http://25.42.203.255:8765",
       "lanUrls": [
-        "http://192.168.1.4:8765"
+        "http://25.42.203.255:8765",
+        "http://192.168.0.215:8765"
       ],
       "executorUrls": [
-        "https://sterling-fell-sleeps-adams.trycloudflare.com",
-        "http://192.168.1.4:8765"
+        "http://25.42.203.255:8765",
+        "http://192.168.0.215:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T10:44:32.434875Z",
+      "updatedAt": "2026-09-20T10:47:49.075305Z",
       "publicUrl": "https://sterling-fell-sleeps-adams.trycloudflare.com",
       "executorUrl": "https://sterling-fell-sleeps-adams.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
