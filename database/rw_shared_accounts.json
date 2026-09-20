@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T10:44:23.496468Z",
+  "updatedAt": "2026-09-20T10:44:32.434875Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4456,16 +4456,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://sterling-fell-sleeps-adams.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T10:44:23.494472Z",
-      "publicUrl": "https://hydraulic-duplicate-organizations-but.trycloudflare.com",
-      "executorUrl": "https://hydraulic-duplicate-organizations-but.trycloudflare.com",
+      "updatedAt": "2026-09-20T10:44:32.434875Z",
+      "publicUrl": "https://sterling-fell-sleeps-adams.trycloudflare.com",
+      "executorUrl": "https://sterling-fell-sleeps-adams.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-20T09:58:32.624311Z"
+      "lastSeenAt": "2026-09-20T10:44:29.498262Z"
     }
   },
   "premiumEntitlements": {
