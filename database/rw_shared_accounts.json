@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T23:07:35.553112Z",
+  "updatedAt": "2026-09-20T23:08:00.433704Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4528,16 +4528,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://acquisition-vampire-click-sandwich.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T23:07:35.551120Z",
-      "publicUrl": "https://section-seem-properties-productions.trycloudflare.com",
-      "executorUrl": "https://section-seem-properties-productions.trycloudflare.com",
+      "updatedAt": "2026-09-20T23:08:00.432705Z",
+      "publicUrl": "https://acquisition-vampire-click-sandwich.trycloudflare.com",
+      "executorUrl": "https://acquisition-vampire-click-sandwich.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-20T22:59:44.851473Z"
+      "lastSeenAt": "2026-09-20T23:07:54.883735Z"
     }
   },
   "premiumEntitlements": {
