@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T02:27:45.277306Z",
+  "updatedAt": "2026-09-20T02:27:51.811024Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4456,16 +4456,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://eddie-parade-effort-liability.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T02:27:45.275309Z",
-      "publicUrl": "https://promo-prozac-thin-taking.trycloudflare.com",
-      "executorUrl": "https://promo-prozac-thin-taking.trycloudflare.com",
+      "updatedAt": "2026-09-20T02:27:51.809017Z",
+      "publicUrl": "https://eddie-parade-effort-liability.trycloudflare.com",
+      "executorUrl": "https://eddie-parade-effort-liability.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-20T02:10:55.292278Z"
+      "lastSeenAt": "2026-09-20T02:27:49.197070Z"
     }
   },
   "premiumEntitlements": {
