@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T19:53:24.451096Z",
+  "updatedAt": "2026-09-20T20:06:58.594510Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4480,12 +4480,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://chronic-collins-membrane-tampa.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T19:53:24.451096Z",
+      "updatedAt": "2026-09-20T20:06:58.592510Z",
       "publicUrl": "https://chronic-collins-membrane-tampa.trycloudflare.com",
       "executorUrl": "https://chronic-collins-membrane-tampa.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
