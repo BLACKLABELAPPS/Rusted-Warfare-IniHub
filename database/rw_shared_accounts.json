@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T02:48:50.419989Z",
+  "updatedAt": "2026-09-20T02:48:56.741284Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4456,16 +4456,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://mines-sending-judgment-facilities.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T02:48:50.418512Z",
-      "publicUrl": "https://eddie-parade-effort-liability.trycloudflare.com",
-      "executorUrl": "https://eddie-parade-effort-liability.trycloudflare.com",
+      "updatedAt": "2026-09-20T02:48:56.741284Z",
+      "publicUrl": "https://mines-sending-judgment-facilities.trycloudflare.com",
+      "executorUrl": "https://mines-sending-judgment-facilities.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-20T02:27:49.197070Z"
+      "lastSeenAt": "2026-09-20T02:48:54.185091Z"
     }
   },
   "premiumEntitlements": {
