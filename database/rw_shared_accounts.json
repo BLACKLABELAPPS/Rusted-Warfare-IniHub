@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T07:39:32.332034Z",
+  "updatedAt": "2026-09-20T07:39:39.035463Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4456,16 +4456,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://jam-exclude-mesa-afterwards.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T07:39:32.330036Z",
-      "publicUrl": "https://impacts-catering-docs-accordingly.trycloudflare.com",
-      "executorUrl": "https://impacts-catering-docs-accordingly.trycloudflare.com",
+      "updatedAt": "2026-09-20T07:39:39.035463Z",
+      "publicUrl": "https://jam-exclude-mesa-afterwards.trycloudflare.com",
+      "executorUrl": "https://jam-exclude-mesa-afterwards.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-20T07:27:59.931012Z"
+      "lastSeenAt": "2026-09-20T07:39:36.901656Z"
     }
   },
   "premiumEntitlements": {
