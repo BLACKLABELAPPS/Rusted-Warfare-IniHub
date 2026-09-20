@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T02:10:57.288712Z",
+  "updatedAt": "2026-09-20T02:27:45.277306Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4456,12 +4456,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://promo-prozac-thin-taking.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T02:10:57.288712Z",
+      "updatedAt": "2026-09-20T02:27:45.275309Z",
       "publicUrl": "https://promo-prozac-thin-taking.trycloudflare.com",
       "executorUrl": "https://promo-prozac-thin-taking.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
