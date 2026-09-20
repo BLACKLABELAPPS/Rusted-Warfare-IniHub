@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T20:15:02.504642Z",
+  "updatedAt": "2026-09-20T20:15:18.621518Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4480,16 +4480,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://symantec-instances-trusts-match.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T20:15:02.502621Z",
-      "publicUrl": "https://together-patient-artificial-discretion.trycloudflare.com",
-      "executorUrl": "https://together-patient-artificial-discretion.trycloudflare.com",
+      "updatedAt": "2026-09-20T20:15:18.621518Z",
+      "publicUrl": "https://symantec-instances-trusts-match.trycloudflare.com",
+      "executorUrl": "https://symantec-instances-trusts-match.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-20T20:07:04.562279Z"
+      "lastSeenAt": "2026-09-20T20:15:08.975353Z"
     }
   },
   "premiumEntitlements": {
