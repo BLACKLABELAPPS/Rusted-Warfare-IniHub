@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T02:27:51.811024Z",
+  "updatedAt": "2026-09-20T02:48:50.419989Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4456,12 +4456,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://eddie-parade-effort-liability.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T02:27:51.809017Z",
+      "updatedAt": "2026-09-20T02:48:50.418512Z",
       "publicUrl": "https://eddie-parade-effort-liability.trycloudflare.com",
       "executorUrl": "https://eddie-parade-effort-liability.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
