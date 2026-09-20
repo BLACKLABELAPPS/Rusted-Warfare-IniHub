@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T21:46:54.207455Z",
+  "updatedAt": "2026-09-20T21:58:35.966074Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1197,6 +1197,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-20T20:19:58.467781Z",
       "updatedAt": "2026-09-20T20:19:58.467792Z"
+    },
+    "gabygamer": {
+      "username": "GabyGamer",
+      "usernameLower": "gabygamer",
+      "passwordSalt": "6GjIHvWGRht_nfFZt7Ea2e2VAsb0tPgf",
+      "passwordHash": "3863780de076e0a6330b6282c45661f0b20b236d0720d073bcf5920c803a6cef",
+      "avatarCode": "B974-T15-W25-R3-L3-N41-U41-X17-F86-C0",
+      "collectionId": "",
+      "collectionTitle": "GabyGamer",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-20T21:58:35.965986Z",
+      "updatedAt": "2026-09-20T21:58:35.965995Z"
     }
   },
   "posts": [],
@@ -4445,6 +4458,17 @@
       "username": "Titan",
       "avatar_code": "B887-T36-W26-R14-L3-N6-U6-X40-F7-C0",
       "joined_at": "2026-09-20T20:19:58.467781Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "gabygamer": {
+      "username": "GabyGamer",
+      "avatar_code": "B974-T15-W25-R3-L3-N41-U41-X17-F86-C0",
+      "joined_at": "2026-09-20T21:58:35.965986Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
