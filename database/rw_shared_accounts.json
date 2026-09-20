@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T21:26:18.752211Z",
+  "updatedAt": "2026-09-20T21:26:36.791973Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4504,16 +4504,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://api.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T21:26:18.751209Z",
-      "publicUrl": "https://systems-combines-sunny-girlfriend.trycloudflare.com",
-      "executorUrl": "https://systems-combines-sunny-girlfriend.trycloudflare.com",
+      "updatedAt": "2026-09-20T21:26:36.791973Z",
+      "publicUrl": "https://api.trycloudflare.com",
+      "executorUrl": "https://api.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-20T21:14:27.996941Z"
+      "lastSeenAt": "2026-09-20T21:26:34.872207Z"
     }
   },
   "premiumEntitlements": {
