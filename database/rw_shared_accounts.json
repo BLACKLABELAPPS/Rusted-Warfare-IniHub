@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T21:27:57.083495Z",
+  "updatedAt": "2026-09-20T21:46:47.222663Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4504,12 +4504,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://mud-mirrors-wall-hebrew.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T21:27:57.083495Z",
+      "updatedAt": "2026-09-20T21:46:47.221223Z",
       "publicUrl": "https://mud-mirrors-wall-hebrew.trycloudflare.com",
       "executorUrl": "https://mud-mirrors-wall-hebrew.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
