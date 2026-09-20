@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T00:42:47.918658Z",
+  "updatedAt": "2026-09-20T01:20:47.097716Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4456,12 +4456,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://idol-professor-cradle-inspector.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T00:42:47.918658Z",
+      "updatedAt": "2026-09-20T01:20:47.095719Z",
       "publicUrl": "https://idol-professor-cradle-inspector.trycloudflare.com",
       "executorUrl": "https://idol-professor-cradle-inspector.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
