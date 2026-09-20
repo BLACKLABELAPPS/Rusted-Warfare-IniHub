@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T09:49:00.169124Z",
+  "updatedAt": "2026-09-20T09:49:05.962375Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4456,16 +4456,17 @@
         "http://192.168.0.154:8765"
       ],
       "executorUrls": [
+        "https://tariff-airport-high-hist.trycloudflare.com",
         "http://192.168.0.154:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T09:49:00.169124Z",
-      "publicUrl": "https://allergy-wildlife-sufficient-admissions.trycloudflare.com",
-      "executorUrl": "https://allergy-wildlife-sufficient-admissions.trycloudflare.com",
+      "updatedAt": "2026-09-20T09:49:05.962375Z",
+      "publicUrl": "https://tariff-airport-high-hist.trycloudflare.com",
+      "executorUrl": "https://tariff-airport-high-hist.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-20T09:18:41.266279Z"
+      "lastSeenAt": "2026-09-20T09:49:05.398612Z"
     }
   },
   "premiumEntitlements": {
