@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T06:48:11.060135Z",
+  "updatedAt": "2026-09-20T07:10:24.946256Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4456,12 +4456,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://sage-progress-july-ties.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T06:48:11.060135Z",
+      "updatedAt": "2026-09-20T07:10:24.944506Z",
       "publicUrl": "https://sage-progress-july-ties.trycloudflare.com",
       "executorUrl": "https://sage-progress-july-ties.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
