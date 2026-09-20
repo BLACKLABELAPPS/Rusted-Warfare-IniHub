@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T07:28:01.603165Z",
+  "updatedAt": "2026-09-20T07:39:32.332034Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4456,12 +4456,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://impacts-catering-docs-accordingly.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T07:28:01.603165Z",
+      "updatedAt": "2026-09-20T07:39:32.330036Z",
       "publicUrl": "https://impacts-catering-docs-accordingly.trycloudflare.com",
       "executorUrl": "https://impacts-catering-docs-accordingly.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
