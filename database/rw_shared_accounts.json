@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T22:38:41.882202Z",
+  "updatedAt": "2026-09-20T22:38:48.713502Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4528,16 +4528,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://offering-three-prevention-recruiting.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T22:38:41.880203Z",
-      "publicUrl": "https://getting-green-stuff-members.trycloudflare.com",
-      "executorUrl": "https://getting-green-stuff-members.trycloudflare.com",
+      "updatedAt": "2026-09-20T22:38:48.713502Z",
+      "publicUrl": "https://offering-three-prevention-recruiting.trycloudflare.com",
+      "executorUrl": "https://offering-three-prevention-recruiting.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-20T22:04:42.235999Z"
+      "lastSeenAt": "2026-09-20T22:38:45.764034Z"
     }
   },
   "premiumEntitlements": {
