@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T21:27:49.470973Z",
+  "updatedAt": "2026-09-20T21:27:57.083495Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4504,16 +4504,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://mud-mirrors-wall-hebrew.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T21:27:49.468986Z",
-      "publicUrl": "https://api.trycloudflare.com",
-      "executorUrl": "https://api.trycloudflare.com",
+      "updatedAt": "2026-09-20T21:27:57.083495Z",
+      "publicUrl": "https://mud-mirrors-wall-hebrew.trycloudflare.com",
+      "executorUrl": "https://mud-mirrors-wall-hebrew.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-20T21:26:34.872207Z"
+      "lastSeenAt": "2026-09-20T21:27:54.162338Z"
     }
   },
   "premiumEntitlements": {
