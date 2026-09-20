@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T23:09:22.788673Z",
+  "updatedAt": "2026-09-20T23:09:45.894048Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4528,16 +4528,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://parties-origin-tony-supply.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T23:09:22.786661Z",
-      "publicUrl": "https://acquisition-vampire-click-sandwich.trycloudflare.com",
-      "executorUrl": "https://acquisition-vampire-click-sandwich.trycloudflare.com",
+      "updatedAt": "2026-09-20T23:09:45.894048Z",
+      "publicUrl": "https://parties-origin-tony-supply.trycloudflare.com",
+      "executorUrl": "https://parties-origin-tony-supply.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-20T23:07:54.883735Z"
+      "lastSeenAt": "2026-09-20T23:09:39.996746Z"
     }
   },
   "premiumEntitlements": {
