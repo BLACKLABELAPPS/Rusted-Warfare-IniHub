@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T19:53:17.138393Z",
+  "updatedAt": "2026-09-20T19:53:24.451096Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4480,16 +4480,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://chronic-collins-membrane-tampa.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T19:53:17.137391Z",
-      "publicUrl": "https://launch-maker-gore-another.trycloudflare.com",
-      "executorUrl": "https://launch-maker-gore-another.trycloudflare.com",
+      "updatedAt": "2026-09-20T19:53:24.451096Z",
+      "publicUrl": "https://chronic-collins-membrane-tampa.trycloudflare.com",
+      "executorUrl": "https://chronic-collins-membrane-tampa.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-20T19:39:39.422180Z"
+      "lastSeenAt": "2026-09-20T19:53:21.612470Z"
     }
   },
   "premiumEntitlements": {
