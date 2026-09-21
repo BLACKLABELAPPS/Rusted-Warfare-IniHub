@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-21T21:31:14.521267Z",
+  "updatedAt": "2026-09-21T21:53:26.737027Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4600,12 +4600,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://troops-homeland-container-sequence.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-21T21:31:14.521267Z",
+      "updatedAt": "2026-09-21T21:53:26.736027Z",
       "publicUrl": "https://troops-homeland-container-sequence.trycloudflare.com",
       "executorUrl": "https://troops-homeland-container-sequence.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
