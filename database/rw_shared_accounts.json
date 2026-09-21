@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-21T14:01:49.225134Z",
+  "updatedAt": "2026-09-21T14:02:34.507787Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4577,17 +4577,18 @@
         "http://192.168.128.1:8765"
       ],
       "executorUrls": [
+        "https://preventing-nelson-offer-humans.trycloudflare.com",
         "http://192.168.1.19:8765",
         "http://192.168.128.1:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-21T14:01:49.225134Z",
-      "publicUrl": "https://bears-gilbert-dreams-direction.trycloudflare.com",
-      "executorUrl": "https://bears-gilbert-dreams-direction.trycloudflare.com",
+      "updatedAt": "2026-09-21T14:02:34.507787Z",
+      "publicUrl": "https://preventing-nelson-offer-humans.trycloudflare.com",
+      "executorUrl": "https://preventing-nelson-offer-humans.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-21T02:03:30.159350Z"
+      "lastSeenAt": "2026-09-21T14:02:33.127775Z"
     }
   },
   "premiumEntitlements": {
