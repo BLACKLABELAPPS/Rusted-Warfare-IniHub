@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-21T21:53:26.737027Z",
+  "updatedAt": "2026-09-21T21:53:33.739689Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4600,16 +4600,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://toll-candidate-edt-audience.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-21T21:53:26.736027Z",
-      "publicUrl": "https://troops-homeland-container-sequence.trycloudflare.com",
-      "executorUrl": "https://troops-homeland-container-sequence.trycloudflare.com",
+      "updatedAt": "2026-09-21T21:53:33.739689Z",
+      "publicUrl": "https://toll-candidate-edt-audience.trycloudflare.com",
+      "executorUrl": "https://toll-candidate-edt-audience.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-21T21:31:00.423986Z"
+      "lastSeenAt": "2026-09-21T21:53:32.287924Z"
     }
   },
   "premiumEntitlements": {
