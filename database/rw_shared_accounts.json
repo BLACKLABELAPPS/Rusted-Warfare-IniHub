@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-21T16:04:02.629608Z",
+  "updatedAt": "2026-09-21T16:04:25.482679Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3499,7 +3499,7 @@
       "created_by": "tum",
       "mode": "single",
       "format": "single_elimination",
-      "status": "ongoing",
+      "status": "finished",
       "max_participants": 16,
       "start_date": "2026-09-22",
       "start_datetime": "2026-09-22T16:03:30.223963Z",
@@ -3536,13 +3536,13 @@
             "match_id": 1,
             "round": 1,
             "slot": 1,
-            "status": "scheduled",
+            "status": "completed",
             "participants": [
               {
                 "side": 1,
                 "team_id": "tum",
                 "score": 0,
-                "is_winner": 0
+                "is_winner": 1
               },
               {
                 "side": 2,
@@ -3561,7 +3561,7 @@
         }
       },
       "created_at": "2026-09-21T16:04:02.026429Z",
-      "updated_at": "2026-09-21T16:04:02.026429Z"
+      "updated_at": "2026-09-21T16:04:25.482672Z"
     }
   ],
   "tournamentProfiles": {
