@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-21T04:51:15.703156Z",
+  "updatedAt": "2026-09-21T06:35:33.939798Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1223,6 +1223,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-21T04:51:15.703100Z",
       "updatedAt": "2026-09-21T04:51:15.703109Z"
+    },
+    "killzgoat": {
+      "username": "killzgoat",
+      "usernameLower": "killzgoat",
+      "passwordSalt": "kU_84SyyxBNPXUGNFnVMFOjh2-JtgTQc",
+      "passwordHash": "ebf0c99d06e53de5f7bead5f4994ef9f5f8ae82431bb19b135770542a50b4cae",
+      "avatarCode": "B648-T33-W33-R11-L2-N25-U31-X23-F60-C0",
+      "collectionId": "",
+      "collectionTitle": "killzgoat",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-21T06:35:33.939768Z",
+      "updatedAt": "2026-09-21T06:35:33.939773Z"
     }
   },
   "posts": [],
@@ -4493,6 +4506,17 @@
       "username": "Abc12345",
       "avatar_code": "B336-T25-W15-R35-L2-N45-U13-X25-F80-C0",
       "joined_at": "2026-09-21T04:51:15.703100Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "killzgoat": {
+      "username": "killzgoat",
+      "avatar_code": "B648-T33-W33-R11-L2-N25-U31-X23-F60-C0",
+      "joined_at": "2026-09-21T06:35:33.939768Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
