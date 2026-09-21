@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-21T00:01:15.839807Z",
+  "updatedAt": "2026-09-21T02:03:22.202314Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4528,12 +4528,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://fusion-advantage-liverpool-taxation.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-21T00:01:15.839807Z",
+      "updatedAt": "2026-09-21T02:03:22.199867Z",
       "publicUrl": "https://fusion-advantage-liverpool-taxation.trycloudflare.com",
       "executorUrl": "https://fusion-advantage-liverpool-taxation.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
