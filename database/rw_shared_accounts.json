@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-21T21:53:33.739689Z",
+  "updatedAt": "2026-09-21T22:11:30.584119Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1249,6 +1249,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-21T15:56:20.094804Z",
       "updatedAt": "2026-09-21T15:56:20.094812Z"
+    },
+    "ronsepea": {
+      "username": "ronsepea",
+      "usernameLower": "ronsepea",
+      "passwordSalt": "klDmAA7n6FWUMm0wvEMg7idyUmtMVa_h",
+      "passwordHash": "a71492c7fa2219b41a3c3710daa9e582e77a9b78d7965855373861ef65463c21",
+      "avatarCode": "B876-T9-W9-R17-L3-N37-U43-X15-F0-C0",
+      "collectionId": "",
+      "collectionTitle": "ronsepea",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-21T22:11:30.583912Z",
+      "updatedAt": "2026-09-21T22:11:30.583952Z"
     }
   },
   "posts": [],
@@ -4541,6 +4554,17 @@
       "username": "tum",
       "avatar_code": "B27-T24-W18-R12-L0-N34-U30-X20-F35-C0",
       "joined_at": "2026-09-21T15:56:20.094804Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "ronsepea": {
+      "username": "ronsepea",
+      "avatar_code": "B876-T9-W9-R17-L3-N37-U43-X15-F0-C0",
+      "joined_at": "2026-09-21T22:11:30.583912Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
