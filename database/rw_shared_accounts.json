@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T23:15:23.398714Z",
+  "updatedAt": "2026-09-21T00:00:57.725157Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4528,12 +4528,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://lectures-survive-probe-accounts.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-20T23:15:23.398714Z",
+      "updatedAt": "2026-09-21T00:00:57.723157Z",
       "publicUrl": "https://lectures-survive-probe-accounts.trycloudflare.com",
       "executorUrl": "https://lectures-survive-probe-accounts.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
