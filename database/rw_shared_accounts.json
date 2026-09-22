@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T15:27:06.834934Z",
+  "updatedAt": "2026-09-22T15:29:20.092487Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4687,14 +4687,13 @@
         "http://192.168.1.82:8765"
       ],
       "executorUrls": [
-        "https://conventions-envelope-copied-considering.trycloudflare.com",
         "http://172.18.0.1:8765",
         "http://26.76.118.138:8765",
         "http://192.168.1.82:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-22T15:27:06.834934Z",
+      "updatedAt": "2026-09-22T15:29:20.092487Z",
       "publicUrl": "https://conventions-envelope-copied-considering.trycloudflare.com",
       "executorUrl": "https://conventions-envelope-copied-considering.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
