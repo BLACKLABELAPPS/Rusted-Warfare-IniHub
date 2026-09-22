@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T02:10:38.958230Z",
+  "updatedAt": "2026-09-22T03:55:11.494076Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1262,6 +1262,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-21T22:11:30.583912Z",
       "updatedAt": "2026-09-21T22:11:30.583952Z"
+    },
+    "alex": {
+      "username": "alex",
+      "usernameLower": "alex",
+      "passwordSalt": "MBiKGO9ipTJemhvrSBQkgEe9FJHrwE0Y",
+      "passwordHash": "37b2e0440ddcd7ba02b2e8f599be6b36b540321a8bd76ba71949d7a3660f4a94",
+      "avatarCode": "B587-T38-W28-R10-L1-N40-U40-X26-F63-C0",
+      "collectionId": "",
+      "collectionTitle": "alex",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-22T03:55:11.494019Z",
+      "updatedAt": "2026-09-22T03:55:11.494027Z"
     }
   },
   "posts": [],
@@ -4565,6 +4578,17 @@
       "username": "ronsepea",
       "avatar_code": "B876-T9-W9-R17-L3-N37-U43-X15-F0-C0",
       "joined_at": "2026-09-21T22:11:30.583912Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "alex": {
+      "username": "alex",
+      "avatar_code": "B587-T38-W28-R10-L1-N40-U40-X26-F63-C0",
+      "joined_at": "2026-09-22T03:55:11.494019Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
