@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T05:27:07.993480Z",
+  "updatedAt": "2026-09-22T06:34:31.522400Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3137,6 +3137,19 @@
         "directory": "",
         "zipAndElements": "",
         "urlImage": "https://images.steamusercontent.com/ugc/33321834191929884/2FA40566B3936262D1D1CA53437AA37E0F47A4BF/",
+        "source": "favorite"
+      }
+    ],
+    "killzgoat": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2469021500&appid=647960",
+        "title": "Rusted_Warface_Combat_Expanded_Maps",
+        "date": "22/09/2026",
+        "time": "02:34:30",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/1774958152993498742/8D33F0561E92DE0DC0A0D68A46AD86FA2DEA260C/",
         "source": "favorite"
       }
     ]
