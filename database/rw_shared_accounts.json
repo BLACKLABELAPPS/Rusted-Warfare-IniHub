@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T12:00:58.348643Z",
+  "updatedAt": "2026-09-22T14:52:24.533427Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4680,17 +4680,20 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.0.154:8765",
+      "lanUrl": "http://172.18.0.1:8765",
       "lanUrls": [
-        "http://192.168.0.154:8765"
+        "http://172.18.0.1:8765",
+        "http://26.76.118.138:8765",
+        "http://192.168.1.82:8765"
       ],
       "executorUrls": [
-        "https://ross-knee-hit-healthcare.trycloudflare.com",
-        "http://192.168.0.154:8765"
+        "http://172.18.0.1:8765",
+        "http://26.76.118.138:8765",
+        "http://192.168.1.82:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-22T10:48:12.292299Z",
+      "updatedAt": "2026-09-22T14:52:24.533427Z",
       "publicUrl": "https://ross-knee-hit-healthcare.trycloudflare.com",
       "executorUrl": "https://ross-knee-hit-healthcare.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
