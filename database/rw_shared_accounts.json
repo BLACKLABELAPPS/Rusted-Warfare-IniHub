@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T17:59:25.116721Z",
+  "updatedAt": "2026-09-22T18:34:42.157288Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1340,6 +1340,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-22T17:59:25.116653Z",
       "updatedAt": "2026-09-22T17:59:25.116665Z"
+    },
+    "bradlytank12": {
+      "username": "bradlytank12",
+      "usernameLower": "bradlytank12",
+      "passwordSalt": "yznLihEpRHch7EtFRVwuFyjMgrdd1iX-",
+      "passwordHash": "1d144c4bada66eb892e095d4f772c95f84eaec88646bcaa2df0eb50e58a9b559",
+      "avatarCode": "B222-T25-W47-R31-L4-N39-U35-X19-F30-C0",
+      "collectionId": "",
+      "collectionTitle": "bradlytank12",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-22T18:34:42.157139Z",
+      "updatedAt": "2026-09-22T18:34:42.157158Z"
     }
   },
   "posts": [],
@@ -4722,6 +4735,17 @@
       "username": "amir",
       "avatar_code": "B718-T21-W11-R45-L1-N21-U35-X19-F98-C0",
       "joined_at": "2026-09-22T17:59:25.116653Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "bradlytank12": {
+      "username": "bradlytank12",
+      "avatar_code": "B222-T25-W47-R31-L4-N39-U35-X19-F30-C0",
+      "joined_at": "2026-09-22T18:34:42.157139Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
