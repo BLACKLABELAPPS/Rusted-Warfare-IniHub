@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T17:21:03.543069Z",
+  "updatedAt": "2026-09-22T17:40:13.274338Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1314,6 +1314,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-22T17:21:03.542647Z",
       "updatedAt": "2026-09-22T17:21:03.542980Z"
+    },
+    "mekan": {
+      "username": "mekan",
+      "usernameLower": "mekan",
+      "passwordSalt": "toXpKypI0EjazBg4GnNWw2zWk0TLiWOV",
+      "passwordHash": "1fbab88731ab8d2da71e02d93170b61f08064b01c01664909071c224c304ef09",
+      "avatarCode": "B29-T4-W46-R16-L2-N12-U34-X0-F17-C0",
+      "collectionId": "",
+      "collectionTitle": "mekan",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-22T17:40:13.274264Z",
+      "updatedAt": "2026-09-22T17:40:13.274278Z"
     }
   },
   "posts": [],
@@ -4674,6 +4687,17 @@
       "username": "NEOEMEZIS",
       "avatar_code": "B298-T37-W47-R13-L1-N49-U3-X5-F22-C0",
       "joined_at": "2026-09-22T17:21:03.542647Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "mekan": {
+      "username": "mekan",
+      "avatar_code": "B29-T4-W46-R16-L2-N12-U34-X0-F17-C0",
+      "joined_at": "2026-09-22T17:40:13.274264Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
