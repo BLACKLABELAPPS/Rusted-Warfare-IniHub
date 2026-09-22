@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T15:54:48.932642Z",
+  "updatedAt": "2026-09-22T15:55:07.012023Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4685,16 +4685,17 @@
         "http://192.168.1.8:8765"
       ],
       "executorUrls": [
+        "https://stomach-beer-summaries-fastest.trycloudflare.com",
         "http://192.168.1.8:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-22T15:54:48.932642Z",
-      "publicUrl": "https://clinical-partner-accounts-institution.trycloudflare.com",
-      "executorUrl": "https://clinical-partner-accounts-institution.trycloudflare.com",
+      "updatedAt": "2026-09-22T15:55:07.012023Z",
+      "publicUrl": "https://stomach-beer-summaries-fastest.trycloudflare.com",
+      "executorUrl": "https://stomach-beer-summaries-fastest.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-22T15:29:28.607120Z"
+      "lastSeenAt": "2026-09-22T15:55:06.230972Z"
     }
   },
   "premiumEntitlements": {
