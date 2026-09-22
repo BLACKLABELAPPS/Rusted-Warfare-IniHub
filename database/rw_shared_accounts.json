@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T10:48:07.651132Z",
+  "updatedAt": "2026-09-22T10:48:12.292299Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4661,16 +4661,17 @@
         "http://192.168.0.154:8765"
       ],
       "executorUrls": [
+        "https://ross-knee-hit-healthcare.trycloudflare.com",
         "http://192.168.0.154:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-22T10:48:07.651132Z",
-      "publicUrl": "https://api.trycloudflare.com",
-      "executorUrl": "https://api.trycloudflare.com",
+      "updatedAt": "2026-09-22T10:48:12.292299Z",
+      "publicUrl": "https://ross-knee-hit-healthcare.trycloudflare.com",
+      "executorUrl": "https://ross-knee-hit-healthcare.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-22T05:27:06.550434Z"
+      "lastSeenAt": "2026-09-22T10:48:11.066192Z"
     }
   },
   "premiumEntitlements": {
