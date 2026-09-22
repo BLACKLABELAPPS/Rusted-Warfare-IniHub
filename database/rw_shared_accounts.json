@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T15:29:30.347088Z",
+  "updatedAt": "2026-09-22T15:54:48.932642Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4680,21 +4680,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://172.18.0.1:8765",
+      "lanUrl": "http://192.168.1.8:8765",
       "lanUrls": [
-        "http://172.18.0.1:8765",
-        "http://26.76.118.138:8765",
-        "http://192.168.1.82:8765"
+        "http://192.168.1.8:8765"
       ],
       "executorUrls": [
-        "https://clinical-partner-accounts-institution.trycloudflare.com",
-        "http://172.18.0.1:8765",
-        "http://26.76.118.138:8765",
-        "http://192.168.1.82:8765"
+        "http://192.168.1.8:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-22T15:29:30.347088Z",
+      "updatedAt": "2026-09-22T15:54:48.932642Z",
       "publicUrl": "https://clinical-partner-accounts-institution.trycloudflare.com",
       "executorUrl": "https://clinical-partner-accounts-institution.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
