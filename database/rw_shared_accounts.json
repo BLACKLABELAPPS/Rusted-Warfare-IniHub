@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T10:48:12.292299Z",
+  "updatedAt": "2026-09-22T12:00:58.348643Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1275,6 +1275,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-22T03:55:11.494019Z",
       "updatedAt": "2026-09-22T03:55:11.494027Z"
+    },
+    "dgfdhhvbv": {
+      "username": "dgfdhhvbv",
+      "usernameLower": "dgfdhhvbv",
+      "passwordSalt": "ZOqDa4lvWBavGC6AXe1a5wARFLf_uqnf",
+      "passwordHash": "264deb469ce55224c22026fdb3a59c18a2253d2cdd54a1f1dc8f1d2391c893d1",
+      "avatarCode": "B906-T39-W47-R33-L3-N11-U3-X35-F98-C0",
+      "collectionId": "",
+      "collectionTitle": "dgfdhhvbv",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-22T12:00:58.297633Z",
+      "updatedAt": "2026-09-22T12:00:58.314109Z"
     }
   },
   "posts": [],
@@ -4602,6 +4615,17 @@
       "username": "alex",
       "avatar_code": "B587-T38-W28-R10-L1-N40-U40-X26-F63-C0",
       "joined_at": "2026-09-22T03:55:11.494019Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "dgfdhhvbv": {
+      "username": "dgfdhhvbv",
+      "avatar_code": "B906-T39-W47-R33-L3-N11-U3-X35-F98-C0",
+      "joined_at": "2026-09-22T12:00:58.297633Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
