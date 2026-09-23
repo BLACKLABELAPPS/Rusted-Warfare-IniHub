@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T18:34:45.051537Z",
+  "updatedAt": "2026-09-23T18:42:46.412223Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4912,12 +4912,11 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
-        "https://democratic-meat-farm-exam.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-23T18:34:45.051537Z",
+      "updatedAt": "2026-09-23T18:42:46.410207Z",
       "publicUrl": "https://democratic-meat-farm-exam.trycloudflare.com",
       "executorUrl": "https://democratic-meat-farm-exam.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
