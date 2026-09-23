@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T03:42:25.762866Z",
+  "updatedAt": "2026-09-23T03:46:05.874064Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3258,6 +3258,17 @@
       }
     ],
     "dragonslayer00": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3788893216&appid=647960",
+        "title": "Map_pack_for_Vanilla",
+        "date": "22/09/2026",
+        "time": "23:45:59",
+        "type": "Maps",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/12591050386316144218/F0E05CB4ACEC2B991FBC51B30777DD43120BA7A6/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3483931170&appid=647960",
         "title": "Gear_Protocol",
