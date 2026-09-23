@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T03:29:06.604992Z",
+  "updatedAt": "2026-09-23T03:30:15.634791Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3254,6 +3254,19 @@
         "directory": "",
         "zipAndElements": "",
         "urlImage": "https://images.steamusercontent.com/ugc/1774958152993498742/8D33F0561E92DE0DC0A0D68A46AD86FA2DEA260C/",
+        "source": "favorite"
+      }
+    ],
+    "dragonslayer00": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3529043522&appid=647960",
+        "title": "workshop_3529043522",
+        "date": "22/09/2026",
+        "time": "23:29:57",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "",
         "source": "favorite"
       }
     ]
