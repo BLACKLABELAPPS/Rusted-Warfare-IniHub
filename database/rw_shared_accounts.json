@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T18:33:54.398100Z",
+  "updatedAt": "2026-09-23T18:34:45.051537Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4912,16 +4912,17 @@
         "http://192.168.1.4:8765"
       ],
       "executorUrls": [
+        "https://democratic-meat-farm-exam.trycloudflare.com",
         "http://192.168.1.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-23T18:33:54.397102Z",
-      "publicUrl": "https://contrary-knock-licensed-dat.trycloudflare.com",
-      "executorUrl": "https://contrary-knock-licensed-dat.trycloudflare.com",
+      "updatedAt": "2026-09-23T18:34:45.051537Z",
+      "publicUrl": "https://democratic-meat-farm-exam.trycloudflare.com",
+      "executorUrl": "https://democratic-meat-farm-exam.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-23T16:47:02.728184Z"
+      "lastSeenAt": "2026-09-23T18:34:43.890743Z"
     }
   },
   "premiumEntitlements": {
