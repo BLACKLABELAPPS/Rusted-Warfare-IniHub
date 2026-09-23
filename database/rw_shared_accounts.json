@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T18:34:42.157288Z",
+  "updatedAt": "2026-09-23T01:33:36.293803Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1353,6 +1353,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-22T18:34:42.157139Z",
       "updatedAt": "2026-09-22T18:34:42.157158Z"
+    },
+    "namedninja": {
+      "username": "Namedninja",
+      "usernameLower": "namedninja",
+      "passwordSalt": "6FPLqhB01iTzhNtpAvcxhAAjQYi6htGW",
+      "passwordHash": "7a3ac31bf78ca01a7dd56133d663c0dc88cfad44f75578e3be0aaf23158a159f",
+      "avatarCode": "B104-T3-W43-R5-L3-N31-U37-X3-F80-C0",
+      "collectionId": "",
+      "collectionTitle": "Namedninja",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-23T01:33:36.293712Z",
+      "updatedAt": "2026-09-23T01:33:36.293724Z"
     }
   },
   "posts": [],
@@ -4746,6 +4759,17 @@
       "username": "bradlytank12",
       "avatar_code": "B222-T25-W47-R31-L4-N39-U35-X19-F30-C0",
       "joined_at": "2026-09-22T18:34:42.157139Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "namedninja": {
+      "username": "Namedninja",
+      "avatar_code": "B104-T3-W43-R5-L3-N31-U37-X3-F80-C0",
+      "joined_at": "2026-09-23T01:33:36.293712Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
