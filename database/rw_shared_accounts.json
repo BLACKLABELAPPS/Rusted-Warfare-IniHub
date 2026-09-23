@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T16:47:08.184026Z",
+  "updatedAt": "2026-09-23T18:10:32.050470Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1379,6 +1379,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-23T03:27:21.142663Z",
       "updatedAt": "2026-09-23T03:29:06.604940Z"
+    },
+    "hadoo1745": {
+      "username": "hadoo1745",
+      "usernameLower": "hadoo1745",
+      "passwordSalt": "ZbD5pN-cA5Z2m1WjSMW2r0hy4HVVAI87",
+      "passwordHash": "342cd106cd2682610502dd9d42f0725f74f343a8b1113180955eb1d2ff18fa5f",
+      "avatarCode": "B265-T0-W38-R6-L2-N32-U12-X22-F41-C0",
+      "collectionId": "",
+      "collectionTitle": "hadoo1745",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-23T18:10:32.050393Z",
+      "updatedAt": "2026-09-23T18:10:32.050411Z"
     }
   },
   "posts": [],
@@ -4829,6 +4842,17 @@
       "username": "Dragonslayer00",
       "avatar_code": "B661-T18-W14-R34-L3-N26-U24-X40-F89-C0",
       "joined_at": "2026-09-23T03:27:21.142663Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "hadoo1745": {
+      "username": "hadoo1745",
+      "avatar_code": "B265-T0-W38-R6-L2-N32-U12-X22-F41-C0",
+      "joined_at": "2026-09-23T18:10:32.050393Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
