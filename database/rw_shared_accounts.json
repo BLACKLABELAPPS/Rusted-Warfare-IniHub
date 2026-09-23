@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T01:33:36.293803Z",
+  "updatedAt": "2026-09-23T03:27:21.142741Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1366,6 +1366,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-23T01:33:36.293712Z",
       "updatedAt": "2026-09-23T01:33:36.293724Z"
+    },
+    "dragonslayer00": {
+      "username": "Dragonslayer00",
+      "usernameLower": "dragonslayer00",
+      "passwordSalt": "JPipPcBwaQnKVsclW6lyNc3cUuhJY-8M",
+      "passwordHash": "bc52e6582b5483df68cb1b8516337bdd680d0748f20283aa8b3eececca56e17b",
+      "avatarCode": "B242-T35-W41-R7-L4-N43-U47-X49-F70-C0",
+      "collectionId": "",
+      "collectionTitle": "Dragonslayer00",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-23T03:27:21.142663Z",
+      "updatedAt": "2026-09-23T03:27:21.142674Z"
     }
   },
   "posts": [],
@@ -4770,6 +4783,17 @@
       "username": "Namedninja",
       "avatar_code": "B104-T3-W43-R5-L3-N31-U37-X3-F80-C0",
       "joined_at": "2026-09-23T01:33:36.293712Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "dragonslayer00": {
+      "username": "Dragonslayer00",
+      "avatar_code": "B242-T35-W41-R7-L4-N43-U47-X49-F70-C0",
+      "joined_at": "2026-09-23T03:27:21.142663Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
