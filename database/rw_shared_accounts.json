@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T03:46:05.874064Z",
+  "updatedAt": "2026-09-23T16:46:59.547943Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4883,17 +4883,20 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.1.8:8765",
+      "lanUrl": "http://172.18.0.1:8765",
       "lanUrls": [
-        "http://192.168.1.8:8765"
+        "http://172.18.0.1:8765",
+        "http://26.76.118.138:8765",
+        "http://192.168.1.82:8765"
       ],
       "executorUrls": [
-        "https://stomach-beer-summaries-fastest.trycloudflare.com",
-        "http://192.168.1.8:8765"
+        "http://172.18.0.1:8765",
+        "http://26.76.118.138:8765",
+        "http://192.168.1.82:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-22T15:55:07.012023Z",
+      "updatedAt": "2026-09-23T16:46:59.547943Z",
       "publicUrl": "https://stomach-beer-summaries-fastest.trycloudflare.com",
       "executorUrl": "https://stomach-beer-summaries-fastest.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
