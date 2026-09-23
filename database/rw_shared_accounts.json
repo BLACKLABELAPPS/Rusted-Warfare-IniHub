@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T20:16:45.278573Z",
+  "updatedAt": "2026-09-23T20:19:02.570754Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4912,16 +4912,17 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
+        "https://theatre-started-exact-looks.trycloudflare.com",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-23T20:16:45.276573Z",
-      "publicUrl": "https://blades-phys-james-vocals.trycloudflare.com",
-      "executorUrl": "https://blades-phys-james-vocals.trycloudflare.com",
+      "updatedAt": "2026-09-23T20:19:02.570754Z",
+      "publicUrl": "https://theatre-started-exact-looks.trycloudflare.com",
+      "executorUrl": "https://theatre-started-exact-looks.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-23T18:43:05.873926Z"
+      "lastSeenAt": "2026-09-23T20:19:01.282970Z"
     }
   },
   "premiumEntitlements": {
