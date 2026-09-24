@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-24T19:17:31.854484Z",
+  "updatedAt": "2026-09-24T19:18:42.962069Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3306,6 +3306,17 @@
       }
     ],
     "hadoo1745": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1304665634&appid=647960",
+        "title": "worse_EK_United_Combat_Engineering",
+        "date": "24/09/2026",
+        "time": "22:48:34",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/977731080978820241/0DE3A46885CE0A224ACD23B3159A66350BCF0AE9/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2811431364&appid=647960",
         "title": "Simple's_Unit_Pack_1",
