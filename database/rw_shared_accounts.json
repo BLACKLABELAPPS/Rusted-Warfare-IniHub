@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-24T18:20:53.253071Z",
+  "updatedAt": "2026-09-24T18:21:19.348761Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3306,6 +3306,17 @@
       }
     ],
     "hadoo1745": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3199403846&appid=647960",
+        "title": "Virsenian_Glory_Remake_1.1.3",
+        "date": "24/09/2026",
+        "time": "21:51:11",
+        "type": "Total Conversion",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/2474238502456721787/B909107D788A39A21C0B93548C93094645FACAC0/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2585122844&appid=647960",
         "title": "Major_Experimentals",
