@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-24T18:20:19.448760Z",
+  "updatedAt": "2026-09-24T18:20:25.086926Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3308,13 +3308,13 @@
     "hadoo1745": [
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2749712324&appid=647960",
-        "title": "EK_Definitive_Edition",
+        "title": "workshop_2749712324",
         "date": "24/09/2026",
-        "time": "21:50:14",
-        "type": "Total Conversion",
+        "time": "21:50:15",
+        "type": "Addon",
         "directory": "",
         "zipAndElements": "",
-        "urlImage": "https://images.steamusercontent.com/ugc/16455573629115614944/3F69D6DF4133C04CF671CB33903D0E438B26DA95/",
+        "urlImage": "",
         "source": "favorite"
       },
       {
