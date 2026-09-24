@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-24T01:01:37.907537Z",
+  "updatedAt": "2026-09-24T02:07:15.665658Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4907,17 +4907,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.1.188:8765",
+      "lanUrl": "http://192.168.1.5:8765",
       "lanUrls": [
-        "http://192.168.1.188:8765"
+        "http://192.168.1.5:8765"
       ],
       "executorUrls": [
-        "https://cute-anyone-ballot-pioneer.trycloudflare.com",
-        "http://192.168.1.188:8765"
+        "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-24T01:01:37.907537Z",
+      "updatedAt": "2026-09-24T02:07:15.663654Z",
       "publicUrl": "https://cute-anyone-ballot-pioneer.trycloudflare.com",
       "executorUrl": "https://cute-anyone-ballot-pioneer.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
