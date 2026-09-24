@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-24T16:18:56.211388Z",
+  "updatedAt": "2026-09-24T16:19:02.198540Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4913,17 +4913,18 @@
         "http://192.168.0.215:8765"
       ],
       "executorUrls": [
+        "https://covered-judges-inline-inventory.trycloudflare.com",
         "http://25.42.203.255:8765",
         "http://192.168.0.215:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-24T16:18:56.211388Z",
-      "publicUrl": "https://textile-pipes-speeds-berry.trycloudflare.com",
-      "executorUrl": "https://textile-pipes-speeds-berry.trycloudflare.com",
+      "updatedAt": "2026-09-24T16:19:02.198540Z",
+      "publicUrl": "https://covered-judges-inline-inventory.trycloudflare.com",
+      "executorUrl": "https://covered-judges-inline-inventory.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-24T03:22:17.361868Z"
+      "lastSeenAt": "2026-09-24T16:19:01.493790Z"
     }
   },
   "premiumEntitlements": {
