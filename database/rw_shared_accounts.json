@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-24T02:15:15.595913Z",
+  "updatedAt": "2026-09-24T02:15:22.835934Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4912,16 +4912,17 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
+        "https://rush-setup-prerequisite-dealer.trycloudflare.com",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-24T02:15:15.594038Z",
-      "publicUrl": "https://latino-assistance-identification-oxford.trycloudflare.com",
-      "executorUrl": "https://latino-assistance-identification-oxford.trycloudflare.com",
+      "updatedAt": "2026-09-24T02:15:22.835934Z",
+      "publicUrl": "https://rush-setup-prerequisite-dealer.trycloudflare.com",
+      "executorUrl": "https://rush-setup-prerequisite-dealer.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-24T02:07:25.810191Z"
+      "lastSeenAt": "2026-09-24T02:15:21.243368Z"
     }
   },
   "premiumEntitlements": {
