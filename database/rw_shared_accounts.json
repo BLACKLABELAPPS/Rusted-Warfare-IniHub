@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-24T18:21:19.348761Z",
+  "updatedAt": "2026-09-24T18:21:46.209926Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3306,6 +3306,17 @@
       }
     ],
     "hadoo1745": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3499450899&appid=647960",
+        "title": "Plants_Vs._Zombies_Lawnmageddon",
+        "date": "24/09/2026",
+        "time": "21:51:35",
+        "type": "Total Conversion",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/12784207078507181697/1759B0C83B6B0058C7F174C44AE6E44CE38FE8A7/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3199403846&appid=647960",
         "title": "Virsenian_Glory_Remake_1.1.3",
