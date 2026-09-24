@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-24T19:18:42.962069Z",
+  "updatedAt": "2026-09-24T20:18:30.887043Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1392,6 +1392,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-23T18:10:32.050393Z",
       "updatedAt": "2026-09-23T18:12:37.441842Z"
+    },
+    "dchcb": {
+      "username": "dchcb",
+      "usernameLower": "dchcb",
+      "passwordSalt": "W08MUZL8FDFUC2vfMTUjtEd2JpzNd4PB",
+      "passwordHash": "aceb6a11eea12ec92be7af8725cb05c673ec31c9829eb3d4444a6fd58493f8d6",
+      "avatarCode": "B967-T4-W0-R34-L0-N40-U44-X28-F55-C0",
+      "collectionId": "",
+      "collectionTitle": "dchcb",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-24T20:18:30.886858Z",
+      "updatedAt": "2026-09-24T20:18:30.886883Z"
     }
   },
   "posts": [],
@@ -4954,6 +4967,17 @@
       "username": "hadoo1745",
       "avatar_code": "B265-T0-W38-R6-L2-N32-U12-X22-F41-C0",
       "joined_at": "2026-09-23T18:10:32.050393Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "dchcb": {
+      "username": "dchcb",
+      "avatar_code": "B967-T4-W0-R34-L0-N40-U44-X28-F55-C0",
+      "joined_at": "2026-09-24T20:18:30.886858Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
