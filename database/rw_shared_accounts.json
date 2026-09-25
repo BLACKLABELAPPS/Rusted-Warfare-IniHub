@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-25T15:39:02.693417Z",
+  "updatedAt": "2026-09-25T15:39:14.417838Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5037,16 +5037,17 @@
         "http://192.168.1.13:8765"
       ],
       "executorUrls": [
+        "https://atlantic-competitions-skirts-tramadol.trycloudflare.com",
         "http://192.168.1.13:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-25T15:39:02.693417Z",
-      "publicUrl": "https://covered-judges-inline-inventory.trycloudflare.com",
-      "executorUrl": "https://covered-judges-inline-inventory.trycloudflare.com",
+      "updatedAt": "2026-09-25T15:39:14.417838Z",
+      "publicUrl": "https://atlantic-competitions-skirts-tramadol.trycloudflare.com",
+      "executorUrl": "https://atlantic-competitions-skirts-tramadol.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-24T16:19:01.493790Z"
+      "lastSeenAt": "2026-09-25T15:39:14.033577Z"
     }
   },
   "premiumEntitlements": {
