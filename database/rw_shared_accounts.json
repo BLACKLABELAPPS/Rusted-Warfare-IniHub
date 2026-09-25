@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-25T16:30:53.547968Z",
+  "updatedAt": "2026-09-25T17:19:13.337412Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1418,6 +1418,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-25T16:30:53.547860Z",
       "updatedAt": "2026-09-25T16:30:53.547873Z"
+    },
+    "picachy": {
+      "username": "Picachy",
+      "usernameLower": "picachy",
+      "passwordSalt": "aHX5ZMyL6iL6xWChN3c1k1o7XdHtzOTZ",
+      "passwordHash": "e3f9ece5706753ce1ee68f0d36d6d89b9ca8aebdc8ec47fec72f0aaeabd311bb",
+      "avatarCode": "B318-T13-W23-R23-L0-N39-U43-X11-F98-C0",
+      "collectionId": "",
+      "collectionTitle": "Picachy",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-25T17:19:13.337264Z",
+      "updatedAt": "2026-09-25T17:19:13.337277Z"
     }
   },
   "posts": [],
@@ -5002,6 +5015,17 @@
       "username": "ALONIEYA",
       "avatar_code": "B15-T6-W48-R36-L2-N38-U42-X30-F3-C0",
       "joined_at": "2026-09-25T16:30:53.547860Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "picachy": {
+      "username": "Picachy",
+      "avatar_code": "B318-T13-W23-R23-L0-N39-U43-X11-F98-C0",
+      "joined_at": "2026-09-25T17:19:13.337264Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
