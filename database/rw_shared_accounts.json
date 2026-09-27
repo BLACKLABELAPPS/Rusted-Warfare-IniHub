@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-27T23:52:05.026588Z",
+  "updatedAt": "2026-09-27T23:52:12.445706Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5348,17 +5348,18 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
+        "https://sleeping-camel-bringing-iii.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-27T23:52:05.025589Z",
-      "publicUrl": "https://prediction-snake-assembled-casual.trycloudflare.com",
-      "executorUrl": "https://prediction-snake-assembled-casual.trycloudflare.com",
+      "updatedAt": "2026-09-27T23:52:12.445706Z",
+      "publicUrl": "https://sleeping-camel-bringing-iii.trycloudflare.com",
+      "executorUrl": "https://sleeping-camel-bringing-iii.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-27T22:20:50.908015Z"
+      "lastSeenAt": "2026-09-27T23:52:08.406532Z"
     }
   },
   "premiumEntitlements": {
