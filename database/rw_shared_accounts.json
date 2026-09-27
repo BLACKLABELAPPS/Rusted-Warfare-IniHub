@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-27T00:30:09.706394Z",
+  "updatedAt": "2026-09-27T00:35:44.166890Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5176,19 +5176,18 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://25.42.203.255:8765",
+      "lanUrl": "http://192.168.137.1:8765",
       "lanUrls": [
-        "http://25.42.203.255:8765",
-        "http://192.168.0.215:8765"
+        "http://192.168.137.1:8765",
+        "http://192.168.1.5:8765"
       ],
       "executorUrls": [
-        "https://residence-xbox-permanent-stay.trycloudflare.com",
-        "http://25.42.203.255:8765",
-        "http://192.168.0.215:8765"
+        "http://192.168.137.1:8765",
+        "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-27T00:30:09.706394Z",
+      "updatedAt": "2026-09-27T00:35:44.165890Z",
       "publicUrl": "https://residence-xbox-permanent-stay.trycloudflare.com",
       "executorUrl": "https://residence-xbox-permanent-stay.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
