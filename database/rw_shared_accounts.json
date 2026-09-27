@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-27T06:39:47.168506Z",
+  "updatedAt": "2026-09-27T06:43:09.283673Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3498,6 +3498,17 @@
       }
     ],
     "exe4987": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2239799259&appid=647960",
+        "title": "The_Holocaust_Campaign_Pack_v1.4",
+        "date": "27/09/2026",
+        "time": "02:43:07",
+        "type": "Maps",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/2380804214090715405/4FC29CFFA524FA7B45D6BFC725EFB24D777EBCDD/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3684640283&appid=647960",
         "title": "Steel_Union",
