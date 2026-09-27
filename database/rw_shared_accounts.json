@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-26T16:25:45.941140Z",
+  "updatedAt": "2026-09-27T00:13:46.190645Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5176,17 +5176,18 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.1.13:8765",
+      "lanUrl": "http://192.168.137.1:8765",
       "lanUrls": [
-        "http://192.168.1.13:8765"
+        "http://192.168.137.1:8765",
+        "http://192.168.1.5:8765"
       ],
       "executorUrls": [
-        "https://atlantic-competitions-skirts-tramadol.trycloudflare.com",
-        "http://192.168.1.13:8765"
+        "http://192.168.137.1:8765",
+        "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-25T15:39:14.417838Z",
+      "updatedAt": "2026-09-27T00:13:46.188643Z",
       "publicUrl": "https://atlantic-competitions-skirts-tramadol.trycloudflare.com",
       "executorUrl": "https://atlantic-competitions-skirts-tramadol.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
