@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-27T13:23:27.605501Z",
+  "updatedAt": "2026-09-27T18:30:47.040861Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1509,6 +1509,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-27T13:22:55.218301Z",
       "updatedAt": "2026-09-27T13:22:55.218318Z"
+    },
+    "mrvodo": {
+      "username": "mrvodo",
+      "usernameLower": "mrvodo",
+      "passwordSalt": "H0ijZgE_behBouCwdz2Y0bhHDPQz0hEt",
+      "passwordHash": "74a58a549e1e210e24da7c7f0056142cc9f1cedefcc11722e64e544c83a807f4",
+      "avatarCode": "B238-T33-W39-R21-L1-N9-U9-X31-F50-C0",
+      "collectionId": "",
+      "collectionTitle": "mrvodo",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-27T18:30:47.040688Z",
+      "updatedAt": "2026-09-27T18:30:47.040708Z"
     }
   },
   "posts": [],
@@ -5218,6 +5231,17 @@
       "username": "gihgfyfjkh",
       "avatar_code": "B492-T49-W29-R43-L1-N35-U41-X1-F80-C0",
       "joined_at": "2026-09-27T13:22:55.218301Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "mrvodo": {
+      "username": "mrvodo",
+      "avatar_code": "B238-T33-W39-R21-L1-N9-U9-X31-F50-C0",
+      "joined_at": "2026-09-27T18:30:47.040688Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
