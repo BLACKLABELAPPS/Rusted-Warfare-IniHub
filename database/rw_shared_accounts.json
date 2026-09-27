@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-27T00:35:44.166890Z",
+  "updatedAt": "2026-09-27T00:35:50.165081Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5182,17 +5182,18 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
+        "https://elizabeth-soccer-tin-unlock.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-27T00:35:44.165890Z",
-      "publicUrl": "https://residence-xbox-permanent-stay.trycloudflare.com",
-      "executorUrl": "https://residence-xbox-permanent-stay.trycloudflare.com",
+      "updatedAt": "2026-09-27T00:35:50.165081Z",
+      "publicUrl": "https://elizabeth-soccer-tin-unlock.trycloudflare.com",
+      "executorUrl": "https://elizabeth-soccer-tin-unlock.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-27T00:30:09.227819Z"
+      "lastSeenAt": "2026-09-27T00:35:47.096112Z"
     }
   },
   "premiumEntitlements": {
