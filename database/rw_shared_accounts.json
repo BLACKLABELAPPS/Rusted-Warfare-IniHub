@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-27T22:51:05.599966Z",
+  "updatedAt": "2026-09-27T22:53:21.961351Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3550,6 +3550,17 @@
       }
     ],
     "exe4987": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2637313569&appid=647960",
+        "title": "workshop_2637313569",
+        "date": "27/09/2026",
+        "time": "18:53:00",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3529043522&appid=647960",
         "title": "Vanilla_Turrets_Expansion",
