@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-27T00:30:05.731453Z",
+  "updatedAt": "2026-09-27T00:30:09.706394Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5182,17 +5182,18 @@
         "http://192.168.0.215:8765"
       ],
       "executorUrls": [
+        "https://residence-xbox-permanent-stay.trycloudflare.com",
         "http://25.42.203.255:8765",
         "http://192.168.0.215:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-27T00:30:05.731453Z",
-      "publicUrl": "https://cleanup-somebody-pet-pour.trycloudflare.com",
-      "executorUrl": "https://cleanup-somebody-pet-pour.trycloudflare.com",
+      "updatedAt": "2026-09-27T00:30:09.706394Z",
+      "publicUrl": "https://residence-xbox-permanent-stay.trycloudflare.com",
+      "executorUrl": "https://residence-xbox-permanent-stay.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-27T00:14:06.596279Z"
+      "lastSeenAt": "2026-09-27T00:30:09.227819Z"
     }
   },
   "premiumEntitlements": {
