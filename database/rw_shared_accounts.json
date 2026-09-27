@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-27T22:20:54.499442Z",
+  "updatedAt": "2026-09-27T22:51:05.599966Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3550,6 +3550,17 @@
       }
     ],
     "exe4987": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3529043522&appid=647960",
+        "title": "Vanilla_Turrets_Expansion",
+        "date": "27/09/2026",
+        "time": "18:51:00",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/15648292922037701413/1A2CDE78E4AE98577913EB9CFC973B578A16D389/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2239799259&appid=647960",
         "title": "The_Holocaust_Campaign_Pack_v1.4",
