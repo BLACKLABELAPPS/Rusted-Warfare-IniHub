@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-27T22:53:21.961351Z",
+  "updatedAt": "2026-09-27T23:52:05.026588Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5348,13 +5348,12 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
-        "https://prediction-snake-assembled-casual.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-27T22:20:54.499442Z",
+      "updatedAt": "2026-09-27T23:52:05.025589Z",
       "publicUrl": "https://prediction-snake-assembled-casual.trycloudflare.com",
       "executorUrl": "https://prediction-snake-assembled-casual.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
