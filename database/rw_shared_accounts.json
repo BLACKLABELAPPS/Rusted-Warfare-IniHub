@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-27T22:20:46.862767Z",
+  "updatedAt": "2026-09-27T22:20:54.499442Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5326,17 +5326,18 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
+        "https://prediction-snake-assembled-casual.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-27T22:20:46.860767Z",
-      "publicUrl": "https://cholesterol-personals-sport-recognised.trycloudflare.com",
-      "executorUrl": "https://cholesterol-personals-sport-recognised.trycloudflare.com",
+      "updatedAt": "2026-09-27T22:20:54.499442Z",
+      "publicUrl": "https://prediction-snake-assembled-casual.trycloudflare.com",
+      "executorUrl": "https://prediction-snake-assembled-casual.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-27T11:17:50.136689Z"
+      "lastSeenAt": "2026-09-27T22:20:50.908015Z"
     }
   },
   "premiumEntitlements": {
