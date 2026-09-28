@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28T00:52:46.154262Z",
+  "updatedAt": "2026-09-28T00:52:52.514691Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5372,17 +5372,18 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
+        "https://phd-perry-november-equivalent.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-28T00:52:46.153260Z",
-      "publicUrl": "https://marine-monroe-reason-featuring.trycloudflare.com",
-      "executorUrl": "https://marine-monroe-reason-featuring.trycloudflare.com",
+      "updatedAt": "2026-09-28T00:52:52.514691Z",
+      "publicUrl": "https://phd-perry-november-equivalent.trycloudflare.com",
+      "executorUrl": "https://phd-perry-november-equivalent.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-28T00:41:45.610534Z"
+      "lastSeenAt": "2026-09-28T00:52:50.120896Z"
     }
   },
   "premiumEntitlements": {
