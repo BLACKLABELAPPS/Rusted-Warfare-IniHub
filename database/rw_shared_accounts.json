@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28T16:29:23.134233Z",
+  "updatedAt": "2026-09-28T16:54:28.174114Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5396,13 +5396,12 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
-        "https://obtaining-scope-wise-trains.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-28T16:29:23.134233Z",
+      "updatedAt": "2026-09-28T16:54:28.173091Z",
       "publicUrl": "https://obtaining-scope-wise-trains.trycloudflare.com",
       "executorUrl": "https://obtaining-scope-wise-trains.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
