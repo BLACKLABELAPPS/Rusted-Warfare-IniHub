@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28T23:30:25.889368Z",
+  "updatedAt": "2026-09-28T23:30:33.267800Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5420,17 +5420,18 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
+        "https://steal-magic-making-storm.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-28T23:30:25.887383Z",
-      "publicUrl": "https://ben-watching-skin-baths.trycloudflare.com",
-      "executorUrl": "https://ben-watching-skin-baths.trycloudflare.com",
+      "updatedAt": "2026-09-28T23:30:33.267800Z",
+      "publicUrl": "https://steal-magic-making-storm.trycloudflare.com",
+      "executorUrl": "https://steal-magic-making-storm.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-28T18:15:02.284449Z"
+      "lastSeenAt": "2026-09-28T23:30:29.689013Z"
     }
   },
   "premiumEntitlements": {
