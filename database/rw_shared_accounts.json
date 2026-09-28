@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28T03:08:27.580242Z",
+  "updatedAt": "2026-09-28T10:01:02.128086Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1548,6 +1548,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-28T00:06:34.192908Z",
       "updatedAt": "2026-09-28T00:06:34.192917Z"
+    },
+    "dftrts": {
+      "username": "dftrts",
+      "usernameLower": "dftrts",
+      "passwordSalt": "OgUXpm_9momYapv2lGXd40tlYj8B5xJD",
+      "passwordHash": "f5b405e108fa371555b23ca45aac1e07620d854a192f30852744546c6b4b4a9a",
+      "avatarCode": "B198-T1-W45-R25-L1-N1-U15-X45-F42-C0",
+      "collectionId": "",
+      "collectionTitle": "dftrts",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-28T10:01:02.127845Z",
+      "updatedAt": "2026-09-28T10:01:02.127889Z"
     }
   },
   "posts": [],
@@ -5312,6 +5325,17 @@
       "username": "rmcbee",
       "avatar_code": "B461-T36-W24-R10-L3-N44-U48-X8-F85-C0",
       "joined_at": "2026-09-28T00:06:34.192908Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "dftrts": {
+      "username": "dftrts",
+      "avatar_code": "B198-T1-W45-R25-L1-N1-U15-X45-F42-C0",
+      "joined_at": "2026-09-28T10:01:02.127845Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
