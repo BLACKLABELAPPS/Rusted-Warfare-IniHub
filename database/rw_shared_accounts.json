@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28T17:38:28.078262Z",
+  "updatedAt": "2026-09-28T17:38:33.793078Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5420,17 +5420,18 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
+        "https://ideal-restrict-song-stroke.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-28T17:38:28.077267Z",
-      "publicUrl": "https://jam-offices-bristol-lights.trycloudflare.com",
-      "executorUrl": "https://jam-offices-bristol-lights.trycloudflare.com",
+      "updatedAt": "2026-09-28T17:38:33.793078Z",
+      "publicUrl": "https://ideal-restrict-song-stroke.trycloudflare.com",
+      "executorUrl": "https://ideal-restrict-song-stroke.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-28T16:54:33.489830Z"
+      "lastSeenAt": "2026-09-28T17:38:31.581152Z"
     }
   },
   "premiumEntitlements": {
