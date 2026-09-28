@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28T11:50:58.362152Z",
+  "updatedAt": "2026-09-28T11:51:04.826130Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5396,17 +5396,18 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
+        "https://tone-lynn-vector-metals.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-28T11:50:58.360990Z",
-      "publicUrl": "https://den-foot-purchasing-directly.trycloudflare.com",
-      "executorUrl": "https://den-foot-purchasing-directly.trycloudflare.com",
+      "updatedAt": "2026-09-28T11:51:04.826130Z",
+      "publicUrl": "https://tone-lynn-vector-metals.trycloudflare.com",
+      "executorUrl": "https://tone-lynn-vector-metals.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-28T11:27:47.046505Z"
+      "lastSeenAt": "2026-09-28T11:51:02.320916Z"
     }
   },
   "premiumEntitlements": {
