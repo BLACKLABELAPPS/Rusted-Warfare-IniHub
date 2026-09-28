@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28T11:58:39.751515Z",
+  "updatedAt": "2026-09-28T15:30:07.878407Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5396,13 +5396,12 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
-        "https://tone-lynn-vector-metals.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-28T11:51:04.826130Z",
+      "updatedAt": "2026-09-28T15:30:07.876417Z",
       "publicUrl": "https://tone-lynn-vector-metals.trycloudflare.com",
       "executorUrl": "https://tone-lynn-vector-metals.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
