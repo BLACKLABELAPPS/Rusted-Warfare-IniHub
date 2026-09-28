@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28T11:27:42.940206Z",
+  "updatedAt": "2026-09-28T11:27:50.618316Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5396,17 +5396,18 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
+        "https://den-foot-purchasing-directly.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-28T11:27:42.939219Z",
-      "publicUrl": "https://judges-soldiers-aged-thought.trycloudflare.com",
-      "executorUrl": "https://judges-soldiers-aged-thought.trycloudflare.com",
+      "updatedAt": "2026-09-28T11:27:50.618316Z",
+      "publicUrl": "https://den-foot-purchasing-directly.trycloudflare.com",
+      "executorUrl": "https://den-foot-purchasing-directly.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-28T03:08:25.275054Z"
+      "lastSeenAt": "2026-09-28T11:27:47.046505Z"
     }
   },
   "premiumEntitlements": {
