@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28T18:15:03.163398Z",
+  "updatedAt": "2026-09-28T23:30:25.889368Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5414,17 +5414,18 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.122.97:8765",
+      "lanUrl": "http://192.168.137.1:8765",
       "lanUrls": [
-        "http://192.168.122.97:8765"
+        "http://192.168.137.1:8765",
+        "http://192.168.1.5:8765"
       ],
       "executorUrls": [
-        "https://ben-watching-skin-baths.trycloudflare.com",
-        "http://192.168.122.97:8765"
+        "http://192.168.137.1:8765",
+        "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-28T18:15:03.163398Z",
+      "updatedAt": "2026-09-28T23:30:25.887383Z",
       "publicUrl": "https://ben-watching-skin-baths.trycloudflare.com",
       "executorUrl": "https://ben-watching-skin-baths.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
