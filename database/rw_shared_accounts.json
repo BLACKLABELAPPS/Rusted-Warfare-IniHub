@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28T11:27:50.618316Z",
+  "updatedAt": "2026-09-28T11:50:58.362152Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5396,13 +5396,12 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
-        "https://den-foot-purchasing-directly.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-28T11:27:50.618316Z",
+      "updatedAt": "2026-09-28T11:50:58.360990Z",
       "publicUrl": "https://den-foot-purchasing-directly.trycloudflare.com",
       "executorUrl": "https://den-foot-purchasing-directly.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
