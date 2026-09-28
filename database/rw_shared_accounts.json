@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28T17:00:49.772724Z",
+  "updatedAt": "2026-09-28T17:38:28.078262Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5420,13 +5420,12 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
-        "https://jam-offices-bristol-lights.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-28T16:54:41.466538Z",
+      "updatedAt": "2026-09-28T17:38:28.077267Z",
       "publicUrl": "https://jam-offices-bristol-lights.trycloudflare.com",
       "executorUrl": "https://jam-offices-bristol-lights.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
