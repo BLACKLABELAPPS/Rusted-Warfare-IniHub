@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28T15:58:26.623583Z",
+  "updatedAt": "2026-09-28T15:58:51.018783Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5396,17 +5396,18 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
+        "https://theory-scale-vii-donation.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-28T15:58:26.620601Z",
-      "publicUrl": "https://francisco-rarely-smoking-accept.trycloudflare.com",
-      "executorUrl": "https://francisco-rarely-smoking-accept.trycloudflare.com",
+      "updatedAt": "2026-09-28T15:58:51.018783Z",
+      "publicUrl": "https://theory-scale-vii-donation.trycloudflare.com",
+      "executorUrl": "https://theory-scale-vii-donation.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-28T15:43:40.922246Z"
+      "lastSeenAt": "2026-09-28T15:58:41.449462Z"
     }
   },
   "premiumEntitlements": {
