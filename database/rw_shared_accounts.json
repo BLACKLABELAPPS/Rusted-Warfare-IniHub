@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28T17:38:33.793078Z",
+  "updatedAt": "2026-09-28T18:09:06.221620Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5420,13 +5420,12 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
-        "https://ideal-restrict-song-stroke.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-28T17:38:33.793078Z",
+      "updatedAt": "2026-09-28T18:09:06.220630Z",
       "publicUrl": "https://ideal-restrict-song-stroke.trycloudflare.com",
       "executorUrl": "https://ideal-restrict-song-stroke.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
