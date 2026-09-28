@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-27T23:52:12.445706Z",
+  "updatedAt": "2026-09-28T00:06:34.192958Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1535,6 +1535,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-27T20:21:58.712575Z",
       "updatedAt": "2026-09-27T20:21:58.712643Z"
+    },
+    "rmcbee": {
+      "username": "rmcbee",
+      "usernameLower": "rmcbee",
+      "passwordSalt": "9HPkRlXL6XoKbE8Nytc4DUko9Lm2Bl1g",
+      "passwordHash": "1fd1b2dd1a412733861d069b9b121538d2e60bf746e5ddfe48043f23b8fb0439",
+      "avatarCode": "B461-T36-W24-R10-L3-N44-U48-X8-F85-C0",
+      "collectionId": "",
+      "collectionTitle": "rmcbee",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-28T00:06:34.192908Z",
+      "updatedAt": "2026-09-28T00:06:34.192917Z"
     }
   },
   "posts": [],
@@ -5288,6 +5301,17 @@
       "username": "drud",
       "avatar_code": "B736-T25-W37-R49-L0-N13-U45-X7-F12-C0",
       "joined_at": "2026-09-27T20:21:58.712575Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "rmcbee": {
+      "username": "rmcbee",
+      "avatar_code": "B461-T36-W24-R10-L3-N44-U48-X8-F85-C0",
+      "joined_at": "2026-09-28T00:06:34.192908Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
