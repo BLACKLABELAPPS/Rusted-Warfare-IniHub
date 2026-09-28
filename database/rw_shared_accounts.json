@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28T16:54:41.466538Z",
+  "updatedAt": "2026-09-28T17:00:49.772724Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1561,6 +1561,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-28T10:01:02.127845Z",
       "updatedAt": "2026-09-28T10:01:02.127889Z"
+    },
+    "stiletto": {
+      "username": "Stiletto",
+      "usernameLower": "stiletto",
+      "passwordSalt": "9EXLRrm3j5TOiriAZhzgBFYrzshFBUod",
+      "passwordHash": "268536647ec39f8b2de1da047fc1a9957c2d56a0e4d74c6ef2d6b719005969fb",
+      "avatarCode": "B637-T16-W46-R32-L4-N16-U38-X42-F61-C0",
+      "collectionId": "",
+      "collectionTitle": "Stiletto",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-28T17:00:49.772667Z",
+      "updatedAt": "2026-09-28T17:00:49.772675Z"
     }
   },
   "posts": [],
@@ -5336,6 +5349,17 @@
       "username": "dftrts",
       "avatar_code": "B198-T1-W45-R25-L1-N1-U15-X45-F42-C0",
       "joined_at": "2026-09-28T10:01:02.127845Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "stiletto": {
+      "username": "Stiletto",
+      "avatar_code": "B637-T16-W46-R32-L4-N16-U38-X42-F61-C0",
+      "joined_at": "2026-09-28T17:00:49.772667Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
