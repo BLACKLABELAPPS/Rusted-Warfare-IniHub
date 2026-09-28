@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28T15:43:30.511014Z",
+  "updatedAt": "2026-09-28T15:43:56.711562Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5396,17 +5396,18 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
+        "https://francisco-rarely-smoking-accept.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-28T15:43:30.509025Z",
-      "publicUrl": "https://jaguar-officers-personality-governments.trycloudflare.com",
-      "executorUrl": "https://jaguar-officers-personality-governments.trycloudflare.com",
+      "updatedAt": "2026-09-28T15:43:56.711562Z",
+      "publicUrl": "https://francisco-rarely-smoking-accept.trycloudflare.com",
+      "executorUrl": "https://francisco-rarely-smoking-accept.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-28T15:30:20.440462Z"
+      "lastSeenAt": "2026-09-28T15:43:40.922246Z"
     }
   },
   "premiumEntitlements": {
