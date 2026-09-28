@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28T00:06:34.192958Z",
+  "updatedAt": "2026-09-28T00:41:39.380760Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5372,13 +5372,12 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
-        "https://sleeping-camel-bringing-iii.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-27T23:52:12.445706Z",
+      "updatedAt": "2026-09-28T00:41:39.378762Z",
       "publicUrl": "https://sleeping-camel-bringing-iii.trycloudflare.com",
       "executorUrl": "https://sleeping-camel-bringing-iii.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
