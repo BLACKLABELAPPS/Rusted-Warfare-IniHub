@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-29T05:12:00.167333Z",
+  "updatedAt": "2026-09-29T06:15:14.429257Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5444,13 +5444,12 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
-        "https://nelson-seattle-participant-flowers.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-29T05:12:00.167333Z",
+      "updatedAt": "2026-09-29T06:15:14.428266Z",
       "publicUrl": "https://nelson-seattle-participant-flowers.trycloudflare.com",
       "executorUrl": "https://nelson-seattle-participant-flowers.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
