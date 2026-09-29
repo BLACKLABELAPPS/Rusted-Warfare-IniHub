@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-29T11:22:35.540769Z",
+  "updatedAt": "2026-09-29T11:22:42.278983Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5468,17 +5468,18 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
+        "https://sandra-opportunity-sunday-prescription.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-29T11:22:35.539777Z",
-      "publicUrl": "https://api.trycloudflare.com",
-      "executorUrl": "https://api.trycloudflare.com",
+      "updatedAt": "2026-09-29T11:22:42.277962Z",
+      "publicUrl": "https://sandra-opportunity-sunday-prescription.trycloudflare.com",
+      "executorUrl": "https://sandra-opportunity-sunday-prescription.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-29T11:14:48.853625Z"
+      "lastSeenAt": "2026-09-29T11:22:38.236990Z"
     }
   },
   "premiumEntitlements": {
