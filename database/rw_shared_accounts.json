@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-29T11:07:05.923700Z",
+  "updatedAt": "2026-09-29T11:07:12.202780Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5468,17 +5468,18 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
+        "https://preview-influences-share-dem.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-29T11:07:05.922675Z",
-      "publicUrl": "https://africa-str-bigger-montgomery.trycloudflare.com",
-      "executorUrl": "https://africa-str-bigger-montgomery.trycloudflare.com",
+      "updatedAt": "2026-09-29T11:07:12.202780Z",
+      "publicUrl": "https://preview-influences-share-dem.trycloudflare.com",
+      "executorUrl": "https://preview-influences-share-dem.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-29T06:47:27.549553Z"
+      "lastSeenAt": "2026-09-29T11:07:09.527595Z"
     }
   },
   "premiumEntitlements": {
