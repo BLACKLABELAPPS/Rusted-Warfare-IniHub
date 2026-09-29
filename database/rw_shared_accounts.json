@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-29T15:42:52.134382Z",
+  "updatedAt": "2026-09-29T15:42:59.291855Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5468,17 +5468,18 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
+        "https://private-sustainable-aware-literary.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-29T15:42:52.132392Z",
-      "publicUrl": "https://riders-highways-stable-comments.trycloudflare.com",
-      "executorUrl": "https://riders-highways-stable-comments.trycloudflare.com",
+      "updatedAt": "2026-09-29T15:42:59.291855Z",
+      "publicUrl": "https://private-sustainable-aware-literary.trycloudflare.com",
+      "executorUrl": "https://private-sustainable-aware-literary.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-29T15:36:48.609866Z"
+      "lastSeenAt": "2026-09-29T15:42:58.232431Z"
     }
   },
   "premiumEntitlements": {
