@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-29T03:38:38.293933Z",
+  "updatedAt": "2026-09-29T03:58:13.929752Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5444,13 +5444,12 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
-        "https://kidney-money-selling-lift.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-29T03:38:38.293933Z",
+      "updatedAt": "2026-09-29T03:58:13.927766Z",
       "publicUrl": "https://kidney-money-selling-lift.trycloudflare.com",
       "executorUrl": "https://kidney-money-selling-lift.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
