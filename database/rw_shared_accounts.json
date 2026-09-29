@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-29T06:47:22.957221Z",
+  "updatedAt": "2026-09-29T06:47:29.198107Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5444,17 +5444,18 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
+        "https://africa-str-bigger-montgomery.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-29T06:47:22.956227Z",
-      "publicUrl": "https://suited-documentary-redhead-mattress.trycloudflare.com",
-      "executorUrl": "https://suited-documentary-redhead-mattress.trycloudflare.com",
+      "updatedAt": "2026-09-29T06:47:29.198107Z",
+      "publicUrl": "https://africa-str-bigger-montgomery.trycloudflare.com",
+      "executorUrl": "https://africa-str-bigger-montgomery.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-29T06:15:18.224117Z"
+      "lastSeenAt": "2026-09-29T06:47:27.549553Z"
     }
   },
   "premiumEntitlements": {
