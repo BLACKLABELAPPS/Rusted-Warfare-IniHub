@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-29T18:23:07.551556Z",
+  "updatedAt": "2026-09-29T21:25:36.126599Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5492,13 +5492,12 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
-        "https://statement-thompson-members-married.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-29T16:48:16.111756Z",
+      "updatedAt": "2026-09-29T21:25:36.124612Z",
       "publicUrl": "https://statement-thompson-members-married.trycloudflare.com",
       "executorUrl": "https://statement-thompson-members-married.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
