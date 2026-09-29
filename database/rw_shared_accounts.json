@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-29T10:02:26.694405Z",
+  "updatedAt": "2026-09-29T11:07:05.923700Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5468,13 +5468,12 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
-        "https://africa-str-bigger-montgomery.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-29T06:47:29.198107Z",
+      "updatedAt": "2026-09-29T11:07:05.922675Z",
       "publicUrl": "https://africa-str-bigger-montgomery.trycloudflare.com",
       "executorUrl": "https://africa-str-bigger-montgomery.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
