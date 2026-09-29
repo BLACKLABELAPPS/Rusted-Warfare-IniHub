@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28T23:30:33.267800Z",
+  "updatedAt": "2026-09-29T01:21:20.053148Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1574,6 +1574,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-28T17:00:49.772667Z",
       "updatedAt": "2026-09-28T17:00:49.772675Z"
+    },
+    "detherck": {
+      "username": "detherck",
+      "usernameLower": "detherck",
+      "passwordSalt": "GiEld4WRWfeh3w3VTn0mT3acVDCSv0Mx",
+      "passwordHash": "7f4b619c4f5a07152389024e0c09aa22d1a939ac194c93545f012498fda68c1a",
+      "avatarCode": "B409-T44-W14-R32-L1-N8-U2-X20-F49-C0",
+      "collectionId": "",
+      "collectionTitle": "detherck",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-29T01:21:20.053097Z",
+      "updatedAt": "2026-09-29T01:21:20.053106Z"
     }
   },
   "posts": [],
@@ -5360,6 +5373,17 @@
       "username": "Stiletto",
       "avatar_code": "B637-T16-W46-R32-L4-N16-U38-X42-F61-C0",
       "joined_at": "2026-09-28T17:00:49.772667Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "detherck": {
+      "username": "detherck",
+      "avatar_code": "B409-T44-W14-R32-L1-N8-U2-X20-F49-C0",
+      "joined_at": "2026-09-29T01:21:20.053097Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
