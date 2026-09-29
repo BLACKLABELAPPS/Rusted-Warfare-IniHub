@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-29T01:21:20.053148Z",
+  "updatedAt": "2026-09-29T02:40:34.865865Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5444,13 +5444,12 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
-        "https://steal-magic-making-storm.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-28T23:30:33.267800Z",
+      "updatedAt": "2026-09-29T02:40:34.863871Z",
       "publicUrl": "https://steal-magic-making-storm.trycloudflare.com",
       "executorUrl": "https://steal-magic-making-storm.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
