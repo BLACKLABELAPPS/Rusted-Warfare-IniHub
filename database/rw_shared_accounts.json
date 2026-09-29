@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-29T04:59:18.741855Z",
+  "updatedAt": "2026-09-29T05:11:53.435899Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5444,13 +5444,12 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
-        "https://atlantic-medicare-casey-cars.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-29T04:59:18.741855Z",
+      "updatedAt": "2026-09-29T05:11:53.433906Z",
       "publicUrl": "https://atlantic-medicare-casey-cars.trycloudflare.com",
       "executorUrl": "https://atlantic-medicare-casey-cars.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
