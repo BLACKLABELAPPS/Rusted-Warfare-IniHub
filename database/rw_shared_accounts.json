@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-29T11:28:59.452211Z",
+  "updatedAt": "2026-09-29T14:52:46.001849Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5468,13 +5468,12 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
-        "https://dsl-kevin-gst-indianapolis.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-29T11:28:59.451219Z",
+      "updatedAt": "2026-09-29T14:52:46.000881Z",
       "publicUrl": "https://dsl-kevin-gst-indianapolis.trycloudflare.com",
       "executorUrl": "https://dsl-kevin-gst-indianapolis.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
