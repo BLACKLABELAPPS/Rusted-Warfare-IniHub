@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-29T02:40:34.865865Z",
+  "updatedAt": "2026-09-29T02:40:42.629180Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5444,17 +5444,18 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
+        "https://leaving-subcommittee-databases-therapy.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-29T02:40:34.863871Z",
-      "publicUrl": "https://steal-magic-making-storm.trycloudflare.com",
-      "executorUrl": "https://steal-magic-making-storm.trycloudflare.com",
+      "updatedAt": "2026-09-29T02:40:42.629180Z",
+      "publicUrl": "https://leaving-subcommittee-databases-therapy.trycloudflare.com",
+      "executorUrl": "https://leaving-subcommittee-databases-therapy.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-28T23:30:29.689013Z"
+      "lastSeenAt": "2026-09-29T02:40:39.728964Z"
     }
   },
   "premiumEntitlements": {
