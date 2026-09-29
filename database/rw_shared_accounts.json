@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-29T14:52:52.103412Z",
+  "updatedAt": "2026-09-29T15:36:43.695836Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5468,13 +5468,12 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
-        "https://after-helps-hawk-bryant.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-29T14:52:52.103412Z",
+      "updatedAt": "2026-09-29T15:36:43.693848Z",
       "publicUrl": "https://after-helps-hawk-bryant.trycloudflare.com",
       "executorUrl": "https://after-helps-hawk-bryant.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
