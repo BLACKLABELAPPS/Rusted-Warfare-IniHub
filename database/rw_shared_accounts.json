@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-29T11:07:12.202780Z",
+  "updatedAt": "2026-09-29T11:14:29.621162Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5468,13 +5468,12 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
-        "https://preview-influences-share-dem.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-29T11:07:12.202780Z",
+      "updatedAt": "2026-09-29T11:14:29.619172Z",
       "publicUrl": "https://preview-influences-share-dem.trycloudflare.com",
       "executorUrl": "https://preview-influences-share-dem.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
