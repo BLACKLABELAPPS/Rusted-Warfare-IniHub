@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-29T16:48:16.111756Z",
+  "updatedAt": "2026-09-29T18:23:07.551556Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1600,6 +1600,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-29T10:02:26.694309Z",
       "updatedAt": "2026-09-29T10:02:26.694331Z"
+    },
+    "dixon": {
+      "username": "dixon",
+      "usernameLower": "dixon",
+      "passwordSalt": "at5XPpK27ibuojKYaJPrMoSEmst58vdm",
+      "passwordHash": "f9a6e50cbcb4abfacb0da61980038b08b79a39987435132d237e787df8d3cdee",
+      "avatarCode": "B421-T28-W24-R44-L3-N36-U34-X0-F49-C0",
+      "collectionId": "",
+      "collectionTitle": "dixon",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-29T18:23:07.551504Z",
+      "updatedAt": "2026-09-29T18:23:07.551519Z"
     }
   },
   "posts": [],
@@ -5408,6 +5421,17 @@
       "username": "john_phoeyu1",
       "avatar_code": "B844-T37-W31-R45-L1-N19-U29-X39-F68-C0",
       "joined_at": "2026-09-29T10:02:26.694309Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "dixon": {
+      "username": "dixon",
+      "avatar_code": "B421-T28-W24-R44-L3-N36-U34-X0-F49-C0",
+      "joined_at": "2026-09-29T18:23:07.551504Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
