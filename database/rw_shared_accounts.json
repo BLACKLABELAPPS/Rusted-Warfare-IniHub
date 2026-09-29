@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-29T22:17:45.732461Z",
+  "updatedAt": "2026-09-29T23:25:19.858599Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5492,13 +5492,12 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
-        "https://constant-any-veterans-dollars.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-29T22:17:45.732461Z",
+      "updatedAt": "2026-09-29T23:25:19.857787Z",
       "publicUrl": "https://constant-any-veterans-dollars.trycloudflare.com",
       "executorUrl": "https://constant-any-veterans-dollars.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
