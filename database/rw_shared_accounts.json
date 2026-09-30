@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-30T20:34:02.331434Z",
+  "updatedAt": "2026-09-30T20:34:14.791895Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5540,17 +5540,18 @@
         "http://192.168.0.103:8765"
       ],
       "executorUrls": [
+        "https://looked-salem-meter-partners.trycloudflare.com",
         "http://26.70.67.195:8765",
         "http://192.168.0.103:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-30T20:34:02.331434Z",
-      "publicUrl": "https://newer-flag-geology-pocket.trycloudflare.com",
-      "executorUrl": "https://newer-flag-geology-pocket.trycloudflare.com",
+      "updatedAt": "2026-09-30T20:34:14.791895Z",
+      "publicUrl": "https://looked-salem-meter-partners.trycloudflare.com",
+      "executorUrl": "https://looked-salem-meter-partners.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-30T16:31:43.203986Z"
+      "lastSeenAt": "2026-09-30T20:34:14.266956Z"
     }
   },
   "premiumEntitlements": {
