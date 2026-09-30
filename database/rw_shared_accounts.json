@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-30T16:31:43.860877Z",
+  "updatedAt": "2026-09-30T17:08:42.329255Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5510,17 +5510,20 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.0.154:8765",
+      "lanUrl": "http://26.215.139.192:8765",
       "lanUrls": [
-        "http://192.168.0.154:8765"
+        "http://26.215.139.192:8765",
+        "http://10.67.3.14:8765",
+        "http://172.168.33.197:8765"
       ],
       "executorUrls": [
-        "https://newer-flag-geology-pocket.trycloudflare.com",
-        "http://192.168.0.154:8765"
+        "http://26.215.139.192:8765",
+        "http://10.67.3.14:8765",
+        "http://172.168.33.197:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-30T16:31:43.860877Z",
+      "updatedAt": "2026-09-30T17:08:42.329255Z",
       "publicUrl": "https://newer-flag-geology-pocket.trycloudflare.com",
       "executorUrl": "https://newer-flag-geology-pocket.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
