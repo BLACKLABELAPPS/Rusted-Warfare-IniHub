@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-30T00:53:32.767411Z",
+  "updatedAt": "2026-09-30T08:52:47.181590Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5486,19 +5486,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.137.1:8765",
+      "lanUrl": "http://192.168.1.2:8765",
       "lanUrls": [
-        "http://192.168.137.1:8765",
-        "http://192.168.1.5:8765"
+        "http://192.168.1.2:8765"
       ],
       "executorUrls": [
-        "https://fig-readers-morgan-buildings.trycloudflare.com",
-        "http://192.168.137.1:8765",
-        "http://192.168.1.5:8765"
+        "http://192.168.1.2:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-30T00:53:32.767411Z",
+      "updatedAt": "2026-09-30T08:52:47.181590Z",
       "publicUrl": "https://fig-readers-morgan-buildings.trycloudflare.com",
       "executorUrl": "https://fig-readers-morgan-buildings.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
