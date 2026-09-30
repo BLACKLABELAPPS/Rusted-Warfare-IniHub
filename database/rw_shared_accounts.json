@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-30T20:54:07.118339Z",
+  "updatedAt": "2026-09-30T21:32:48.165127Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5534,19 +5534,18 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://26.156.77.172:8765",
+      "lanUrl": "http://26.70.67.195:8765",
       "lanUrls": [
-        "http://26.156.77.172:8765",
-        "http://10.130.74.230:8765"
+        "http://26.70.67.195:8765",
+        "http://192.168.0.103:8765"
       ],
       "executorUrls": [
-        "https://cigarettes-emotional-thehun-applying.trycloudflare.com",
-        "http://26.156.77.172:8765",
-        "http://10.130.74.230:8765"
+        "http://26.70.67.195:8765",
+        "http://192.168.0.103:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-30T20:54:07.118339Z",
+      "updatedAt": "2026-09-30T21:32:48.165127Z",
       "publicUrl": "https://cigarettes-emotional-thehun-applying.trycloudflare.com",
       "executorUrl": "https://cigarettes-emotional-thehun-applying.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
