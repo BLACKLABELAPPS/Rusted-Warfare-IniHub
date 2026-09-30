@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-30T21:32:48.165127Z",
+  "updatedAt": "2026-09-30T21:32:53.330384Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5540,17 +5540,18 @@
         "http://192.168.0.103:8765"
       ],
       "executorUrls": [
+        "https://can-conclude-assessing-colours.trycloudflare.com",
         "http://26.70.67.195:8765",
         "http://192.168.0.103:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-30T21:32:48.165127Z",
-      "publicUrl": "https://cigarettes-emotional-thehun-applying.trycloudflare.com",
-      "executorUrl": "https://cigarettes-emotional-thehun-applying.trycloudflare.com",
+      "updatedAt": "2026-09-30T21:32:53.330384Z",
+      "publicUrl": "https://can-conclude-assessing-colours.trycloudflare.com",
+      "executorUrl": "https://can-conclude-assessing-colours.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-30T20:54:06.711002Z"
+      "lastSeenAt": "2026-09-30T21:32:52.667899Z"
     }
   },
   "premiumEntitlements": {
