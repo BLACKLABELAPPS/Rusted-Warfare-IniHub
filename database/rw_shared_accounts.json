@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-30T17:08:42.329255Z",
+  "updatedAt": "2026-09-30T17:28:13.295201Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1626,6 +1626,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-30T11:22:55.959577Z",
       "updatedAt": "2026-09-30T11:22:55.959587Z"
+    },
+    "miron": {
+      "username": "miron",
+      "usernameLower": "miron",
+      "passwordSalt": "jJc3HZELHcZnFxefe1jGraPsIwZMjUG9",
+      "passwordHash": "33f11df62bf945e90f7dc1a323c95264af69fa0df79f4c909095d212e2968b69",
+      "avatarCode": "B836-T15-W31-R41-L3-N15-U15-X21-F96-C0",
+      "collectionId": "",
+      "collectionTitle": "miron",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-09-30T17:28:13.295119Z",
+      "updatedAt": "2026-09-30T17:28:13.295133Z"
     }
   },
   "posts": [],
@@ -5456,6 +5469,17 @@
       "username": "andreyka",
       "avatar_code": "B912-T47-W5-R17-L2-N31-U35-X47-F52-C0",
       "joined_at": "2026-09-30T11:22:55.959577Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "miron": {
+      "username": "miron",
+      "avatar_code": "B836-T15-W31-R41-L3-N15-U15-X21-F96-C0",
+      "joined_at": "2026-09-30T17:28:13.295119Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
