@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-30T20:34:14.791895Z",
+  "updatedAt": "2026-09-30T20:38:35.783959Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5534,19 +5534,20 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://26.70.67.195:8765",
+      "lanUrl": "http://26.215.139.192:8765",
       "lanUrls": [
-        "http://26.70.67.195:8765",
-        "http://192.168.0.103:8765"
+        "http://26.215.139.192:8765",
+        "http://10.67.3.14:8765",
+        "http://172.168.33.197:8765"
       ],
       "executorUrls": [
-        "https://looked-salem-meter-partners.trycloudflare.com",
-        "http://26.70.67.195:8765",
-        "http://192.168.0.103:8765"
+        "http://26.215.139.192:8765",
+        "http://10.67.3.14:8765",
+        "http://172.168.33.197:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-30T20:34:14.791895Z",
+      "updatedAt": "2026-09-30T20:38:35.783959Z",
       "publicUrl": "https://looked-salem-meter-partners.trycloudflare.com",
       "executorUrl": "https://looked-salem-meter-partners.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
