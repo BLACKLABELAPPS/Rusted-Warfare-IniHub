@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-30T00:53:26.362589Z",
+  "updatedAt": "2026-09-30T00:53:32.767411Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5492,17 +5492,18 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
+        "https://fig-readers-morgan-buildings.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-09-30T00:53:26.360608Z",
-      "publicUrl": "https://additionally-standing-assistant-hide.trycloudflare.com",
-      "executorUrl": "https://additionally-standing-assistant-hide.trycloudflare.com",
+      "updatedAt": "2026-09-30T00:53:32.767411Z",
+      "publicUrl": "https://fig-readers-morgan-buildings.trycloudflare.com",
+      "executorUrl": "https://fig-readers-morgan-buildings.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-09-30T00:48:52.556007Z"
+      "lastSeenAt": "2026-09-30T00:53:30.105962Z"
     }
   },
   "premiumEntitlements": {
