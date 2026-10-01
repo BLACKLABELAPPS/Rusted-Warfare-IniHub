@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-01T18:09:09.727059Z",
+  "updatedAt": "2026-10-01T18:09:23.199318Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5600,16 +5600,17 @@
         "http://192.168.254.111:8765"
       ],
       "executorUrls": [
+        "https://dave-calls-latinas-istanbul.trycloudflare.com",
         "http://192.168.254.111:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-01T18:09:09.727059Z",
-      "publicUrl": "https://cope-purchase-indie-write.trycloudflare.com",
-      "executorUrl": "https://cope-purchase-indie-write.trycloudflare.com",
+      "updatedAt": "2026-10-01T18:09:23.199318Z",
+      "publicUrl": "https://dave-calls-latinas-istanbul.trycloudflare.com",
+      "executorUrl": "https://dave-calls-latinas-istanbul.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-01T18:03:00.479594Z"
+      "lastSeenAt": "2026-10-01T18:09:17.946510Z"
     }
   },
   "premiumEntitlements": {
