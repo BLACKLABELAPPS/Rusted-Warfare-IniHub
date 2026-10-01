@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-01T01:00:36.599801Z",
+  "updatedAt": "2026-10-01T06:05:00.122441Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1639,6 +1639,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-09-30T17:28:13.295119Z",
       "updatedAt": "2026-09-30T17:28:13.295133Z"
+    },
+    "kupfernhammer2008": {
+      "username": "kupfernHammer2008",
+      "usernameLower": "kupfernhammer2008",
+      "passwordSalt": "dqU9DXW9rOnkl2OjNBGJgmUDfXjcS5rw",
+      "passwordHash": "e98fe4ccc45b4d0e1cdb4906913750929225ff4220fe9e9842d64269b35b9bc5",
+      "avatarCode": "B476-T17-W17-R39-L4-N27-U33-X23-F4-C0",
+      "collectionId": "",
+      "collectionTitle": "kupfernHammer2008",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-01T06:05:00.122011Z",
+      "updatedAt": "2026-10-01T06:05:00.122363Z"
     }
   },
   "posts": [],
@@ -5493,6 +5506,17 @@
       "username": "miron",
       "avatar_code": "B836-T15-W31-R41-L3-N15-U15-X21-F96-C0",
       "joined_at": "2026-09-30T17:28:13.295119Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "kupfernhammer2008": {
+      "username": "kupfernHammer2008",
+      "avatar_code": "B476-T17-W17-R39-L4-N27-U33-X23-F4-C0",
+      "joined_at": "2026-10-01T06:05:00.122011Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
