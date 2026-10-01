@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-01T18:03:01.769844Z",
+  "updatedAt": "2026-10-01T18:09:09.727059Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5600,12 +5600,11 @@
         "http://192.168.254.111:8765"
       ],
       "executorUrls": [
-        "https://cope-purchase-indie-write.trycloudflare.com",
         "http://192.168.254.111:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-01T18:03:01.769844Z",
+      "updatedAt": "2026-10-01T18:09:09.727059Z",
       "publicUrl": "https://cope-purchase-indie-write.trycloudflare.com",
       "executorUrl": "https://cope-purchase-indie-write.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
