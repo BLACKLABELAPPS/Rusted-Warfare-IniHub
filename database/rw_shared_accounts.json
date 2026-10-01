@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-01T18:12:25.242396Z",
+  "updatedAt": "2026-10-01T18:18:54.990072Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5600,12 +5600,11 @@
         "http://192.168.254.111:8765"
       ],
       "executorUrls": [
-        "https://door-receives-pierce-garage.trycloudflare.com",
         "http://192.168.254.111:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-01T18:12:25.242396Z",
+      "updatedAt": "2026-10-01T18:18:54.990072Z",
       "publicUrl": "https://door-receives-pierce-garage.trycloudflare.com",
       "executorUrl": "https://door-receives-pierce-garage.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
