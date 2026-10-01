@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-30T21:32:53.330384Z",
+  "updatedAt": "2026-10-01T01:00:36.599801Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3720,6 +3720,19 @@
         "directory": "",
         "zipAndElements": "",
         "urlImage": "https://images.steamusercontent.com/ugc/13471881521150072249/E1632F008C408C531FDD1821958A7FA14992BC33/",
+        "source": "favorite"
+      }
+    ],
+    "astalis": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3767852532&appid=647960",
+        "title": "MalTockmachka",
+        "date": "01/10/2026",
+        "time": "07:58:57",
+        "type": "Maps",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/12066740191119427246/014D6F553E358CFC5FEC9F53E4A935AEB24A55C0/",
         "source": "favorite"
       }
     ]
