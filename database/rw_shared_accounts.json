@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-01T18:12:17.745243Z",
+  "updatedAt": "2026-10-01T18:12:25.242396Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5600,16 +5600,17 @@
         "http://192.168.254.111:8765"
       ],
       "executorUrls": [
+        "https://door-receives-pierce-garage.trycloudflare.com",
         "http://192.168.254.111:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-01T18:12:17.745243Z",
-      "publicUrl": "https://dave-calls-latinas-istanbul.trycloudflare.com",
-      "executorUrl": "https://dave-calls-latinas-istanbul.trycloudflare.com",
+      "updatedAt": "2026-10-01T18:12:25.242396Z",
+      "publicUrl": "https://door-receives-pierce-garage.trycloudflare.com",
+      "executorUrl": "https://door-receives-pierce-garage.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-01T18:09:17.946510Z"
+      "lastSeenAt": "2026-10-01T18:12:24.494048Z"
     }
   },
   "premiumEntitlements": {
