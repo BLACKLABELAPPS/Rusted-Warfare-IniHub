@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-01T18:18:54.990072Z",
+  "updatedAt": "2026-10-01T18:19:04.455067Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5600,16 +5600,17 @@
         "http://192.168.254.111:8765"
       ],
       "executorUrls": [
+        "https://advised-speak-hudson-hearts.trycloudflare.com",
         "http://192.168.254.111:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-01T18:18:54.990072Z",
-      "publicUrl": "https://door-receives-pierce-garage.trycloudflare.com",
-      "executorUrl": "https://door-receives-pierce-garage.trycloudflare.com",
+      "updatedAt": "2026-10-01T18:19:04.455067Z",
+      "publicUrl": "https://advised-speak-hudson-hearts.trycloudflare.com",
+      "executorUrl": "https://advised-speak-hudson-hearts.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-01T18:12:24.494048Z"
+      "lastSeenAt": "2026-10-01T18:19:03.635535Z"
     }
   },
   "premiumEntitlements": {
