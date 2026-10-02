@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-02T18:51:39.988304Z",
+  "updatedAt": "2026-10-02T19:03:33.661338Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1717,6 +1717,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-02T14:47:39.930928Z",
       "updatedAt": "2026-10-02T14:47:39.930937Z"
+    },
+    "ismapola2": {
+      "username": "ismapola2",
+      "usernameLower": "ismapola2",
+      "passwordSalt": "T0e0LfhDXfvSPddn1dwf1ieLQld6Efye",
+      "passwordHash": "286e97188c05bd7f3babe59590ee4d08a45e0ef91c8edc091af36cc89d329aed",
+      "avatarCode": "B943-T30-W22-R12-L1-N16-U16-X42-F67-C0",
+      "collectionId": "",
+      "collectionTitle": "ismapola2",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-02T19:03:33.661254Z",
+      "updatedAt": "2026-10-02T19:03:33.661272Z"
     }
   },
   "posts": [],
@@ -5650,6 +5663,17 @@
       "username": "ZBD04ALover",
       "avatar_code": "B442-T43-W37-R19-L3-N43-U21-X3-F34-C0",
       "joined_at": "2026-10-02T14:47:39.930928Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "ismapola2": {
+      "username": "ismapola2",
+      "avatar_code": "B943-T30-W22-R12-L1-N16-U16-X42-F67-C0",
+      "joined_at": "2026-10-02T19:03:33.661254Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
