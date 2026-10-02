@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-02T10:17:58.575834Z",
+  "updatedAt": "2026-10-02T10:39:34.511721Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3798,6 +3798,19 @@
         "directory": "",
         "zipAndElements": "",
         "urlImage": "https://images.steamusercontent.com/ugc/12066740191119427246/014D6F553E358CFC5FEC9F53E4A935AEB24A55C0/",
+        "source": "favorite"
+      }
+    ],
+    "darkanee": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3811813399&appid=647960",
+        "title": "workshop_3811813399",
+        "date": "02/10/2026",
+        "time": "17:39:32",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "",
         "source": "favorite"
       }
     ]
