@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-02T14:47:39.930989Z",
+  "updatedAt": "2026-10-02T14:51:50.848493Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5704,19 +5704,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://26.171.215.35:8765",
+      "lanUrl": "http://192.168.254.106:8765",
       "lanUrls": [
-        "http://26.171.215.35:8765",
-        "http://192.168.1.24:8765"
+        "http://192.168.254.106:8765"
       ],
       "executorUrls": [
-        "https://plumbing-nashville-lion-pediatric.trycloudflare.com",
-        "http://26.171.215.35:8765",
-        "http://192.168.1.24:8765"
+        "http://192.168.254.106:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-02T13:56:16.525285Z",
+      "updatedAt": "2026-10-02T14:51:50.848493Z",
       "publicUrl": "https://plumbing-nashville-lion-pediatric.trycloudflare.com",
       "executorUrl": "https://plumbing-nashville-lion-pediatric.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
