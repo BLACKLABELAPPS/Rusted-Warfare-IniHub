@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-02T13:56:05.663889Z",
+  "updatedAt": "2026-10-02T13:56:16.525285Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5686,17 +5686,18 @@
         "http://192.168.1.24:8765"
       ],
       "executorUrls": [
+        "https://plumbing-nashville-lion-pediatric.trycloudflare.com",
         "http://26.171.215.35:8765",
         "http://192.168.1.24:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-02T13:56:05.663889Z",
-      "publicUrl": "https://farmers-administration-base-enrolled.trycloudflare.com",
-      "executorUrl": "https://farmers-administration-base-enrolled.trycloudflare.com",
+      "updatedAt": "2026-10-02T13:56:16.525285Z",
+      "publicUrl": "https://plumbing-nashville-lion-pediatric.trycloudflare.com",
+      "executorUrl": "https://plumbing-nashville-lion-pediatric.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-02T06:38:17.928608Z"
+      "lastSeenAt": "2026-10-02T13:56:16.124715Z"
     }
   },
   "premiumEntitlements": {
