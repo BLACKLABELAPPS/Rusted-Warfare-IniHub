@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-02T13:56:16.525285Z",
+  "updatedAt": "2026-10-02T14:47:39.930989Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1704,6 +1704,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-02T10:17:58.575769Z",
       "updatedAt": "2026-10-02T10:17:58.575779Z"
+    },
+    "zbd04alover": {
+      "username": "ZBD04ALover",
+      "usernameLower": "zbd04alover",
+      "passwordSalt": "afsfeDkNFh7SgRi75Ns4ejSHkM6WyUv0",
+      "passwordHash": "637813d76849604498eede113e7d84712ae1a5e222e4980e3d52a9c7217d6045",
+      "avatarCode": "B442-T43-W37-R19-L3-N43-U21-X3-F34-C0",
+      "collectionId": "",
+      "collectionTitle": "ZBD04ALover",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-02T14:47:39.930928Z",
+      "updatedAt": "2026-10-02T14:47:39.930937Z"
     }
   },
   "posts": [],
@@ -5626,6 +5639,17 @@
       "username": "Darkanee",
       "avatar_code": "B222-T39-W15-R45-L4-N3-U49-X37-F62-C0",
       "joined_at": "2026-10-02T10:17:58.575769Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "zbd04alover": {
+      "username": "ZBD04ALover",
+      "avatar_code": "B442-T43-W37-R19-L3-N43-U21-X3-F34-C0",
+      "joined_at": "2026-10-02T14:47:39.930928Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
