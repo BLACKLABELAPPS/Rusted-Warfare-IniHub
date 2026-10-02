@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-02T07:18:54.897184Z",
+  "updatedAt": "2026-10-02T08:31:47.823300Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1678,6 +1678,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-02T07:18:54.897118Z",
       "updatedAt": "2026-10-02T07:18:54.897126Z"
+    },
+    "manligawan": {
+      "username": "manligawan",
+      "usernameLower": "manligawan",
+      "passwordSalt": "lthio9H4aAwK2xsmDhRvAUrLZ5ezYnQ1",
+      "passwordHash": "792f07a5bf6f2d369793f406ca309f018ae71fef84b3102efc86f3edf57809ca",
+      "avatarCode": "B704-T43-W43-R17-L2-N31-U37-X29-F16-C0",
+      "collectionId": "",
+      "collectionTitle": "manligawan",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-02T08:31:47.823146Z",
+      "updatedAt": "2026-10-02T08:31:47.823163Z"
     }
   },
   "posts": [],
@@ -5565,6 +5578,17 @@
       "username": "009",
       "avatar_code": "B430-T37-W41-R25-L1-N47-U43-X27-F42-C0",
       "joined_at": "2026-10-02T07:18:54.897118Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "manligawan": {
+      "username": "manligawan",
+      "avatar_code": "B704-T43-W43-R17-L2-N31-U37-X29-F16-C0",
+      "joined_at": "2026-10-02T08:31:47.823146Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
