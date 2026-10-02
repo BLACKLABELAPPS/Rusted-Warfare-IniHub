@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-02T18:51:34.650130Z",
+  "updatedAt": "2026-10-02T18:51:39.988304Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5709,16 +5709,17 @@
         "http://192.168.254.106:8765"
       ],
       "executorUrls": [
+        "https://super-phil-parameters-paint.trycloudflare.com",
         "http://192.168.254.106:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-02T18:51:34.650130Z",
-      "publicUrl": "https://wondering-simulation-longitude-gaps.trycloudflare.com",
-      "executorUrl": "https://wondering-simulation-longitude-gaps.trycloudflare.com",
+      "updatedAt": "2026-10-02T18:51:39.988304Z",
+      "publicUrl": "https://super-phil-parameters-paint.trycloudflare.com",
+      "executorUrl": "https://super-phil-parameters-paint.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-02T14:51:50.713877Z"
+      "lastSeenAt": "2026-10-02T18:51:39.207008Z"
     }
   },
   "premiumEntitlements": {
