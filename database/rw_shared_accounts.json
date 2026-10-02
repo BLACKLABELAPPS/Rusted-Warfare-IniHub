@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-02T14:51:50.848493Z",
+  "updatedAt": "2026-10-02T14:52:10.352104Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5709,16 +5709,17 @@
         "http://192.168.254.106:8765"
       ],
       "executorUrls": [
+        "https://wondering-simulation-longitude-gaps.trycloudflare.com",
         "http://192.168.254.106:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-02T14:51:50.848493Z",
-      "publicUrl": "https://plumbing-nashville-lion-pediatric.trycloudflare.com",
-      "executorUrl": "https://plumbing-nashville-lion-pediatric.trycloudflare.com",
+      "updatedAt": "2026-10-02T14:52:10.352104Z",
+      "publicUrl": "https://wondering-simulation-longitude-gaps.trycloudflare.com",
+      "executorUrl": "https://wondering-simulation-longitude-gaps.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-02T13:56:16.124715Z"
+      "lastSeenAt": "2026-10-02T14:51:50.713877Z"
     }
   },
   "premiumEntitlements": {
