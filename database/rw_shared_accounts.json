@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-03T23:39:29.212313Z",
+  "updatedAt": "2026-10-03T23:39:34.879040Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5794,16 +5794,17 @@
         "http://192.168.254.102:8765"
       ],
       "executorUrls": [
+        "https://requested-author-anymore-doctrine.trycloudflare.com",
         "http://192.168.254.102:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-03T23:39:29.212313Z",
-      "publicUrl": "https://electronics-alan-gene-bars.trycloudflare.com",
-      "executorUrl": "https://electronics-alan-gene-bars.trycloudflare.com",
+      "updatedAt": "2026-10-03T23:39:34.879040Z",
+      "publicUrl": "https://requested-author-anymore-doctrine.trycloudflare.com",
+      "executorUrl": "https://requested-author-anymore-doctrine.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-03T11:30:09.149225Z"
+      "lastSeenAt": "2026-10-03T23:39:33.366272Z"
     }
   },
   "premiumEntitlements": {
