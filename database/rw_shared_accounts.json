@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-03T18:03:22.128907Z",
+  "updatedAt": "2026-10-03T23:39:29.212313Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5789,21 +5789,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://10.2.0.2:8765",
+      "lanUrl": "http://192.168.254.102:8765",
       "lanUrls": [
-        "http://10.2.0.2:8765",
-        "http://26.171.215.35:8765",
-        "http://192.168.1.40:8765"
+        "http://192.168.254.102:8765"
       ],
       "executorUrls": [
-        "https://electronics-alan-gene-bars.trycloudflare.com",
-        "http://10.2.0.2:8765",
-        "http://26.171.215.35:8765",
-        "http://192.168.1.40:8765"
+        "http://192.168.254.102:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-03T11:30:09.843536Z",
+      "updatedAt": "2026-10-03T23:39:29.212313Z",
       "publicUrl": "https://electronics-alan-gene-bars.trycloudflare.com",
       "executorUrl": "https://electronics-alan-gene-bars.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
