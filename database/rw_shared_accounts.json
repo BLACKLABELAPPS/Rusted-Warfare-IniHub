@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-03T23:39:34.879040Z",
+  "updatedAt": "2026-10-04T00:24:56.444678Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1756,6 +1756,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-03T18:03:22.128668Z",
       "updatedAt": "2026-10-03T18:03:22.128709Z"
+    },
+    "rwplayer2008": {
+      "username": "RWPlayer2008",
+      "usernameLower": "rwplayer2008",
+      "passwordSalt": "prfjQvfhReJGwQJqqycpFavgOUNSikS0",
+      "passwordHash": "e50cf5e0b16eb73ebd5951cff9ab1ec4bd9e57af0daf2af4d3473e9a89513833",
+      "avatarCode": "B955-T2-W46-R32-L4-N26-U22-X12-F95-C0",
+      "collectionId": "",
+      "collectionTitle": "RWPlayer2008",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-04T00:24:56.444486Z",
+      "updatedAt": "2026-10-04T00:24:56.444509Z"
     }
   },
   "posts": [],
@@ -5735,6 +5748,17 @@
       "username": "yiro",
       "avatar_code": "B730-T19-W25-R45-L1-N27-U35-X29-F18-C0",
       "joined_at": "2026-10-03T18:03:22.128668Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "rwplayer2008": {
+      "username": "RWPlayer2008",
+      "avatar_code": "B955-T2-W46-R32-L4-N26-U22-X12-F95-C0",
+      "joined_at": "2026-10-04T00:24:56.444486Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
