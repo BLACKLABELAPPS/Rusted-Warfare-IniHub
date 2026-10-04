@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-04T00:24:56.444678Z",
+  "updatedAt": "2026-10-04T04:23:28.730003Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1769,6 +1769,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-04T00:24:56.444486Z",
       "updatedAt": "2026-10-04T00:24:56.444509Z"
+    },
+    "zoroluffy": {
+      "username": "Zoroluffy",
+      "usernameLower": "zoroluffy",
+      "passwordSalt": "24DhU-uGng-1Kxqgf5SWQOkdsgHcGrRy",
+      "passwordHash": "02cb0c30638487e9a47833d7a3d7c41e78d1a444a843a70f798f288a06b60f2d",
+      "avatarCode": "B679-T16-W26-R14-L0-N16-U10-X40-F3-C0",
+      "collectionId": "",
+      "collectionTitle": "Zoroluffy",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-04T04:23:28.729261Z",
+      "updatedAt": "2026-10-04T04:23:28.729306Z"
     }
   },
   "posts": [],
@@ -5759,6 +5772,17 @@
       "username": "RWPlayer2008",
       "avatar_code": "B955-T2-W46-R32-L4-N26-U22-X12-F95-C0",
       "joined_at": "2026-10-04T00:24:56.444486Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "zoroluffy": {
+      "username": "Zoroluffy",
+      "avatar_code": "B679-T16-W26-R14-L0-N16-U10-X40-F3-C0",
+      "joined_at": "2026-10-04T04:23:28.729261Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
