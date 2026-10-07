@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-07T06:42:24.352090Z",
+  "updatedAt": "2026-10-07T06:42:57.390856Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3919,6 +3919,17 @@
       }
     ],
     "hashem": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2977675021&appid=647960",
+        "title": "Plague_Dynasty_mod_生化狂潮_瘟疫王朝mod",
+        "date": "07/10/2026",
+        "time": "10:12:52",
+        "type": "Maps",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/2063256497908882523/284CFA3BB35951F19545B4FF5E65DADBA2BCAF9F/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3048451411&appid=647960",
         "title": "Korean_Peninsula",
