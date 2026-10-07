@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-07T06:46:34.162110Z",
+  "updatedAt": "2026-10-07T06:49:31.602614Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3919,6 +3919,17 @@
       }
     ],
     "hashem": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2536284702&appid=647960",
+        "title": "workshop_2536284702",
+        "date": "07/10/2026",
+        "time": "10:19:28",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2887567995&appid=647960",
         "title": "STFU_COOP_PvE",
