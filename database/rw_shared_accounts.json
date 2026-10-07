@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-07T06:49:31.602614Z",
+  "updatedAt": "2026-10-07T06:58:02.994101Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3919,6 +3919,17 @@
       }
     ],
     "hashem": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1643250353&appid=647960",
+        "title": "workshop_1643250353",
+        "date": "07/10/2026",
+        "time": "10:27:55",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2536284702&appid=647960",
         "title": "workshop_2536284702",
