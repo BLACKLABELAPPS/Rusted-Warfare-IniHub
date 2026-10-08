@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-08T17:03:49.447598Z",
+  "updatedAt": "2026-10-08T17:07:28.226371Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6006,12 +6006,11 @@
         "http://10.60.204.185:8765"
       ],
       "executorUrls": [
-        "https://ann-patch-contacts-textbooks.trycloudflare.com",
         "http://10.60.204.185:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-08T17:03:49.447598Z",
+      "updatedAt": "2026-10-08T17:07:28.226371Z",
       "publicUrl": "https://ann-patch-contacts-textbooks.trycloudflare.com",
       "executorUrl": "https://ann-patch-contacts-textbooks.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
