@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-08T17:07:33.784851Z",
+  "updatedAt": "2026-10-08T17:24:47.642767Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6006,12 +6006,11 @@
         "http://10.60.204.185:8765"
       ],
       "executorUrls": [
-        "https://lisa-crawford-investigator-abstracts.trycloudflare.com",
         "http://10.60.204.185:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-08T17:07:33.784851Z",
+      "updatedAt": "2026-10-08T17:24:47.642767Z",
       "publicUrl": "https://lisa-crawford-investigator-abstracts.trycloudflare.com",
       "executorUrl": "https://lisa-crawford-investigator-abstracts.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
