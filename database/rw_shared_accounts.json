@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-08T17:07:28.226371Z",
+  "updatedAt": "2026-10-08T17:07:33.784851Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6006,16 +6006,17 @@
         "http://10.60.204.185:8765"
       ],
       "executorUrls": [
+        "https://lisa-crawford-investigator-abstracts.trycloudflare.com",
         "http://10.60.204.185:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-08T17:07:28.226371Z",
-      "publicUrl": "https://ann-patch-contacts-textbooks.trycloudflare.com",
-      "executorUrl": "https://ann-patch-contacts-textbooks.trycloudflare.com",
+      "updatedAt": "2026-10-08T17:07:33.784851Z",
+      "publicUrl": "https://lisa-crawford-investigator-abstracts.trycloudflare.com",
+      "executorUrl": "https://lisa-crawford-investigator-abstracts.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-08T17:03:48.699935Z"
+      "lastSeenAt": "2026-10-08T17:07:32.409163Z"
     }
   },
   "premiumEntitlements": {
