@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-08T17:24:51.917924Z",
+  "updatedAt": "2026-10-08T23:20:52.824563Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6001,17 +6001,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://10.60.204.185:8765",
+      "lanUrl": "http://192.168.1.12:8765",
       "lanUrls": [
-        "http://10.60.204.185:8765"
+        "http://192.168.1.12:8765"
       ],
       "executorUrls": [
-        "https://motors-interference-wisconsin-statewide.trycloudflare.com",
-        "http://10.60.204.185:8765"
+        "http://192.168.1.12:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-08T17:24:51.917924Z",
+      "updatedAt": "2026-10-08T23:20:52.824563Z",
       "publicUrl": "https://motors-interference-wisconsin-statewide.trycloudflare.com",
       "executorUrl": "https://motors-interference-wisconsin-statewide.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
