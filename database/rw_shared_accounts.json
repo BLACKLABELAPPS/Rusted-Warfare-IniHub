@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-08T16:08:14.602520Z",
+  "updatedAt": "2026-10-08T16:08:56.299238Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6007,17 +6007,18 @@
         "http://192.168.178.21:8765"
       ],
       "executorUrls": [
+        "https://shape-delicious-accuracy-dictionary.trycloudflare.com",
         "http://10.254.252.2:8765",
         "http://192.168.178.21:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-08T16:08:14.602520Z",
-      "publicUrl": "https://jenny-forms-attitudes-health.trycloudflare.com",
-      "executorUrl": "https://jenny-forms-attitudes-health.trycloudflare.com",
+      "updatedAt": "2026-10-08T16:08:56.299238Z",
+      "publicUrl": "https://shape-delicious-accuracy-dictionary.trycloudflare.com",
+      "executorUrl": "https://shape-delicious-accuracy-dictionary.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-07T22:22:32.431437Z"
+      "lastSeenAt": "2026-10-08T16:08:55.713719Z"
     }
   },
   "premiumEntitlements": {
