@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-08T17:01:43.426179Z",
+  "updatedAt": "2026-10-08T17:03:42.714543Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6006,12 +6006,11 @@
         "http://10.60.204.185:8765"
       ],
       "executorUrls": [
-        "https://sas-childhood-gratis-absolutely.trycloudflare.com",
         "http://10.60.204.185:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-08T17:01:43.426179Z",
+      "updatedAt": "2026-10-08T17:03:42.714543Z",
       "publicUrl": "https://sas-childhood-gratis-absolutely.trycloudflare.com",
       "executorUrl": "https://sas-childhood-gratis-absolutely.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
