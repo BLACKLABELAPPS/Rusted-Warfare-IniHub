@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-08T16:08:56.299238Z",
+  "updatedAt": "2026-10-08T16:59:49.440002Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6001,19 +6001,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://10.254.252.2:8765",
+      "lanUrl": "http://10.60.204.185:8765",
       "lanUrls": [
-        "http://10.254.252.2:8765",
-        "http://192.168.178.21:8765"
+        "http://10.60.204.185:8765"
       ],
       "executorUrls": [
-        "https://shape-delicious-accuracy-dictionary.trycloudflare.com",
-        "http://10.254.252.2:8765",
-        "http://192.168.178.21:8765"
+        "http://10.60.204.185:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-08T16:08:56.299238Z",
+      "updatedAt": "2026-10-08T16:59:49.440002Z",
       "publicUrl": "https://shape-delicious-accuracy-dictionary.trycloudflare.com",
       "executorUrl": "https://shape-delicious-accuracy-dictionary.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
