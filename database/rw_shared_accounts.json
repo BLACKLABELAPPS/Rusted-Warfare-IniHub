@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-08T16:59:49.440002Z",
+  "updatedAt": "2026-10-08T17:01:43.426179Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6006,16 +6006,17 @@
         "http://10.60.204.185:8765"
       ],
       "executorUrls": [
+        "https://sas-childhood-gratis-absolutely.trycloudflare.com",
         "http://10.60.204.185:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-08T16:59:49.440002Z",
-      "publicUrl": "https://shape-delicious-accuracy-dictionary.trycloudflare.com",
-      "executorUrl": "https://shape-delicious-accuracy-dictionary.trycloudflare.com",
+      "updatedAt": "2026-10-08T17:01:43.426179Z",
+      "publicUrl": "https://sas-childhood-gratis-absolutely.trycloudflare.com",
+      "executorUrl": "https://sas-childhood-gratis-absolutely.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-08T16:08:55.713719Z"
+      "lastSeenAt": "2026-10-08T17:01:41.627563Z"
     }
   },
   "premiumEntitlements": {
