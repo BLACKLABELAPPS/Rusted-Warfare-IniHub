@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-08T23:23:14.016778Z",
+  "updatedAt": "2026-10-09T03:26:49.866977Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6006,12 +6006,11 @@
         "http://192.168.1.12:8765"
       ],
       "executorUrls": [
-        "https://stainless-wins-division-logos.trycloudflare.com",
         "http://192.168.1.12:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-08T23:23:14.016778Z",
+      "updatedAt": "2026-10-09T03:26:49.866977Z",
       "publicUrl": "https://stainless-wins-division-logos.trycloudflare.com",
       "executorUrl": "https://stainless-wins-division-logos.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
