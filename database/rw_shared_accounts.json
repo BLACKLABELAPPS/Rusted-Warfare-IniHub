@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-09T22:37:39.410680Z",
+  "updatedAt": "2026-10-09T22:37:46.401824Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6006,16 +6006,17 @@
         "http://192.168.254.102:8765"
       ],
       "executorUrls": [
+        "https://demanding-advocate-sit-endangered.trycloudflare.com",
         "http://192.168.254.102:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-09T22:37:39.410680Z",
-      "publicUrl": "https://exemption-accepts-instructional-instructors.trycloudflare.com",
-      "executorUrl": "https://exemption-accepts-instructional-instructors.trycloudflare.com",
+      "updatedAt": "2026-10-09T22:37:46.401824Z",
+      "publicUrl": "https://demanding-advocate-sit-endangered.trycloudflare.com",
+      "executorUrl": "https://demanding-advocate-sit-endangered.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-09T14:36:57.408375Z"
+      "lastSeenAt": "2026-10-09T22:37:45.257424Z"
     }
   },
   "premiumEntitlements": {
