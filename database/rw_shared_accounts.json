@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T14:34:51.089272Z",
+  "updatedAt": "2026-10-10T14:34:57.200730Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6054,16 +6054,17 @@
         "http://192.168.1.12:8765"
       ],
       "executorUrls": [
+        "https://specialists-tons-rebates-titles.trycloudflare.com",
         "http://192.168.1.12:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-10T14:34:51.089272Z",
-      "publicUrl": "https://deeper-challenges-sanyo-apply.trycloudflare.com",
-      "executorUrl": "https://deeper-challenges-sanyo-apply.trycloudflare.com",
+      "updatedAt": "2026-10-10T14:34:57.200730Z",
+      "publicUrl": "https://specialists-tons-rebates-titles.trycloudflare.com",
+      "executorUrl": "https://specialists-tons-rebates-titles.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-10T14:30:01.505907Z"
+      "lastSeenAt": "2026-10-10T14:34:55.668790Z"
     }
   },
   "premiumEntitlements": {
