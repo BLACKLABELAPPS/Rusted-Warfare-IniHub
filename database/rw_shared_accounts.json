@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T14:30:02.587299Z",
+  "updatedAt": "2026-10-10T14:34:51.089272Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6054,12 +6054,11 @@
         "http://192.168.1.12:8765"
       ],
       "executorUrls": [
-        "https://deeper-challenges-sanyo-apply.trycloudflare.com",
         "http://192.168.1.12:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-10T14:30:02.586300Z",
+      "updatedAt": "2026-10-10T14:34:51.089272Z",
       "publicUrl": "https://deeper-challenges-sanyo-apply.trycloudflare.com",
       "executorUrl": "https://deeper-challenges-sanyo-apply.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
