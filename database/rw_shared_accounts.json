@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T14:37:58.787293Z",
+  "updatedAt": "2026-10-10T14:38:04.595515Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6054,16 +6054,17 @@
         "http://192.168.1.12:8765"
       ],
       "executorUrls": [
+        "https://prints-assurance-guided-floor.trycloudflare.com",
         "http://192.168.1.12:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-10T14:37:58.787293Z",
-      "publicUrl": "https://specialists-tons-rebates-titles.trycloudflare.com",
-      "executorUrl": "https://specialists-tons-rebates-titles.trycloudflare.com",
+      "updatedAt": "2026-10-10T14:38:04.595515Z",
+      "publicUrl": "https://prints-assurance-guided-floor.trycloudflare.com",
+      "executorUrl": "https://prints-assurance-guided-floor.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-10T14:34:55.668790Z"
+      "lastSeenAt": "2026-10-10T14:38:03.209126Z"
     }
   },
   "premiumEntitlements": {
