@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T16:01:27.103122Z",
+  "updatedAt": "2026-10-10T16:01:35.747795Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6055,17 +6055,18 @@
         "http://192.168.1.3:8765"
       ],
       "executorUrls": [
+        "https://eleven-puts-tracy-adam.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.3:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-10T16:01:27.101386Z",
-      "publicUrl": "https://higher-titanium-dicke-mortgage.trycloudflare.com",
-      "executorUrl": "https://higher-titanium-dicke-mortgage.trycloudflare.com",
+      "updatedAt": "2026-10-10T16:01:35.747795Z",
+      "publicUrl": "https://eleven-puts-tracy-adam.trycloudflare.com",
+      "executorUrl": "https://eleven-puts-tracy-adam.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-10T15:03:13.250907Z"
+      "lastSeenAt": "2026-10-10T16:01:32.387009Z"
     }
   },
   "premiumEntitlements": {
