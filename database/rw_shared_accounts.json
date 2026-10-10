@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T14:29:56.248241Z",
+  "updatedAt": "2026-10-10T14:30:02.587299Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6054,16 +6054,17 @@
         "http://192.168.1.12:8765"
       ],
       "executorUrls": [
+        "https://deeper-challenges-sanyo-apply.trycloudflare.com",
         "http://192.168.1.12:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-10T14:29:56.248241Z",
-      "publicUrl": "https://isaac-aquatic-zoloft-aquarium.trycloudflare.com",
-      "executorUrl": "https://isaac-aquatic-zoloft-aquarium.trycloudflare.com",
+      "updatedAt": "2026-10-10T14:30:02.586300Z",
+      "publicUrl": "https://deeper-challenges-sanyo-apply.trycloudflare.com",
+      "executorUrl": "https://deeper-challenges-sanyo-apply.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-10T14:18:47.851304Z"
+      "lastSeenAt": "2026-10-10T14:30:01.505907Z"
     }
   },
   "premiumEntitlements": {
