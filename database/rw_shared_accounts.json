@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T23:58:42.242627Z",
+  "updatedAt": "2026-10-10T23:58:48.860101Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6055,17 +6055,18 @@
         "http://192.168.1.3:8765"
       ],
       "executorUrls": [
+        "https://flip-elected-photos-muze.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.3:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-10T23:58:42.241629Z",
-      "publicUrl": "https://api.trycloudflare.com",
-      "executorUrl": "https://api.trycloudflare.com",
+      "updatedAt": "2026-10-10T23:58:48.860101Z",
+      "publicUrl": "https://flip-elected-photos-muze.trycloudflare.com",
+      "executorUrl": "https://flip-elected-photos-muze.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-10T21:51:40.290256Z"
+      "lastSeenAt": "2026-10-10T23:58:45.719741Z"
     }
   },
   "premiumEntitlements": {
