@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T21:03:52.151355Z",
+  "updatedAt": "2026-10-10T21:42:59.712304Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6049,19 +6049,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.137.1:8765",
+      "lanUrl": "http://192.168.1.208:8765",
       "lanUrls": [
-        "http://192.168.137.1:8765",
-        "http://192.168.1.3:8765"
+        "http://192.168.1.208:8765"
       ],
       "executorUrls": [
-        "https://once-affair-coupons-founder.trycloudflare.com",
-        "http://192.168.137.1:8765",
-        "http://192.168.1.3:8765"
+        "http://192.168.1.208:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-10T21:03:52.151355Z",
+      "updatedAt": "2026-10-10T21:42:59.712304Z",
       "publicUrl": "https://once-affair-coupons-founder.trycloudflare.com",
       "executorUrl": "https://once-affair-coupons-founder.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
