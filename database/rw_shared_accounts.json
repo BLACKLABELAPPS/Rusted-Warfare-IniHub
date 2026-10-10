@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T14:38:04.595515Z",
+  "updatedAt": "2026-10-10T14:38:32.814063Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6054,12 +6054,11 @@
         "http://192.168.1.12:8765"
       ],
       "executorUrls": [
-        "https://prints-assurance-guided-floor.trycloudflare.com",
         "http://192.168.1.12:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-10T14:38:04.595515Z",
+      "updatedAt": "2026-10-10T14:38:32.814063Z",
       "publicUrl": "https://prints-assurance-guided-floor.trycloudflare.com",
       "executorUrl": "https://prints-assurance-guided-floor.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
