@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T06:59:28.035725Z",
+  "updatedAt": "2026-10-10T12:18:57.993356Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1821,6 +1821,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-10T06:59:28.035618Z",
       "updatedAt": "2026-10-10T06:59:28.035662Z"
+    },
+    "good-jesus": {
+      "username": "Good-Jesus",
+      "usernameLower": "good-jesus",
+      "passwordSalt": "8SRF9zjeOZaVUJIAs9QIpZH7YSEPweOj",
+      "passwordHash": "9bae056658f335051cc4de436d47e678d1dafaca5cb41d86541828ef8c13872a",
+      "avatarCode": "B897-T24-W12-R46-L2-N32-U32-X2-F41-C0",
+      "collectionId": "",
+      "collectionTitle": "Good-Jesus",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-10T12:18:57.993292Z",
+      "updatedAt": "2026-10-10T12:18:57.993301Z"
     }
   },
   "posts": [],
@@ -5971,6 +5984,17 @@
       "username": "CydMhee",
       "avatar_code": "B202-T35-W47-R29-L3-N7-U49-X35-F94-C0",
       "joined_at": "2026-10-10T06:59:28.035618Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "good-jesus": {
+      "username": "Good-Jesus",
+      "avatar_code": "B897-T24-W12-R46-L2-N32-U32-X2-F41-C0",
+      "joined_at": "2026-10-10T12:18:57.993292Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
