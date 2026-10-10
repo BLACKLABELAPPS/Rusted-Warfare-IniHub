@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T14:18:48.914230Z",
+  "updatedAt": "2026-10-10T14:29:56.248241Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6054,12 +6054,11 @@
         "http://192.168.1.12:8765"
       ],
       "executorUrls": [
-        "https://isaac-aquatic-zoloft-aquarium.trycloudflare.com",
         "http://192.168.1.12:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-10T14:18:48.914230Z",
+      "updatedAt": "2026-10-10T14:29:56.248241Z",
       "publicUrl": "https://isaac-aquatic-zoloft-aquarium.trycloudflare.com",
       "executorUrl": "https://isaac-aquatic-zoloft-aquarium.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
