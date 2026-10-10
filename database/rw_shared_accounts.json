@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T02:36:09.454118Z",
+  "updatedAt": "2026-10-10T06:59:28.035725Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1808,6 +1808,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-07T20:19:31.858864Z",
       "updatedAt": "2026-10-07T20:19:31.859222Z"
+    },
+    "cydmhee": {
+      "username": "CydMhee",
+      "usernameLower": "cydmhee",
+      "passwordSalt": "rCADWLsNRv04xN_XZR23wmLsVRHUvO_g",
+      "passwordHash": "de3489db622a6521cefde9a6f43dc19e506ee74a1b06dcea1db3593608a3c0ed",
+      "avatarCode": "B202-T35-W47-R29-L3-N7-U49-X35-F94-C0",
+      "collectionId": "",
+      "collectionTitle": "CydMhee",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-10T06:59:28.035618Z",
+      "updatedAt": "2026-10-10T06:59:28.035662Z"
     }
   },
   "posts": [],
@@ -5947,6 +5960,17 @@
       "username": "Landon",
       "avatar_code": "B755-T34-W24-R10-L1-N22-U22-X8-F95-C0",
       "joined_at": "2026-10-07T20:19:31.858864Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "cydmhee": {
+      "username": "CydMhee",
+      "avatar_code": "B202-T35-W47-R29-L3-N7-U49-X35-F94-C0",
+      "joined_at": "2026-10-10T06:59:28.035618Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
