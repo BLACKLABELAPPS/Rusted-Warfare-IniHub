@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-11T13:00:57.695963Z",
+  "updatedAt": "2026-10-11T13:01:42.161557Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6105,17 +6105,18 @@
         "http://192.168.1.3:8765"
       ],
       "executorUrls": [
+        "https://bedding-paradise-lucia-verification.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.3:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-11T13:00:57.692967Z",
-      "publicUrl": "https://frederick-procedure-prefix-stanford.trycloudflare.com",
-      "executorUrl": "https://frederick-procedure-prefix-stanford.trycloudflare.com",
+      "updatedAt": "2026-10-11T13:01:42.161557Z",
+      "publicUrl": "https://bedding-paradise-lucia-verification.trycloudflare.com",
+      "executorUrl": "https://bedding-paradise-lucia-verification.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-11T07:30:57.201553Z"
+      "lastSeenAt": "2026-10-11T13:01:11.976861Z"
     }
   },
   "premiumEntitlements": {
