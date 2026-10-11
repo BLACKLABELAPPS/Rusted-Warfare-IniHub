@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-11T19:55:15.044407Z",
+  "updatedAt": "2026-10-11T20:56:11.556079Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6123,19 +6123,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.137.1:8765",
+      "lanUrl": "http://192.168.1.123:8765",
       "lanUrls": [
-        "http://192.168.137.1:8765",
-        "http://192.168.1.3:8765"
+        "http://192.168.1.123:8765"
       ],
       "executorUrls": [
-        "https://vital-tile-submissions-streams.trycloudflare.com",
-        "http://192.168.137.1:8765",
-        "http://192.168.1.3:8765"
+        "http://192.168.1.123:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-11T19:55:15.044407Z",
+      "updatedAt": "2026-10-11T20:56:11.556079Z",
       "publicUrl": "https://vital-tile-submissions-streams.trycloudflare.com",
       "executorUrl": "https://vital-tile-submissions-streams.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
