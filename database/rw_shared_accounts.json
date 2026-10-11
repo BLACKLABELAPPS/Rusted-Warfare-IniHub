@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-11T06:42:06.989014Z",
+  "updatedAt": "2026-10-11T06:48:44.137581Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6067,12 +6067,11 @@
         "http://192.168.200.238:8765"
       ],
       "executorUrls": [
-        "https://mood-keyboard-themes-projected.trycloudflare.com",
         "http://192.168.200.238:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-11T06:42:06.989014Z",
+      "updatedAt": "2026-10-11T06:48:44.137581Z",
       "publicUrl": "https://mood-keyboard-themes-projected.trycloudflare.com",
       "executorUrl": "https://mood-keyboard-themes-projected.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
