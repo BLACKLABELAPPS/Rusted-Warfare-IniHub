@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-11T15:29:01.355354Z",
+  "updatedAt": "2026-10-11T15:55:36.337736Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6129,13 +6129,12 @@
         "http://192.168.1.3:8765"
       ],
       "executorUrls": [
-        "https://directive-significance-appraisal-characteristics.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.3:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-11T14:18:23.054373Z",
+      "updatedAt": "2026-10-11T15:55:36.336204Z",
       "publicUrl": "https://directive-significance-appraisal-characteristics.trycloudflare.com",
       "executorUrl": "https://directive-significance-appraisal-characteristics.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
