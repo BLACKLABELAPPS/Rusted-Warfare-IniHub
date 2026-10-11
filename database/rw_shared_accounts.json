@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-11T09:44:49.281433Z",
+  "updatedAt": "2026-10-11T13:00:57.695963Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6099,17 +6099,18 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.200.238:8765",
+      "lanUrl": "http://192.168.137.1:8765",
       "lanUrls": [
-        "http://192.168.200.238:8765"
+        "http://192.168.137.1:8765",
+        "http://192.168.1.3:8765"
       ],
       "executorUrls": [
-        "https://frederick-procedure-prefix-stanford.trycloudflare.com",
-        "http://192.168.200.238:8765"
+        "http://192.168.137.1:8765",
+        "http://192.168.1.3:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-11T07:31:00.572796Z",
+      "updatedAt": "2026-10-11T13:00:57.692967Z",
       "publicUrl": "https://frederick-procedure-prefix-stanford.trycloudflare.com",
       "executorUrl": "https://frederick-procedure-prefix-stanford.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
