@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-11T20:56:11.556079Z",
+  "updatedAt": "2026-10-11T20:56:35.857200Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6128,16 +6128,17 @@
         "http://192.168.1.123:8765"
       ],
       "executorUrls": [
+        "https://inner-quest-registry-davidson.trycloudflare.com",
         "http://192.168.1.123:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-11T20:56:11.556079Z",
-      "publicUrl": "https://vital-tile-submissions-streams.trycloudflare.com",
-      "executorUrl": "https://vital-tile-submissions-streams.trycloudflare.com",
+      "updatedAt": "2026-10-11T20:56:35.857200Z",
+      "publicUrl": "https://inner-quest-registry-davidson.trycloudflare.com",
+      "executorUrl": "https://inner-quest-registry-davidson.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-11T19:54:42.887284Z"
+      "lastSeenAt": "2026-10-11T20:56:35.157731Z"
     }
   },
   "premiumEntitlements": {
