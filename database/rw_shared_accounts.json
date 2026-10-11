@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-11T07:12:47.427317Z",
+  "updatedAt": "2026-10-11T07:13:43.320361Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6067,12 +6067,11 @@
         "http://192.168.200.238:8765"
       ],
       "executorUrls": [
-        "https://organizer-belong-directed-elegant.trycloudflare.com",
         "http://192.168.200.238:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-11T07:12:47.427317Z",
+      "updatedAt": "2026-10-11T07:13:43.320361Z",
       "publicUrl": "https://organizer-belong-directed-elegant.trycloudflare.com",
       "executorUrl": "https://organizer-belong-directed-elegant.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
