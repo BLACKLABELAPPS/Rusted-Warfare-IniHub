@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-11T07:07:18.783571Z",
+  "updatedAt": "2026-10-11T07:07:21.999185Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6067,16 +6067,17 @@
         "http://192.168.200.238:8765"
       ],
       "executorUrls": [
+        "https://committees-kinase-midi-bowling.trycloudflare.com",
         "http://192.168.200.238:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-11T07:07:18.783571Z",
-      "publicUrl": "https://reference-turning-finance-rom.trycloudflare.com",
-      "executorUrl": "https://reference-turning-finance-rom.trycloudflare.com",
+      "updatedAt": "2026-10-11T07:07:21.999185Z",
+      "publicUrl": "https://committees-kinase-midi-bowling.trycloudflare.com",
+      "executorUrl": "https://committees-kinase-midi-bowling.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-11T07:03:09.040697Z"
+      "lastSeenAt": "2026-10-11T07:07:20.503547Z"
     }
   },
   "premiumEntitlements": {
