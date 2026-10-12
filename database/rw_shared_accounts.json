@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-12T19:18:12.032905Z",
+  "updatedAt": "2026-10-12T19:18:16.530359Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6200,16 +6200,17 @@
         "http://192.168.1.71:8765"
       ],
       "executorUrls": [
+        "https://electronic-latest-calculation-kernel.trycloudflare.com",
         "http://192.168.1.71:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-12T19:18:12.032905Z",
-      "publicUrl": "https://mesh-monica-doe-worker.trycloudflare.com",
-      "executorUrl": "https://mesh-monica-doe-worker.trycloudflare.com",
+      "updatedAt": "2026-10-12T19:18:16.530359Z",
+      "publicUrl": "https://electronic-latest-calculation-kernel.trycloudflare.com",
+      "executorUrl": "https://electronic-latest-calculation-kernel.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-12T18:15:39.222259Z"
+      "lastSeenAt": "2026-10-12T19:18:15.360486Z"
     }
   },
   "premiumEntitlements": {
