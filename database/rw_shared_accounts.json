@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-12T21:10:32.044617Z",
+  "updatedAt": "2026-10-12T21:10:50.979121Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6204,7 +6204,7 @@
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-12T21:10:32.044617Z",
+      "updatedAt": "2026-10-12T21:10:50.979121Z",
       "publicUrl": "https://permissions-circle-yourself-rate.trycloudflare.com",
       "executorUrl": "https://permissions-circle-yourself-rate.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
