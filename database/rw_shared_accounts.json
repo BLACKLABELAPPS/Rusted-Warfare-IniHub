@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-12T02:01:41.034382Z",
+  "updatedAt": "2026-10-12T02:02:20.299799Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6129,17 +6129,18 @@
         "http://192.168.1.3:8765"
       ],
       "executorUrls": [
+        "https://boxed-relatively-mon-tennis.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.3:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-12T02:01:41.032392Z",
-      "publicUrl": "https://committee-hottest-painted-entities.trycloudflare.com",
-      "executorUrl": "https://committee-hottest-painted-entities.trycloudflare.com",
+      "updatedAt": "2026-10-12T02:02:20.299799Z",
+      "publicUrl": "https://boxed-relatively-mon-tennis.trycloudflare.com",
+      "executorUrl": "https://boxed-relatively-mon-tennis.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-12T01:16:40.599356Z"
+      "lastSeenAt": "2026-10-12T02:01:49.131322Z"
     }
   },
   "premiumEntitlements": {
