@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-12T14:02:48.999014Z",
+  "updatedAt": "2026-10-12T14:02:54.665601Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6179,6 +6179,7 @@
         "http://192.168.43.201:8765"
       ],
       "executorUrls": [
+        "https://aerial-blast-facilitate-mlb.trycloudflare.com",
         "http://10.88.201.160:8765",
         "http://192.168.122.1:8765",
         "http://192.168.210.1:8765",
@@ -6186,12 +6187,12 @@
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-12T14:02:48.999014Z",
-      "publicUrl": "https://lcd-lifestyle-charm-hwy.trycloudflare.com",
-      "executorUrl": "https://lcd-lifestyle-charm-hwy.trycloudflare.com",
+      "updatedAt": "2026-10-12T14:02:54.665601Z",
+      "publicUrl": "https://aerial-blast-facilitate-mlb.trycloudflare.com",
+      "executorUrl": "https://aerial-blast-facilitate-mlb.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-12T13:55:54.805890Z"
+      "lastSeenAt": "2026-10-12T14:02:52.525551Z"
     }
   },
   "premiumEntitlements": {
