@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-12T15:50:08.400072Z",
+  "updatedAt": "2026-10-12T15:50:17.561842Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6200,16 +6200,17 @@
         "http://192.168.1.71:8765"
       ],
       "executorUrls": [
+        "https://bears-sapphire-tsunami-cet.trycloudflare.com",
         "http://192.168.1.71:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-12T15:50:08.400072Z",
-      "publicUrl": "https://aerial-blast-facilitate-mlb.trycloudflare.com",
-      "executorUrl": "https://aerial-blast-facilitate-mlb.trycloudflare.com",
+      "updatedAt": "2026-10-12T15:50:17.561842Z",
+      "publicUrl": "https://bears-sapphire-tsunami-cet.trycloudflare.com",
+      "executorUrl": "https://bears-sapphire-tsunami-cet.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-12T14:02:52.525551Z"
+      "lastSeenAt": "2026-10-12T15:50:16.974169Z"
     }
   },
   "premiumEntitlements": {
