@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-12T15:30:08.416885Z",
+  "updatedAt": "2026-10-12T15:50:08.400072Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6195,23 +6195,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://10.88.201.160:8765",
+      "lanUrl": "http://192.168.1.71:8765",
       "lanUrls": [
-        "http://10.88.201.160:8765",
-        "http://192.168.122.1:8765",
-        "http://192.168.210.1:8765",
-        "http://192.168.43.201:8765"
+        "http://192.168.1.71:8765"
       ],
       "executorUrls": [
-        "https://aerial-blast-facilitate-mlb.trycloudflare.com",
-        "http://10.88.201.160:8765",
-        "http://192.168.122.1:8765",
-        "http://192.168.210.1:8765",
-        "http://192.168.43.201:8765"
+        "http://192.168.1.71:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-12T14:02:54.665601Z",
+      "updatedAt": "2026-10-12T15:50:08.400072Z",
       "publicUrl": "https://aerial-blast-facilitate-mlb.trycloudflare.com",
       "executorUrl": "https://aerial-blast-facilitate-mlb.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
