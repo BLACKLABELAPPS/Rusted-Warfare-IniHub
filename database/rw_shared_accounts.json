@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-12T02:23:50.779539Z",
+  "updatedAt": "2026-10-12T03:39:26.034883Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6129,13 +6129,12 @@
         "http://192.168.1.3:8765"
       ],
       "executorUrls": [
-        "https://cancellation-limited-light-inserted.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.3:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-12T02:23:50.779539Z",
+      "updatedAt": "2026-10-12T03:39:26.032667Z",
       "publicUrl": "https://cancellation-limited-light-inserted.trycloudflare.com",
       "executorUrl": "https://cancellation-limited-light-inserted.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
