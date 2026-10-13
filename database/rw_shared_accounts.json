@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T01:10:57.823188Z",
+  "updatedAt": "2026-10-13T01:11:54.450594Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6200,16 +6200,17 @@
         "http://192.168.100.41:8765"
       ],
       "executorUrls": [
+        "https://clocks-democracy-morning-bryant.trycloudflare.com",
         "http://192.168.100.41:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-13T01:10:57.823188Z",
-      "publicUrl": "https://devoted-trucks-seller-messages.trycloudflare.com",
-      "executorUrl": "https://devoted-trucks-seller-messages.trycloudflare.com",
+      "updatedAt": "2026-10-13T01:11:54.450594Z",
+      "publicUrl": "https://clocks-democracy-morning-bryant.trycloudflare.com",
+      "executorUrl": "https://clocks-democracy-morning-bryant.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-12T22:33:42.202933Z"
+      "lastSeenAt": "2026-10-13T01:11:53.332476Z"
     }
   },
   "premiumEntitlements": {
