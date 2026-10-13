@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T22:46:21.731849Z",
+  "updatedAt": "2026-10-13T22:46:26.515363Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6224,16 +6224,17 @@
         "http://192.168.254.109:8765"
       ],
       "executorUrls": [
+        "https://expects-steal-geometry-molecular.trycloudflare.com",
         "http://192.168.254.109:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-13T22:46:21.731849Z",
-      "publicUrl": "https://clocks-democracy-morning-bryant.trycloudflare.com",
-      "executorUrl": "https://clocks-democracy-morning-bryant.trycloudflare.com",
+      "updatedAt": "2026-10-13T22:46:26.515363Z",
+      "publicUrl": "https://expects-steal-geometry-molecular.trycloudflare.com",
+      "executorUrl": "https://expects-steal-geometry-molecular.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-13T01:11:53.332476Z"
+      "lastSeenAt": "2026-10-13T22:46:25.907612Z"
     }
   },
   "premiumEntitlements": {
