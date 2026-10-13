@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T23:13:56.437147Z",
+  "updatedAt": "2026-10-13T23:22:46.316021Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6224,12 +6224,11 @@
         "http://192.168.100.41:8765"
       ],
       "executorUrls": [
-        "https://board-pocket-purple-destination.trycloudflare.com",
         "http://192.168.100.41:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-13T23:13:56.437147Z",
+      "updatedAt": "2026-10-13T23:22:46.316021Z",
       "publicUrl": "https://board-pocket-purple-destination.trycloudflare.com",
       "executorUrl": "https://board-pocket-purple-destination.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
