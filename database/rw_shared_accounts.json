@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T01:11:54.450594Z",
+  "updatedAt": "2026-10-13T11:21:35.780669Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1899,6 +1899,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-12T15:30:08.416820Z",
       "updatedAt": "2026-10-12T15:30:08.416831Z"
+    },
+    "nanxingshiyi": {
+      "username": "nanxingshiyi",
+      "usernameLower": "nanxingshiyi",
+      "passwordSalt": "qHyDwSx_cuohLT3wdzaXkFcCFRaq5L55",
+      "passwordHash": "2373cc08f422f57c8fccd2318c179e4c9cf245d1bb1bb1bcf4b7f4e468a20bb5",
+      "avatarCode": "B988-T29-W1-R19-L0-N49-U17-X27-F16-C0",
+      "collectionId": "",
+      "collectionTitle": "nanxingshiyi",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-13T11:21:35.780618Z",
+      "updatedAt": "2026-10-13T11:21:35.780624Z"
     }
   },
   "posts": [],
@@ -6141,6 +6154,17 @@
       "username": "Vish",
       "avatar_code": "B965-T40-W10-R14-L4-N34-U20-X2-F57-C0",
       "joined_at": "2026-10-12T15:30:08.416820Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "nanxingshiyi": {
+      "username": "nanxingshiyi",
+      "avatar_code": "B988-T29-W1-R19-L0-N49-U17-X27-F16-C0",
+      "joined_at": "2026-10-13T11:21:35.780618Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
