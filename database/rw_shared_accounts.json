@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-14T06:31:50.893282Z",
+  "updatedAt": "2026-10-14T09:28:50.780254Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1938,6 +1938,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-14T03:43:48.949557Z",
       "updatedAt": "2026-10-14T03:43:48.951959Z"
+    },
+    "gghg": {
+      "username": "gghg",
+      "usernameLower": "gghg",
+      "passwordSalt": "3BYdAFe6Ke0YVcrqD3jBDnvx1yV03rFp",
+      "passwordHash": "6a3ab37f2e25088d2238d21500523852c08ff5dcba712ff08e7ca42d406aa5bb",
+      "avatarCode": "B592-T23-W31-R47-L2-N19-U7-X23-F36-C0",
+      "collectionId": "",
+      "collectionTitle": "gghg",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-14T09:28:50.780134Z",
+      "updatedAt": "2026-10-14T09:28:50.780178Z"
     }
   },
   "posts": [],
@@ -6270,6 +6283,17 @@
       "username": "Godzilla",
       "avatar_code": "B153-T22-W26-R40-L4-N48-U42-X14-F61-C0",
       "joined_at": "2026-10-14T03:43:48.949557Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "gghg": {
+      "username": "gghg",
+      "avatar_code": "B592-T23-W31-R47-L2-N19-U7-X23-F36-C0",
+      "joined_at": "2026-10-14T09:28:50.780134Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
