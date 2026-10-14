@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-14T09:28:50.780254Z",
+  "updatedAt": "2026-10-14T13:20:18.502488Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6348,16 +6348,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.254.109:8765",
+      "lanUrl": "http://192.168.100.41:8765",
       "lanUrls": [
-        "http://192.168.254.109:8765"
+        "http://192.168.100.41:8765"
       ],
       "executorUrls": [
-        "http://192.168.254.109:8765"
+        "http://192.168.100.41:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-14T04:41:40.113346Z",
+      "updatedAt": "2026-10-14T13:20:18.502488Z",
       "publicUrl": "https://circus-shorter-sequence-realize.trycloudflare.com",
       "executorUrl": "https://circus-shorter-sequence-realize.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
