@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-14T13:20:21.910228Z",
+  "updatedAt": "2026-10-14T15:16:41.256002Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4217,6 +4217,17 @@
       }
     ],
     "godzilla": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3776937468&appid=647960",
+        "title": "MUTO_attacks!",
+        "date": "14/10/2026",
+        "time": "12:16:36",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/17061682288891072486/155A1BF32313F0359D44E9AC065C66E545F8FF3C/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3146804059&appid=647960",
         "title": "PRIMAL_among_titans",
