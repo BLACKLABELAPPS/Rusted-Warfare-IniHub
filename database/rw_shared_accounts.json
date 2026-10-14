@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-14T04:41:40.113346Z",
+  "updatedAt": "2026-10-14T06:22:15.097569Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4204,6 +4204,17 @@
       }
     ],
     "godzilla": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1378028930&appid=647960",
+        "title": "HYBORIAN_WAR",
+        "date": "14/10/2026",
+        "time": "03:22:12",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/912420007698348541/CCE497605FE29033B55199F130F6C6C8DD0B7D83/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3326375916&appid=647960",
         "title": "Metal_Slug_Domination",
