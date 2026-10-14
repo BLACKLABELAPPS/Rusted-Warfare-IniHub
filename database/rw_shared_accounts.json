@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-14T17:09:03.650008Z",
+  "updatedAt": "2026-10-14T18:50:38.002490Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1964,6 +1964,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-14T16:23:33.229436Z",
       "updatedAt": "2026-10-14T16:23:33.229438Z"
+    },
+    "jejos_coin": {
+      "username": "Jejos_Coin",
+      "usernameLower": "jejos_coin",
+      "passwordSalt": "LBLi2O5mCAMs7DlqWdwLKbERLp_P6HVa",
+      "passwordHash": "0c757cf032b66644cf247899b38021bf870a63f32c0f77e0e824aead0771b8ea",
+      "avatarCode": "B766-T19-W41-R25-L3-N33-U29-X13-F74-C0",
+      "collectionId": "",
+      "collectionTitle": "Jejos_Coin",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-14T18:50:38.002433Z",
+      "updatedAt": "2026-10-14T18:50:38.002443Z"
     }
   },
   "posts": [],
@@ -6340,6 +6353,17 @@
       "username": "nexus",
       "avatar_code": "B450-T39-W45-R19-L2-N5-U5-X39-F6-C0",
       "joined_at": "2026-10-14T16:23:33.229436Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "jejos_coin": {
+      "username": "Jejos_Coin",
+      "avatar_code": "B766-T19-W41-R25-L3-N33-U29-X13-F74-C0",
+      "joined_at": "2026-10-14T18:50:38.002433Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
