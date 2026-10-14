@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-14T06:22:15.097569Z",
+  "updatedAt": "2026-10-14T06:23:47.994795Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4204,6 +4204,17 @@
       }
     ],
     "godzilla": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1302616355&appid=647960",
+        "title": "Shin_Godzilla",
+        "date": "14/10/2026",
+        "time": "03:23:44",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/920294420597224248/18275BF29A9E88D50D58F21E75EBE1F210754996/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1378028930&appid=647960",
         "title": "HYBORIAN_WAR",
