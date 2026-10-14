@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-14T16:23:33.229452Z",
+  "updatedAt": "2026-10-14T17:08:57.291994Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6399,12 +6399,11 @@
         "http://192.168.100.41:8765"
       ],
       "executorUrls": [
-        "https://future-submitting-uniprotkb-walker.trycloudflare.com",
         "http://192.168.100.41:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-14T13:20:21.910228Z",
+      "updatedAt": "2026-10-14T17:08:57.291994Z",
       "publicUrl": "https://future-submitting-uniprotkb-walker.trycloudflare.com",
       "executorUrl": "https://future-submitting-uniprotkb-walker.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
