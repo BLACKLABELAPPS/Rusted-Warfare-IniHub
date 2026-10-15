@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-15T18:05:54.901581Z",
+  "updatedAt": "2026-10-15T22:24:54.865249Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6514,19 +6514,20 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://26.126.242.177:8765",
+      "lanUrl": "http://10.5.0.2:8765",
       "lanUrls": [
-        "http://26.126.242.177:8765",
-        "http://192.168.137.181:8765"
+        "http://10.5.0.2:8765",
+        "http://10.100.0.2:8765",
+        "http://10.52.5.36:8765"
       ],
       "executorUrls": [
-        "https://landscapes-stick-keith-mark.trycloudflare.com",
-        "http://26.126.242.177:8765",
-        "http://192.168.137.181:8765"
+        "http://10.5.0.2:8765",
+        "http://10.100.0.2:8765",
+        "http://10.52.5.36:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-15T18:05:54.901581Z",
+      "updatedAt": "2026-10-15T22:24:54.865249Z",
       "publicUrl": "https://landscapes-stick-keith-mark.trycloudflare.com",
       "executorUrl": "https://landscapes-stick-keith-mark.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
