@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-15T14:05:40.127050Z",
+  "updatedAt": "2026-10-15T14:08:00.598105Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6496,17 +6496,18 @@
         "http://10.0.0.236:8765"
       ],
       "executorUrls": [
+        "https://url-portal-ira-ampland.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://10.0.0.236:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-15T14:05:40.127050Z",
-      "publicUrl": "https://characterized-certainly-talent-vacuum.trycloudflare.com",
-      "executorUrl": "https://characterized-certainly-talent-vacuum.trycloudflare.com",
+      "updatedAt": "2026-10-15T14:08:00.598105Z",
+      "publicUrl": "https://url-portal-ira-ampland.trycloudflare.com",
+      "executorUrl": "https://url-portal-ira-ampland.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-15T13:29:41.053960Z"
+      "lastSeenAt": "2026-10-15T14:07:58.852166Z"
     }
   },
   "premiumEntitlements": {
