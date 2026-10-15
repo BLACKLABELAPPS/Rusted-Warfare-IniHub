@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-15T23:02:12.200171Z",
+  "updatedAt": "2026-10-15T23:15:43.553192Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6520,13 +6520,12 @@
         "http://10.0.0.236:8765"
       ],
       "executorUrls": [
-        "https://chains-professional-planet-presenting.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://10.0.0.236:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-15T23:02:12.200171Z",
+      "updatedAt": "2026-10-15T23:15:43.553192Z",
       "publicUrl": "https://chains-professional-planet-presenting.trycloudflare.com",
       "executorUrl": "https://chains-professional-planet-presenting.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
