@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-15T15:16:41.126764Z",
+  "updatedAt": "2026-10-15T15:23:41.046888Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6490,19 +6490,20 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.137.1:8765",
+      "lanUrl": "http://10.5.0.2:8765",
       "lanUrls": [
-        "http://192.168.137.1:8765",
-        "http://10.0.0.236:8765"
+        "http://10.5.0.2:8765",
+        "http://10.100.0.2:8765",
+        "http://172.20.10.3:8765"
       ],
       "executorUrls": [
-        "https://michel-news-bought-directors.trycloudflare.com",
-        "http://192.168.137.1:8765",
-        "http://10.0.0.236:8765"
+        "http://10.5.0.2:8765",
+        "http://10.100.0.2:8765",
+        "http://172.20.10.3:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-15T15:16:41.126764Z",
+      "updatedAt": "2026-10-15T15:23:41.046888Z",
       "publicUrl": "https://michel-news-bought-directors.trycloudflare.com",
       "executorUrl": "https://michel-news-bought-directors.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
