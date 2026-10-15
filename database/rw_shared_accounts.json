@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-15T15:16:37.377386Z",
+  "updatedAt": "2026-10-15T15:16:41.126764Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6496,17 +6496,18 @@
         "http://10.0.0.236:8765"
       ],
       "executorUrls": [
+        "https://michel-news-bought-directors.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://10.0.0.236:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-15T15:16:37.377386Z",
-      "publicUrl": "https://option-velvet-emacs-selling.trycloudflare.com",
-      "executorUrl": "https://option-velvet-emacs-selling.trycloudflare.com",
+      "updatedAt": "2026-10-15T15:16:41.126764Z",
+      "publicUrl": "https://michel-news-bought-directors.trycloudflare.com",
+      "executorUrl": "https://michel-news-bought-directors.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-15T14:21:28.083991Z"
+      "lastSeenAt": "2026-10-15T15:16:39.832488Z"
     }
   },
   "premiumEntitlements": {
