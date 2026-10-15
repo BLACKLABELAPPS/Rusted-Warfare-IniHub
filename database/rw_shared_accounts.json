@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-15T01:50:39.406702Z",
+  "updatedAt": "2026-10-15T01:51:01.443590Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6473,18 +6473,19 @@
         "http://10.52.5.36:8765"
       ],
       "executorUrls": [
+        "https://stripes-successful-legacy-trout.trycloudflare.com",
         "http://10.5.0.2:8765",
         "http://10.100.0.2:8765",
         "http://10.52.5.36:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-15T01:50:39.406702Z",
-      "publicUrl": "https://consideration-joan-obj-for.trycloudflare.com",
-      "executorUrl": "https://consideration-joan-obj-for.trycloudflare.com",
+      "updatedAt": "2026-10-15T01:51:01.443590Z",
+      "publicUrl": "https://stripes-successful-legacy-trout.trycloudflare.com",
+      "executorUrl": "https://stripes-successful-legacy-trout.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-14T17:09:02.426799Z"
+      "lastSeenAt": "2026-10-15T01:51:00.837693Z"
     }
   },
   "premiumEntitlements": {
