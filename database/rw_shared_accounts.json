@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-15T15:23:44.956725Z",
+  "updatedAt": "2026-10-15T16:01:26.792295Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6490,21 +6490,18 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://10.5.0.2:8765",
+      "lanUrl": "http://192.168.137.1:8765",
       "lanUrls": [
-        "http://10.5.0.2:8765",
-        "http://10.100.0.2:8765",
-        "http://172.20.10.3:8765"
+        "http://192.168.137.1:8765",
+        "http://10.0.0.236:8765"
       ],
       "executorUrls": [
-        "https://diana-wrestling-graduated-expected.trycloudflare.com",
-        "http://10.5.0.2:8765",
-        "http://10.100.0.2:8765",
-        "http://172.20.10.3:8765"
+        "http://192.168.137.1:8765",
+        "http://10.0.0.236:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-15T15:23:44.956725Z",
+      "updatedAt": "2026-10-15T16:01:26.792295Z",
       "publicUrl": "https://diana-wrestling-graduated-expected.trycloudflare.com",
       "executorUrl": "https://diana-wrestling-graduated-expected.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
