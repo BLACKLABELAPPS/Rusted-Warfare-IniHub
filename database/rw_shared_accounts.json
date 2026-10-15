@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-15T16:01:26.792295Z",
+  "updatedAt": "2026-10-15T16:01:30.304758Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6496,17 +6496,18 @@
         "http://10.0.0.236:8765"
       ],
       "executorUrls": [
+        "https://championship-most-process-partition.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://10.0.0.236:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-15T16:01:26.792295Z",
-      "publicUrl": "https://diana-wrestling-graduated-expected.trycloudflare.com",
-      "executorUrl": "https://diana-wrestling-graduated-expected.trycloudflare.com",
+      "updatedAt": "2026-10-15T16:01:30.304758Z",
+      "publicUrl": "https://championship-most-process-partition.trycloudflare.com",
+      "executorUrl": "https://championship-most-process-partition.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-15T15:23:44.562367Z"
+      "lastSeenAt": "2026-10-15T16:01:29.257938Z"
     }
   },
   "premiumEntitlements": {
