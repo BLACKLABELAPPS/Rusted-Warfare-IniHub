@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-15T13:06:22.999208Z",
+  "updatedAt": "2026-10-15T13:29:31.357069Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6490,18 +6490,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.137.1:8765",
+      "lanUrl": "http://192.168.1.28:8765",
       "lanUrls": [
-        "http://192.168.137.1:8765",
-        "http://10.0.0.236:8765"
+        "http://192.168.1.28:8765"
       ],
       "executorUrls": [
-        "http://192.168.137.1:8765",
-        "http://10.0.0.236:8765"
+        "http://192.168.1.28:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-15T13:06:22.999208Z",
+      "updatedAt": "2026-10-15T13:29:31.357069Z",
       "publicUrl": "https://specifics-limousines-receive-characterization.trycloudflare.com",
       "executorUrl": "https://specifics-limousines-receive-characterization.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
