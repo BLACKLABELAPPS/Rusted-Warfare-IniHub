@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-14T19:23:58.141402Z",
+  "updatedAt": "2026-10-15T01:31:27.147542Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -1990,6 +1990,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-14T19:23:58.140656Z",
       "updatedAt": "2026-10-14T19:23:58.140792Z"
+    },
+    "213": {
+      "username": "213",
+      "usernameLower": "213",
+      "passwordSalt": "-QYwgMXO94HGYLJX38VAY6hzdfalghyd",
+      "passwordHash": "9cbf393914f3405351213e7bba97c29a1b345f6c8982248ea8aa69abc38f5f4d",
+      "avatarCode": "B131-T24-W34-R8-L3-N28-U10-X2-F11-C0",
+      "collectionId": "",
+      "collectionTitle": "213",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-15T01:31:27.147487Z",
+      "updatedAt": "2026-10-15T01:31:27.147493Z"
     }
   },
   "posts": [],
@@ -6388,6 +6401,17 @@
       "username": "lostmedia",
       "avatar_code": "B723-T20-W14-R8-L2-N44-U40-X34-F99-C0",
       "joined_at": "2026-10-14T19:23:58.140656Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "213": {
+      "username": "213",
+      "avatar_code": "B131-T24-W34-R8-L3-N28-U10-X2-F11-C0",
+      "joined_at": "2026-10-15T01:31:27.147487Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
