@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-15T17:59:44.724972Z",
+  "updatedAt": "2026-10-15T18:05:49.719814Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6520,13 +6520,12 @@
         "http://192.168.137.181:8765"
       ],
       "executorUrls": [
-        "https://contrary-fix-swim-pod.trycloudflare.com",
         "http://26.126.242.177:8765",
         "http://192.168.137.181:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-15T17:59:44.724972Z",
+      "updatedAt": "2026-10-15T18:05:49.719814Z",
       "publicUrl": "https://contrary-fix-swim-pod.trycloudflare.com",
       "executorUrl": "https://contrary-fix-swim-pod.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
