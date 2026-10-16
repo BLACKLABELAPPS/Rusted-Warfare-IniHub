@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-16T14:10:28.953437Z",
+  "updatedAt": "2026-10-16T14:10:34.606543Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6664,17 +6664,18 @@
         "http://10.0.0.236:8765"
       ],
       "executorUrls": [
+        "https://instruments-supervisor-joan-wrestling.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://10.0.0.236:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-16T14:10:28.953437Z",
-      "publicUrl": "https://schools-transit-farm-contracting.trycloudflare.com",
-      "executorUrl": "https://schools-transit-farm-contracting.trycloudflare.com",
+      "updatedAt": "2026-10-16T14:10:34.606543Z",
+      "publicUrl": "https://instruments-supervisor-joan-wrestling.trycloudflare.com",
+      "executorUrl": "https://instruments-supervisor-joan-wrestling.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-16T12:57:35.877660Z"
+      "lastSeenAt": "2026-10-16T14:10:33.445860Z"
     }
   },
   "premiumEntitlements": {
