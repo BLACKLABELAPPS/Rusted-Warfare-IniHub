@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-16T04:10:28.199762Z",
+  "updatedAt": "2026-10-16T05:36:19.783078Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2068,6 +2068,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-16T04:10:28.199653Z",
       "updatedAt": "2026-10-16T04:10:28.199668Z"
+    },
+    "athom871": {
+      "username": "athom871",
+      "usernameLower": "athom871",
+      "passwordSalt": "oiSyKXGs-uu3BLaGRbi9IN0InOqOifos",
+      "passwordHash": "7ce3cc79392b2aef49c2660b8adb251d9ca0bfce9066b4e08ae6ca658c0b0dbe",
+      "avatarCode": "B262-T7-W13-R27-L4-N1-U1-X5-F74-C0",
+      "collectionId": "",
+      "collectionTitle": "athom871",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-16T05:36:19.782893Z",
+      "updatedAt": "2026-10-16T05:36:19.782910Z"
     }
   },
   "posts": [],
@@ -6532,6 +6545,17 @@
       "username": "Eduardo",
       "avatar_code": "B179-T22-W46-R6-L0-N36-U40-X14-F91-C0",
       "joined_at": "2026-10-16T04:10:28.199653Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "athom871": {
+      "username": "athom871",
+      "avatar_code": "B262-T7-W13-R27-L4-N1-U1-X5-F74-C0",
+      "joined_at": "2026-10-16T05:36:19.782893Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
