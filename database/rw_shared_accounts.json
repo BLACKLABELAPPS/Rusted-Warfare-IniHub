@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-16T15:21:35.263415Z",
+  "updatedAt": "2026-10-16T15:21:38.372286Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6664,17 +6664,18 @@
         "http://10.0.0.236:8765"
       ],
       "executorUrls": [
+        "https://threaded-engine-patches-nova.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://10.0.0.236:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-16T15:21:35.263415Z",
-      "publicUrl": "https://instruments-supervisor-joan-wrestling.trycloudflare.com",
-      "executorUrl": "https://instruments-supervisor-joan-wrestling.trycloudflare.com",
+      "updatedAt": "2026-10-16T15:21:38.372286Z",
+      "publicUrl": "https://threaded-engine-patches-nova.trycloudflare.com",
+      "executorUrl": "https://threaded-engine-patches-nova.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-16T14:10:33.445860Z"
+      "lastSeenAt": "2026-10-16T15:21:37.052021Z"
     }
   },
   "premiumEntitlements": {
