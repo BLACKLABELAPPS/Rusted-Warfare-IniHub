@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-16T20:23:04.795999Z",
+  "updatedAt": "2026-10-16T23:47:56.914896Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2172,6 +2172,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-16T20:23:04.795876Z",
       "updatedAt": "2026-10-16T20:23:04.795915Z"
+    },
+    "kyle": {
+      "username": "kyle",
+      "usernameLower": "kyle",
+      "passwordSalt": "TvmUUdsV7_x-m_MtJKmrAJ2UYv_K5163",
+      "passwordHash": "cad02fc5616dab42b0854f54105706c40988072b67d7ec157827a94317bbd0c2",
+      "avatarCode": "B572-T9-W9-R49-L3-N37-U39-X15-F32-C0",
+      "collectionId": "",
+      "collectionTitle": "kyle",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-16T23:47:56.912331Z",
+      "updatedAt": "2026-10-16T23:47:56.914807Z"
     }
   },
   "posts": [],
@@ -6724,6 +6737,17 @@
       "username": "havas",
       "avatar_code": "B414-T17-W39-R23-L1-N31-U27-X11-F22-C0",
       "joined_at": "2026-10-16T20:23:04.795876Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "kyle": {
+      "username": "kyle",
+      "avatar_code": "B572-T9-W9-R49-L3-N37-U39-X15-F32-C0",
+      "joined_at": "2026-10-16T23:47:56.912331Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
