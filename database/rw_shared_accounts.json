@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-16T14:10:34.606543Z",
+  "updatedAt": "2026-10-16T15:21:35.263415Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6664,13 +6664,12 @@
         "http://10.0.0.236:8765"
       ],
       "executorUrls": [
-        "https://instruments-supervisor-joan-wrestling.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://10.0.0.236:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-16T14:10:34.606543Z",
+      "updatedAt": "2026-10-16T15:21:35.263415Z",
       "publicUrl": "https://instruments-supervisor-joan-wrestling.trycloudflare.com",
       "executorUrl": "https://instruments-supervisor-joan-wrestling.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
