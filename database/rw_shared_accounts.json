@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-16T13:10:36.182862Z",
+  "updatedAt": "2026-10-16T14:10:28.953437Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6658,21 +6658,18 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://10.5.0.2:8765",
+      "lanUrl": "http://192.168.137.1:8765",
       "lanUrls": [
-        "http://10.5.0.2:8765",
-        "http://10.100.0.2:8765",
-        "http://192.168.1.235:8765"
+        "http://192.168.137.1:8765",
+        "http://10.0.0.236:8765"
       ],
       "executorUrls": [
-        "https://schools-transit-farm-contracting.trycloudflare.com",
-        "http://10.5.0.2:8765",
-        "http://10.100.0.2:8765",
-        "http://192.168.1.235:8765"
+        "http://192.168.137.1:8765",
+        "http://10.0.0.236:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-16T12:57:36.329883Z",
+      "updatedAt": "2026-10-16T14:10:28.953437Z",
       "publicUrl": "https://schools-transit-farm-contracting.trycloudflare.com",
       "executorUrl": "https://schools-transit-farm-contracting.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
