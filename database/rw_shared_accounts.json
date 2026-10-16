@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-16T23:47:56.914896Z",
+  "updatedAt": "2026-10-16T23:58:29.846246Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6802,19 +6802,20 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.137.1:8765",
+      "lanUrl": "http://10.5.0.2:8765",
       "lanUrls": [
-        "http://192.168.137.1:8765",
-        "http://10.0.0.236:8765"
+        "http://10.5.0.2:8765",
+        "http://10.100.0.2:8765",
+        "http://10.52.5.36:8765"
       ],
       "executorUrls": [
-        "https://threaded-engine-patches-nova.trycloudflare.com",
-        "http://192.168.137.1:8765",
-        "http://10.0.0.236:8765"
+        "http://10.5.0.2:8765",
+        "http://10.100.0.2:8765",
+        "http://10.52.5.36:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-16T15:21:38.372286Z",
+      "updatedAt": "2026-10-16T23:58:29.846246Z",
       "publicUrl": "https://threaded-engine-patches-nova.trycloudflare.com",
       "executorUrl": "https://threaded-engine-patches-nova.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
