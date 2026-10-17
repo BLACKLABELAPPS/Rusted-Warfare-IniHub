@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-17T22:27:26.735261Z",
+  "updatedAt": "2026-10-17T22:39:18.471051Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2237,6 +2237,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-17T21:29:32.658396Z",
       "updatedAt": "2026-10-17T21:29:32.659566Z"
+    },
+    "stevom0001": {
+      "username": "stevom0001",
+      "usernameLower": "stevom0001",
+      "passwordSalt": "fuH64pkhWXT-Hi4K3SnwcFX9fKlc-JB6",
+      "passwordHash": "a0289bb41a64f1086a542dbbd7541e0411e479774ef71e736598bd85dd30f413",
+      "avatarCode": "B400-T45-W47-R5-L3-N31-U41-X49-F12-C0",
+      "collectionId": "",
+      "collectionTitle": "stevom0001",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-17T22:39:18.470823Z",
+      "updatedAt": "2026-10-17T22:39:18.470873Z"
     }
   },
   "posts": [],
@@ -6844,6 +6857,17 @@
       "username": "SCOUT1244",
       "avatar_code": "B680-T39-W23-R27-L4-N7-U21-X29-F52-C0",
       "joined_at": "2026-10-17T21:29:32.658396Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "stevom0001": {
+      "username": "stevom0001",
+      "avatar_code": "B400-T45-W47-R5-L3-N31-U41-X49-F12-C0",
+      "joined_at": "2026-10-17T22:39:18.470823Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
