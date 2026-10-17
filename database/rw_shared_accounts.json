@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-17T22:39:18.471051Z",
+  "updatedAt": "2026-10-17T23:50:59.557519Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2250,6 +2250,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-17T22:39:18.470823Z",
       "updatedAt": "2026-10-17T22:39:18.470873Z"
+    },
+    "maxipoo": {
+      "username": "maxipoo",
+      "usernameLower": "maxipoo",
+      "passwordSalt": "2pj7FmlAAQ3tqXuUliS0HwSjudq0Sl7R",
+      "passwordHash": "9f5f52ba174f1b7ba549fc4aee6c63c768768f113803903d02ca9283d75939db",
+      "avatarCode": "B548-T35-W11-R25-L1-N9-U27-X37-F72-C0",
+      "collectionId": "",
+      "collectionTitle": "maxipoo",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-17T23:50:59.557061Z",
+      "updatedAt": "2026-10-17T23:50:59.557441Z"
     }
   },
   "posts": [],
@@ -6868,6 +6881,17 @@
       "username": "stevom0001",
       "avatar_code": "B400-T45-W47-R5-L3-N31-U41-X49-F12-C0",
       "joined_at": "2026-10-17T22:39:18.470823Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "maxipoo": {
+      "username": "maxipoo",
+      "avatar_code": "B548-T35-W11-R25-L1-N9-U27-X37-F72-C0",
+      "joined_at": "2026-10-17T23:50:59.557061Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
