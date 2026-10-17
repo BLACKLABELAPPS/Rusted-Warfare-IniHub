@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-17T22:27:22.839319Z",
+  "updatedAt": "2026-10-17T22:27:26.735261Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6903,16 +6903,17 @@
         "http://192.168.100.41:8765"
       ],
       "executorUrls": [
+        "https://columbus-paying-assure-port.trycloudflare.com",
         "http://192.168.100.41:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-17T22:27:22.839319Z",
-      "publicUrl": "https://installation-surrounded-blowing-andrews.trycloudflare.com",
-      "executorUrl": "https://installation-surrounded-blowing-andrews.trycloudflare.com",
+      "updatedAt": "2026-10-17T22:27:26.735261Z",
+      "publicUrl": "https://columbus-paying-assure-port.trycloudflare.com",
+      "executorUrl": "https://columbus-paying-assure-port.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-17T20:28:45.285766Z"
+      "lastSeenAt": "2026-10-17T22:27:25.960466Z"
     }
   },
   "premiumEntitlements": {
