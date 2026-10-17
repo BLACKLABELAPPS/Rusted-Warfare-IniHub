@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-17T20:28:09.488306Z",
+  "updatedAt": "2026-10-17T20:28:41.968408Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6881,14 +6881,13 @@
         "http://10.52.5.36:8765"
       ],
       "executorUrls": [
-        "https://specify-manufacture-consolidated-economics.trycloudflare.com",
         "http://10.5.0.2:8765",
         "http://10.100.0.2:8765",
         "http://10.52.5.36:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-17T20:28:09.488306Z",
+      "updatedAt": "2026-10-17T20:28:41.968408Z",
       "publicUrl": "https://specify-manufacture-consolidated-economics.trycloudflare.com",
       "executorUrl": "https://specify-manufacture-consolidated-economics.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
