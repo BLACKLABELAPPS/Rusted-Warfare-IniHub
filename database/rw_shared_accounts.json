@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-17T20:28:41.968408Z",
+  "updatedAt": "2026-10-17T20:28:45.647559Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6881,18 +6881,19 @@
         "http://10.52.5.36:8765"
       ],
       "executorUrls": [
+        "https://installation-surrounded-blowing-andrews.trycloudflare.com",
         "http://10.5.0.2:8765",
         "http://10.100.0.2:8765",
         "http://10.52.5.36:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-17T20:28:41.968408Z",
-      "publicUrl": "https://specify-manufacture-consolidated-economics.trycloudflare.com",
-      "executorUrl": "https://specify-manufacture-consolidated-economics.trycloudflare.com",
+      "updatedAt": "2026-10-17T20:28:45.647559Z",
+      "publicUrl": "https://installation-surrounded-blowing-andrews.trycloudflare.com",
+      "executorUrl": "https://installation-surrounded-blowing-andrews.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-17T20:28:09.190443Z"
+      "lastSeenAt": "2026-10-17T20:28:45.285766Z"
     }
   },
   "premiumEntitlements": {
