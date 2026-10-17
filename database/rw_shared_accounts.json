@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-17T16:03:17.447553Z",
+  "updatedAt": "2026-10-17T18:51:10.288618Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2198,6 +2198,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-17T08:42:17.403320Z",
       "updatedAt": "2026-10-17T08:42:17.403336Z"
+    },
+    "elcaudillo": {
+      "username": "ElCaudillo",
+      "usernameLower": "elcaudillo",
+      "passwordSalt": "-Bo9fXhEMqN4X8OkKWZbPhaSvK8f_f3r",
+      "passwordHash": "2c18fac4c5dce976b118556fe13a24748274b8be84acbe1ec0df98bf652705af",
+      "avatarCode": "B815-T46-W40-R32-L2-N42-U38-X26-F43-C0",
+      "collectionId": "",
+      "collectionTitle": "ElCaudillo",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-17T18:51:10.285782Z",
+      "updatedAt": "2026-10-17T18:51:10.286913Z"
     }
   },
   "posts": [],
@@ -6772,6 +6785,17 @@
       "username": "fatih",
       "avatar_code": "B139-T22-W16-R6-L3-N14-U6-X0-F19-C0",
       "joined_at": "2026-10-17T08:42:17.403320Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "elcaudillo": {
+      "username": "ElCaudillo",
+      "avatar_code": "B815-T46-W40-R32-L2-N42-U38-X26-F43-C0",
+      "joined_at": "2026-10-17T18:51:10.285782Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
