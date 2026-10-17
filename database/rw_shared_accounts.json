@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-17T19:25:36.170281Z",
+  "updatedAt": "2026-10-17T20:28:07.643470Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6878,17 +6878,16 @@
       "lanUrls": [
         "http://10.5.0.2:8765",
         "http://10.100.0.2:8765",
-        "http://192.168.1.235:8765"
+        "http://10.52.5.36:8765"
       ],
       "executorUrls": [
-        "https://centers-searches-gasoline-collected.trycloudflare.com",
         "http://10.5.0.2:8765",
         "http://10.100.0.2:8765",
-        "http://192.168.1.235:8765"
+        "http://10.52.5.36:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-17T16:03:17.447553Z",
+      "updatedAt": "2026-10-17T20:28:07.643470Z",
       "publicUrl": "https://centers-searches-gasoline-collected.trycloudflare.com",
       "executorUrl": "https://centers-searches-gasoline-collected.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
