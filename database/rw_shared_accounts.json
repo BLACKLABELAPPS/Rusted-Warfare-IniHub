@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T02:20:43.793242Z",
+  "updatedAt": "2026-10-18T03:02:16.546758Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2276,6 +2276,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-18T02:20:43.792868Z",
       "updatedAt": "2026-10-18T02:20:43.793160Z"
+    },
+    "soll": {
+      "username": "soll",
+      "usernameLower": "soll",
+      "passwordSalt": "Ixe8Fwtpy3Z6TqBXjuuR8WMYzPvG__Lz",
+      "passwordHash": "113690d4ad15408345f0d92f3103dd0845bed91d914d2d97269514a52f26f190",
+      "avatarCode": "B153-T38-W18-R2-L2-N16-U42-X44-F65-C0",
+      "collectionId": "",
+      "collectionTitle": "soll",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-18T03:02:16.546676Z",
+      "updatedAt": "2026-10-18T03:02:16.546685Z"
     }
   },
   "posts": [],
@@ -6916,6 +6929,17 @@
       "username": "shrektherizzler09",
       "avatar_code": "B712-T43-W13-R17-L1-N39-U39-X47-F92-C0",
       "joined_at": "2026-10-18T02:20:43.792868Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "soll": {
+      "username": "soll",
+      "avatar_code": "B153-T38-W18-R2-L2-N16-U42-X44-F65-C0",
+      "joined_at": "2026-10-18T03:02:16.546676Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
