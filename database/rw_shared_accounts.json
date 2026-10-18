@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-17T23:50:59.557519Z",
+  "updatedAt": "2026-10-18T02:20:43.793242Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2263,6 +2263,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-17T23:50:59.557061Z",
       "updatedAt": "2026-10-17T23:50:59.557441Z"
+    },
+    "shrektherizzler09": {
+      "username": "shrektherizzler09",
+      "usernameLower": "shrektherizzler09",
+      "passwordSalt": "zYXf8vEmM08Km1a3yPLtvkMPM19EMCn8",
+      "passwordHash": "3a691e1908382c0f975b42233412839bf90587518a46ce101a4919f59d6bd13e",
+      "avatarCode": "B712-T43-W13-R17-L1-N39-U39-X47-F92-C0",
+      "collectionId": "",
+      "collectionTitle": "shrektherizzler09",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-18T02:20:43.792868Z",
+      "updatedAt": "2026-10-18T02:20:43.793160Z"
     }
   },
   "posts": [],
@@ -6892,6 +6905,17 @@
       "username": "maxipoo",
       "avatar_code": "B548-T35-W11-R25-L1-N9-U27-X37-F72-C0",
       "joined_at": "2026-10-17T23:50:59.557061Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "shrektherizzler09": {
+      "username": "shrektherizzler09",
+      "avatar_code": "B712-T43-W13-R17-L1-N39-U39-X47-F92-C0",
+      "joined_at": "2026-10-18T02:20:43.792868Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
