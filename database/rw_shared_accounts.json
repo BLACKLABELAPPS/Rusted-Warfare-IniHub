@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T17:17:07.647430Z",
+  "updatedAt": "2026-10-18T19:10:28.611355Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2367,6 +2367,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-18T17:17:07.646444Z",
       "updatedAt": "2026-10-18T17:17:07.647342Z"
+    },
+    "xakunja": {
+      "username": "Xakunja",
+      "usernameLower": "xakunja",
+      "passwordSalt": "l7ynCtY9-wb8fL1NPicx7uzna_hYPixn",
+      "passwordHash": "09f7788c41bd2339a4c25578a449167415632029da0bf6f3dbac72d225f24200",
+      "avatarCode": "B359-T46-W42-R26-L2-N32-U36-X20-F47-C0",
+      "collectionId": "",
+      "collectionTitle": "Xakunja",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-18T19:10:28.611308Z",
+      "updatedAt": "2026-10-18T19:10:28.611314Z"
     }
   },
   "posts": [],
@@ -7084,6 +7097,17 @@
       "username": "kgotso",
       "avatar_code": "B220-T13-W19-R25-L0-N3-U13-X23-F80-C0",
       "joined_at": "2026-10-18T17:17:07.646444Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "xakunja": {
+      "username": "Xakunja",
+      "avatar_code": "B359-T46-W42-R26-L2-N32-U36-X20-F47-C0",
+      "joined_at": "2026-10-18T19:10:28.611308Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
