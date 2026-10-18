@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T22:22:29.135291Z",
+  "updatedAt": "2026-10-18T23:06:55.375500Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2419,6 +2419,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-18T21:56:57.628820Z",
       "updatedAt": "2026-10-18T21:56:57.628833Z"
+    },
+    "yuji": {
+      "username": "yuji",
+      "usernameLower": "yuji",
+      "passwordSalt": "0OuSexY8H4y6N2dlJozFNkPmpEvz8-jQ",
+      "passwordHash": "613bd13293c47fdbb79138a7e554dceb8aedbe05d8355ba29e364462246b2477",
+      "avatarCode": "B940-T23-W35-R3-L1-N15-U15-X29-F60-C0",
+      "collectionId": "",
+      "collectionTitle": "yuji",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-18T23:06:55.375398Z",
+      "updatedAt": "2026-10-18T23:06:55.375416Z"
     }
   },
   "posts": [],
@@ -7180,6 +7193,17 @@
       "username": "Thing505",
       "avatar_code": "B555-T20-W10-R4-L2-N12-U4-X48-F67-C0",
       "joined_at": "2026-10-18T21:56:57.628820Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "yuji": {
+      "username": "yuji",
+      "avatar_code": "B940-T23-W35-R3-L1-N15-U15-X29-F60-C0",
+      "joined_at": "2026-10-18T23:06:55.375398Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
