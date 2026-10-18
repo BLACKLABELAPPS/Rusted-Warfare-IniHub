@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T14:32:40.890772Z",
+  "updatedAt": "2026-10-18T16:59:04.394321Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2341,6 +2341,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-18T14:32:40.889947Z",
       "updatedAt": "2026-10-18T14:32:40.890550Z"
+    },
+    "zarrasino321": {
+      "username": "zarrasino321",
+      "usernameLower": "zarrasino321",
+      "passwordSalt": "_e9MWLAAT0LRwEXD8UbsB3B2AjInxOzK",
+      "passwordHash": "df41282c957aec906b2bbf5b83bc52880f360fa2a525e099ff39b1c4f601ae94",
+      "avatarCode": "B314-T19-W9-R41-L4-N15-U47-X25-F6-C0",
+      "collectionId": "",
+      "collectionTitle": "zarrasino321",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-18T16:59:04.394179Z",
+      "updatedAt": "2026-10-18T16:59:04.394190Z"
     }
   },
   "posts": [],
@@ -7036,6 +7049,17 @@
       "username": "hhs",
       "avatar_code": "B472-T11-W11-R17-L1-N35-U41-X19-F48-C0",
       "joined_at": "2026-10-18T14:32:40.889947Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "zarrasino321": {
+      "username": "zarrasino321",
+      "avatar_code": "B314-T19-W9-R41-L4-N15-U47-X25-F6-C0",
+      "joined_at": "2026-10-18T16:59:04.394179Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
