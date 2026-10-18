@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T03:02:16.546758Z",
+  "updatedAt": "2026-10-18T06:56:24.743145Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2289,6 +2289,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-18T03:02:16.546676Z",
       "updatedAt": "2026-10-18T03:02:16.546685Z"
+    },
+    "dmad": {
+      "username": "Dmad",
+      "usernameLower": "dmad",
+      "passwordSalt": "7Im7u-6t73SkHSAInDkH0MkKpTkFNoIn",
+      "passwordHash": "c3824abfc22fbbd73503f58ed066a3e1fdcbb45b20df341eae067dc8c2bcbb3b",
+      "avatarCode": "B777-T0-W10-R22-L0-N30-U12-X42-F49-C0",
+      "collectionId": "",
+      "collectionTitle": "Dmad",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-18T06:56:24.742932Z",
+      "updatedAt": "2026-10-18T06:56:24.742970Z"
     }
   },
   "posts": [],
@@ -6940,6 +6953,17 @@
       "username": "soll",
       "avatar_code": "B153-T38-W18-R2-L2-N16-U42-X44-F65-C0",
       "joined_at": "2026-10-18T03:02:16.546676Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "dmad": {
+      "username": "Dmad",
+      "avatar_code": "B777-T0-W10-R22-L0-N30-U12-X42-F49-C0",
+      "joined_at": "2026-10-18T06:56:24.742932Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
