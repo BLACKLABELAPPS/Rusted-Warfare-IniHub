@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T22:22:26.046897Z",
+  "updatedAt": "2026-10-18T22:22:29.135291Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -7239,16 +7239,17 @@
         "http://10.47.235.83:8765"
       ],
       "executorUrls": [
+        "https://alphabetical-ict-hero-wilderness.trycloudflare.com",
         "http://10.47.235.83:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-18T22:22:26.046897Z",
-      "publicUrl": "https://scoring-generations-keys-requiring.trycloudflare.com",
-      "executorUrl": "https://scoring-generations-keys-requiring.trycloudflare.com",
+      "updatedAt": "2026-10-18T22:22:29.135291Z",
+      "publicUrl": "https://alphabetical-ict-hero-wilderness.trycloudflare.com",
+      "executorUrl": "https://alphabetical-ict-hero-wilderness.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-18T22:16:45.561311Z"
+      "lastSeenAt": "2026-10-18T22:22:27.669839Z"
     }
   },
   "premiumEntitlements": {
