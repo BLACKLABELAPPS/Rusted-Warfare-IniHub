@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T07:50:40.250755Z",
+  "updatedAt": "2026-10-18T13:58:45.033973Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2315,6 +2315,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-18T07:50:40.249102Z",
       "updatedAt": "2026-10-18T07:50:40.250644Z"
+    },
+    "hotdog": {
+      "username": "Hotdog",
+      "usernameLower": "hotdog",
+      "passwordSalt": "gxTqe8-bnhNbLC7a4pZfoMEigQEhF16t",
+      "passwordHash": "05563b38a09169b74fad5a30a5252bb0231a6cbf2bef5a880645896f9af69e2d",
+      "avatarCode": "B692-T17-W37-R47-L4-N39-U17-X23-F20-C0",
+      "collectionId": "",
+      "collectionTitle": "Hotdog",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-18T13:58:45.033814Z",
+      "updatedAt": "2026-10-18T13:58:45.033827Z"
     }
   },
   "posts": [],
@@ -6988,6 +7001,17 @@
       "username": "Load1ngUUP",
       "avatar_code": "B277-T10-W48-R14-L4-N10-U22-X34-F97-C0",
       "joined_at": "2026-10-18T07:50:40.249102Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "hotdog": {
+      "username": "Hotdog",
+      "avatar_code": "B692-T17-W37-R47-L4-N39-U17-X23-F20-C0",
+      "joined_at": "2026-10-18T13:58:45.033814Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
