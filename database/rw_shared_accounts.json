@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T19:10:28.611355Z",
+  "updatedAt": "2026-10-18T19:47:08.159105Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2380,6 +2380,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-18T19:10:28.611308Z",
       "updatedAt": "2026-10-18T19:10:28.611314Z"
+    },
+    "halex": {
+      "username": "Halex",
+      "usernameLower": "halex",
+      "passwordSalt": "ss7kmjcrYmauhZWonZKhUZbJXqNpM-A5",
+      "passwordHash": "126268249e5bd61ed07b443b204b0596fa7283649daaed720ce96e8b209d5b9e",
+      "avatarCode": "B969-T46-W2-R14-L1-N22-U4-X38-F41-C0",
+      "collectionId": "",
+      "collectionTitle": "Halex",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-18T19:47:08.145820Z",
+      "updatedAt": "2026-10-18T19:47:08.158894Z"
     }
   },
   "posts": [],
@@ -7108,6 +7121,17 @@
       "username": "Xakunja",
       "avatar_code": "B359-T46-W42-R26-L2-N32-U36-X20-F47-C0",
       "joined_at": "2026-10-18T19:10:28.611308Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "halex": {
+      "username": "Halex",
+      "avatar_code": "B969-T46-W2-R14-L1-N22-U4-X38-F41-C0",
+      "joined_at": "2026-10-18T19:47:08.145820Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
