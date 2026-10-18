@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T06:56:24.743145Z",
+  "updatedAt": "2026-10-18T07:50:40.250755Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2302,6 +2302,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-18T06:56:24.742932Z",
       "updatedAt": "2026-10-18T06:56:24.742970Z"
+    },
+    "load1nguup": {
+      "username": "Load1ngUUP",
+      "usernameLower": "load1nguup",
+      "passwordSalt": "cxSBbIx3Mv-HpyIIjZJm4KTM8ACBUlOm",
+      "passwordHash": "116a1e2c811ee4f6d4573919544a7b46bd4de9bfd20af02689b7337775ba5236",
+      "avatarCode": "B277-T10-W48-R14-L4-N10-U22-X34-F97-C0",
+      "collectionId": "",
+      "collectionTitle": "Load1ngUUP",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-18T07:50:40.249102Z",
+      "updatedAt": "2026-10-18T07:50:40.250644Z"
     }
   },
   "posts": [],
@@ -6964,6 +6977,17 @@
       "username": "Dmad",
       "avatar_code": "B777-T0-W10-R22-L0-N30-U12-X42-F49-C0",
       "joined_at": "2026-10-18T06:56:24.742932Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "load1nguup": {
+      "username": "Load1ngUUP",
+      "avatar_code": "B277-T10-W48-R14-L4-N10-U22-X34-F97-C0",
+      "joined_at": "2026-10-18T07:50:40.249102Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
