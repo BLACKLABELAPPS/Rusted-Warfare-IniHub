@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T22:08:22.664944Z",
+  "updatedAt": "2026-10-18T22:16:42.995711Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -7239,12 +7239,11 @@
         "http://10.47.235.83:8765"
       ],
       "executorUrls": [
-        "https://gay-dates-pray-implications.trycloudflare.com",
         "http://10.47.235.83:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-18T22:08:22.664944Z",
+      "updatedAt": "2026-10-18T22:16:42.995711Z",
       "publicUrl": "https://gay-dates-pray-implications.trycloudflare.com",
       "executorUrl": "https://gay-dates-pray-implications.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
