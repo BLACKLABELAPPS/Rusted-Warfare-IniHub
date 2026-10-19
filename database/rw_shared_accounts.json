@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T00:49:34.876835Z",
+  "updatedAt": "2026-10-19T08:07:12.696897Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2445,6 +2445,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-19T00:49:34.876759Z",
       "updatedAt": "2026-10-19T00:49:34.876766Z"
+    },
+    "dan": {
+      "username": "dan",
+      "usernameLower": "dan",
+      "passwordSalt": "JKJZFcdREsmpJ5RIKP0GPy0TAyv6oXT9",
+      "passwordHash": "168c7b636b031bf0d70e5031f748e4d88691aecd8f54b3e1e3a5214efb2ac6a2",
+      "avatarCode": "B554-T41-W49-R35-L0-N9-U5-X37-F50-C0",
+      "collectionId": "",
+      "collectionTitle": "dan",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-19T08:07:12.696726Z",
+      "updatedAt": "2026-10-19T08:07:12.696755Z"
     }
   },
   "posts": [],
@@ -7301,6 +7314,17 @@
       "username": "reaperLotus",
       "avatar_code": "B227-T16-W26-R0-L0-N20-U2-X44-F3-C0",
       "joined_at": "2026-10-19T00:49:34.876759Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "dan": {
+      "username": "dan",
+      "avatar_code": "B554-T41-W49-R35-L0-N9-U5-X37-F50-C0",
+      "joined_at": "2026-10-19T08:07:12.696726Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
