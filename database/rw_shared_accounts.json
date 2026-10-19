@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T17:37:00.616645Z",
+  "updatedAt": "2026-10-19T19:19:46.947053Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2497,6 +2497,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-19T17:37:00.616497Z",
       "updatedAt": "2026-10-19T17:37:00.616513Z"
+    },
+    "max07bb5": {
+      "username": "Max07BB5",
+      "usernameLower": "max07bb5",
+      "passwordSalt": "lBCrxQUvzqIiHmVxjorH1AsrXJk09HCw",
+      "passwordHash": "ca5bfa1e47bfc8bba6b33cb0fc2ebc25f16b2a42803add365cf03fd8d229b993",
+      "avatarCode": "B257-T38-W12-R30-L0-N6-U0-X18-F97-C0",
+      "collectionId": "",
+      "collectionTitle": "Max07BB5",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-19T19:19:46.945822Z",
+      "updatedAt": "2026-10-19T19:19:46.946903Z"
     }
   },
   "posts": [],
@@ -7397,6 +7410,17 @@
       "username": "lonewolf",
       "avatar_code": "B19-T20-W10-R4-L1-N30-U22-X12-F31-C0",
       "joined_at": "2026-10-19T17:37:00.616497Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "max07bb5": {
+      "username": "Max07BB5",
+      "avatar_code": "B257-T38-W12-R30-L0-N6-U0-X18-F97-C0",
+      "joined_at": "2026-10-19T19:19:46.945822Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
