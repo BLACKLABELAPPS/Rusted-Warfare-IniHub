@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T19:19:46.947053Z",
+  "updatedAt": "2026-10-19T21:16:30.490984Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2510,6 +2510,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-19T19:19:46.945822Z",
       "updatedAt": "2026-10-19T19:19:46.946903Z"
+    },
+    "micky": {
+      "username": "micky",
+      "usernameLower": "micky",
+      "passwordSalt": "vIU_CYtFUWAPPRdKmBe8fs4dm1KDaNbC",
+      "passwordHash": "2af69ee3c140ced22216e6ad767c54990b5f09e42cda27bce1653f0913a8a0e6",
+      "avatarCode": "B306-T45-W1-R35-L2-N25-U25-X45-F62-C0",
+      "collectionId": "",
+      "collectionTitle": "micky",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-19T21:16:30.490875Z",
+      "updatedAt": "2026-10-19T21:16:30.490887Z"
     }
   },
   "posts": [],
@@ -7421,6 +7434,17 @@
       "username": "Max07BB5",
       "avatar_code": "B257-T38-W12-R30-L0-N6-U0-X18-F97-C0",
       "joined_at": "2026-10-19T19:19:46.945822Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "micky": {
+      "username": "micky",
+      "avatar_code": "B306-T45-W1-R35-L2-N25-U25-X45-F62-C0",
+      "joined_at": "2026-10-19T21:16:30.490875Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
