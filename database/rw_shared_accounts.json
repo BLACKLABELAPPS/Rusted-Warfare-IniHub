@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T12:08:12.241427Z",
+  "updatedAt": "2026-10-19T15:29:34.562647Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2471,6 +2471,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-19T12:08:12.241360Z",
       "updatedAt": "2026-10-19T12:08:12.241367Z"
+    },
+    "resat534": {
+      "username": "resat534",
+      "usernameLower": "resat534",
+      "passwordSalt": "nXlYpK5iEypHtGvaijNG4_dJs2ppPEQM",
+      "passwordHash": "513b7969ccf769e3f64689cf9c7a587145af70675dd2db03bed4ab620b7b2e0b",
+      "avatarCode": "B54-T7-W15-R45-L1-N21-U17-X47-F62-C0",
+      "collectionId": "",
+      "collectionTitle": "resat534",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-19T15:29:34.561037Z",
+      "updatedAt": "2026-10-19T15:29:34.562517Z"
     }
   },
   "posts": [],
@@ -7349,6 +7362,17 @@
       "username": "khant",
       "avatar_code": "B553-T26-W14-R48-L3-N34-U38-X4-F93-C0",
       "joined_at": "2026-10-19T12:08:12.241360Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "resat534": {
+      "username": "resat534",
+      "avatar_code": "B54-T7-W15-R45-L1-N21-U17-X47-F62-C0",
+      "joined_at": "2026-10-19T15:29:34.561037Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
