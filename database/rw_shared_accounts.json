@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-20T08:00:02.952625Z",
+  "updatedAt": "2026-10-20T10:42:29.585682Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2536,6 +2536,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-19T23:00:22.678155Z",
       "updatedAt": "2026-10-19T23:00:22.678218Z"
+    },
+    "mynameisroll1": {
+      "username": "mynameisroll1",
+      "usernameLower": "mynameisroll1",
+      "passwordSalt": "O4112GZDcM7ocwAWZp0uvp2dAY0we6TS",
+      "passwordHash": "573965108f5567093f8820fd21e66cb12c56fc553da05321edac453fff85b165",
+      "avatarCode": "B548-T31-W31-R39-L1-N9-U11-X37-F68-C0",
+      "collectionId": "",
+      "collectionTitle": "mynameisroll1",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-20T10:42:29.585635Z",
+      "updatedAt": "2026-10-20T10:42:29.585642Z"
     }
   },
   "posts": [],
@@ -7469,6 +7482,17 @@
       "username": "irjejd",
       "avatar_code": "B399-T40-W32-R20-L1-N22-U26-X14-F91-C0",
       "joined_at": "2026-10-19T23:00:22.678155Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "mynameisroll1": {
+      "username": "mynameisroll1",
+      "avatar_code": "B548-T31-W31-R39-L1-N9-U11-X37-F68-C0",
+      "joined_at": "2026-10-20T10:42:29.585635Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
