@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-20T14:12:16.261536Z",
+  "updatedAt": "2026-10-20T14:59:27.478665Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2562,6 +2562,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-20T14:12:16.261299Z",
       "updatedAt": "2026-10-20T14:12:16.261348Z"
+    },
+    "mitsuruki": {
+      "username": "mitsuruki",
+      "usernameLower": "mitsuruki",
+      "passwordSalt": "tnfng4AZBykRoa2vi7HzXqdNZc8wyh_l",
+      "passwordHash": "035e43c005539cda3db405454f91755879f1c36101f68f76d185c744a11436a9",
+      "avatarCode": "B42-T43-W33-R19-L3-N43-U3-X39-F98-C0",
+      "collectionId": "",
+      "collectionTitle": "mitsuruki",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-20T14:59:27.473133Z",
+      "updatedAt": "2026-10-20T14:59:27.478515Z"
     }
   },
   "posts": [],
@@ -7517,6 +7530,17 @@
       "username": "ahmad",
       "avatar_code": "B692-T29-W5-R19-L0-N3-U21-X31-F16-C0",
       "joined_at": "2026-10-20T14:12:16.261299Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "mitsuruki": {
+      "username": "mitsuruki",
+      "avatar_code": "B42-T43-W33-R19-L3-N43-U3-X39-F98-C0",
+      "joined_at": "2026-10-20T14:59:27.473133Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
