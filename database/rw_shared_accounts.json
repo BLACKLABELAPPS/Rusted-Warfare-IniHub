@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T23:00:22.678382Z",
+  "updatedAt": "2026-10-20T08:00:02.952625Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -7523,17 +7523,24 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://10.47.235.83:8765",
+      "lanUrl": "http://172.19.0.1:8765",
       "lanUrls": [
-        "http://10.47.235.83:8765"
+        "http://172.19.0.1:8765",
+        "http://172.21.144.1:8765",
+        "http://10.8.3.94:8765",
+        "http://10.147.17.39:8765",
+        "http://10.215.47.213:8765"
       ],
       "executorUrls": [
-        "https://alphabetical-ict-hero-wilderness.trycloudflare.com",
-        "http://10.47.235.83:8765"
+        "http://172.19.0.1:8765",
+        "http://172.21.144.1:8765",
+        "http://10.8.3.94:8765",
+        "http://10.147.17.39:8765",
+        "http://10.215.47.213:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-18T22:22:29.135291Z",
+      "updatedAt": "2026-10-20T08:00:02.952625Z",
       "publicUrl": "https://alphabetical-ict-hero-wilderness.trycloudflare.com",
       "executorUrl": "https://alphabetical-ict-hero-wilderness.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
