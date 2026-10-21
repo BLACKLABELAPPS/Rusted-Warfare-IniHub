@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-20T14:59:27.478665Z",
+  "updatedAt": "2026-10-21T10:07:50.110231Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2575,6 +2575,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-20T14:59:27.473133Z",
       "updatedAt": "2026-10-20T14:59:27.478515Z"
+    },
+    "warzine": {
+      "username": "warzine",
+      "usernameLower": "warzine",
+      "passwordSalt": "JvfOqyHlQ8XBt87cAzpwKir3PP6FNKt8",
+      "passwordHash": "777dc9e3d45d5baa25f7ce6f8baed80df5280a3f5a17ed01adc20e2bc0fbc8bb",
+      "avatarCode": "B159-T4-W48-R36-L0-N28-U24-X12-F79-C0",
+      "collectionId": "",
+      "collectionTitle": "warzine",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-21T10:07:50.108092Z",
+      "updatedAt": "2026-10-21T10:07:50.109950Z"
     }
   },
   "posts": [],
@@ -7541,6 +7554,17 @@
       "username": "mitsuruki",
       "avatar_code": "B42-T43-W33-R19-L3-N43-U3-X39-F98-C0",
       "joined_at": "2026-10-20T14:59:27.473133Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "warzine": {
+      "username": "warzine",
+      "avatar_code": "B159-T4-W48-R36-L0-N28-U24-X12-F79-C0",
+      "joined_at": "2026-10-21T10:07:50.108092Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
