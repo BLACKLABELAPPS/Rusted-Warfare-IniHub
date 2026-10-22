@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-22T15:38:08.592022Z",
+  "updatedAt": "2026-10-22T15:57:57.801515Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2614,6 +2614,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-22T08:28:38.649300Z",
       "updatedAt": "2026-10-22T08:28:38.649308Z"
+    },
+    "dairon": {
+      "username": "Dairon",
+      "usernameLower": "dairon",
+      "passwordSalt": "JGnT77BmsFOda8f8nW90sYK1Dc-msNnp",
+      "passwordHash": "f16d939f54407377a28791a3638e0abc059eb13154152b7c58c38c685268e99a",
+      "avatarCode": "B554-T43-W3-R33-L4-N23-U27-X43-F10-C0",
+      "collectionId": "",
+      "collectionTitle": "Dairon",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-22T15:57:57.800077Z",
+      "updatedAt": "2026-10-22T15:57:57.801279Z"
     }
   },
   "posts": [],
@@ -7613,6 +7626,17 @@
       "username": "jj344",
       "avatar_code": "B80-T29-W23-R35-L3-N7-U17-X33-F60-C0",
       "joined_at": "2026-10-22T08:28:38.649300Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "dairon": {
+      "username": "Dairon",
+      "avatar_code": "B554-T43-W3-R33-L4-N23-U27-X43-F10-C0",
+      "joined_at": "2026-10-22T15:57:57.800077Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
