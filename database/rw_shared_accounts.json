@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-23T23:34:13.605556Z",
+  "updatedAt": "2026-10-23T23:40:27.004779Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4985,6 +4985,17 @@
       }
     ],
     "hhs": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2025712274&appid=647960",
+        "title": "Straighten_up_AI_priorities",
+        "date": "23/10/2026",
+        "time": "19:40:24",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/1020572987455434734/ED473A0220A18C1A30E50C0DB41E5D93156DF251/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3381880026&appid=647960",
         "title": "10p_LOL升级版",
