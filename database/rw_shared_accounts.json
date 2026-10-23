@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-23T23:26:37.874582Z",
+  "updatedAt": "2026-10-23T23:30:00.486928Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4985,6 +4985,17 @@
       }
     ],
     "hhs": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2887917204&appid=647960",
+        "title": "Straightened_Ai_Priorities_1.15",
+        "date": "23/10/2026",
+        "time": "19:29:58",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/1869584695645604508/900329B1DFF7E29E8CA5D894AA447DE9700E031B/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3131876464&appid=647960",
         "title": "The_Last_Stand_10p",
