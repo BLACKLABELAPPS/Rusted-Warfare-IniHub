@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-22T15:57:57.801515Z",
+  "updatedAt": "2026-10-23T22:42:10.877975Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2627,6 +2627,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-22T15:57:57.800077Z",
       "updatedAt": "2026-10-22T15:57:57.801279Z"
+    },
+    "amilcar": {
+      "username": "amilcar",
+      "usernameLower": "amilcar",
+      "passwordSalt": "2DcAPQi3nCDPNbmxsLUwVacwA8cMB906",
+      "passwordHash": "d5f66cd0060228eca2c4be42394c91215de1777fdd4e4c9bfe6def6dac1fc036",
+      "avatarCode": "B50-T39-W45-R15-L3-N1-U5-X7-F74-C0",
+      "collectionId": "",
+      "collectionTitle": "amilcar",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-23T22:42:10.877637Z",
+      "updatedAt": "2026-10-23T22:42:10.877666Z"
     }
   },
   "posts": [],
@@ -7637,6 +7650,17 @@
       "username": "Dairon",
       "avatar_code": "B554-T43-W3-R33-L4-N23-U27-X43-F10-C0",
       "joined_at": "2026-10-22T15:57:57.800077Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "amilcar": {
+      "username": "amilcar",
+      "avatar_code": "B50-T39-W45-R15-L3-N1-U5-X7-F74-C0",
+      "joined_at": "2026-10-23T22:42:10.877637Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
