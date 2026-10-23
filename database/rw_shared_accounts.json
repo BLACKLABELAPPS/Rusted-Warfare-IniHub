@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-23T23:31:04.978999Z",
+  "updatedAt": "2026-10-23T23:34:13.605556Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4985,6 +4985,17 @@
       }
     ],
     "hhs": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3381880026&appid=647960",
+        "title": "10p_LOL升级版",
+        "date": "23/10/2026",
+        "time": "19:34:11",
+        "type": "Maps",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/51324917716702860/05188C3636AA975777446545B62291BD62BD1B42/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3148432627&appid=647960",
         "title": "OG_BREAD_6p",
