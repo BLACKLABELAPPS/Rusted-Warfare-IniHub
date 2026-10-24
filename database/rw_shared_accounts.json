@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T14:06:21.437739Z",
+  "updatedAt": "2026-10-24T14:06:43.942210Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -7812,16 +7812,17 @@
         "http://192.168.1.100:8765"
       ],
       "executorUrls": [
+        "https://revelation-assessed-clone-survivors.trycloudflare.com",
         "http://192.168.1.100:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-24T14:06:21.437739Z",
-      "publicUrl": "https://turned-therefore-answered-plaza.trycloudflare.com",
-      "executorUrl": "https://turned-therefore-answered-plaza.trycloudflare.com",
+      "updatedAt": "2026-10-24T14:06:43.942210Z",
+      "publicUrl": "https://revelation-assessed-clone-survivors.trycloudflare.com",
+      "executorUrl": "https://revelation-assessed-clone-survivors.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-24T01:36:42.612050Z"
+      "lastSeenAt": "2026-10-24T14:06:43.247326Z"
     }
   },
   "premiumEntitlements": {
