@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-23T23:40:27.004779Z",
+  "updatedAt": "2026-10-24T00:04:38.332195Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -4985,6 +4985,17 @@
       }
     ],
     "hhs": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3728251918&appid=647960",
+        "title": "Vanilla+_Economy_Extension",
+        "date": "23/10/2026",
+        "time": "20:04:35",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/15302602308509335034/86BFFE62D5837345C49311AB030B29234C413889/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2025712274&appid=647960",
         "title": "Straighten_up_AI_priorities",
