@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T01:36:43.642018Z",
+  "updatedAt": "2026-10-24T10:00:58.254897Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2640,6 +2640,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-23T22:42:10.877637Z",
       "updatedAt": "2026-10-23T22:42:10.877666Z"
+    },
+    "krolanchik": {
+      "username": "Krolanchik",
+      "usernameLower": "krolanchik",
+      "passwordSalt": "kP8aq63QDmGdYlzIZSxecOdYbogHSgty",
+      "passwordHash": "044a49917fba6039fd6e6e42279917b1f55b6e8093adacd6b44a7739bf07b19e",
+      "avatarCode": "B665-T38-W48-R10-L3-N18-U0-X34-F37-C0",
+      "collectionId": "",
+      "collectionTitle": "Krolanchik",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-24T10:00:58.254798Z",
+      "updatedAt": "2026-10-24T10:00:58.254841Z"
     }
   },
   "posts": [],
@@ -7729,6 +7742,17 @@
       "username": "amilcar",
       "avatar_code": "B50-T39-W45-R15-L3-N1-U5-X7-F74-C0",
       "joined_at": "2026-10-23T22:42:10.877637Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "krolanchik": {
+      "username": "Krolanchik",
+      "avatar_code": "B665-T38-W48-R10-L3-N18-U0-X34-F37-C0",
+      "joined_at": "2026-10-24T10:00:58.254798Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
