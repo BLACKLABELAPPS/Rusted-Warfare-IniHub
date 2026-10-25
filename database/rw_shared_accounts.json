@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25T09:26:16.288865Z",
+  "updatedAt": "2026-10-25T20:19:17.697233Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2666,6 +2666,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-25T08:57:03.800024Z",
       "updatedAt": "2026-10-25T08:57:03.800037Z"
+    },
+    "daniel": {
+      "username": "daniel",
+      "usernameLower": "daniel",
+      "passwordSalt": "kPMyE62ARNxSYq2yqH6d00gHz0ymXttm",
+      "passwordHash": "8d4b9bbcc403c8b42fdd3c72425d17db6eef2cba863f37ee4ecaaa91aa4f0ed3",
+      "avatarCode": "B592-T19-W39-R47-L2-N19-U15-X27-F72-C0",
+      "collectionId": "",
+      "collectionTitle": "daniel",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-25T20:19:17.697011Z",
+      "updatedAt": "2026-10-25T20:19:17.697037Z"
     }
   },
   "posts": [],
@@ -7777,6 +7790,17 @@
       "username": "elijah",
       "avatar_code": "B76-T9-W13-R39-L2-N5-U7-X15-F36-C0",
       "joined_at": "2026-10-25T08:57:03.800024Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "daniel": {
+      "username": "daniel",
+      "avatar_code": "B592-T19-W39-R47-L2-N19-U15-X27-F72-C0",
+      "joined_at": "2026-10-25T20:19:17.697011Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
