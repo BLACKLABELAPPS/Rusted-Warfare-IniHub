@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T19:38:03.570867Z",
+  "updatedAt": "2026-10-25T08:57:03.800116Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2653,6 +2653,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-24T10:00:58.254798Z",
       "updatedAt": "2026-10-24T10:00:58.254841Z"
+    },
+    "elijah": {
+      "username": "elijah",
+      "usernameLower": "elijah",
+      "passwordSalt": "P9WoIYPkkFQxDMIH0zxg7glwvfCbpoIz",
+      "passwordHash": "8da01e7698094dee9b7d6caa0b9e8940cb487ebecbe506a7cbb477e2dd7532ad",
+      "avatarCode": "B76-T9-W13-R39-L2-N5-U7-X15-F36-C0",
+      "collectionId": "",
+      "collectionTitle": "elijah",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-25T08:57:03.800024Z",
+      "updatedAt": "2026-10-25T08:57:03.800037Z"
     }
   },
   "posts": [],
@@ -7753,6 +7766,17 @@
       "username": "Krolanchik",
       "avatar_code": "B665-T38-W48-R10-L3-N18-U0-X34-F37-C0",
       "joined_at": "2026-10-24T10:00:58.254798Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "elijah": {
+      "username": "elijah",
+      "avatar_code": "B76-T9-W13-R39-L2-N5-U7-X15-F36-C0",
+      "joined_at": "2026-10-25T08:57:03.800024Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
