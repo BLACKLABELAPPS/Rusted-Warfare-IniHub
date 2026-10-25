@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25T20:19:17.697233Z",
+  "updatedAt": "2026-10-25T20:21:04.109141Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5539,6 +5539,143 @@
       },
       "created_at": "2026-10-18T23:08:22.331548Z",
       "updated_at": "2026-10-18T23:08:22.331548Z"
+    },
+    {
+      "id": "rw-hnjuap97ju-9d0rb",
+      "name": "123qwert",
+      "description": "",
+      "owner_username": "daniel",
+      "owner_username_lower": "daniel",
+      "created_by": "daniel",
+      "mode": "single",
+      "format": "single_elimination",
+      "status": "upcoming",
+      "max_participants": 16,
+      "start_date": "2026-10-25",
+      "start_datetime": "2026-10-25T20:19:00.000Z",
+      "start_at": "2026-10-25T20:19:00.000Z",
+      "participants": [
+        {
+          "username": "daniel",
+          "username_lower": "daniel",
+          "avatar_code": "B592-T19-W39-R47-L2-N19-U15-X27-F72-C0",
+          "joined_at": "2026-10-25T20:21:00.904314Z",
+          "tournament_color_code": "C1"
+        },
+        {
+          "username": "009",
+          "username_lower": "009",
+          "avatar_code": "B430-T37-W41-R25-L1-N47-U43-X27-F42-C0",
+          "joined_at": "2026-10-25T20:21:00.904314Z",
+          "tournament_color_code": "C10"
+        }
+      ],
+      "data_json": {
+        "teams": [],
+        "team_colors": {},
+        "players": [
+          {
+            "username": "daniel",
+            "player_name": "daniel",
+            "is_bot": false,
+            "color_code": "C1",
+            "avatar_code": "B592-T19-W39-R47-L2-N19-U15-X27-F72-C0"
+          },
+          {
+            "username": "Bot#2",
+            "player_name": "",
+            "is_bot": true,
+            "color_code": "C2"
+          },
+          {
+            "username": "Bot#3",
+            "player_name": "",
+            "is_bot": true,
+            "color_code": "C3"
+          },
+          {
+            "username": "009",
+            "player_name": "009",
+            "is_bot": false,
+            "color_code": "C10",
+            "avatar_code": "B430-T37-W41-R25-L1-N47-U43-X27-F42-C0"
+          }
+        ],
+        "matches": [
+          {
+            "match_id": 1,
+            "round": 1,
+            "slot": 1,
+            "status": "scheduled",
+            "participants": [
+              {
+                "side": 1,
+                "team_id": "daniel",
+                "score": 0,
+                "is_winner": 0
+              },
+              {
+                "side": 2,
+                "team_id": "Bot#2",
+                "score": 0,
+                "is_winner": 0
+              }
+            ],
+            "next_match_id": 3,
+            "next_slot": 1
+          },
+          {
+            "match_id": 2,
+            "round": 1,
+            "slot": 2,
+            "status": "scheduled",
+            "participants": [
+              {
+                "side": 1,
+                "team_id": "Bot#3",
+                "score": 0,
+                "is_winner": 0
+              },
+              {
+                "side": 2,
+                "team_id": "009",
+                "score": 0,
+                "is_winner": 0
+              }
+            ],
+            "next_match_id": 3,
+            "next_slot": 2
+          },
+          {
+            "match_id": 3,
+            "round": 2,
+            "slot": 1,
+            "status": "scheduled",
+            "participants": [
+              {
+                "side": 1,
+                "team_id": null,
+                "score": 0,
+                "is_winner": 0
+              },
+              {
+                "side": 2,
+                "team_id": null,
+                "score": 0,
+                "is_winner": 0
+              }
+            ],
+            "next_match_id": null,
+            "next_slot": null
+          }
+        ],
+        "meta": {
+          "root_match_id": 3,
+          "next_local_id": 4
+        }
+      },
+      "created_at": "2026-10-25T20:21:00.904314Z",
+      "updated_at": "2026-10-25T20:21:00.904314Z"
     }
   ],
   "tournamentProfiles": {
