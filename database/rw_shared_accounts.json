@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25T09:25:58.177297Z",
+  "updatedAt": "2026-10-25T09:26:16.288865Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -7836,16 +7836,17 @@
         "http://192.168.1.95:8765"
       ],
       "executorUrls": [
+        "https://nick-historical-higher-themselves.trycloudflare.com",
         "http://192.168.1.95:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-25T09:25:58.177297Z",
-      "publicUrl": "https://improvements-nirvana-analysts-frontier.trycloudflare.com",
-      "executorUrl": "https://improvements-nirvana-analysts-frontier.trycloudflare.com",
+      "updatedAt": "2026-10-25T09:26:16.288865Z",
+      "publicUrl": "https://nick-historical-higher-themselves.trycloudflare.com",
+      "executorUrl": "https://nick-historical-higher-themselves.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-24T17:53:31.415121Z"
+      "lastSeenAt": "2026-10-25T09:26:15.607855Z"
     }
   },
   "premiumEntitlements": {
