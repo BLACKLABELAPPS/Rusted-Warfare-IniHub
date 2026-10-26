@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T20:59:43.097046Z",
+  "updatedAt": "2026-10-26T21:12:30.623702Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8034,12 +8034,11 @@
         "http://192.168.1.7:8765"
       ],
       "executorUrls": [
-        "https://capability-ideas-stood-align.trycloudflare.com",
         "http://192.168.1.7:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-26T20:59:43.097046Z",
+      "updatedAt": "2026-10-26T21:12:30.623702Z",
       "publicUrl": "https://capability-ideas-stood-align.trycloudflare.com",
       "executorUrl": "https://capability-ideas-stood-align.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
