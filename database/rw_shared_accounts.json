@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T04:05:54.741419Z",
+  "updatedAt": "2026-10-26T04:07:31.052550Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8022,13 +8022,12 @@
         "http://192.168.0.15:8765"
       ],
       "executorUrls": [
-        "https://orlando-violin-meanwhile-alaska.trycloudflare.com",
         "http://26.18.27.49:8765",
         "http://192.168.0.15:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-26T04:05:54.741419Z",
+      "updatedAt": "2026-10-26T04:07:31.052550Z",
       "publicUrl": "https://orlando-violin-meanwhile-alaska.trycloudflare.com",
       "executorUrl": "https://orlando-violin-meanwhile-alaska.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
