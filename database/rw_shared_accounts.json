@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T04:20:01.840496Z",
+  "updatedAt": "2026-10-26T04:20:07.262476Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8022,17 +8022,18 @@
         "http://192.168.0.15:8765"
       ],
       "executorUrls": [
+        "https://sand-cellular-resistance-jake.trycloudflare.com",
         "http://26.18.27.49:8765",
         "http://192.168.0.15:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-26T04:20:01.840496Z",
-      "publicUrl": "https://stud-reply-horses-husband.trycloudflare.com",
-      "executorUrl": "https://stud-reply-horses-husband.trycloudflare.com",
+      "updatedAt": "2026-10-26T04:20:07.262476Z",
+      "publicUrl": "https://sand-cellular-resistance-jake.trycloudflare.com",
+      "executorUrl": "https://sand-cellular-resistance-jake.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-26T04:12:10.040319Z"
+      "lastSeenAt": "2026-10-26T04:20:06.649458Z"
     }
   },
   "premiumEntitlements": {
