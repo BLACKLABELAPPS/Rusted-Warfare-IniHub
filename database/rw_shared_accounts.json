@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T04:02:03.535570Z",
+  "updatedAt": "2026-10-26T04:02:17.867616Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8022,17 +8022,18 @@
         "http://192.168.0.15:8765"
       ],
       "executorUrls": [
+        "https://internship-cod-vehicles-shorts.trycloudflare.com",
         "http://26.18.27.49:8765",
         "http://192.168.0.15:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-26T04:02:03.535570Z",
-      "publicUrl": "https://maximum-zum-produce-backup.trycloudflare.com",
-      "executorUrl": "https://maximum-zum-produce-backup.trycloudflare.com",
+      "updatedAt": "2026-10-26T04:02:17.867616Z",
+      "publicUrl": "https://internship-cod-vehicles-shorts.trycloudflare.com",
+      "executorUrl": "https://internship-cod-vehicles-shorts.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-25T20:30:57.177463Z"
+      "lastSeenAt": "2026-10-26T04:02:17.188237Z"
     }
   },
   "premiumEntitlements": {
