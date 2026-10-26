@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T20:59:32.752261Z",
+  "updatedAt": "2026-10-26T20:59:43.097046Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8034,16 +8034,17 @@
         "http://192.168.1.7:8765"
       ],
       "executorUrls": [
+        "https://capability-ideas-stood-align.trycloudflare.com",
         "http://192.168.1.7:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-26T20:59:32.752261Z",
-      "publicUrl": "https://mlb-nuclear-guestbook-geneva.trycloudflare.com",
-      "executorUrl": "https://mlb-nuclear-guestbook-geneva.trycloudflare.com",
+      "updatedAt": "2026-10-26T20:59:43.097046Z",
+      "publicUrl": "https://capability-ideas-stood-align.trycloudflare.com",
+      "executorUrl": "https://capability-ideas-stood-align.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-26T20:23:55.328301Z"
+      "lastSeenAt": "2026-10-26T20:59:31.749528Z"
     }
   },
   "premiumEntitlements": {
