@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T04:07:31.052550Z",
+  "updatedAt": "2026-10-26T04:07:36.543597Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8022,17 +8022,18 @@
         "http://192.168.0.15:8765"
       ],
       "executorUrls": [
+        "https://consumer-nightlife-pete-aerospace.trycloudflare.com",
         "http://26.18.27.49:8765",
         "http://192.168.0.15:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-26T04:07:31.052550Z",
-      "publicUrl": "https://orlando-violin-meanwhile-alaska.trycloudflare.com",
-      "executorUrl": "https://orlando-violin-meanwhile-alaska.trycloudflare.com",
+      "updatedAt": "2026-10-26T04:07:36.543597Z",
+      "publicUrl": "https://consumer-nightlife-pete-aerospace.trycloudflare.com",
+      "executorUrl": "https://consumer-nightlife-pete-aerospace.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-26T04:05:54.152362Z"
+      "lastSeenAt": "2026-10-26T04:07:35.975490Z"
     }
   },
   "premiumEntitlements": {
