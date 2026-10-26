@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T04:07:36.543597Z",
+  "updatedAt": "2026-10-26T04:12:05.177585Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8022,13 +8022,12 @@
         "http://192.168.0.15:8765"
       ],
       "executorUrls": [
-        "https://consumer-nightlife-pete-aerospace.trycloudflare.com",
         "http://26.18.27.49:8765",
         "http://192.168.0.15:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-26T04:07:36.543597Z",
+      "updatedAt": "2026-10-26T04:12:05.177585Z",
       "publicUrl": "https://consumer-nightlife-pete-aerospace.trycloudflare.com",
       "executorUrl": "https://consumer-nightlife-pete-aerospace.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
