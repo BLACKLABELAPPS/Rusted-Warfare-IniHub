@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T04:24:31.894816Z",
+  "updatedAt": "2026-10-26T04:24:43.517495Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8022,17 +8022,18 @@
         "http://192.168.0.15:8765"
       ],
       "executorUrls": [
+        "https://sullivan-nissan-marker-degree.trycloudflare.com",
         "http://26.18.27.49:8765",
         "http://192.168.0.15:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-26T04:24:31.894816Z",
-      "publicUrl": "https://sand-cellular-resistance-jake.trycloudflare.com",
-      "executorUrl": "https://sand-cellular-resistance-jake.trycloudflare.com",
+      "updatedAt": "2026-10-26T04:24:43.517495Z",
+      "publicUrl": "https://sullivan-nissan-marker-degree.trycloudflare.com",
+      "executorUrl": "https://sullivan-nissan-marker-degree.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-26T04:20:06.649458Z"
+      "lastSeenAt": "2026-10-26T04:24:36.611178Z"
     }
   },
   "premiumEntitlements": {
