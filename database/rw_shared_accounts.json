@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T22:49:58.728756Z",
+  "updatedAt": "2026-10-26T22:50:09.908699Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8058,12 +8058,11 @@
         "http://192.168.1.7:8765"
       ],
       "executorUrls": [
-        "https://attract-expansys-lid-white.trycloudflare.com",
         "http://192.168.1.7:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-26T22:49:58.728756Z",
+      "updatedAt": "2026-10-26T22:50:09.908699Z",
       "publicUrl": "https://attract-expansys-lid-white.trycloudflare.com",
       "executorUrl": "https://attract-expansys-lid-white.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
