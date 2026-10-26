@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25T20:31:05.723385Z",
+  "updatedAt": "2026-10-26T02:29:48.841830Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2679,6 +2679,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-25T20:19:17.697011Z",
       "updatedAt": "2026-10-25T20:19:17.697037Z"
+    },
+    "kirbydestroyer": {
+      "username": "kirbydestroyer",
+      "usernameLower": "kirbydestroyer",
+      "passwordSalt": "3w7eBXepOYH_4kX6aNYfP7xV75qxxmSP",
+      "passwordHash": "61d32c632b4bd12d56a08a26989ff54f9e3e9e79657c43d40726eeba9f1db463",
+      "avatarCode": "B635-T18-W12-R2-L4-N10-U2-X46-F15-C0",
+      "collectionId": "",
+      "collectionTitle": "kirbydestroyer",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-26T02:29:48.841787Z",
+      "updatedAt": "2026-10-26T02:29:48.841801Z"
     }
   },
   "posts": [],
@@ -7938,6 +7951,17 @@
       "username": "daniel",
       "avatar_code": "B592-T19-W39-R47-L2-N19-U15-X27-F72-C0",
       "joined_at": "2026-10-25T20:19:17.697011Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "kirbydestroyer": {
+      "username": "kirbydestroyer",
+      "avatar_code": "B635-T18-W12-R2-L4-N10-U2-X46-F15-C0",
+      "joined_at": "2026-10-26T02:29:48.841787Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
