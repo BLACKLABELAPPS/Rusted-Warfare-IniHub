@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T20:23:57.670168Z",
+  "updatedAt": "2026-10-26T20:59:32.752261Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8034,12 +8034,11 @@
         "http://192.168.1.7:8765"
       ],
       "executorUrls": [
-        "https://mlb-nuclear-guestbook-geneva.trycloudflare.com",
         "http://192.168.1.7:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-26T20:23:57.670168Z",
+      "updatedAt": "2026-10-26T20:59:32.752261Z",
       "publicUrl": "https://mlb-nuclear-guestbook-geneva.trycloudflare.com",
       "executorUrl": "https://mlb-nuclear-guestbook-geneva.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
