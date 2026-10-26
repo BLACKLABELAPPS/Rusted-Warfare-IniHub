@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T04:05:49.397970Z",
+  "updatedAt": "2026-10-26T04:05:54.741419Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8022,17 +8022,18 @@
         "http://192.168.0.15:8765"
       ],
       "executorUrls": [
+        "https://orlando-violin-meanwhile-alaska.trycloudflare.com",
         "http://26.18.27.49:8765",
         "http://192.168.0.15:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-26T04:05:49.397970Z",
-      "publicUrl": "https://internship-cod-vehicles-shorts.trycloudflare.com",
-      "executorUrl": "https://internship-cod-vehicles-shorts.trycloudflare.com",
+      "updatedAt": "2026-10-26T04:05:54.741419Z",
+      "publicUrl": "https://orlando-violin-meanwhile-alaska.trycloudflare.com",
+      "executorUrl": "https://orlando-violin-meanwhile-alaska.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-26T04:02:17.188237Z"
+      "lastSeenAt": "2026-10-26T04:05:54.152362Z"
     }
   },
   "premiumEntitlements": {
