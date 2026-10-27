@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-27T01:46:38.277301Z",
+  "updatedAt": "2026-10-27T02:08:43.661555Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8058,12 +8058,11 @@
         "http://192.168.0.124:8765"
       ],
       "executorUrls": [
-        "https://defense-susan-thread-carnival.trycloudflare.com",
         "http://192.168.0.124:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-27T01:46:38.277301Z",
+      "updatedAt": "2026-10-27T02:08:43.661555Z",
       "publicUrl": "https://defense-susan-thread-carnival.trycloudflare.com",
       "executorUrl": "https://defense-susan-thread-carnival.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
