@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-27T01:42:42.534417Z",
+  "updatedAt": "2026-10-27T01:46:38.277301Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8058,16 +8058,17 @@
         "http://192.168.0.124:8765"
       ],
       "executorUrls": [
+        "https://defense-susan-thread-carnival.trycloudflare.com",
         "http://192.168.0.124:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-27T01:42:42.534417Z",
-      "publicUrl": "https://attract-expansys-lid-white.trycloudflare.com",
-      "executorUrl": "https://attract-expansys-lid-white.trycloudflare.com",
+      "updatedAt": "2026-10-27T01:46:38.277301Z",
+      "publicUrl": "https://defense-susan-thread-carnival.trycloudflare.com",
+      "executorUrl": "https://defense-susan-thread-carnival.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-26T22:49:49.762337Z"
+      "lastSeenAt": "2026-10-27T01:46:27.982214Z"
     }
   },
   "premiumEntitlements": {
