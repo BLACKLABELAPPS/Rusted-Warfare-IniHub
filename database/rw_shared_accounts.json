@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-27T23:19:27.362818Z",
+  "updatedAt": "2026-10-27T23:19:39.306307Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8082,16 +8082,17 @@
         "http://192.168.1.26:8765"
       ],
       "executorUrls": [
+        "https://attach-vcr-protein-scoring.trycloudflare.com",
         "http://192.168.1.26:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-27T23:19:27.362818Z",
-      "publicUrl": "https://bali-copies-formatting-battery.trycloudflare.com",
-      "executorUrl": "https://bali-copies-formatting-battery.trycloudflare.com",
+      "updatedAt": "2026-10-27T23:19:39.306307Z",
+      "publicUrl": "https://attach-vcr-protein-scoring.trycloudflare.com",
+      "executorUrl": "https://attach-vcr-protein-scoring.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-27T02:52:09.510955Z"
+      "lastSeenAt": "2026-10-27T23:19:38.979298Z"
     }
   },
   "premiumEntitlements": {
