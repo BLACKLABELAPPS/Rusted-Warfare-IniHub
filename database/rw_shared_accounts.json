@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-27T09:53:24.207138Z",
+  "updatedAt": "2026-10-27T23:19:27.362818Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8077,19 +8077,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://26.18.27.49:8765",
+      "lanUrl": "http://192.168.1.26:8765",
       "lanUrls": [
-        "http://26.18.27.49:8765",
-        "http://192.168.0.15:8765"
+        "http://192.168.1.26:8765"
       ],
       "executorUrls": [
-        "https://bali-copies-formatting-battery.trycloudflare.com",
-        "http://26.18.27.49:8765",
-        "http://192.168.0.15:8765"
+        "http://192.168.1.26:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-27T02:52:10.964587Z",
+      "updatedAt": "2026-10-27T23:19:27.362818Z",
       "publicUrl": "https://bali-copies-formatting-battery.trycloudflare.com",
       "executorUrl": "https://bali-copies-formatting-battery.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
