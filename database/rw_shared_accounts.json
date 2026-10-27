@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-27T02:52:10.964587Z",
+  "updatedAt": "2026-10-27T09:53:24.207138Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2705,6 +2705,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-26T21:27:31.141069Z",
       "updatedAt": "2026-10-26T21:27:31.141069Z"
+    },
+    "good_boi2281488133752": {
+      "username": "good_boi2281488133752",
+      "usernameLower": "good_boi2281488133752",
+      "passwordSalt": "O8UPDwplrUw5CUxviPnX16UzjCal0vpH",
+      "passwordHash": "ffb269a2492b42cdfd97de26025655449b919dfb9f30f2b48324917d88349b71",
+      "avatarCode": "B9-T18-W18-R32-L1-N4-U6-X20-F89-C0",
+      "collectionId": "",
+      "collectionTitle": "good_boi2281488133752",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-27T09:53:24.207038Z",
+      "updatedAt": "2026-10-27T09:53:24.207050Z"
     }
   },
   "posts": [],
@@ -7999,6 +8012,17 @@
       "username": "itsalloushi",
       "avatar_code": "B140-T23-W31-R49-L0-N29-U11-X25-F28-C0",
       "joined_at": "2026-10-26T21:27:31.141069Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "good_boi2281488133752": {
+      "username": "good_boi2281488133752",
+      "avatar_code": "B9-T18-W18-R32-L1-N4-U6-X20-F89-C0",
+      "joined_at": "2026-10-27T09:53:24.207038Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
