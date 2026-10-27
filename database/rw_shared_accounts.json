@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-27T02:08:43.661555Z",
+  "updatedAt": "2026-10-27T02:09:16.281560Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8058,16 +8058,17 @@
         "http://192.168.0.124:8765"
       ],
       "executorUrls": [
+        "https://tournament-pharmaceutical-carb-atom.trycloudflare.com",
         "http://192.168.0.124:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-27T02:08:43.661555Z",
-      "publicUrl": "https://defense-susan-thread-carnival.trycloudflare.com",
-      "executorUrl": "https://defense-susan-thread-carnival.trycloudflare.com",
+      "updatedAt": "2026-10-27T02:09:16.281560Z",
+      "publicUrl": "https://tournament-pharmaceutical-carb-atom.trycloudflare.com",
+      "executorUrl": "https://tournament-pharmaceutical-carb-atom.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-27T01:46:27.982214Z"
+      "lastSeenAt": "2026-10-27T02:08:45.409678Z"
     }
   },
   "premiumEntitlements": {
