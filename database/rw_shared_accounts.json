@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T13:22:16.590247Z",
+  "updatedAt": "2026-10-28T17:11:27.476682Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8101,16 +8101,20 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://10.83.61.245:8765",
+      "lanUrl": "http://26.225.159.162:8765",
       "lanUrls": [
-        "http://10.83.61.245:8765"
+        "http://26.225.159.162:8765",
+        "http://192.168.137.1:8765",
+        "http://192.168.0.101:8765"
       ],
       "executorUrls": [
-        "http://10.83.61.245:8765"
+        "http://26.225.159.162:8765",
+        "http://192.168.137.1:8765",
+        "http://192.168.0.101:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-28T08:45:01.701560Z",
+      "updatedAt": "2026-10-28T17:11:27.476682Z",
       "publicUrl": "https://attach-vcr-protein-scoring.trycloudflare.com",
       "executorUrl": "https://attach-vcr-protein-scoring.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
