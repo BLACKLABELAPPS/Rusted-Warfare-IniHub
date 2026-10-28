@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T08:45:01.701560Z",
+  "updatedAt": "2026-10-28T13:22:16.590247Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2718,6 +2718,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-27T09:53:24.207038Z",
       "updatedAt": "2026-10-27T09:53:24.207050Z"
+    },
+    "misterx": {
+      "username": "misterX",
+      "usernameLower": "misterx",
+      "passwordSalt": "Uf3Et8T9XuREw4BiTHblIzlVAusA9zez",
+      "passwordHash": "8aadc01c91948237fb5306e7d91a261aeec82d9a59f76e5041460b4ac9416967",
+      "avatarCode": "B231-T26-W20-R4-L3-N0-U46-X34-F51-C0",
+      "collectionId": "",
+      "collectionTitle": "misterX",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-28T13:22:16.589293Z",
+      "updatedAt": "2026-10-28T13:22:16.590042Z"
     }
   },
   "posts": [],
@@ -8023,6 +8036,17 @@
       "username": "good_boi2281488133752",
       "avatar_code": "B9-T18-W18-R32-L1-N4-U6-X20-F89-C0",
       "joined_at": "2026-10-27T09:53:24.207038Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "misterx": {
+      "username": "misterX",
+      "avatar_code": "B231-T26-W20-R4-L3-N0-U46-X34-F51-C0",
+      "joined_at": "2026-10-28T13:22:16.589293Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
