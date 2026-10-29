@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T02:53:43.675416Z",
+  "updatedAt": "2026-10-29T02:59:45.884902Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5170,6 +5170,17 @@
       }
     ],
     "reaperlotus": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2873989994&appid=647960",
+        "title": "War_Of_The_Worlds",
+        "date": "28/10/2026",
+        "time": "22:59:44",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/1805405305289867806/7BA8E784F8587C8985F1FC9EC0EB65FA5339F90F/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3483965308&appid=647960",
         "title": "A_Vanilla_Dream",
