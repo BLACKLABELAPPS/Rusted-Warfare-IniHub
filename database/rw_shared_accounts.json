@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T10:18:53.055172Z",
+  "updatedAt": "2026-10-29T11:26:49.596366Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2744,6 +2744,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-28T19:17:21.629070Z",
       "updatedAt": "2026-10-28T19:17:21.629105Z"
+    },
+    "your_doom": {
+      "username": "Your_Doom",
+      "usernameLower": "your_doom",
+      "passwordSalt": "_ho_1FzC8nFTV44PD8H-buCIcePfVjx3",
+      "passwordHash": "5064d5cb6f4f0298326b297bc23c97ad1407b51cb42807b3a52c464197ebfc44",
+      "avatarCode": "B548-T23-W35-R49-L2-N23-U11-X25-F68-C0",
+      "collectionId": "",
+      "collectionTitle": "Your_Doom",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-29T11:26:49.596208Z",
+      "updatedAt": "2026-10-29T11:26:49.596235Z"
     }
   },
   "posts": [],
@@ -8128,6 +8141,17 @@
       "username": "Rodelay",
       "avatar_code": "B703-T44-W32-R26-L1-N26-U30-X2-F31-C0",
       "joined_at": "2026-10-28T19:17:21.629070Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "your_doom": {
+      "username": "Your_Doom",
+      "avatar_code": "B548-T23-W35-R49-L2-N23-U11-X25-F68-C0",
+      "joined_at": "2026-10-29T11:26:49.596208Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
