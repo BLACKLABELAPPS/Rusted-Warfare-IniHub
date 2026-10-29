@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T11:26:49.596366Z",
+  "updatedAt": "2026-10-29T21:51:43.753864Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2757,6 +2757,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-29T11:26:49.596208Z",
       "updatedAt": "2026-10-29T11:26:49.596235Z"
+    },
+    "angelito4kcubano": {
+      "username": "angelito4kcubano",
+      "usernameLower": "angelito4kcubano",
+      "passwordSalt": "5pLB-Zn-hxSTwTjthUSqNEP-XHj0qWrW",
+      "passwordHash": "b6373b1679d5cf708d667f7014cfa46d2bd968d8bedb19afd1f339601b0f8639",
+      "avatarCode": "B525-T0-W38-R24-L1-N12-U30-X26-F17-C0",
+      "collectionId": "",
+      "collectionTitle": "angelito4kcubano",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-29T21:51:43.752095Z",
+      "updatedAt": "2026-10-29T21:51:43.753540Z"
     }
   },
   "posts": [],
@@ -8152,6 +8165,17 @@
       "username": "Your_Doom",
       "avatar_code": "B548-T23-W35-R49-L2-N23-U11-X25-F68-C0",
       "joined_at": "2026-10-29T11:26:49.596208Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "angelito4kcubano": {
+      "username": "angelito4kcubano",
+      "avatar_code": "B525-T0-W38-R24-L1-N12-U30-X26-F17-C0",
+      "joined_at": "2026-10-29T21:51:43.752095Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
