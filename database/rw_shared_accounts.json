@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T02:52:45.583640Z",
+  "updatedAt": "2026-10-29T02:53:43.675416Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5170,6 +5170,17 @@
       }
     ],
     "reaperlotus": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3483965308&appid=647960",
+        "title": "A_Vanilla_Dream",
+        "date": "28/10/2026",
+        "time": "22:53:41",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/17442230225271003265/EC4C5F07C72CBD8997FB97C74B9A40CB2A623817/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3553753282&appid=647960",
         "title": "Vuhledar",
