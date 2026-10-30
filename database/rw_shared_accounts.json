@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T21:51:43.753864Z",
+  "updatedAt": "2026-10-30T03:21:25.214477Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2770,6 +2770,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-29T21:51:43.752095Z",
       "updatedAt": "2026-10-29T21:51:43.753540Z"
+    },
+    "robo_explor_49": {
+      "username": "robo_explor_49",
+      "usernameLower": "robo_explor_49",
+      "passwordSalt": "7uZsZxgKqNPA9xQorK6rBuvyptw_zg4e",
+      "passwordHash": "d0360581a45929270922355a3f365354aeae0bf9dab4bc2f03bf07e6c67fdb5b",
+      "avatarCode": "B586-T37-W27-R13-L2-N37-U15-X47-F78-C0",
+      "collectionId": "",
+      "collectionTitle": "robo_explor_49",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-30T03:21:25.214446Z",
+      "updatedAt": "2026-10-30T03:21:25.214450Z"
     }
   },
   "posts": [],
@@ -8176,6 +8189,17 @@
       "username": "angelito4kcubano",
       "avatar_code": "B525-T0-W38-R24-L1-N12-U30-X26-F17-C0",
       "joined_at": "2026-10-29T21:51:43.752095Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "robo_explor_49": {
+      "username": "robo_explor_49",
+      "avatar_code": "B586-T37-W27-R13-L2-N37-U15-X47-F78-C0",
+      "joined_at": "2026-10-30T03:21:25.214446Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
