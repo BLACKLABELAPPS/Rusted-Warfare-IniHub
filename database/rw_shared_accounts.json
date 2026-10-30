@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T03:21:25.214477Z",
+  "updatedAt": "2026-10-30T12:49:46.480647Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2783,6 +2783,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-30T03:21:25.214446Z",
       "updatedAt": "2026-10-30T03:21:25.214450Z"
+    },
+    "kleperds": {
+      "username": "kleperds",
+      "usernameLower": "kleperds",
+      "passwordSalt": "oGUgS0-Jyca956EtjnRMwfuT6bwV8Eyn",
+      "passwordHash": "61c0a60274cc2bb9bfb0eb8d463aaa9820b81be69706e9ffc264bf580cf7e2aa",
+      "avatarCode": "B463-T44-W34-R18-L2-N32-U32-X16-F51-C0",
+      "collectionId": "",
+      "collectionTitle": "kleperds",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-10-30T12:49:46.480496Z",
+      "updatedAt": "2026-10-30T12:49:46.480511Z"
     }
   },
   "posts": [],
@@ -8200,6 +8213,17 @@
       "username": "robo_explor_49",
       "avatar_code": "B586-T37-W27-R13-L2-N37-U15-X47-F78-C0",
       "joined_at": "2026-10-30T03:21:25.214446Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "kleperds": {
+      "username": "kleperds",
+      "avatar_code": "B463-T44-W34-R18-L2-N32-U32-X16-F51-C0",
+      "joined_at": "2026-10-30T12:49:46.480496Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
