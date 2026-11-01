@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-31T21:13:57.305649Z",
+  "updatedAt": "2026-11-01T15:19:37.183473Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8302,19 +8302,18 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://10.10.0.75:8765",
+      "lanUrl": "http://26.109.143.229:8765",
       "lanUrls": [
-        "http://10.10.0.75:8765",
-        "http://172.31.32.1:8765"
+        "http://26.109.143.229:8765",
+        "http://192.168.0.4:8765"
       ],
       "executorUrls": [
-        "https://reg-dogs-big-keeps.trycloudflare.com",
-        "http://10.10.0.75:8765",
-        "http://172.31.32.1:8765"
+        "http://26.109.143.229:8765",
+        "http://192.168.0.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-10-31T21:13:57.305649Z",
+      "updatedAt": "2026-11-01T15:19:37.183473Z",
       "publicUrl": "https://reg-dogs-big-keeps.trycloudflare.com",
       "executorUrl": "https://reg-dogs-big-keeps.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
