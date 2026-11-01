@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T15:19:37.183473Z",
+  "updatedAt": "2026-11-01T15:19:50.558383Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8308,17 +8308,18 @@
         "http://192.168.0.4:8765"
       ],
       "executorUrls": [
+        "https://handmade-includes-hardwood-bit.trycloudflare.com",
         "http://26.109.143.229:8765",
         "http://192.168.0.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-01T15:19:37.183473Z",
-      "publicUrl": "https://reg-dogs-big-keeps.trycloudflare.com",
-      "executorUrl": "https://reg-dogs-big-keeps.trycloudflare.com",
+      "updatedAt": "2026-11-01T15:19:50.558383Z",
+      "publicUrl": "https://handmade-includes-hardwood-bit.trycloudflare.com",
+      "executorUrl": "https://handmade-includes-hardwood-bit.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-10-31T21:13:56.960173Z"
+      "lastSeenAt": "2026-11-01T15:19:49.762605Z"
     }
   },
   "premiumEntitlements": {
