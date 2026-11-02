@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T19:21:00.242836Z",
+  "updatedAt": "2026-11-02T21:21:31.603369Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8424,7 +8424,6 @@
         "http://192.168.0.14:8765"
       ],
       "executorUrls": [
-        "https://boat-girls-ons-patents.trycloudflare.com",
         "http://26.85.151.81:8765",
         "http://100.90.34.231:8765",
         "http://10.144.21.182:8765",
@@ -8432,7 +8431,7 @@
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-02T19:21:00.242836Z",
+      "updatedAt": "2026-11-02T21:21:31.603369Z",
       "publicUrl": "https://boat-girls-ons-patents.trycloudflare.com",
       "executorUrl": "https://boat-girls-ons-patents.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
