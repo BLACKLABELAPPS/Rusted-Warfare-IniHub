@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T15:10:19.706283Z",
+  "updatedAt": "2026-11-02T15:12:31.058864Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5356,6 +5356,19 @@
         "directory": "",
         "zipAndElements": "",
         "urlImage": "https://images.steamusercontent.com/ugc/1706284249512747493/AFC4C798ED971F302E32D0E91B64E71899EBD274/",
+        "source": "favorite"
+      }
+    ],
+    "gustavo": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2585122844&appid=647960",
+        "title": "Major_Experimentals",
+        "date": "02/11/2026",
+        "time": "12:12:15",
+        "type": "Total Conversion",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/5976910200415163917/F00FA79865834FE8A4AA514C01F7A5477671A470/",
         "source": "favorite"
       }
     ]
