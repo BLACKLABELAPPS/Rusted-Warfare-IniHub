@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T17:35:22.050940Z",
+  "updatedAt": "2026-11-02T19:11:44.048017Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5235,6 +5235,17 @@
       }
     ],
     "halex": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1521492146&appid=647960",
+        "title": "Aliens_vs_Predator",
+        "date": "02/11/2026",
+        "time": "15:11:38",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/942832349449393349/FD8C617939E11C42BB0571083084C8272A4E0673/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2980240332&appid=647960",
         "title": "World_war_2_Realism",
