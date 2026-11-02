@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T14:30:08.565399Z",
+  "updatedAt": "2026-11-02T14:57:24.448412Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5222,6 +5222,17 @@
       }
     ],
     "halex": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2980240332&appid=647960",
+        "title": "World_war_2_Realism",
+        "date": "02/11/2026",
+        "time": "10:57:20",
+        "type": "Total Conversion",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/10323325255591264175/ADDCB761C62132D7E2F3B71974B48307F38B16F3/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3719742411&appid=647960",
         "title": "WarCommander_Mod_Official_Version",
