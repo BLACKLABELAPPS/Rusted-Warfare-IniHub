@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T15:12:31.058864Z",
+  "updatedAt": "2026-11-02T16:42:54.476495Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8394,19 +8394,22 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.137.1:8765",
+      "lanUrl": "http://26.85.151.81:8765",
       "lanUrls": [
-        "http://192.168.137.1:8765",
-        "http://192.168.1.8:8765"
+        "http://26.85.151.81:8765",
+        "http://100.90.34.231:8765",
+        "http://10.144.21.182:8765",
+        "http://192.168.0.14:8765"
       ],
       "executorUrls": [
-        "https://reduce-rick-cds-jet.trycloudflare.com",
-        "http://192.168.137.1:8765",
-        "http://192.168.1.8:8765"
+        "http://26.85.151.81:8765",
+        "http://100.90.34.231:8765",
+        "http://10.144.21.182:8765",
+        "http://192.168.0.14:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-02T01:28:09.365908Z",
+      "updatedAt": "2026-11-02T16:42:54.476495Z",
       "publicUrl": "https://reduce-rick-cds-jet.trycloudflare.com",
       "executorUrl": "https://reduce-rick-cds-jet.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
