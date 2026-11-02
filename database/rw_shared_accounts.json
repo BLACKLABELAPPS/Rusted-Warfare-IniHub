@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T13:58:43.824508Z",
+  "updatedAt": "2026-11-02T14:15:43.527675Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5222,6 +5222,17 @@
       }
     ],
     "halex": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3076123493&appid=647960",
+        "title": "Mechwarrior_Civil_War",
+        "date": "02/11/2026",
+        "time": "10:15:41",
+        "type": "Total Conversion",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/2215268843438247827/96DEB643DFF3C8D4BB9AC645E29D6C0F7998E889/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1284801238&appid=647960",
         "title": "Moo's_Defence_Agency",
