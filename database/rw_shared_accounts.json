@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T19:20:55.388789Z",
+  "updatedAt": "2026-11-02T19:21:00.242836Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8424,6 +8424,7 @@
         "http://192.168.0.14:8765"
       ],
       "executorUrls": [
+        "https://boat-girls-ons-patents.trycloudflare.com",
         "http://26.85.151.81:8765",
         "http://100.90.34.231:8765",
         "http://10.144.21.182:8765",
@@ -8431,12 +8432,12 @@
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-02T19:20:55.388789Z",
-      "publicUrl": "https://basin-entry-franklin-beautifully.trycloudflare.com",
-      "executorUrl": "https://basin-entry-franklin-beautifully.trycloudflare.com",
+      "updatedAt": "2026-11-02T19:21:00.242836Z",
+      "publicUrl": "https://boat-girls-ons-patents.trycloudflare.com",
+      "executorUrl": "https://boat-girls-ons-patents.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-02T17:35:21.294163Z"
+      "lastSeenAt": "2026-11-02T19:20:59.372289Z"
     }
   },
   "premiumEntitlements": {
