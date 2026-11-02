@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T17:35:17.065654Z",
+  "updatedAt": "2026-11-02T17:35:22.050940Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8400,17 +8400,18 @@
         "http://192.168.0.4:8765"
       ],
       "executorUrls": [
+        "https://basin-entry-franklin-beautifully.trycloudflare.com",
         "http://26.109.143.229:8765",
         "http://192.168.0.4:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-02T17:35:17.065654Z",
-      "publicUrl": "https://api.trycloudflare.com",
-      "executorUrl": "https://api.trycloudflare.com",
+      "updatedAt": "2026-11-02T17:35:22.050940Z",
+      "publicUrl": "https://basin-entry-franklin-beautifully.trycloudflare.com",
+      "executorUrl": "https://basin-entry-franklin-beautifully.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-02T16:43:16.496119Z"
+      "lastSeenAt": "2026-11-02T17:35:21.294163Z"
     }
   },
   "premiumEntitlements": {
