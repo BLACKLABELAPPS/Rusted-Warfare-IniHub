@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T01:27:56.452209Z",
+  "updatedAt": "2026-11-02T01:28:09.365908Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8308,17 +8308,18 @@
         "http://192.168.1.8:8765"
       ],
       "executorUrls": [
+        "https://reduce-rick-cds-jet.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://192.168.1.8:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-02T01:27:56.452209Z",
-      "publicUrl": "https://handmade-includes-hardwood-bit.trycloudflare.com",
-      "executorUrl": "https://handmade-includes-hardwood-bit.trycloudflare.com",
+      "updatedAt": "2026-11-02T01:28:09.365908Z",
+      "publicUrl": "https://reduce-rick-cds-jet.trycloudflare.com",
+      "executorUrl": "https://reduce-rick-cds-jet.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-01T15:19:49.762605Z"
+      "lastSeenAt": "2026-11-02T01:28:08.146644Z"
     }
   },
   "premiumEntitlements": {
