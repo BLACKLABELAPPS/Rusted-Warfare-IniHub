@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T15:19:50.558383Z",
+  "updatedAt": "2026-11-02T01:27:56.452209Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8302,19 +8302,18 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://26.109.143.229:8765",
+      "lanUrl": "http://192.168.137.1:8765",
       "lanUrls": [
-        "http://26.109.143.229:8765",
-        "http://192.168.0.4:8765"
+        "http://192.168.137.1:8765",
+        "http://192.168.1.8:8765"
       ],
       "executorUrls": [
-        "https://handmade-includes-hardwood-bit.trycloudflare.com",
-        "http://26.109.143.229:8765",
-        "http://192.168.0.4:8765"
+        "http://192.168.137.1:8765",
+        "http://192.168.1.8:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-01T15:19:50.558383Z",
+      "updatedAt": "2026-11-02T01:27:56.452209Z",
       "publicUrl": "https://handmade-includes-hardwood-bit.trycloudflare.com",
       "executorUrl": "https://handmade-includes-hardwood-bit.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
