@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T13:11:46.453327Z",
+  "updatedAt": "2026-11-02T13:58:43.824508Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5222,6 +5222,17 @@
       }
     ],
     "halex": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1284801238&appid=647960",
+        "title": "Moo's_Defence_Agency",
+        "date": "02/11/2026",
+        "time": "09:58:41",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/933816331626278029/09DB06B87050911615C17A4A8859EF2F57A96B6C/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2859059857&appid=647960",
         "title": "Supremacy_War_v1.3",
