@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T01:28:09.365908Z",
+  "updatedAt": "2026-11-02T13:11:46.453327Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5222,6 +5222,17 @@
       }
     ],
     "halex": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2859059857&appid=647960",
+        "title": "Supremacy_War_v1.3",
+        "date": "02/11/2026",
+        "time": "09:11:42",
+        "type": "Total Conversion",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/2487754465579442436/DDBB3BE0C412300D760BDBF858F4B0A57800DA43/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3186910980&appid=647960",
         "title": "AEA_Unlimited_Warfare_1.23",
