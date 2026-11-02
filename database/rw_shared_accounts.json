@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T14:57:24.448412Z",
+  "updatedAt": "2026-11-02T15:10:19.706283Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2809,6 +2809,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-10-31T04:59:59.360478Z",
       "updatedAt": "2026-10-31T04:59:59.360494Z"
+    },
+    "gustavo": {
+      "username": "Gustavo",
+      "usernameLower": "gustavo",
+      "passwordSalt": "e0lc3zAcR5mEPm_EnyyKy523QYAPzA_K",
+      "passwordHash": "cf6a8d3546d8584e7fb9addb71a489a91291ef1e2e8cc05d27cdefae634005c5",
+      "avatarCode": "B928-T17-W17-R41-L0-N9-U11-X21-F8-C0",
+      "collectionId": "",
+      "collectionTitle": "Gustavo",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-11-02T15:10:19.706155Z",
+      "updatedAt": "2026-11-02T15:10:19.706169Z"
     }
   },
   "posts": [],
@@ -8303,6 +8316,17 @@
       "username": "jjj",
       "avatar_code": "B755-T44-W4-R28-L3-N48-U30-X22-F31-C0",
       "joined_at": "2026-10-31T04:59:59.360478Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "gustavo": {
+      "username": "Gustavo",
+      "avatar_code": "B928-T17-W17-R41-L0-N9-U11-X21-F8-C0",
+      "joined_at": "2026-11-02T15:10:19.706155Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
