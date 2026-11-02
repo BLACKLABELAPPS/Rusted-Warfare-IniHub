@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T21:34:00.103990Z",
+  "updatedAt": "2026-11-02T23:30:19.902291Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8424,7 +8424,6 @@
         "http://192.168.0.14:8765"
       ],
       "executorUrls": [
-        "https://provincial-penguin-charge-flip.trycloudflare.com",
         "http://26.85.151.81:8765",
         "http://100.90.34.231:8765",
         "http://10.144.21.182:8765",
@@ -8432,7 +8431,7 @@
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-02T21:34:00.103990Z",
+      "updatedAt": "2026-11-02T23:30:19.902291Z",
       "publicUrl": "https://provincial-penguin-charge-flip.trycloudflare.com",
       "executorUrl": "https://provincial-penguin-charge-flip.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
