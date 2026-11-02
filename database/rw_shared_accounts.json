@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T19:11:44.048017Z",
+  "updatedAt": "2026-11-02T19:19:31.831236Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5235,6 +5235,17 @@
       }
     ],
     "halex": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3397384310&appid=647960",
+        "title": "Modern_war_Project",
+        "date": "02/11/2026",
+        "time": "15:19:28",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/62585168944817215/D039327448B723831AAC4CA0F57A156ECEB533B4/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1521492146&appid=647960",
         "title": "Aliens_vs_Predator",
