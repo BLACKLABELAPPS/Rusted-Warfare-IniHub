@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-03T07:56:11.837230Z",
+  "updatedAt": "2026-11-03T10:22:28.703749Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8416,17 +8416,22 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.31.232:8765",
+      "lanUrl": "http://26.85.151.81:8765",
       "lanUrls": [
-        "http://192.168.31.232:8765"
+        "http://26.85.151.81:8765",
+        "http://100.90.34.231:8765",
+        "http://10.144.21.182:8765",
+        "http://192.168.0.14:8765"
       ],
       "executorUrls": [
-        "https://owns-hurricane-comply-assure.trycloudflare.com",
-        "http://192.168.31.232:8765"
+        "http://26.85.151.81:8765",
+        "http://100.90.34.231:8765",
+        "http://10.144.21.182:8765",
+        "http://192.168.0.14:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-03T07:56:11.837230Z",
+      "updatedAt": "2026-11-03T10:22:28.703749Z",
       "publicUrl": "https://owns-hurricane-comply-assure.trycloudflare.com",
       "executorUrl": "https://owns-hurricane-comply-assure.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
