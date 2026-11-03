@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-03T07:55:32.221451Z",
+  "updatedAt": "2026-11-03T07:56:11.837230Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8421,16 +8421,17 @@
         "http://192.168.31.232:8765"
       ],
       "executorUrls": [
+        "https://owns-hurricane-comply-assure.trycloudflare.com",
         "http://192.168.31.232:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-03T07:55:32.221451Z",
-      "publicUrl": "https://greatly-identification-provinces-military.trycloudflare.com",
-      "executorUrl": "https://greatly-identification-provinces-military.trycloudflare.com",
+      "updatedAt": "2026-11-03T07:56:11.837230Z",
+      "publicUrl": "https://owns-hurricane-comply-assure.trycloudflare.com",
+      "executorUrl": "https://owns-hurricane-comply-assure.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-03T05:25:06.991513Z"
+      "lastSeenAt": "2026-11-03T07:56:10.732376Z"
     }
   },
   "premiumEntitlements": {
