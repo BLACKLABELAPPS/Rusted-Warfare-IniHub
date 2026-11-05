@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T16:46:38.636928Z",
+  "updatedAt": "2026-11-05T03:36:36.188662Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2848,6 +2848,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-11-03T21:58:58.319013Z",
       "updatedAt": "2026-11-03T21:58:58.319023Z"
+    },
+    "apogan": {
+      "username": "ApoGan",
+      "usernameLower": "apogan",
+      "passwordSalt": "kUAPT1FXOHVSyvtc6zjwPBuCBAvAWJ14",
+      "passwordHash": "fff1790a00a8705bc0f63a61eac6957c46b4733c384bf1a28b96de29503235a0",
+      "avatarCode": "B267-T18-W12-R44-L0-N42-U38-X24-F11-C0",
+      "collectionId": "",
+      "collectionTitle": "ApoGan",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-11-05T03:36:36.188590Z",
+      "updatedAt": "2026-11-05T03:36:36.188598Z"
     }
   },
   "posts": [],
@@ -8410,6 +8423,17 @@
       "username": "blacktem10",
       "avatar_code": "B265-T38-W12-R10-L3-N14-U46-X30-F5-C0",
       "joined_at": "2026-11-03T21:58:58.319013Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "apogan": {
+      "username": "ApoGan",
+      "avatar_code": "B267-T18-W12-R44-L0-N42-U38-X24-F11-C0",
+      "joined_at": "2026-11-05T03:36:36.188590Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
