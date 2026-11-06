@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T05:20:32.343380Z",
+  "updatedAt": "2026-11-06T03:44:55.563007Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8512,23 +8512,18 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://26.85.151.81:8765",
+      "lanUrl": "http://100.109.132.11:8765",
       "lanUrls": [
-        "http://26.85.151.81:8765",
-        "http://100.90.34.231:8765",
-        "http://10.144.21.182:8765",
-        "http://192.168.0.14:8765"
+        "http://100.109.132.11:8765",
+        "http://192.168.0.10:8765"
       ],
       "executorUrls": [
-        "https://seeking-came-grove-devices.trycloudflare.com",
-        "http://26.85.151.81:8765",
-        "http://100.90.34.231:8765",
-        "http://10.144.21.182:8765",
-        "http://192.168.0.14:8765"
+        "http://100.109.132.11:8765",
+        "http://192.168.0.10:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-04T16:46:38.636928Z",
+      "updatedAt": "2026-11-06T03:44:55.563007Z",
       "publicUrl": "https://seeking-came-grove-devices.trycloudflare.com",
       "executorUrl": "https://seeking-came-grove-devices.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
