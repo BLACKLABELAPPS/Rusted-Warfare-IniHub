@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T04:05:18.632849Z",
+  "updatedAt": "2026-11-06T14:32:33.893524Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2874,6 +2874,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-11-05T05:20:32.341666Z",
       "updatedAt": "2026-11-05T05:20:32.343186Z"
+    },
+    "a0001": {
+      "username": "A0001",
+      "usernameLower": "a0001",
+      "passwordSalt": "8OyPjOs7ShkK5bH2T4cMUXRaacAbSLtl",
+      "passwordHash": "a073ef4f79c2af429220c2e03ec9bf60121ae87e70968cf2734eb6b3dfae83b7",
+      "avatarCode": "B721-T44-W4-R16-L4-N24-U6-X36-F93-C0",
+      "collectionId": "",
+      "collectionTitle": "A0001",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-11-06T14:32:33.889547Z",
+      "updatedAt": "2026-11-06T14:32:33.893286Z"
     }
   },
   "posts": [],
@@ -8458,6 +8471,17 @@
       "username": "nightmare",
       "avatar_code": "B84-T17-W15-R29-L2-N45-U9-X19-F72-C0",
       "joined_at": "2026-11-05T05:20:32.341666Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "a0001": {
+      "username": "A0001",
+      "avatar_code": "B721-T44-W4-R16-L4-N24-U6-X36-F93-C0",
+      "joined_at": "2026-11-06T14:32:33.889547Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
