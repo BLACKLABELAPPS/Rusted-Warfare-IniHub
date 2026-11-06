@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T03:56:23.845163Z",
+  "updatedAt": "2026-11-06T03:56:26.897565Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8518,17 +8518,18 @@
         "http://192.168.0.10:8765"
       ],
       "executorUrls": [
+        "https://clay-italiano-socket-junction.trycloudflare.com",
         "http://100.109.132.11:8765",
         "http://192.168.0.10:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-06T03:56:23.845163Z",
-      "publicUrl": "https://monica-lawyers-ebook-toe.trycloudflare.com",
-      "executorUrl": "https://monica-lawyers-ebook-toe.trycloudflare.com",
+      "updatedAt": "2026-11-06T03:56:26.897565Z",
+      "publicUrl": "https://clay-italiano-socket-junction.trycloudflare.com",
+      "executorUrl": "https://clay-italiano-socket-junction.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-06T03:49:46.025394Z"
+      "lastSeenAt": "2026-11-06T03:56:26.474496Z"
     }
   },
   "premiumEntitlements": {
