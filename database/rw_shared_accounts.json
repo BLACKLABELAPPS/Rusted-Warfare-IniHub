@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T03:56:26.897565Z",
+  "updatedAt": "2026-11-06T03:59:56.149576Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8518,13 +8518,12 @@
         "http://192.168.0.10:8765"
       ],
       "executorUrls": [
-        "https://clay-italiano-socket-junction.trycloudflare.com",
         "http://100.109.132.11:8765",
         "http://192.168.0.10:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-06T03:56:26.897565Z",
+      "updatedAt": "2026-11-06T03:59:56.149576Z",
       "publicUrl": "https://clay-italiano-socket-junction.trycloudflare.com",
       "executorUrl": "https://clay-italiano-socket-junction.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
