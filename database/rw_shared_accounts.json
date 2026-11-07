@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T07:14:46.288076Z",
+  "updatedAt": "2026-11-07T10:49:46.375136Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2926,6 +2926,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-11-06T20:35:50.831616Z",
       "updatedAt": "2026-11-06T20:35:50.831665Z"
+    },
+    "testuser88371": {
+      "username": "TestUser88371",
+      "usernameLower": "testuser88371",
+      "passwordSalt": "t1Jpty_sETwbnAlPW9ksyl8cuyctJ7Sd",
+      "passwordHash": "cfa9c83f0c18a76b60a8f257ccb9eecd9913a472deafca8f71ed099c4dc5331e",
+      "avatarCode": "B457-T48-W48-R8-L4-N6-U0-X18-F65-C0",
+      "collectionId": "",
+      "collectionTitle": "TestUser88371",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-11-07T10:49:46.375098Z",
+      "updatedAt": "2026-11-07T10:49:46.375103Z"
     }
   },
   "posts": [],
@@ -8554,6 +8567,17 @@
       "username": "Lucas",
       "avatar_code": "B585-T4-W4-R22-L1-N30-U24-X46-F89-C0",
       "joined_at": "2026-11-06T20:35:50.831616Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "testuser88371": {
+      "username": "TestUser88371",
+      "avatar_code": "B457-T48-W48-R8-L4-N6-U0-X18-F65-C0",
+      "joined_at": "2026-11-07T10:49:46.375098Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
