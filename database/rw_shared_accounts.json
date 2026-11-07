@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T20:35:50.831859Z",
+  "updatedAt": "2026-11-07T07:14:43.005279Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8608,18 +8608,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://10.228.249.224:8765",
+      "lanUrl": "http://192.168.1.188:8765",
       "lanUrls": [
-        "http://10.228.249.224:8765",
-        "http://192.168.122.1:8765"
+        "http://192.168.1.188:8765"
       ],
       "executorUrls": [
-        "http://10.228.249.224:8765",
-        "http://192.168.122.1:8765"
+        "http://192.168.1.188:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-06T16:54:42.723980Z",
+      "updatedAt": "2026-11-07T07:14:43.005279Z",
       "publicUrl": "https://reporting-net-hereby-tions.trycloudflare.com",
       "executorUrl": "https://reporting-net-hereby-tions.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
