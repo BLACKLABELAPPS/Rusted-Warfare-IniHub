@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T14:59:17.000325Z",
+  "updatedAt": "2026-11-07T17:44:20.527295Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8792,12 +8792,11 @@
         "http://192.168.1.188:8765"
       ],
       "executorUrls": [
-        "https://mirrors-can-such-cable.trycloudflare.com",
         "http://192.168.1.188:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-07T07:14:46.288076Z",
+      "updatedAt": "2026-11-07T17:44:20.527295Z",
       "publicUrl": "https://mirrors-can-such-cable.trycloudflare.com",
       "executorUrl": "https://mirrors-can-such-cable.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
