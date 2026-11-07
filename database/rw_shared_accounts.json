@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T10:59:39.534788Z",
+  "updatedAt": "2026-11-07T14:49:31.286534Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2939,6 +2939,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-11-07T10:49:46.375098Z",
       "updatedAt": "2026-11-07T10:59:39.534763Z"
+    },
+    "charlie": {
+      "username": "charlie",
+      "usernameLower": "charlie",
+      "passwordSalt": "QuMUDErvKpdPFqXNii27EI7TGma2ap-x",
+      "passwordHash": "9d8f58eb623c758165574b861ce8963b0feccfa28113edb22429b88be361589a",
+      "avatarCode": "B759-T0-W38-R32-L1-N32-U36-X12-F87-C0",
+      "collectionId": "",
+      "collectionTitle": "charlie",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-11-07T14:49:31.286416Z",
+      "updatedAt": "2026-11-07T14:49:31.286430Z"
     }
   },
   "posts": [],
@@ -8578,6 +8591,17 @@
       "username": "TestUser88371",
       "avatar_code": "B457-T48-W48-R8-L4-N6-U0-X18-F65-C0",
       "joined_at": "2026-11-07T10:49:46.375098Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "charlie": {
+      "username": "charlie",
+      "avatar_code": "B759-T0-W38-R32-L1-N32-U36-X12-F87-C0",
+      "joined_at": "2026-11-07T14:49:31.286416Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
