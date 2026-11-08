@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T18:08:48.602317Z",
+  "updatedAt": "2026-11-08T18:08:51.397536Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8840,16 +8840,17 @@
         "http://192.168.1.188:8765"
       ],
       "executorUrls": [
+        "https://wesley-orientation-saturn-rpg.trycloudflare.com",
         "http://192.168.1.188:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-08T18:08:48.602317Z",
-      "publicUrl": "https://looking-fits-meter-upon.trycloudflare.com",
-      "executorUrl": "https://looking-fits-meter-upon.trycloudflare.com",
+      "updatedAt": "2026-11-08T18:08:51.397536Z",
+      "publicUrl": "https://wesley-orientation-saturn-rpg.trycloudflare.com",
+      "executorUrl": "https://wesley-orientation-saturn-rpg.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-07T17:44:23.496Z"
+      "lastSeenAt": "2026-11-08T18:08:50.984448Z"
     }
   },
   "premiumEntitlements": {
