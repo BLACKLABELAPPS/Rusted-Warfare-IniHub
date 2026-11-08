@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T04:12:15.849078Z",
+  "updatedAt": "2026-11-08T18:08:48.602317Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -8840,12 +8840,11 @@
         "http://192.168.1.188:8765"
       ],
       "executorUrls": [
-        "https://looking-fits-meter-upon.trycloudflare.com",
         "http://192.168.1.188:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-07T17:44:24.098536Z",
+      "updatedAt": "2026-11-08T18:08:48.602317Z",
       "publicUrl": "https://looking-fits-meter-upon.trycloudflare.com",
       "executorUrl": "https://looking-fits-meter-upon.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
