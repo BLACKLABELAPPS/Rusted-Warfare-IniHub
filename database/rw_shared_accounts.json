@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-09T00:22:09.081366Z",
+  "updatedAt": "2026-11-09T00:41:13.777279Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -2991,6 +2991,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-11-08T04:12:15.849005Z",
       "updatedAt": "2026-11-08T04:12:15.849016Z"
+    },
+    "tester": {
+      "username": "Tester",
+      "usernameLower": "tester",
+      "passwordSalt": "k9ksYpBqSNKmpv6vwld1jh-m8m63NsVO",
+      "passwordHash": "064ced5f087b6cf3adbbf79c97a5ea6b7ab61c0f057c121eb48ec94dcea94bd0",
+      "avatarCode": "B860-T1-W23-R41-L2-N21-U39-X3-F88-C0",
+      "collectionId": "",
+      "collectionTitle": "Tester",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-11-09T00:41:13.777227Z",
+      "updatedAt": "2026-11-09T00:41:13.777248Z"
     }
   },
   "posts": [],
@@ -8747,6 +8760,17 @@
       "username": "lance",
       "avatar_code": "B326-T21-W27-R41-L3-N15-U15-X19-F38-C0",
       "joined_at": "2026-11-08T04:12:15.849005Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "tester": {
+      "username": "Tester",
+      "avatar_code": "B860-T1-W23-R41-L2-N21-U39-X3-F88-C0",
+      "joined_at": "2026-11-09T00:41:13.777227Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
