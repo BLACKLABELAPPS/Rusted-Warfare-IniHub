@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-09T16:51:34.792687Z",
+  "updatedAt": "2026-11-09T17:20:48.702326Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5590,6 +5590,17 @@
       }
     ],
     "titan": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3747747656&appid=647960",
+        "title": "Steel_Union_Nathans_Additions",
+        "date": "09/11/2026",
+        "time": "20:50:35",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/13361274510350338530/FDF55640B65DDBFDD2B52136CC4AA74DC586FC22/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3292495640&appid=647960",
         "title": "Plenty'o_units_11.6",
