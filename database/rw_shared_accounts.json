@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T10:33:26.104150Z",
+  "updatedAt": "2026-11-11T10:35:25.982082Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9009,13 +9009,12 @@
         "http://172.17.23.254:8765"
       ],
       "executorUrls": [
-        "https://slide-initiative-gains-closure.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://172.17.23.254:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-11T10:33:26.104150Z",
+      "updatedAt": "2026-11-11T10:35:25.982082Z",
       "publicUrl": "https://slide-initiative-gains-closure.trycloudflare.com",
       "executorUrl": "https://slide-initiative-gains-closure.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
