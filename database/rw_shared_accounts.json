@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T10:35:25.982082Z",
+  "updatedAt": "2026-11-11T10:35:34.337135Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9009,17 +9009,18 @@
         "http://172.17.23.254:8765"
       ],
       "executorUrls": [
+        "https://oops-cage-notebook-script.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://172.17.23.254:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-11T10:35:25.982082Z",
-      "publicUrl": "https://slide-initiative-gains-closure.trycloudflare.com",
-      "executorUrl": "https://slide-initiative-gains-closure.trycloudflare.com",
+      "updatedAt": "2026-11-11T10:35:34.337135Z",
+      "publicUrl": "https://oops-cage-notebook-script.trycloudflare.com",
+      "executorUrl": "https://oops-cage-notebook-script.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-11T10:33:19.422523Z"
+      "lastSeenAt": "2026-11-11T10:35:28.456478Z"
     }
   },
   "premiumEntitlements": {
