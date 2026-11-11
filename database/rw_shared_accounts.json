@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T10:29:26.158951Z",
+  "updatedAt": "2026-11-11T10:29:31.610727Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9009,17 +9009,18 @@
         "http://172.17.23.254:8765"
       ],
       "executorUrls": [
+        "https://maria-activity-land-similar.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://172.17.23.254:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-11T10:29:26.158951Z",
-      "publicUrl": "https://viking-mat-assembly-description.trycloudflare.com",
-      "executorUrl": "https://viking-mat-assembly-description.trycloudflare.com",
+      "updatedAt": "2026-11-11T10:29:31.610727Z",
+      "publicUrl": "https://maria-activity-land-similar.trycloudflare.com",
+      "executorUrl": "https://maria-activity-land-similar.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-11T10:15:08.436710Z"
+      "lastSeenAt": "2026-11-11T10:29:29.852149Z"
     }
   },
   "premiumEntitlements": {
