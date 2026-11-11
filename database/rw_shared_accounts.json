@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T10:29:31.610727Z",
+  "updatedAt": "2026-11-11T10:30:11.668651Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9009,13 +9009,12 @@
         "http://172.17.23.254:8765"
       ],
       "executorUrls": [
-        "https://maria-activity-land-similar.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://172.17.23.254:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-11T10:29:31.610727Z",
+      "updatedAt": "2026-11-11T10:30:11.668651Z",
       "publicUrl": "https://maria-activity-land-similar.trycloudflare.com",
       "executorUrl": "https://maria-activity-land-similar.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
