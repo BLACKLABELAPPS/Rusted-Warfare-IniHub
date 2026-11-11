@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T16:14:19.693553Z",
+  "updatedAt": "2026-11-11T18:33:11.687666Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3082,6 +3082,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-11-11T16:14:19.692403Z",
       "updatedAt": "2026-11-11T16:14:19.693288Z"
+    },
+    "user1": {
+      "username": "user1",
+      "usernameLower": "user1",
+      "passwordSalt": "kijb1ncfqoQwTzKubhZzX2r3FIZ66Rh1",
+      "passwordHash": "da85124ceaaf43879ab55db766b3258930da707c08c0f973f8cb9b551bad3eda",
+      "avatarCode": "B183-T46-W40-R28-L0-N6-U2-X36-F7-C0",
+      "collectionId": "",
+      "collectionTitle": "user1",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-11-11T18:33:11.687582Z",
+      "updatedAt": "2026-11-11T18:33:11.687599Z"
     }
   },
   "posts": [],
@@ -8939,6 +8952,17 @@
       "username": "okko",
       "avatar_code": "B7-T6-W0-R34-L3-N26-U26-X10-F31-C0",
       "joined_at": "2026-11-11T16:14:19.692403Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "user1": {
+      "username": "user1",
+      "avatar_code": "B183-T46-W40-R28-L0-N6-U2-X36-F7-C0",
+      "joined_at": "2026-11-11T18:33:11.687582Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
