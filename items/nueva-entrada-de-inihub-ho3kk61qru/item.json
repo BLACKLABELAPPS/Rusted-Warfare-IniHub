@@ -1,0 +1,25 @@
+{
+ "schemaVersion": 1,
+ "item": {
+  "id": "nueva-entrada-de-inihub-ho3kk61qru",
+  "title": "Nueva entrada de IniHub",
+  "description": "",
+  "author": "duni",
+  "section": "code",
+  "code": "123",
+  "tags": [],
+  "assets": [],
+  "assetCount": 0,
+  "reportCount": 0,
+  "votes": 0,
+  "createdAt": "2026-11-12T17:49:10.096065Z",
+  "updatedAt": "2026-11-12T17:49:10.096065Z",
+  "verified": false,
+  "experimental": false,
+  "fileExtension": "ini",
+  "sourceUrl": "https://github.com/BLACKLABELAPPS/Rusted-Warfare-IniHub/",
+  "detailUrl": "https://raw.githubusercontent.com/BLACKLABELAPPS/Rusted-Warfare-IniHub/main/items/nueva-entrada-de-inihub-ho3kk61qru/item.json",
+  "detailPath": "items/nueva-entrada-de-inihub-ho3kk61qru/item.json",
+  "status": "pending"
+ }
+}
