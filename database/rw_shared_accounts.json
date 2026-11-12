@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T04:57:16.586456Z",
+  "updatedAt": "2026-11-12T04:59:06.955148Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9081,13 +9081,12 @@
         "http://172.17.23.254:8765"
       ],
       "executorUrls": [
-        "https://dir-meeting-generated-letting.trycloudflare.com",
         "http://192.168.137.1:8765",
         "http://172.17.23.254:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-12T04:57:16.586456Z",
+      "updatedAt": "2026-11-12T04:59:06.955148Z",
       "publicUrl": "https://dir-meeting-generated-letting.trycloudflare.com",
       "executorUrl": "https://dir-meeting-generated-letting.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
