@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T17:48:10.742353Z",
+  "updatedAt": "2026-11-12T17:49:10.096175Z",
   "items": [
     {
       "id": "bundled-tank_starter",
@@ -264,6 +264,26 @@
       "detailUrl": "https://raw.githubusercontent.com/BLACKLABELAPPS/Rusted-Warfare-IniHub/main/items/tank-laser-01-ho3kiqxviz/item.json",
       "detailPath": "items/tank-laser-01-ho3kiqxviz/item.json",
       "searchText": "core name displaytext displaydescription displaylocalekey overrideandreplace class price maxhp mass techlevel buildspeed radius displayradius isbio softcollisiononall total_frames image image_wreak image_turret image_shadow shadowoffsetx shadowoffsety animation_moving_start animation_moving_end animation_moving_speed dusteffect movementtype movespeed moveaccelerationspeed movedecelerationspeed maxturnspeed turnacceleration moveslidingmode moveignoringbody reversespeedpercentage canattack canattackflyingunits canattacklandunits canattackunderwaterunits turretsize turretturnspeed maxattackrange shootdelay x y attachedto slave projectile turnspeed turnspeedacceleration shoot_sound shoot_sound_vol shoot_flame canshoot recoiloffset recoilouttime recoilreturntime warmup chargeeffectimage barrelx barrely idledir imagescale copyfrom isbuilding hidescorchmark fogofwarsightrange armour selfregenrate experimental numbitsondeath transportunitskeepwaypoints teamcolorsonturret movementeffectrate icon_zoomed_out movement utc scope error stacktrace turretmultitargeting turret_base directdamage life largehiteffect instant lasereffect instantreuselast color convertto text description displaytype pos ai_ishighpriority fadeout attachedtounit scalefrom scaleto alpha drawunderunits xoffsetrelative yoffsetrelative shouldresetturret idledirreversing turret_cannon shoot_light delay projectile_1 areadamage arearadius speed traileffect lightcolor lightsize drawsize lightcastonground arearadiusfromedge deflectionpower",
+      "status": "pending"
+    },
+    {
+      "id": "nueva-entrada-de-inihub-ho3kk61qru",
+      "title": "Nueva entrada de IniHub",
+      "description": "",
+      "author": "duni",
+      "section": "code",
+      "tags": [],
+      "assetCount": 0,
+      "reportCount": 0,
+      "votes": 0,
+      "createdAt": "2026-11-12T17:49:10.096065Z",
+      "updatedAt": "2026-11-12T17:49:10.096065Z",
+      "verified": false,
+      "experimental": false,
+      "fileExtension": "ini",
+      "sourceUrl": "https://github.com/BLACKLABELAPPS/Rusted-Warfare-IniHub/",
+      "detailUrl": "https://raw.githubusercontent.com/BLACKLABELAPPS/Rusted-Warfare-IniHub/main/items/nueva-entrada-de-inihub-ho3kk61qru/item.json",
+      "detailPath": "items/nueva-entrada-de-inihub-ho3kk61qru/item.json",
       "status": "pending"
     }
   ],
