@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T10:27:37.096165Z",
+  "updatedAt": "2026-11-12T10:27:48.826852Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9080,16 +9080,17 @@
         "http://10.21.105.99:8765"
       ],
       "executorUrls": [
+        "https://debian-opt-forests-grateful.trycloudflare.com",
         "http://10.21.105.99:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-12T10:27:37.096165Z",
-      "publicUrl": "https://alot-alt-picked-steps.trycloudflare.com",
-      "executorUrl": "https://alot-alt-picked-steps.trycloudflare.com",
+      "updatedAt": "2026-11-12T10:27:48.826852Z",
+      "publicUrl": "https://debian-opt-forests-grateful.trycloudflare.com",
+      "executorUrl": "https://debian-opt-forests-grateful.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-12T04:59:11.783990Z"
+      "lastSeenAt": "2026-11-12T10:27:48.156013Z"
     }
   },
   "premiumEntitlements": {
