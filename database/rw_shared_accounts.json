@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T13:41:50.069215Z",
+  "updatedAt": "2026-11-12T13:41:59.912968Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9080,16 +9080,17 @@
         "http://192.168.1.126:8765"
       ],
       "executorUrls": [
+        "https://judicial-same-metallica-determines.trycloudflare.com",
         "http://192.168.1.126:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-12T13:41:50.069215Z",
-      "publicUrl": "https://debian-opt-forests-grateful.trycloudflare.com",
-      "executorUrl": "https://debian-opt-forests-grateful.trycloudflare.com",
+      "updatedAt": "2026-11-12T13:41:59.912968Z",
+      "publicUrl": "https://judicial-same-metallica-determines.trycloudflare.com",
+      "executorUrl": "https://judicial-same-metallica-determines.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-12T10:27:48.156013Z"
+      "lastSeenAt": "2026-11-12T13:41:58.510835Z"
     }
   },
   "premiumEntitlements": {
