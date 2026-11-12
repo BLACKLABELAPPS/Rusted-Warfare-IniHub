@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T10:27:48.826852Z",
+  "updatedAt": "2026-11-12T13:41:50.069215Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9075,17 +9075,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://10.21.105.99:8765",
+      "lanUrl": "http://192.168.1.126:8765",
       "lanUrls": [
-        "http://10.21.105.99:8765"
+        "http://192.168.1.126:8765"
       ],
       "executorUrls": [
-        "https://debian-opt-forests-grateful.trycloudflare.com",
-        "http://10.21.105.99:8765"
+        "http://192.168.1.126:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-12T10:27:48.826852Z",
+      "updatedAt": "2026-11-12T13:41:50.069215Z",
       "publicUrl": "https://debian-opt-forests-grateful.trycloudflare.com",
       "executorUrl": "https://debian-opt-forests-grateful.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
