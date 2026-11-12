@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T13:47:12.790438Z",
+  "updatedAt": "2026-11-12T13:47:18.569519Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9080,16 +9080,17 @@
         "http://192.168.1.126:8765"
       ],
       "executorUrls": [
+        "https://capture-physician-maximize-classifieds.trycloudflare.com",
         "http://192.168.1.126:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-12T13:47:12.790438Z",
-      "publicUrl": "https://prayer-clan-expanded-cruises.trycloudflare.com",
-      "executorUrl": "https://prayer-clan-expanded-cruises.trycloudflare.com",
+      "updatedAt": "2026-11-12T13:47:18.569519Z",
+      "publicUrl": "https://capture-physician-maximize-classifieds.trycloudflare.com",
+      "executorUrl": "https://capture-physician-maximize-classifieds.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-12T13:44:33.804885Z"
+      "lastSeenAt": "2026-11-12T13:47:14.564515Z"
     }
   },
   "premiumEntitlements": {
