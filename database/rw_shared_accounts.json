@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T13:47:18.569519Z",
+  "updatedAt": "2026-11-12T14:26:00.063798Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9080,12 +9080,11 @@
         "http://192.168.1.126:8765"
       ],
       "executorUrls": [
-        "https://capture-physician-maximize-classifieds.trycloudflare.com",
         "http://192.168.1.126:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-12T13:47:18.569519Z",
+      "updatedAt": "2026-11-12T14:26:00.063798Z",
       "publicUrl": "https://capture-physician-maximize-classifieds.trycloudflare.com",
       "executorUrl": "https://capture-physician-maximize-classifieds.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
