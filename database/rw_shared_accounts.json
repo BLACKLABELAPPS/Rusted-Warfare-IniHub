@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T18:36:57.967274Z",
+  "updatedAt": "2026-11-12T03:58:24.821261Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3095,6 +3095,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-11-11T18:33:11.687582Z",
       "updatedAt": "2026-11-11T18:36:57.967231Z"
+    },
+    "hell-bound": {
+      "username": "Hell-Bound",
+      "usernameLower": "hell-bound",
+      "passwordSalt": "Ahf3rT2_ndGb2_kV69ibg_hObUnRAoAZ",
+      "passwordHash": "5f72253492f13db016d369c4ef6c6d51820b9cc0855dcbd8b1195e9e7866d43a",
+      "avatarCode": "B702-T43-W3-R31-L1-N19-U19-X41-F10-C0",
+      "collectionId": "",
+      "collectionTitle": "Hell-Bound",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-11-12T03:58:24.821153Z",
+      "updatedAt": "2026-11-12T03:58:24.821166Z"
     }
   },
   "posts": [],
@@ -8963,6 +8976,17 @@
       "username": "user1",
       "avatar_code": "B183-T46-W40-R28-L0-N6-U2-X36-F7-C0",
       "joined_at": "2026-11-11T18:33:11.687582Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "hell-bound": {
+      "username": "Hell-Bound",
+      "avatar_code": "B702-T43-W3-R31-L1-N19-U19-X41-F10-C0",
+      "joined_at": "2026-11-12T03:58:24.821153Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
