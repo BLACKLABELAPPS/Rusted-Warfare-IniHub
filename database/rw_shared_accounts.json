@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-13T04:17:24.426493Z",
+  "updatedAt": "2026-11-13T04:17:33.432327Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9129,17 +9129,18 @@
         "http://192.168.31.102:8765"
       ],
       "executorUrls": [
+        "https://flyer-wider-query-converted.trycloudflare.com",
         "http://192.168.31.228:8765",
         "http://192.168.31.102:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-13T04:17:24.426493Z",
-      "publicUrl": "https://standings-aug-held-opinion.trycloudflare.com",
-      "executorUrl": "https://standings-aug-held-opinion.trycloudflare.com",
+      "updatedAt": "2026-11-13T04:17:33.432327Z",
+      "publicUrl": "https://flyer-wider-query-converted.trycloudflare.com",
+      "executorUrl": "https://flyer-wider-query-converted.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-13T04:14:05.692510Z"
+      "lastSeenAt": "2026-11-13T04:17:27.952247Z"
     }
   },
   "premiumEntitlements": {
