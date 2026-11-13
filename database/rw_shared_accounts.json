@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-13T04:10:14.298837Z",
+  "updatedAt": "2026-11-13T04:14:03.547568Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9129,13 +9129,12 @@
         "http://192.168.31.228:8765"
       ],
       "executorUrls": [
-        "https://moved-separated-tune-derived.trycloudflare.com",
         "http://192.168.31.102:8765",
         "http://192.168.31.228:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-13T04:10:14.298837Z",
+      "updatedAt": "2026-11-13T04:14:03.547568Z",
       "publicUrl": "https://moved-separated-tune-derived.trycloudflare.com",
       "executorUrl": "https://moved-separated-tune-derived.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
