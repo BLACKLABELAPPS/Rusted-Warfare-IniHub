@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-13T04:25:50.663886Z",
+  "updatedAt": "2026-11-13T04:25:57.473574Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9129,17 +9129,18 @@
         "http://192.168.31.228:8765"
       ],
       "executorUrls": [
+        "https://fans-end-cases-attach.trycloudflare.com",
         "http://192.168.31.102:8765",
         "http://192.168.31.228:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-13T04:25:50.663886Z",
-      "publicUrl": "https://completely-springfield-span-kinds.trycloudflare.com",
-      "executorUrl": "https://completely-springfield-span-kinds.trycloudflare.com",
+      "updatedAt": "2026-11-13T04:25:57.473574Z",
+      "publicUrl": "https://fans-end-cases-attach.trycloudflare.com",
+      "executorUrl": "https://fans-end-cases-attach.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-13T04:23:30.433635Z"
+      "lastSeenAt": "2026-11-13T04:25:53.135001Z"
     }
   },
   "premiumEntitlements": {
