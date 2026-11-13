@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-13T04:18:47.619075Z",
+  "updatedAt": "2026-11-13T04:21:49.229646Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9129,13 +9129,12 @@
         "http://192.168.31.228:8765"
       ],
       "executorUrls": [
-        "https://ppm-librarian-publishers-trucks.trycloudflare.com",
         "http://192.168.31.102:8765",
         "http://192.168.31.228:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-13T04:18:47.619075Z",
+      "updatedAt": "2026-11-13T04:21:49.229646Z",
       "publicUrl": "https://ppm-librarian-publishers-trucks.trycloudflare.com",
       "executorUrl": "https://ppm-librarian-publishers-trucks.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
