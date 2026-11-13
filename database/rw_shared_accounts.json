@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-13T04:23:26.357539Z",
+  "updatedAt": "2026-11-13T04:23:31.427909Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9129,17 +9129,18 @@
         "http://192.168.31.228:8765"
       ],
       "executorUrls": [
+        "https://completely-springfield-span-kinds.trycloudflare.com",
         "http://192.168.31.102:8765",
         "http://192.168.31.228:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-13T04:23:26.357539Z",
-      "publicUrl": "https://sheep-chest-physicians-updates.trycloudflare.com",
-      "executorUrl": "https://sheep-chest-physicians-updates.trycloudflare.com",
+      "updatedAt": "2026-11-13T04:23:31.427909Z",
+      "publicUrl": "https://completely-springfield-span-kinds.trycloudflare.com",
+      "executorUrl": "https://completely-springfield-span-kinds.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-13T04:21:51.495790Z"
+      "lastSeenAt": "2026-11-13T04:23:30.433635Z"
     }
   },
   "premiumEntitlements": {
