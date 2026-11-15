@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-15T10:47:43.438100Z",
+  "updatedAt": "2026-11-15T13:42:02.673688Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3160,6 +3160,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-11-15T01:15:19.425217Z",
       "updatedAt": "2026-11-15T01:15:19.425267Z"
+    },
+    "xardkor": {
+      "username": "Xardkor",
+      "usernameLower": "xardkor",
+      "passwordSalt": "5SRTNHjkkGjTGSDBXiaOX__tcucd552K",
+      "passwordHash": "f73cf1196f42edf277cab33d0f527c803e50898e290c8914112d7beca95641a2",
+      "avatarCode": "B854-T49-W5-R37-L2-N21-U25-X47-F66-C0",
+      "collectionId": "",
+      "collectionTitle": "Xardkor",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-11-15T13:42:02.673616Z",
+      "updatedAt": "2026-11-15T13:42:02.673625Z"
     }
   },
   "posts": [],
@@ -9083,6 +9096,17 @@
       "username": "ELDIEGOOT",
       "avatar_code": "B501-T34-W8-R24-L4-N24-U14-X26-F93-C0",
       "joined_at": "2026-11-15T01:15:19.425217Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "xardkor": {
+      "username": "Xardkor",
+      "avatar_code": "B854-T49-W5-R37-L2-N21-U25-X47-F66-C0",
+      "joined_at": "2026-11-15T13:42:02.673616Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
