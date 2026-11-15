@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-14T16:40:03.425018Z",
+  "updatedAt": "2026-11-15T01:15:19.425793Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3147,6 +3147,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-11-14T16:40:03.424746Z",
       "updatedAt": "2026-11-14T16:40:03.424764Z"
+    },
+    "eldiegoot": {
+      "username": "ELDIEGOOT",
+      "usernameLower": "eldiegoot",
+      "passwordSalt": "7dYVP2K4I-eFdzUWDl3QsvnlBhMpU5pS",
+      "passwordHash": "aba5e8440f759232000714f7e59911da85778ed2240a65538a5e0b5c99d84c86",
+      "avatarCode": "B501-T34-W8-R24-L4-N24-U14-X26-F93-C0",
+      "collectionId": "",
+      "collectionTitle": "ELDIEGOOT",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-11-15T01:15:19.425217Z",
+      "updatedAt": "2026-11-15T01:15:19.425267Z"
     }
   },
   "posts": [],
@@ -9059,6 +9072,17 @@
       "username": "Jonathan",
       "avatar_code": "B854-T7-W1-R35-L1-N7-U21-X1-F98-C0",
       "joined_at": "2026-11-14T16:40:03.424746Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "eldiegoot": {
+      "username": "ELDIEGOOT",
+      "avatar_code": "B501-T34-W8-R24-L4-N24-U14-X26-F93-C0",
+      "joined_at": "2026-11-15T01:15:19.425217Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
