@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T12:21:18.111269Z",
+  "updatedAt": "2026-11-17T12:21:46.254270Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9200,16 +9200,17 @@
         "http://192.168.1.5:8765"
       ],
       "executorUrls": [
+        "https://tooth-tough-wait-gold.trycloudflare.com",
         "http://192.168.1.5:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-17T12:21:18.111269Z",
-      "publicUrl": "https://drew-vip-anthony-upgrades.trycloudflare.com",
-      "executorUrl": "https://drew-vip-anthony-upgrades.trycloudflare.com",
+      "updatedAt": "2026-11-17T12:21:46.254270Z",
+      "publicUrl": "https://tooth-tough-wait-gold.trycloudflare.com",
+      "executorUrl": "https://tooth-tough-wait-gold.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-15T10:47:42.861389Z"
+      "lastSeenAt": "2026-11-17T12:21:44.425136Z"
     }
   },
   "premiumEntitlements": {
