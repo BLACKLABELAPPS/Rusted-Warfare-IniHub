@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T12:21:46.254270Z",
+  "updatedAt": "2026-11-17T15:38:54.431676Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9195,17 +9195,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.1.5:8765",
+      "lanUrl": "http://192.168.1.33:8765",
       "lanUrls": [
-        "http://192.168.1.5:8765"
+        "http://192.168.1.33:8765"
       ],
       "executorUrls": [
-        "https://tooth-tough-wait-gold.trycloudflare.com",
-        "http://192.168.1.5:8765"
+        "http://192.168.1.33:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-17T12:21:46.254270Z",
+      "updatedAt": "2026-11-17T15:38:54.431676Z",
       "publicUrl": "https://tooth-tough-wait-gold.trycloudflare.com",
       "executorUrl": "https://tooth-tough-wait-gold.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
