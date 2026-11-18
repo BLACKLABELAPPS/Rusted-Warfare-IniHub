@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18T12:06:04.022151Z",
+  "updatedAt": "2026-11-18T12:06:09.360060Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9200,16 +9200,17 @@
         "http://192.168.1.33:8765"
       ],
       "executorUrls": [
+        "https://stevens-shots-population-fragrances.trycloudflare.com",
         "http://192.168.1.33:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-18T12:06:04.022151Z",
-      "publicUrl": "https://lawyers-returns-farms-elegant.trycloudflare.com",
-      "executorUrl": "https://lawyers-returns-farms-elegant.trycloudflare.com",
+      "updatedAt": "2026-11-18T12:06:09.360060Z",
+      "publicUrl": "https://stevens-shots-population-fragrances.trycloudflare.com",
+      "executorUrl": "https://stevens-shots-population-fragrances.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-18T11:17:24.684837Z"
+      "lastSeenAt": "2026-11-18T12:06:08.318986Z"
     }
   },
   "premiumEntitlements": {
