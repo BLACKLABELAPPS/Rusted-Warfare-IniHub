@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18T11:17:16.134536Z",
+  "updatedAt": "2026-11-18T11:17:26.045538Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9200,16 +9200,17 @@
         "http://192.168.1.33:8765"
       ],
       "executorUrls": [
+        "https://lawyers-returns-farms-elegant.trycloudflare.com",
         "http://192.168.1.33:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-18T11:17:16.134536Z",
-      "publicUrl": "https://muscles-pgp-installations-constitute.trycloudflare.com",
-      "executorUrl": "https://muscles-pgp-installations-constitute.trycloudflare.com",
+      "updatedAt": "2026-11-18T11:17:26.045538Z",
+      "publicUrl": "https://lawyers-returns-farms-elegant.trycloudflare.com",
+      "executorUrl": "https://lawyers-returns-farms-elegant.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-17T15:39:51.840680Z"
+      "lastSeenAt": "2026-11-18T11:17:24.684837Z"
     }
   },
   "premiumEntitlements": {
