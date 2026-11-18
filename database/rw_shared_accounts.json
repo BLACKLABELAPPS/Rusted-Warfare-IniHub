@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18T11:17:26.045538Z",
+  "updatedAt": "2026-11-18T12:06:04.022151Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9200,12 +9200,11 @@
         "http://192.168.1.33:8765"
       ],
       "executorUrls": [
-        "https://lawyers-returns-farms-elegant.trycloudflare.com",
         "http://192.168.1.33:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-18T11:17:26.045538Z",
+      "updatedAt": "2026-11-18T12:06:04.022151Z",
       "publicUrl": "https://lawyers-returns-farms-elegant.trycloudflare.com",
       "executorUrl": "https://lawyers-returns-farms-elegant.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
