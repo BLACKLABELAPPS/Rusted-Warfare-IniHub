@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T00:59:51.769890Z",
+  "updatedAt": "2026-11-19T11:40:07.251567Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9219,18 +9219,18 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://26.156.189.100:8765",
+      "lanUrl": "http://192.168.1.33:8765",
       "lanUrls": [
-        "http://26.156.189.100:8765",
-        "http://192.168.0.16:8765"
+        "http://192.168.1.33:8765",
+        "http://192.168.1.37:8765"
       ],
       "executorUrls": [
-        "http://26.156.189.100:8765",
-        "http://192.168.0.16:8765"
+        "http://192.168.1.33:8765",
+        "http://192.168.1.37:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-18T18:37:34.001184Z",
+      "updatedAt": "2026-11-19T11:40:07.251567Z",
       "publicUrl": "https://stevens-shots-population-fragrances.trycloudflare.com",
       "executorUrl": "https://stevens-shots-population-fragrances.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
