@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T11:40:14.059950Z",
+  "updatedAt": "2026-11-19T14:40:37.275477Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3186,6 +3186,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-11-19T00:57:12.884372Z",
       "updatedAt": "2026-11-19T00:59:51.769808Z"
+    },
+    "davecof2": {
+      "username": "DaveCOF2",
+      "usernameLower": "davecof2",
+      "passwordSalt": "xVmhgruTqnQtKpLPayew0ya59HNE2AyC",
+      "passwordHash": "2480b54b93df2ce58ddb693c95375706a6f380f02b69994d801f7f9f1413612e",
+      "avatarCode": "B299-T42-W48-R30-L3-N38-U28-X18-F43-C0",
+      "collectionId": "",
+      "collectionTitle": "DaveCOF2",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-11-19T14:40:37.275397Z",
+      "updatedAt": "2026-11-19T14:40:37.275405Z"
     }
   },
   "posts": [],
@@ -9131,6 +9144,17 @@
       "username": "HUSSAIN",
       "avatar_code": "B357-T28-W2-R2-L1-N22-U8-X40-F45-C0",
       "joined_at": "2026-11-19T00:57:12.884372Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "davecof2": {
+      "username": "DaveCOF2",
+      "avatar_code": "B299-T42-W48-R30-L3-N38-U28-X18-F43-C0",
+      "joined_at": "2026-11-19T14:40:37.275397Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
