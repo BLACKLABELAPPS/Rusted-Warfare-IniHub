@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20T07:55:25.609893Z",
+  "updatedAt": "2026-11-20T18:16:26.184497Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3199,6 +3199,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-11-19T14:40:37.275397Z",
       "updatedAt": "2026-11-19T14:40:37.275405Z"
+    },
+    "paing316": {
+      "username": "paing316",
+      "usernameLower": "paing316",
+      "passwordSalt": "cHm1y05KywG0AeJkokftHoiCyvTHhZ2S",
+      "passwordHash": "9e0be4f8d4c2c9a3449049e317c808e5a64aedbbaf385d9e220e130cd3a35c7b",
+      "avatarCode": "B886-T3-W25-R9-L3-N17-U9-X1-F26-C0",
+      "collectionId": "",
+      "collectionTitle": "paing316",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-11-20T18:16:26.184402Z",
+      "updatedAt": "2026-11-20T18:16:26.184413Z"
     }
   },
   "posts": [],
@@ -9155,6 +9168,17 @@
       "username": "DaveCOF2",
       "avatar_code": "B299-T42-W48-R30-L3-N38-U28-X18-F43-C0",
       "joined_at": "2026-11-19T14:40:37.275397Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "paing316": {
+      "username": "paing316",
+      "avatar_code": "B886-T3-W25-R9-L3-N17-U9-X1-F26-C0",
+      "joined_at": "2026-11-20T18:16:26.184402Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
