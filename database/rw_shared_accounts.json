@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T07:20:52.571830Z",
+  "updatedAt": "2026-11-22T07:20:58.393381Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9309,16 +9309,17 @@
         "http://192.168.1.33:8765"
       ],
       "executorUrls": [
+        "https://learned-holds-handhelds-aerial.trycloudflare.com",
         "http://192.168.1.33:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-22T07:20:52.571830Z",
-      "publicUrl": "https://revolutionary-england-associated-lined.trycloudflare.com",
-      "executorUrl": "https://revolutionary-england-associated-lined.trycloudflare.com",
+      "updatedAt": "2026-11-22T07:20:58.393381Z",
+      "publicUrl": "https://learned-holds-handhelds-aerial.trycloudflare.com",
+      "executorUrl": "https://learned-holds-handhelds-aerial.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-21T16:57:00.868810Z"
+      "lastSeenAt": "2026-11-22T07:20:57.031830Z"
     }
   },
   "premiumEntitlements": {
