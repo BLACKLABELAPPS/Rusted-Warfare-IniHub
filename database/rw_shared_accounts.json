@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T17:13:19.592167Z",
+  "updatedAt": "2026-11-22T04:36:54.998198Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3225,6 +3225,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-11-21T17:13:19.592040Z",
       "updatedAt": "2026-11-21T17:13:19.592054Z"
+    },
+    "hugo_faust115": {
+      "username": "HUGO_FAUST115",
+      "usernameLower": "hugo_faust115",
+      "passwordSalt": "jYTnODwerAAv82DFaWdimjke3EmB-uW3",
+      "passwordHash": "70f23b0dd186e38d3b56f4dfd9828bfc3241a1a22f17548cf90fa87875b05d0a",
+      "avatarCode": "B611-T4-W28-R38-L2-N18-U18-X46-F23-C0",
+      "collectionId": "",
+      "collectionTitle": "HUGO_FAUST115",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-11-22T04:36:54.998132Z",
+      "updatedAt": "2026-11-22T04:36:54.998141Z"
     }
   },
   "posts": [],
@@ -9192,6 +9205,17 @@
       "username": "zone",
       "avatar_code": "B49-T40-W44-R4-L0-N48-U46-X14-F61-C0",
       "joined_at": "2026-11-21T17:13:19.592040Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "hugo_faust115": {
+      "username": "HUGO_FAUST115",
+      "avatar_code": "B611-T4-W28-R38-L2-N18-U18-X46-F23-C0",
+      "joined_at": "2026-11-22T04:36:54.998132Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
