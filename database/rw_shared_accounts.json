@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T07:20:58.393381Z",
+  "updatedAt": "2026-11-22T18:53:10.180961Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3238,6 +3238,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-11-22T04:36:54.998132Z",
       "updatedAt": "2026-11-22T04:56:12.672138Z"
+    },
+    "ochi": {
+      "username": "OCHI",
+      "usernameLower": "ochi",
+      "passwordSalt": "AVIs0eMpPKhOu7atrhfTg9ue3fBsD7II",
+      "passwordHash": "d79f6f9ff35e103a442dcaeffb687bda3f6f9175f6ace43eb3a7360bb9cbd83a",
+      "avatarCode": "B670-T23-W17-R47-L3-N23-U33-X17-F10-C0",
+      "collectionId": "",
+      "collectionTitle": "OCHI",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-11-22T18:53:10.180599Z",
+      "updatedAt": "2026-11-22T18:53:10.180794Z"
     }
   },
   "posts": [],
@@ -9216,6 +9229,17 @@
       "username": "HUGO_FAUST115",
       "avatar_code": "B611-T4-W28-R38-L2-N18-U18-X46-F23-C0",
       "joined_at": "2026-11-22T04:36:54.998132Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "ochi": {
+      "username": "OCHI",
+      "avatar_code": "B670-T23-W17-R47-L3-N23-U33-X17-F10-C0",
+      "joined_at": "2026-11-22T18:53:10.180599Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
