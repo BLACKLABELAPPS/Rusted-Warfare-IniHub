@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T16:52:17.383857Z",
+  "updatedAt": "2026-11-23T20:50:17.508766Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5665,6 +5665,17 @@
       }
     ],
     "halex": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3459364672&appid=647960",
+        "title": "harder_AI",
+        "date": "23/11/2026",
+        "time": "16:50:07",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/18064478379229156065/108C6C7A03F848176F62825E2FF87417FC07A0D3/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3529043522&appid=647960",
         "title": "Vanilla_Turrets_Expansion",
