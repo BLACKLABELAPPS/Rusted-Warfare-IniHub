@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T13:47:21.986800Z",
+  "updatedAt": "2026-11-23T13:51:34.874001Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5652,6 +5652,17 @@
       }
     ],
     "halex": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2639332078&appid=647960",
+        "title": "EK_Sylvian_Mettle_v1.20_By_Stroheim_and_co",
+        "date": "23/11/2026",
+        "time": "09:51:32",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/1800870454405232929/FBFDAAF382C78C6F579B7B085337EED09DC7544F/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1474414933&appid=647960",
         "title": "Legacy_EK_Sylvian_Mettle",
