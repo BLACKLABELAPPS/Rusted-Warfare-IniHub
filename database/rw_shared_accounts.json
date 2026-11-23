@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T22:27:38.038095Z",
+  "updatedAt": "2026-11-23T23:19:12.598015Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9429,17 +9429,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.0.108:8765",
+      "lanUrl": "http://192.168.1.183:8765",
       "lanUrls": [
-        "http://192.168.0.108:8765"
+        "http://192.168.1.183:8765"
       ],
       "executorUrls": [
-        "https://titled-kansas-printing-roman.trycloudflare.com",
-        "http://192.168.0.108:8765"
+        "http://192.168.1.183:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-23T16:35:58.398266Z",
+      "updatedAt": "2026-11-23T23:19:12.598015Z",
       "publicUrl": "https://titled-kansas-printing-roman.trycloudflare.com",
       "executorUrl": "https://titled-kansas-printing-roman.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
