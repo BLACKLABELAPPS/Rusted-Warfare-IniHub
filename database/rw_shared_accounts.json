@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T13:15:41.732667Z",
+  "updatedAt": "2026-11-23T13:47:21.986800Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5652,6 +5652,17 @@
       }
     ],
     "halex": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1474414933&appid=647960",
+        "title": "Legacy_EK_Sylvian_Mettle",
+        "date": "23/11/2026",
+        "time": "09:47:18",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/966482863154369983/60C94AFC479629B2CA4843E48105F41BEBB5951D/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2749712324&appid=647960",
         "title": "EK_Definitive_Edition",
