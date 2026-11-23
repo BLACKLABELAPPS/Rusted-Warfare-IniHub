@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T13:51:34.874001Z",
+  "updatedAt": "2026-11-23T14:07:41.690799Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5652,6 +5652,17 @@
       }
     ],
     "halex": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3529043522&appid=647960",
+        "title": "Vanilla_Turrets_Expansion",
+        "date": "23/11/2026",
+        "time": "10:07:34",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/15648292922037701413/1A2CDE78E4AE98577913EB9CFC973B578A16D389/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2639332078&appid=647960",
         "title": "EK_Sylvian_Mettle_v1.20_By_Stroheim_and_co",
