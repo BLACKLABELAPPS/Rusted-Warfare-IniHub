@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T22:19:32.378836Z",
+  "updatedAt": "2026-11-23T22:27:38.038095Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5597,6 +5597,17 @@
       }
     ],
     "hhs": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3310191606&appid=647960",
+        "title": "Rusty_Sky_The_Schism_1.4_20",
+        "date": "23/11/2026",
+        "time": "17:27:30",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/2398815983350380650/360BDFF4CA41C8FD44252529A57C7DA42F169FF6/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3459364672&appid=647960",
         "title": "harder_AI",
