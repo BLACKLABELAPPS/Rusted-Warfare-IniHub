@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T23:19:12.598015Z",
+  "updatedAt": "2026-11-23T23:19:23.180546Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9434,16 +9434,17 @@
         "http://192.168.1.183:8765"
       ],
       "executorUrls": [
+        "https://urban-traveler-sold-tag.trycloudflare.com",
         "http://192.168.1.183:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-23T23:19:12.598015Z",
-      "publicUrl": "https://titled-kansas-printing-roman.trycloudflare.com",
-      "executorUrl": "https://titled-kansas-printing-roman.trycloudflare.com",
+      "updatedAt": "2026-11-23T23:19:23.180546Z",
+      "publicUrl": "https://urban-traveler-sold-tag.trycloudflare.com",
+      "executorUrl": "https://urban-traveler-sold-tag.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-23T16:35:55.041161Z"
+      "lastSeenAt": "2026-11-23T23:19:22.514421Z"
     }
   },
   "premiumEntitlements": {
