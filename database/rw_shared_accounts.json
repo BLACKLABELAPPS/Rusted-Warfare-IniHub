@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T14:07:41.690799Z",
+  "updatedAt": "2026-11-23T16:35:23.538578Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9372,17 +9372,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://192.168.1.33:8765",
+      "lanUrl": "http://192.168.0.108:8765",
       "lanUrls": [
-        "http://192.168.1.33:8765"
+        "http://192.168.0.108:8765"
       ],
       "executorUrls": [
-        "https://learned-holds-handhelds-aerial.trycloudflare.com",
-        "http://192.168.1.33:8765"
+        "http://192.168.0.108:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-22T07:20:58.393381Z",
+      "updatedAt": "2026-11-23T16:35:23.538578Z",
       "publicUrl": "https://learned-holds-handhelds-aerial.trycloudflare.com",
       "executorUrl": "https://learned-holds-handhelds-aerial.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
