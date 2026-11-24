@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T13:53:22.935649Z",
+  "updatedAt": "2026-11-24T14:05:10.598512Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9505,13 +9505,12 @@
         "http://192.168.1.107:8765"
       ],
       "executorUrls": [
-        "https://drugs-confident-beautiful-planet.trycloudflare.com",
         "http://172.16.0.2:8765",
         "http://192.168.1.107:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-24T13:53:22.935649Z",
+      "updatedAt": "2026-11-24T14:05:10.598512Z",
       "publicUrl": "https://drugs-confident-beautiful-planet.trycloudflare.com",
       "executorUrl": "https://drugs-confident-beautiful-planet.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
