@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T13:53:17.304550Z",
+  "updatedAt": "2026-11-24T13:53:22.935649Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9505,17 +9505,18 @@
         "http://192.168.1.107:8765"
       ],
       "executorUrls": [
+        "https://drugs-confident-beautiful-planet.trycloudflare.com",
         "http://172.16.0.2:8765",
         "http://192.168.1.107:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-24T13:53:17.304550Z",
-      "publicUrl": "https://treated-llp-bedding-becomes.trycloudflare.com",
-      "executorUrl": "https://treated-llp-bedding-becomes.trycloudflare.com",
+      "updatedAt": "2026-11-24T13:53:22.935649Z",
+      "publicUrl": "https://drugs-confident-beautiful-planet.trycloudflare.com",
+      "executorUrl": "https://drugs-confident-beautiful-planet.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-24T13:40:40.832111Z"
+      "lastSeenAt": "2026-11-24T13:53:22.468747Z"
     }
   },
   "premiumEntitlements": {
