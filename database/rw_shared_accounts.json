@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T07:51:13.897369Z",
+  "updatedAt": "2026-11-24T12:36:34.298256Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9475,21 +9475,16 @@
       "implementation": "dart-shelf",
       "role": "executor",
       "localUrl": "http://127.0.0.1:8765",
-      "lanUrl": "http://172.16.0.2:8765",
+      "lanUrl": "http://192.168.0.172:8765",
       "lanUrls": [
-        "http://172.16.0.2:8765",
-        "http://192.168.1.107:8765",
-        "http://192.168.1.223:8765"
+        "http://192.168.0.172:8765"
       ],
       "executorUrls": [
-        "https://casual-enhancing-watch-donors.trycloudflare.com",
-        "http://172.16.0.2:8765",
-        "http://192.168.1.107:8765",
-        "http://192.168.1.223:8765"
+        "http://192.168.0.172:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-24T05:47:54.735501Z",
+      "updatedAt": "2026-11-24T12:36:34.298256Z",
       "publicUrl": "https://casual-enhancing-watch-donors.trycloudflare.com",
       "executorUrl": "https://casual-enhancing-watch-donors.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
