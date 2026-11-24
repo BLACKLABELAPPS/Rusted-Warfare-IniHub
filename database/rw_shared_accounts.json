@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T05:32:00.262164Z",
+  "updatedAt": "2026-11-24T05:32:07.641212Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9458,18 +9458,19 @@
         "http://192.168.1.223:8765"
       ],
       "executorUrls": [
+        "https://vcr-keen-freeware-memory.trycloudflare.com",
         "http://172.16.0.2:8765",
         "http://192.168.1.107:8765",
         "http://192.168.1.223:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-24T05:32:00.262164Z",
-      "publicUrl": "https://urban-traveler-sold-tag.trycloudflare.com",
-      "executorUrl": "https://urban-traveler-sold-tag.trycloudflare.com",
+      "updatedAt": "2026-11-24T05:32:07.641212Z",
+      "publicUrl": "https://vcr-keen-freeware-memory.trycloudflare.com",
+      "executorUrl": "https://vcr-keen-freeware-memory.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-23T23:19:22.514421Z"
+      "lastSeenAt": "2026-11-24T05:32:07.135300Z"
     }
   },
   "premiumEntitlements": {
