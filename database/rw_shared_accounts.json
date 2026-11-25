@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-25T04:21:57.093309Z",
+  "updatedAt": "2026-11-25T06:13:08.303213Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3290,6 +3290,19 @@
       "defaultVisibility": "0",
       "joinedAt": "2026-11-24T12:43:00.808688Z",
       "updatedAt": "2026-11-24T12:43:00.808688Z"
+    },
+    "fenix25": {
+      "username": "fenix25",
+      "usernameLower": "fenix25",
+      "passwordSalt": "3CvqgXDpRYFDnezqEoI-LGprVS-p3EDY",
+      "passwordHash": "91e01ac872564d56fe73515d20a12a353f4cb0caa7150fe9f06bfdba8d3157ab",
+      "avatarCode": "B524-T11-W15-R37-L0-N7-U9-X17-F84-C0",
+      "collectionId": "",
+      "collectionTitle": "fenix25",
+      "defaultPublishedFileId": "",
+      "defaultVisibility": "0",
+      "joinedAt": "2026-11-25T06:13:08.303091Z",
+      "updatedAt": "2026-11-25T06:13:08.303108Z"
     }
   },
   "posts": [],
@@ -9411,6 +9424,17 @@
       "username": "ggghhh",
       "avatar_code": "B390-T39-W29-R13-L1-N17-U49-X33-F62-C0",
       "joined_at": "2026-11-24T12:43:00.808688Z",
+      "wins": 0,
+      "participations": 0,
+      "wins_single": 0,
+      "wins_team": 0,
+      "participations_single": 0,
+      "participations_team": 0
+    },
+    "fenix25": {
+      "username": "fenix25",
+      "avatar_code": "B524-T11-W15-R37-L0-N7-U9-X17-F84-C0",
+      "joined_at": "2026-11-25T06:13:08.303091Z",
       "wins": 0,
       "participations": 0,
       "wins_single": 0,
