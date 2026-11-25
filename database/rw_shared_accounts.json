@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-25T09:42:51.485505Z",
+  "updatedAt": "2026-11-25T09:47:51.687645Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3877,6 +3877,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3816722555&appid=647960",
+        "title": "Armaggedon",
+        "date": "25/11/2026",
+        "time": "17:47:48",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/13431856560705807975/6909F3FDD7D10645EF20749278EC3B245ADA1105/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3830481178&appid=647960",
         "title": "Guardianes_del_Cosmos_Equilibrado",
