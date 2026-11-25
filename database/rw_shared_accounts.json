@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-25T09:47:51.687645Z",
+  "updatedAt": "2026-11-25T16:03:08.812310Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3877,6 +3877,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2988831384&appid=647960",
+        "title": "Builder_Blaster_6000",
+        "date": "26/11/2026",
+        "time": "00:03:06",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/2061006600223248348/0A08DE08C0DD4525D97DB398DA164C37514344E9/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3816722555&appid=647960",
         "title": "Armaggedon",
