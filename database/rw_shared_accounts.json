@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T23:07:03.720232Z",
+  "updatedAt": "2026-11-26T23:09:41.598277Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5625,6 +5625,17 @@
       }
     ],
     "godzilla": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3326405541&appid=647960",
+        "title": "Metal_Slug_Domination_Venusian_Expansion",
+        "date": "26/11/2026",
+        "time": "20:09:38",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/2368418497162609956/30573AE07214203D705E16EA81D9EEA21304BF96/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2977675021&appid=647960",
         "title": "Plague_Dynasty_mod_生化狂潮_瘟疫王朝mod",
