@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T23:29:42.536503Z",
+  "updatedAt": "2026-11-26T23:38:40.481517Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5625,6 +5625,17 @@
       }
     ],
     "godzilla": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3545054398&appid=647960",
+        "title": "Bugs_Addition",
+        "date": "26/11/2026",
+        "time": "20:38:38",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/10043239296947471082/87C5969FCD7993FE79F4527A6DBD5915C4276FEE/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3751466012&appid=647960",
         "title": "The_Legion_Of_Mold_version_0.15",
