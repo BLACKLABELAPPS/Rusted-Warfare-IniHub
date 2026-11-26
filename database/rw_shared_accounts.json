@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T23:09:41.598277Z",
+  "updatedAt": "2026-11-26T23:17:48.500762Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5625,6 +5625,17 @@
       }
     ],
     "godzilla": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1829147993&appid=647960",
+        "title": "Starship_Troopers_Invasion",
+        "date": "26/11/2026",
+        "time": "20:17:45",
+        "type": "Total Conversion",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/777353875122903079/9DF2DFDFD825D4B6C75AD8146FE3E86615C3C4B6/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3326405541&appid=647960",
         "title": "Metal_Slug_Domination_Venusian_Expansion",
