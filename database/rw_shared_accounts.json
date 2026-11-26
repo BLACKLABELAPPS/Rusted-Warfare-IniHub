@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T11:53:17.966977Z",
+  "updatedAt": "2026-11-26T16:18:23.381780Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6054,7 +6054,20 @@
         "source": "favorite"
       }
     ],
-    "paing316": []
+    "paing316": [],
+    "ggkk": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3747206485&appid=647960",
+        "title": "Korea_No_mountain_10p",
+        "date": "26/11/2026",
+        "time": "13:18:20",
+        "type": "Maps",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/14938878123631685413/8A7DE621FD92EE381079CCE25D62D0CD81A3D77F/",
+        "source": "favorite"
+      }
+    ]
   },
   "tournaments": [
     {
