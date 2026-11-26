@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T23:17:48.500762Z",
+  "updatedAt": "2026-11-26T23:24:41.960831Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5625,6 +5625,17 @@
       }
     ],
     "godzilla": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3477857046&appid=647960",
+        "title": "Advanced_Tech_v1.4.6",
+        "date": "26/11/2026",
+        "time": "20:24:38",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/17270767361187274515/01DD0C770A5B2A7EAAC24E1C139A49F546F1E3E8/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1829147993&appid=647960",
         "title": "Starship_Troopers_Invasion",
