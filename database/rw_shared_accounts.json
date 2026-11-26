@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T23:27:16.338955Z",
+  "updatedAt": "2026-11-26T23:29:10.658998Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5625,6 +5625,17 @@
       }
     ],
     "godzilla": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3734426604&appid=647960",
+        "title": "The_Tarlech_Empire_0.7",
+        "date": "26/11/2026",
+        "time": "20:29:08",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/647960/header.jpg?t=1569131908",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3740308000&appid=647960",
         "title": "The_Tarlech_Empire_0.7",
