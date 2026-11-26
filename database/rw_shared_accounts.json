@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T23:24:41.960831Z",
+  "updatedAt": "2026-11-26T23:27:16.338955Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5625,6 +5625,17 @@
       }
     ],
     "godzilla": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3740308000&appid=647960",
+        "title": "The_Tarlech_Empire_0.7",
+        "date": "26/11/2026",
+        "time": "20:27:13",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/12044985891767006180/45BAF421F39FB07513FA49198D6E5286F199CD5A/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3477857046&appid=647960",
         "title": "Advanced_Tech_v1.4.6",
