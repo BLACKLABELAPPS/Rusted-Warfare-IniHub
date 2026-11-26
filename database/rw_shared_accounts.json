@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T10:26:07.987632Z",
+  "updatedAt": "2026-11-26T11:53:17.966977Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -3890,6 +3890,17 @@
       }
     ],
     "blooduse2836": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2902094900&appid=647960",
+        "title": "Modular_Aircraft",
+        "date": "26/11/2026",
+        "time": "19:53:16",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/2020460437179198908/E543411F6572A8AF84C5C32149749925BE6073D3/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2988831384&appid=647960",
         "title": "Builder_Blaster_6000",
