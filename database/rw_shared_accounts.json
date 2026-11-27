@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T18:15:17.506094Z",
+  "updatedAt": "2026-11-27T18:15:22.139404Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9844,16 +9844,17 @@
         "http://10.0.0.198:8765"
       ],
       "executorUrls": [
+        "https://shortcuts-soviet-tel-ecommerce.trycloudflare.com",
         "http://10.0.0.198:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-27T18:15:17.506094Z",
-      "publicUrl": "https://term-signature-bernard-converted.trycloudflare.com",
-      "executorUrl": "https://term-signature-bernard-converted.trycloudflare.com",
+      "updatedAt": "2026-11-27T18:15:22.139404Z",
+      "publicUrl": "https://shortcuts-soviet-tel-ecommerce.trycloudflare.com",
+      "executorUrl": "https://shortcuts-soviet-tel-ecommerce.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-27T17:01:50.256660Z"
+      "lastSeenAt": "2026-11-27T18:15:21.695252Z"
     }
   },
   "premiumEntitlements": {
