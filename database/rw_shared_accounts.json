@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T16:40:10.534908Z",
+  "updatedAt": "2026-11-27T16:42:42.651738Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9765,12 +9765,11 @@
         "http://192.168.4.103:8765"
       ],
       "executorUrls": [
-        "https://llp-verification-turtle-reasons.trycloudflare.com",
         "http://192.168.4.103:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-27T16:40:10.534908Z",
+      "updatedAt": "2026-11-27T16:42:42.651738Z",
       "publicUrl": "https://llp-verification-turtle-reasons.trycloudflare.com",
       "executorUrl": "https://llp-verification-turtle-reasons.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
