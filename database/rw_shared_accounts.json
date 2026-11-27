@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T16:42:49.150256Z",
+  "updatedAt": "2026-11-27T17:01:45.574272Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9765,12 +9765,11 @@
         "http://192.168.4.103:8765"
       ],
       "executorUrls": [
-        "https://here-biblical-bay-lasting.trycloudflare.com",
         "http://192.168.4.103:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-27T16:42:49.150256Z",
+      "updatedAt": "2026-11-27T17:01:45.574272Z",
       "publicUrl": "https://here-biblical-bay-lasting.trycloudflare.com",
       "executorUrl": "https://here-biblical-bay-lasting.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
