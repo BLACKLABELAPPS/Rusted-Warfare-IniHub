@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T18:59:29.204417Z",
+  "updatedAt": "2026-11-27T19:12:57.648624Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9844,12 +9844,11 @@
         "http://10.0.0.198:8765"
       ],
       "executorUrls": [
-        "https://primarily-foundation-decisions-medicines.trycloudflare.com",
         "http://10.0.0.198:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-27T18:59:29.204417Z",
+      "updatedAt": "2026-11-27T19:12:57.648624Z",
       "publicUrl": "https://primarily-foundation-decisions-medicines.trycloudflare.com",
       "executorUrl": "https://primarily-foundation-decisions-medicines.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
