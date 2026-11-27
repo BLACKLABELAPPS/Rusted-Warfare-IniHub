@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T01:56:12.927048Z",
+  "updatedAt": "2026-11-27T01:56:18.726587Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9741,16 +9741,17 @@
         "http://192.168.1.183:8765"
       ],
       "executorUrls": [
+        "https://teachers-battle-katie-ratings.trycloudflare.com",
         "http://192.168.1.183:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-27T01:56:12.927048Z",
-      "publicUrl": "https://according-certain-craft-february.trycloudflare.com",
-      "executorUrl": "https://according-certain-craft-february.trycloudflare.com",
+      "updatedAt": "2026-11-27T01:56:18.726587Z",
+      "publicUrl": "https://teachers-battle-katie-ratings.trycloudflare.com",
+      "executorUrl": "https://teachers-battle-katie-ratings.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-25T04:21:56.603161Z"
+      "lastSeenAt": "2026-11-27T01:56:12.812023Z"
     }
   },
   "premiumEntitlements": {
