@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T14:23:00.651537Z",
+  "updatedAt": "2026-11-27T14:23:25.772467Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9765,16 +9765,17 @@
         "http://10.0.0.198:8765"
       ],
       "executorUrls": [
+        "https://lloyd-implied-plaintiff-translations.trycloudflare.com",
         "http://10.0.0.198:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-27T14:23:00.651537Z",
-      "publicUrl": "https://teachers-battle-katie-ratings.trycloudflare.com",
-      "executorUrl": "https://teachers-battle-katie-ratings.trycloudflare.com",
+      "updatedAt": "2026-11-27T14:23:25.772467Z",
+      "publicUrl": "https://lloyd-implied-plaintiff-translations.trycloudflare.com",
+      "executorUrl": "https://lloyd-implied-plaintiff-translations.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-27T01:56:12.812023Z"
+      "lastSeenAt": "2026-11-27T14:23:24.299867Z"
     }
   },
   "premiumEntitlements": {
