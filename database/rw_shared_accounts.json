@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T18:15:22.139404Z",
+  "updatedAt": "2026-11-27T18:59:24.813134Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9844,12 +9844,11 @@
         "http://10.0.0.198:8765"
       ],
       "executorUrls": [
-        "https://shortcuts-soviet-tel-ecommerce.trycloudflare.com",
         "http://10.0.0.198:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-27T18:15:22.139404Z",
+      "updatedAt": "2026-11-27T18:59:24.813134Z",
       "publicUrl": "https://shortcuts-soviet-tel-ecommerce.trycloudflare.com",
       "executorUrl": "https://shortcuts-soviet-tel-ecommerce.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
