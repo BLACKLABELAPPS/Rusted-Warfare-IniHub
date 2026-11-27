@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T19:50:40.494424Z",
+  "updatedAt": "2026-11-27T20:01:14.909810Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9844,12 +9844,11 @@
         "http://10.0.0.198:8765"
       ],
       "executorUrls": [
-        "https://looked-asks-stockholm-conceptual.trycloudflare.com",
         "http://10.0.0.198:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-27T19:50:40.494424Z",
+      "updatedAt": "2026-11-27T20:01:14.909810Z",
       "publicUrl": "https://looked-asks-stockholm-conceptual.trycloudflare.com",
       "executorUrl": "https://looked-asks-stockholm-conceptual.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
