@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T23:38:40.481517Z",
+  "updatedAt": "2026-11-27T00:15:42.231767Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -5625,6 +5625,17 @@
       }
     ],
     "godzilla": [
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1323780558&appid=647960",
+        "title": "Robotic_Dragon",
+        "date": "26/11/2026",
+        "time": "21:15:39",
+        "type": "Addon",
+        "directory": "",
+        "zipAndElements": "",
+        "urlImage": "https://images.steamusercontent.com/ugc/932681131778242825/A7916532F4516F1101B17F483A9BF79551094F22/",
+        "source": "favorite"
+      },
       {
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3545054398&appid=647960",
         "title": "Bugs_Addition",
