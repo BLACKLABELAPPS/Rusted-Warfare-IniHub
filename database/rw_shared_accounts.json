@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T18:59:24.813134Z",
+  "updatedAt": "2026-11-27T18:59:29.204417Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9844,16 +9844,17 @@
         "http://10.0.0.198:8765"
       ],
       "executorUrls": [
+        "https://primarily-foundation-decisions-medicines.trycloudflare.com",
         "http://10.0.0.198:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-27T18:59:24.813134Z",
-      "publicUrl": "https://shortcuts-soviet-tel-ecommerce.trycloudflare.com",
-      "executorUrl": "https://shortcuts-soviet-tel-ecommerce.trycloudflare.com",
+      "updatedAt": "2026-11-27T18:59:29.204417Z",
+      "publicUrl": "https://primarily-foundation-decisions-medicines.trycloudflare.com",
+      "executorUrl": "https://primarily-foundation-decisions-medicines.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-27T18:15:21.695252Z"
+      "lastSeenAt": "2026-11-27T18:59:28.723775Z"
     }
   },
   "premiumEntitlements": {
