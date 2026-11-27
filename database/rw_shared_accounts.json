@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T19:13:02.331367Z",
+  "updatedAt": "2026-11-27T19:32:47.048446Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9844,12 +9844,11 @@
         "http://10.0.0.198:8765"
       ],
       "executorUrls": [
-        "https://robinson-principles-cosmetics-contests.trycloudflare.com",
         "http://10.0.0.198:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-27T19:13:02.331367Z",
+      "updatedAt": "2026-11-27T19:32:47.048446Z",
       "publicUrl": "https://robinson-principles-cosmetics-contests.trycloudflare.com",
       "executorUrl": "https://robinson-principles-cosmetics-contests.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
