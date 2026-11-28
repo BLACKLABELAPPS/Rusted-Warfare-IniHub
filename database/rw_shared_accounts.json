@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-28T01:10:45.479347Z",
+  "updatedAt": "2026-11-28T01:11:07.016160Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9844,16 +9844,17 @@
         "http://192.168.0.172:8765"
       ],
       "executorUrls": [
+        "https://cocktail-spoken-teeth-crowd.trycloudflare.com",
         "http://192.168.0.172:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-28T01:10:45.479347Z",
-      "publicUrl": "https://api.trycloudflare.com",
-      "executorUrl": "https://api.trycloudflare.com",
+      "updatedAt": "2026-11-28T01:11:07.016160Z",
+      "publicUrl": "https://cocktail-spoken-teeth-crowd.trycloudflare.com",
+      "executorUrl": "https://cocktail-spoken-teeth-crowd.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-27T20:01:00.822179Z"
+      "lastSeenAt": "2026-11-28T01:11:04.383562Z"
     }
   },
   "premiumEntitlements": {
