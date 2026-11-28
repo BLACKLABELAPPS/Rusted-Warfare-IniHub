@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-28T04:56:04.722638Z",
+  "updatedAt": "2026-11-28T05:00:41.431623Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9844,12 +9844,11 @@
         "http://10.0.0.198:8765"
       ],
       "executorUrls": [
-        "https://nvidia-during-seeker-destiny.trycloudflare.com",
         "http://10.0.0.198:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-28T04:56:04.722638Z",
+      "updatedAt": "2026-11-28T05:00:41.431623Z",
       "publicUrl": "https://nvidia-during-seeker-destiny.trycloudflare.com",
       "executorUrl": "https://nvidia-during-seeker-destiny.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
