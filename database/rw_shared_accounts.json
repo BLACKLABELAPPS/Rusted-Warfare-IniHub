@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-28T13:03:18.793117Z",
+  "updatedAt": "2026-11-28T14:03:55.212563Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -6215,85 +6215,7 @@
         "source": "favorite"
       }
     ],
-    "213": [
-      {
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2474525423&appid=647960",
-        "title": "▼AXIS_MECH'S_BATTLEGROUND",
-        "date": "28/11/2026",
-        "time": "02:02:33",
-        "type": "Total Conversion",
-        "directory": "",
-        "zipAndElements": "",
-        "urlImage": "https://images.steamusercontent.com/ugc/17078186444284783412/4B60E7CBE5AB43C70BC12C0C6E39893D3A8B907C/",
-        "source": "favorite"
-      },
-      {
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2869088515&appid=647960",
-        "title": "Fleet_Combat_Rusted_Skies",
-        "date": "28/11/2026",
-        "time": "02:00:00",
-        "type": "Total Conversion",
-        "directory": "",
-        "zipAndElements": "",
-        "urlImage": "https://images.steamusercontent.com/ugc/1816663493474151681/70C23F5195927E461490DC0A2B8B66E68BE739CD/",
-        "source": "favorite"
-      },
-      {
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3522302624&appid=647960",
-        "title": "MaD_Rusted_Expansion",
-        "date": "28/11/2026",
-        "time": "01:59:15",
-        "type": "Total Conversion",
-        "directory": "",
-        "zipAndElements": "",
-        "urlImage": "https://images.steamusercontent.com/ugc/12412995855052110005/01EC6DBE219931122E25D81983CB8AF1FF031CE4/",
-        "source": "favorite"
-      },
-      {
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1669499888&appid=647960",
-        "title": "LUNAR_WARFARE",
-        "date": "28/11/2026",
-        "time": "01:57:30",
-        "type": "Total Conversion",
-        "directory": "",
-        "zipAndElements": "",
-        "urlImage": "https://images.steamusercontent.com/ugc/786355787329474730/338E25268B946AE4EC533D570FB0C1B376F3E50F/",
-        "source": "favorite"
-      },
-      {
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2905601020&appid=647960",
-        "title": "The_Holocaust_Super_Turtles_EXPANSION_v1.1.2",
-        "date": "28/11/2026",
-        "time": "01:56:25",
-        "type": "Total Conversion",
-        "directory": "",
-        "zipAndElements": "",
-        "urlImage": "https://images.steamusercontent.com/ugc/2380804214090705707/4597DADBD50FF35D0504B8C0A8BB2775E0564A48/",
-        "source": "favorite"
-      },
-      {
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3013176948&appid=647960",
-        "title": "Halo_Wars_Domination",
-        "date": "28/11/2026",
-        "time": "01:53:13",
-        "type": "Total Conversion",
-        "directory": "",
-        "zipAndElements": "",
-        "urlImage": "https://images.steamusercontent.com/ugc/2055381540226869447/BCF1951C9BBB6073F43A265AB9F0B9C170DB97AB/",
-        "source": "favorite"
-      },
-      {
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3411332184&appid=647960",
-        "title": "Project_Simple_v1.9.1_Seraflx_Pact",
-        "date": "28/11/2026",
-        "time": "01:51:44",
-        "type": "Total Conversion",
-        "directory": "",
-        "zipAndElements": "",
-        "urlImage": "https://images.steamusercontent.com/ugc/16828680209620997361/EF3EC1FC37E888712587D7D8EE5BCB38E85513CE/",
-        "source": "favorite"
-      }
-    ]
+    "213": []
   },
   "tournaments": [
     {
