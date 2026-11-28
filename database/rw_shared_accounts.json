@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-28T14:03:55.212563Z",
+  "updatedAt": "2026-11-28T16:39:05.835937Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9790,12 +9790,11 @@
         "http://10.0.0.198:8765"
       ],
       "executorUrls": [
-        "https://though-whether-acer-sees.trycloudflare.com",
         "http://10.0.0.198:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-28T05:00:44.614962Z",
+      "updatedAt": "2026-11-28T16:39:05.835937Z",
       "publicUrl": "https://though-whether-acer-sees.trycloudflare.com",
       "executorUrl": "https://though-whether-acer-sees.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
