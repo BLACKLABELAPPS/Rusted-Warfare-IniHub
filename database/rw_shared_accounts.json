@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-28T16:39:05.835937Z",
+  "updatedAt": "2026-11-28T16:39:10.702586Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9790,16 +9790,17 @@
         "http://10.0.0.198:8765"
       ],
       "executorUrls": [
+        "https://mill-toner-estates-lightbox.trycloudflare.com",
         "http://10.0.0.198:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-28T16:39:05.835937Z",
-      "publicUrl": "https://though-whether-acer-sees.trycloudflare.com",
-      "executorUrl": "https://though-whether-acer-sees.trycloudflare.com",
+      "updatedAt": "2026-11-28T16:39:10.702586Z",
+      "publicUrl": "https://mill-toner-estates-lightbox.trycloudflare.com",
+      "executorUrl": "https://mill-toner-estates-lightbox.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-28T05:00:44.166082Z"
+      "lastSeenAt": "2026-11-28T16:39:09.951030Z"
     }
   },
   "premiumEntitlements": {
