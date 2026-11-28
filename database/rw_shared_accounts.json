@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-28T05:00:41.431623Z",
+  "updatedAt": "2026-11-28T05:00:44.614962Z",
   "accounts": {
     "reikrts": {
       "username": "ReikRtS",
@@ -9844,16 +9844,17 @@
         "http://10.0.0.198:8765"
       ],
       "executorUrls": [
+        "https://though-whether-acer-sees.trycloudflare.com",
         "http://10.0.0.198:8765"
       ],
       "platform": "windows",
       "online": true,
-      "updatedAt": "2026-11-28T05:00:41.431623Z",
-      "publicUrl": "https://nvidia-during-seeker-destiny.trycloudflare.com",
-      "executorUrl": "https://nvidia-during-seeker-destiny.trycloudflare.com",
+      "updatedAt": "2026-11-28T05:00:44.614962Z",
+      "publicUrl": "https://though-whether-acer-sees.trycloudflare.com",
+      "executorUrl": "https://though-whether-acer-sees.trycloudflare.com",
       "tunnelMode": "quick-tunnel",
       "cachedSteamAccounts": true,
-      "lastSeenAt": "2026-11-28T04:56:03.878609Z"
+      "lastSeenAt": "2026-11-28T05:00:44.166082Z"
     }
   },
   "premiumEntitlements": {
